@@ -1,0 +1,414 @@
+{
+   "results": [
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "a", 
+                     0.17, 
+                     0.3
+                  ], 
+                  [
+                     "Roman", 
+                     0.3, 
+                     0.62
+                  ], 
+                  [
+                     "would", 
+                     0.62, 
+                     0.76
+                  ], 
+                  [
+                     "straight", 
+                     0.76, 
+                     1.07
+                  ], 
+                  [
+                     "away", 
+                     1.07, 
+                     1.25
+                  ], 
+                  [
+                     "arrive", 
+                     1.25, 
+                     1.6
+                  ], 
+                  [
+                     "at", 
+                     1.6, 
+                     1.69
+                  ], 
+                  [
+                     "the", 
+                     1.69, 
+                     1.77
+                  ], 
+                  [
+                     "thought", 
+                     1.77, 
+                     2.05
+                  ], 
+                  [
+                     "of", 
+                     2.05, 
+                     2.14
+                  ], 
+                  [
+                     "the", 
+                     2.14, 
+                     2.23
+                  ], 
+                  [
+                     "fruit", 
+                     2.23, 
+                     2.51
+                  ], 
+                  [
+                     "apple", 
+                     2.51, 
+                     2.82
+                  ], 
+                  [
+                     "which", 
+                     2.82, 
+                     3.03
+                  ], 
+                  [
+                     "has", 
+                     3.03, 
+                     3.26
+                  ], 
+                  [
+                     "no", 
+                     3.26, 
+                     3.43
+                  ], 
+                  [
+                     "similitude", 
+                     3.43, 
+                     4.27
+                  ], 
+                  [
+                     "with", 
+                     4.27, 
+                     4.38
+                  ], 
+                  [
+                     "the", 
+                     4.38, 
+                     4.46
+                  ], 
+                  [
+                     "articulate", 
+                     4.46, 
+                     5.07
+                  ], 
+                  [
+                     "for", 
+                     5.36, 
+                     5.52
+                  ], 
+                  [
+                     "love", 
+                     5.52, 
+                     5.8
+                  ], 
+                  [
+                     "was", 
+                     5.8, 
+                     6.0
+                  ], 
+                  [
+                     "love", 
+                     6.0, 
+                     6.45
+                  ], 
+                  [
+                     "and", 
+                     6.45, 
+                     6.64
+                  ], 
+                  [
+                     "better", 
+                     6.64, 
+                     6.96
+                  ], 
+                  [
+                     "than", 
+                     6.96, 
+                     7.16
+                  ], 
+                  [
+                     "money", 
+                     7.16, 
+                     7.65
+                  ], 
+                  [
+                     "this", 
+                     7.73, 
+                     7.89
+                  ], 
+                  [
+                     "flyer", 
+                     7.89, 
+                     8.2
+                  ], 
+                  [
+                     "this", 
+                     8.2, 
+                     8.44
+                  ], 
+                  [
+                     "S.", 
+                     8.44, 
+                     8.79
+                  ], 
+                  [
+                     "this", 
+                     8.84, 
+                     9.06
+                  ]
+               ], 
+               "confidence": 0.751, 
+               "transcript": "a Roman would straight away arrive at the thought of the fruit apple which has no similitude with the articulate for love was love and better than money this flyer this S. this "
+            }
+         ], 
+         "final": true
+      }
+   ], 
+   "result_index": 0, 
+   "speaker_labels": [
+      {
+         "from": 0.17, 
+         "to": 0.3, 
+         "speaker": 0, 
+         "confidence": 0.391, 
+         "final": false
+      }, 
+      {
+         "from": 0.3, 
+         "to": 0.62, 
+         "speaker": 0, 
+         "confidence": 0.391, 
+         "final": false
+      }, 
+      {
+         "from": 0.62, 
+         "to": 0.76, 
+         "speaker": 0, 
+         "confidence": 0.391, 
+         "final": false
+      }, 
+      {
+         "from": 0.76, 
+         "to": 1.07, 
+         "speaker": 0, 
+         "confidence": 0.391, 
+         "final": false
+      }, 
+      {
+         "from": 1.07, 
+         "to": 1.25, 
+         "speaker": 0, 
+         "confidence": 0.391, 
+         "final": false
+      }, 
+      {
+         "from": 1.25, 
+         "to": 1.6, 
+         "speaker": 0, 
+         "confidence": 0.391, 
+         "final": false
+      }, 
+      {
+         "from": 1.6, 
+         "to": 1.69, 
+         "speaker": 0, 
+         "confidence": 0.391, 
+         "final": false
+      }, 
+      {
+         "from": 1.69, 
+         "to": 1.77, 
+         "speaker": 0, 
+         "confidence": 0.391, 
+         "final": false
+      }, 
+      {
+         "from": 1.77, 
+         "to": 2.05, 
+         "speaker": 0, 
+         "confidence": 0.391, 
+         "final": false
+      }, 
+      {
+         "from": 2.05, 
+         "to": 2.14, 
+         "speaker": 0, 
+         "confidence": 0.391, 
+         "final": false
+      }, 
+      {
+         "from": 2.14, 
+         "to": 2.23, 
+         "speaker": 0, 
+         "confidence": 0.391, 
+         "final": false
+      }, 
+      {
+         "from": 2.23, 
+         "to": 2.51, 
+         "speaker": 0, 
+         "confidence": 0.391, 
+         "final": false
+      }, 
+      {
+         "from": 2.51, 
+         "to": 2.82, 
+         "speaker": 0, 
+         "confidence": 0.391, 
+         "final": false
+      }, 
+      {
+         "from": 2.82, 
+         "to": 3.03, 
+         "speaker": 0, 
+         "confidence": 0.391, 
+         "final": false
+      }, 
+      {
+         "from": 3.03, 
+         "to": 3.26, 
+         "speaker": 0, 
+         "confidence": 0.391, 
+         "final": false
+      }, 
+      {
+         "from": 3.26, 
+         "to": 3.43, 
+         "speaker": 0, 
+         "confidence": 0.391, 
+         "final": false
+      }, 
+      {
+         "from": 3.43, 
+         "to": 4.27, 
+         "speaker": 0, 
+         "confidence": 0.391, 
+         "final": false
+      }, 
+      {
+         "from": 4.27, 
+         "to": 4.38, 
+         "speaker": 0, 
+         "confidence": 0.391, 
+         "final": false
+      }, 
+      {
+         "from": 4.38, 
+         "to": 4.46, 
+         "speaker": 0, 
+         "confidence": 0.391, 
+         "final": false
+      }, 
+      {
+         "from": 4.46, 
+         "to": 5.07, 
+         "speaker": 0, 
+         "confidence": 0.391, 
+         "final": false
+      }, 
+      {
+         "from": 5.36, 
+         "to": 5.52, 
+         "speaker": 1, 
+         "confidence": 0.398, 
+         "final": false
+      }, 
+      {
+         "from": 5.52, 
+         "to": 5.8, 
+         "speaker": 1, 
+         "confidence": 0.398, 
+         "final": false
+      }, 
+      {
+         "from": 5.8, 
+         "to": 6.0, 
+         "speaker": 1, 
+         "confidence": 0.398, 
+         "final": false
+      }, 
+      {
+         "from": 6.0, 
+         "to": 6.45, 
+         "speaker": 1, 
+         "confidence": 0.398, 
+         "final": false
+      }, 
+      {
+         "from": 6.45, 
+         "to": 6.64, 
+         "speaker": 1, 
+         "confidence": 0.398, 
+         "final": false
+      }, 
+      {
+         "from": 6.64, 
+         "to": 6.96, 
+         "speaker": 1, 
+         "confidence": 0.398, 
+         "final": false
+      }, 
+      {
+         "from": 6.96, 
+         "to": 7.16, 
+         "speaker": 1, 
+         "confidence": 0.398, 
+         "final": false
+      }, 
+      {
+         "from": 7.16, 
+         "to": 7.65, 
+         "speaker": 1, 
+         "confidence": 0.398, 
+         "final": false
+      }, 
+      {
+         "from": 7.73, 
+         "to": 7.89, 
+         "speaker": 2, 
+         "confidence": 0.393, 
+         "final": false
+      }, 
+      {
+         "from": 7.89, 
+         "to": 8.2, 
+         "speaker": 2, 
+         "confidence": 0.393, 
+         "final": false
+      }, 
+      {
+         "from": 8.2, 
+         "to": 8.44, 
+         "speaker": 2, 
+         "confidence": 0.393, 
+         "final": false
+      }, 
+      {
+         "from": 8.44, 
+         "to": 8.79, 
+         "speaker": 2, 
+         "confidence": 0.393, 
+         "final": false
+      }, 
+      {
+         "from": 8.84, 
+         "to": 9.06, 
+         "speaker": 3, 
+         "confidence": 0.415, 
+         "final": true
+      }
+   ]
+}

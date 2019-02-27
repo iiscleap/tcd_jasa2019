@@ -1,0 +1,282 @@
+{
+   "results": [
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "rain", 
+                     0.26, 
+                     0.76
+                  ], 
+                  [
+                     "rain", 
+                     0.76, 
+                     1.28
+                  ], 
+                  [
+                     "merry", 
+                     1.28, 
+                     1.67
+                  ], 
+                  [
+                     "bells", 
+                     1.67, 
+                     2.02
+                  ], 
+                  [
+                     "ringing", 
+                     2.02, 
+                     2.62
+                  ], 
+                  [
+                     "%HESITATION", 
+                     2.84, 
+                     2.98
+                  ], 
+                  [
+                     "fortunate", 
+                     2.98, 
+                     3.63
+                  ], 
+                  [
+                     "few", 
+                     3.63, 
+                     4.23
+                  ], 
+                  [
+                     "with", 
+                     4.41, 
+                     4.6
+                  ], 
+                  [
+                     "letters", 
+                     4.6, 
+                     5.0
+                  ], 
+                  [
+                     "blue", 
+                     5.0, 
+                     5.57
+                  ], 
+                  [
+                     "of", 
+                     5.83, 
+                     6.01
+                  ], 
+                  [
+                     "the", 
+                     6.01, 
+                     6.13
+                  ], 
+                  [
+                     "present", 
+                     6.13, 
+                     6.66
+                  ], 
+                  [
+                     "moment", 
+                     6.69, 
+                     7.15
+                  ], 
+                  [
+                     "as", 
+                     7.15, 
+                     7.26
+                  ], 
+                  [
+                     "compared", 
+                     7.26, 
+                     8.04
+                  ], 
+                  [
+                     "with", 
+                     8.04, 
+                     8.18
+                  ], 
+                  [
+                     "the", 
+                     8.18, 
+                     8.28
+                  ], 
+                  [
+                     "gratification", 
+                     8.28, 
+                     9.27
+                  ], 
+                  [
+                     "of", 
+                     9.3, 
+                     9.44
+                  ], 
+                  [
+                     "a", 
+                     9.44, 
+                     9.68
+                  ]
+               ], 
+               "confidence": 0.86, 
+               "transcript": "rain rain merry bells ringing %HESITATION fortunate few with letters blue of the present moment as compared with the gratification of a "
+            }
+         ], 
+         "final": true
+      }
+   ], 
+   "result_index": 0, 
+   "speaker_labels": [
+      {
+         "from": 0.26, 
+         "to": 0.76, 
+         "speaker": 0, 
+         "confidence": 0.424, 
+         "final": false
+      }, 
+      {
+         "from": 0.76, 
+         "to": 1.28, 
+         "speaker": 0, 
+         "confidence": 0.424, 
+         "final": false
+      }, 
+      {
+         "from": 1.28, 
+         "to": 1.67, 
+         "speaker": 0, 
+         "confidence": 0.424, 
+         "final": false
+      }, 
+      {
+         "from": 1.67, 
+         "to": 2.02, 
+         "speaker": 0, 
+         "confidence": 0.424, 
+         "final": false
+      }, 
+      {
+         "from": 2.02, 
+         "to": 2.62, 
+         "speaker": 0, 
+         "confidence": 0.424, 
+         "final": false
+      }, 
+      {
+         "from": 2.84, 
+         "to": 2.98, 
+         "speaker": 1, 
+         "confidence": 0.475, 
+         "final": false
+      }, 
+      {
+         "from": 2.98, 
+         "to": 3.63, 
+         "speaker": 1, 
+         "confidence": 0.475, 
+         "final": false
+      }, 
+      {
+         "from": 3.63, 
+         "to": 4.23, 
+         "speaker": 1, 
+         "confidence": 0.475, 
+         "final": false
+      }, 
+      {
+         "from": 4.41, 
+         "to": 4.6, 
+         "speaker": 1, 
+         "confidence": 0.434, 
+         "final": false
+      }, 
+      {
+         "from": 4.6, 
+         "to": 5.0, 
+         "speaker": 1, 
+         "confidence": 0.434, 
+         "final": false
+      }, 
+      {
+         "from": 5.0, 
+         "to": 5.57, 
+         "speaker": 1, 
+         "confidence": 0.434, 
+         "final": false
+      }, 
+      {
+         "from": 5.83, 
+         "to": 6.01, 
+         "speaker": 2, 
+         "confidence": 0.461, 
+         "final": false
+      }, 
+      {
+         "from": 6.01, 
+         "to": 6.13, 
+         "speaker": 2, 
+         "confidence": 0.461, 
+         "final": false
+      }, 
+      {
+         "from": 6.13, 
+         "to": 6.66, 
+         "speaker": 2, 
+         "confidence": 0.461, 
+         "final": false
+      }, 
+      {
+         "from": 6.69, 
+         "to": 7.15, 
+         "speaker": 0, 
+         "confidence": 0.403, 
+         "final": false
+      }, 
+      {
+         "from": 7.15, 
+         "to": 7.26, 
+         "speaker": 0, 
+         "confidence": 0.403, 
+         "final": false
+      }, 
+      {
+         "from": 7.26, 
+         "to": 8.04, 
+         "speaker": 0, 
+         "confidence": 0.403, 
+         "final": false
+      }, 
+      {
+         "from": 8.04, 
+         "to": 8.18, 
+         "speaker": 0, 
+         "confidence": 0.403, 
+         "final": false
+      }, 
+      {
+         "from": 8.18, 
+         "to": 8.28, 
+         "speaker": 0, 
+         "confidence": 0.403, 
+         "final": false
+      }, 
+      {
+         "from": 8.28, 
+         "to": 9.27, 
+         "speaker": 0, 
+         "confidence": 0.403, 
+         "final": false
+      }, 
+      {
+         "from": 9.3, 
+         "to": 9.44, 
+         "speaker": 2, 
+         "confidence": 0.463, 
+         "final": false
+      }, 
+      {
+         "from": 9.44, 
+         "to": 9.68, 
+         "speaker": 2, 
+         "confidence": 0.463, 
+         "final": true
+      }
+   ]
+}

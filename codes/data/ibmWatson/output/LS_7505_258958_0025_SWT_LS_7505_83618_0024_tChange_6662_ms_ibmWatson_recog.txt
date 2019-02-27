@@ -1,0 +1,327 @@
+{
+   "results": [
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "or", 
+                     0.06, 
+                     0.37
+                  ], 
+                  [
+                     "the", 
+                     0.37, 
+                     0.51
+                  ], 
+                  [
+                     "men", 
+                     0.54, 
+                     0.98
+                  ], 
+                  [
+                     "perform", 
+                     1.01, 
+                     1.74
+                  ], 
+                  [
+                     "for", 
+                     1.87, 
+                     2.1
+                  ], 
+                  [
+                     "each", 
+                     2.1, 
+                     2.32
+                  ], 
+                  [
+                     "other", 
+                     2.32, 
+                     2.66
+                  ]
+               ], 
+               "confidence": 0.776, 
+               "transcript": "or the men perform for each other "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "E.", 
+                     3.44, 
+                     3.64
+                  ], 
+                  [
+                     "G.", 
+                     3.64, 
+                     4.12
+                  ], 
+                  [
+                     "those", 
+                     4.33, 
+                     4.78
+                  ], 
+                  [
+                     "the", 
+                     4.93, 
+                     5.05
+                  ], 
+                  [
+                     "singer", 
+                     5.05, 
+                     5.65
+                  ], 
+                  [
+                     "position", 
+                     5.71, 
+                     6.27
+                  ], 
+                  [
+                     "he", 
+                     6.42, 
+                     6.73
+                  ], 
+                  [
+                     "was", 
+                     6.73, 
+                     6.91
+                  ], 
+                  [
+                     "figuratively", 
+                     6.91, 
+                     7.95
+                  ]
+               ], 
+               "confidence": 0.855, 
+               "transcript": "E. G. those the singer position he was figuratively "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "said", 
+                     8.04, 
+                     8.33
+                  ], 
+                  [
+                     "to", 
+                     8.33, 
+                     8.49
+                  ], 
+                  [
+                     "sweep", 
+                     8.49, 
+                     8.82
+                  ]
+               ], 
+               "confidence": 0.547, 
+               "transcript": "said to sweep "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "the", 
+                     8.88, 
+                     8.97
+                  ], 
+                  [
+                     "road", 
+                     8.97, 
+                     9.25
+                  ], 
+                  [
+                     "for", 
+                     9.25, 
+                     9.52
+                  ], 
+                  [
+                     "him", 
+                     9.52, 
+                     9.68
+                  ]
+               ], 
+               "confidence": 0.999, 
+               "transcript": "the road for him "
+            }
+         ], 
+         "final": true
+      }
+   ], 
+   "result_index": 0, 
+   "speaker_labels": [
+      {
+         "from": 0.06, 
+         "to": 0.37, 
+         "speaker": 0, 
+         "confidence": 0.426, 
+         "final": false
+      }, 
+      {
+         "from": 0.37, 
+         "to": 0.51, 
+         "speaker": 0, 
+         "confidence": 0.426, 
+         "final": false
+      }, 
+      {
+         "from": 0.54, 
+         "to": 0.98, 
+         "speaker": 1, 
+         "confidence": 0.516, 
+         "final": false
+      }, 
+      {
+         "from": 1.01, 
+         "to": 1.74, 
+         "speaker": 0, 
+         "confidence": 0.585, 
+         "final": false
+      }, 
+      {
+         "from": 1.87, 
+         "to": 2.1, 
+         "speaker": 0, 
+         "confidence": 0.429, 
+         "final": false
+      }, 
+      {
+         "from": 2.1, 
+         "to": 2.32, 
+         "speaker": 0, 
+         "confidence": 0.429, 
+         "final": false
+      }, 
+      {
+         "from": 2.32, 
+         "to": 2.66, 
+         "speaker": 0, 
+         "confidence": 0.429, 
+         "final": false
+      }, 
+      {
+         "from": 3.44, 
+         "to": 3.64, 
+         "speaker": 1, 
+         "confidence": 0.616, 
+         "final": false
+      }, 
+      {
+         "from": 3.64, 
+         "to": 4.12, 
+         "speaker": 1, 
+         "confidence": 0.616, 
+         "final": false
+      }, 
+      {
+         "from": 4.33, 
+         "to": 4.78, 
+         "speaker": 1, 
+         "confidence": 0.58, 
+         "final": false
+      }, 
+      {
+         "from": 4.93, 
+         "to": 5.05, 
+         "speaker": 0, 
+         "confidence": 0.583, 
+         "final": false
+      }, 
+      {
+         "from": 5.05, 
+         "to": 5.65, 
+         "speaker": 0, 
+         "confidence": 0.583, 
+         "final": false
+      }, 
+      {
+         "from": 5.71, 
+         "to": 6.27, 
+         "speaker": 1, 
+         "confidence": 0.497, 
+         "final": false
+      }, 
+      {
+         "from": 6.42, 
+         "to": 6.73, 
+         "speaker": 1, 
+         "confidence": 0.524, 
+         "final": false
+      }, 
+      {
+         "from": 6.73, 
+         "to": 6.91, 
+         "speaker": 1, 
+         "confidence": 0.524, 
+         "final": false
+      }, 
+      {
+         "from": 6.91, 
+         "to": 7.95, 
+         "speaker": 1, 
+         "confidence": 0.524, 
+         "final": false
+      }, 
+      {
+         "from": 8.04, 
+         "to": 8.33, 
+         "speaker": 1, 
+         "confidence": 0.541, 
+         "final": false
+      }, 
+      {
+         "from": 8.33, 
+         "to": 8.49, 
+         "speaker": 1, 
+         "confidence": 0.541, 
+         "final": false
+      }, 
+      {
+         "from": 8.49, 
+         "to": 8.82, 
+         "speaker": 1, 
+         "confidence": 0.541, 
+         "final": false
+      }, 
+      {
+         "from": 8.88, 
+         "to": 8.97, 
+         "speaker": 1, 
+         "confidence": 0.43, 
+         "final": false
+      }, 
+      {
+         "from": 8.97, 
+         "to": 9.25, 
+         "speaker": 1, 
+         "confidence": 0.43, 
+         "final": false
+      }, 
+      {
+         "from": 9.25, 
+         "to": 9.52, 
+         "speaker": 1, 
+         "confidence": 0.43, 
+         "final": false
+      }, 
+      {
+         "from": 9.52, 
+         "to": 9.68, 
+         "speaker": 1, 
+         "confidence": 0.43, 
+         "final": true
+      }
+   ]
+}

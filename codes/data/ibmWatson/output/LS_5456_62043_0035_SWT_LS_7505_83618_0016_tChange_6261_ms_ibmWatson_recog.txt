@@ -1,0 +1,400 @@
+{
+   "results": [
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "and", 
+                     0.2, 
+                     0.37
+                  ], 
+                  [
+                     "now", 
+                     0.37, 
+                     0.51
+                  ], 
+                  [
+                     "you", 
+                     0.51, 
+                     0.69
+                  ], 
+                  [
+                     "know", 
+                     0.69, 
+                     0.92
+                  ], 
+                  [
+                     "it", 
+                     0.92, 
+                     1.19
+                  ]
+               ], 
+               "confidence": 0.999, 
+               "transcript": "and now you know it "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "three", 
+                     1.79, 
+                     2.01
+                  ], 
+                  [
+                     "in", 
+                     2.01, 
+                     2.1
+                  ], 
+                  [
+                     "the", 
+                     2.1, 
+                     2.19
+                  ], 
+                  [
+                     "devil", 
+                     2.19, 
+                     2.57
+                  ], 
+                  [
+                     "broke", 
+                     2.57, 
+                     2.87
+                  ], 
+                  [
+                     "in", 
+                     2.87, 
+                     2.99
+                  ], 
+                  [
+                     "the", 
+                     2.99, 
+                     3.09
+                  ], 
+                  [
+                     "captain", 
+                     3.09, 
+                     3.63
+                  ], 
+                  [
+                     "what", 
+                     3.85, 
+                     4.15
+                  ], 
+                  [
+                     "have", 
+                     4.28, 
+                     4.44
+                  ], 
+                  [
+                     "you", 
+                     4.44, 
+                     4.57
+                  ], 
+                  [
+                     "raised", 
+                     4.57, 
+                     4.85
+                  ], 
+                  [
+                     "on", 
+                     4.85, 
+                     4.95
+                  ], 
+                  [
+                     "your", 
+                     4.95, 
+                     5.12
+                  ], 
+                  [
+                     "would", 
+                     5.12, 
+                     5.38
+                  ], 
+                  [
+                     "to", 
+                     5.38, 
+                     5.8
+                  ]
+               ], 
+               "confidence": 0.793, 
+               "transcript": "three in the devil broke in the captain what have you raised on your would to "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "teacher", 
+                     6.2, 
+                     6.62
+                  ], 
+                  [
+                     "of", 
+                     6.62, 
+                     6.81
+                  ], 
+                  [
+                     "all", 
+                     6.84, 
+                     7.18
+                  ], 
+                  [
+                     "things", 
+                     7.18, 
+                     7.86
+                  ], 
+                  [
+                     "at", 
+                     8.39, 
+                     8.56
+                  ], 
+                  [
+                     "last", 
+                     8.56, 
+                     8.97
+                  ], 
+                  [
+                     "he", 
+                     8.97, 
+                     9.07
+                  ], 
+                  [
+                     "disappeared", 
+                     9.07, 
+                     9.86
+                  ], 
+                  [
+                     "in", 
+                     9.89, 
+                     10.01
+                  ]
+               ], 
+               "confidence": 0.953, 
+               "transcript": "teacher of all things at last he disappeared in "
+            }
+         ], 
+         "final": true
+      }
+   ], 
+   "result_index": 0, 
+   "speaker_labels": [
+      {
+         "from": 0.2, 
+         "to": 0.37, 
+         "speaker": 0, 
+         "confidence": 0.5, 
+         "final": false
+      }, 
+      {
+         "from": 0.37, 
+         "to": 0.51, 
+         "speaker": 0, 
+         "confidence": 0.5, 
+         "final": false
+      }, 
+      {
+         "from": 0.51, 
+         "to": 0.69, 
+         "speaker": 0, 
+         "confidence": 0.5, 
+         "final": false
+      }, 
+      {
+         "from": 0.69, 
+         "to": 0.92, 
+         "speaker": 0, 
+         "confidence": 0.5, 
+         "final": false
+      }, 
+      {
+         "from": 0.92, 
+         "to": 1.19, 
+         "speaker": 0, 
+         "confidence": 0.5, 
+         "final": false
+      }, 
+      {
+         "from": 1.79, 
+         "to": 2.01, 
+         "speaker": 0, 
+         "confidence": 0.558, 
+         "final": false
+      }, 
+      {
+         "from": 2.01, 
+         "to": 2.1, 
+         "speaker": 0, 
+         "confidence": 0.558, 
+         "final": false
+      }, 
+      {
+         "from": 2.1, 
+         "to": 2.19, 
+         "speaker": 0, 
+         "confidence": 0.558, 
+         "final": false
+      }, 
+      {
+         "from": 2.19, 
+         "to": 2.57, 
+         "speaker": 0, 
+         "confidence": 0.558, 
+         "final": false
+      }, 
+      {
+         "from": 2.57, 
+         "to": 2.87, 
+         "speaker": 0, 
+         "confidence": 0.558, 
+         "final": false
+      }, 
+      {
+         "from": 2.87, 
+         "to": 2.99, 
+         "speaker": 0, 
+         "confidence": 0.558, 
+         "final": false
+      }, 
+      {
+         "from": 2.99, 
+         "to": 3.09, 
+         "speaker": 0, 
+         "confidence": 0.558, 
+         "final": false
+      }, 
+      {
+         "from": 3.09, 
+         "to": 3.63, 
+         "speaker": 0, 
+         "confidence": 0.558, 
+         "final": false
+      }, 
+      {
+         "from": 3.85, 
+         "to": 4.15, 
+         "speaker": 0, 
+         "confidence": 0.537, 
+         "final": false
+      }, 
+      {
+         "from": 4.28, 
+         "to": 4.44, 
+         "speaker": 0, 
+         "confidence": 0.555, 
+         "final": false
+      }, 
+      {
+         "from": 4.44, 
+         "to": 4.57, 
+         "speaker": 0, 
+         "confidence": 0.555, 
+         "final": false
+      }, 
+      {
+         "from": 4.57, 
+         "to": 4.85, 
+         "speaker": 0, 
+         "confidence": 0.555, 
+         "final": false
+      }, 
+      {
+         "from": 4.85, 
+         "to": 4.95, 
+         "speaker": 0, 
+         "confidence": 0.555, 
+         "final": false
+      }, 
+      {
+         "from": 4.95, 
+         "to": 5.12, 
+         "speaker": 0, 
+         "confidence": 0.555, 
+         "final": false
+      }, 
+      {
+         "from": 5.12, 
+         "to": 5.38, 
+         "speaker": 0, 
+         "confidence": 0.555, 
+         "final": false
+      }, 
+      {
+         "from": 5.38, 
+         "to": 5.8, 
+         "speaker": 0, 
+         "confidence": 0.555, 
+         "final": false
+      }, 
+      {
+         "from": 6.2, 
+         "to": 6.62, 
+         "speaker": 1, 
+         "confidence": 0.529, 
+         "final": false
+      }, 
+      {
+         "from": 6.62, 
+         "to": 6.81, 
+         "speaker": 1, 
+         "confidence": 0.529, 
+         "final": false
+      }, 
+      {
+         "from": 6.84, 
+         "to": 7.18, 
+         "speaker": 1, 
+         "confidence": 0.498, 
+         "final": false
+      }, 
+      {
+         "from": 7.18, 
+         "to": 7.86, 
+         "speaker": 1, 
+         "confidence": 0.498, 
+         "final": false
+      }, 
+      {
+         "from": 8.39, 
+         "to": 8.56, 
+         "speaker": 1, 
+         "confidence": 0.572, 
+         "final": false
+      }, 
+      {
+         "from": 8.56, 
+         "to": 8.97, 
+         "speaker": 1, 
+         "confidence": 0.572, 
+         "final": false
+      }, 
+      {
+         "from": 8.97, 
+         "to": 9.07, 
+         "speaker": 1, 
+         "confidence": 0.572, 
+         "final": false
+      }, 
+      {
+         "from": 9.07, 
+         "to": 9.86, 
+         "speaker": 1, 
+         "confidence": 0.572, 
+         "final": false
+      }, 
+      {
+         "from": 9.89, 
+         "to": 10.01, 
+         "speaker": 1, 
+         "confidence": 0.535, 
+         "final": true
+      }
+   ]
+}

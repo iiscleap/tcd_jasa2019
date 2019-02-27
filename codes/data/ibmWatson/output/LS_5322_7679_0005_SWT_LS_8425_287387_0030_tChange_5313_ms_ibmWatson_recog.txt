@@ -1,0 +1,315 @@
+{
+   "results": [
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "because", 
+                     0.1, 
+                     0.45
+                  ], 
+                  [
+                     "they", 
+                     0.45, 
+                     0.57
+                  ], 
+                  [
+                     "had", 
+                     0.57, 
+                     0.77
+                  ], 
+                  [
+                     "something", 
+                     0.77, 
+                     1.18
+                  ], 
+                  [
+                     "else", 
+                     1.18, 
+                     1.53
+                  ], 
+                  [
+                     "to", 
+                     1.53, 
+                     1.7
+                  ], 
+                  [
+                     "divert", 
+                     1.7, 
+                     2.17
+                  ], 
+                  [
+                     "them", 
+                     2.17, 
+                     2.34
+                  ], 
+                  [
+                     "that", 
+                     2.34, 
+                     2.56
+                  ], 
+                  [
+                     "evening", 
+                     2.56, 
+                     3.03
+                  ]
+               ], 
+               "confidence": 0.977, 
+               "transcript": "because they had something else to divert them that evening "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "some", 
+                     3.42, 
+                     3.71
+                  ], 
+                  [
+                     "hostile", 
+                     3.71, 
+                     4.4
+                  ], 
+                  [
+                     "Chechen", 
+                     4.4, 
+                     5.08
+                  ], 
+                  [
+                     "I'm", 
+                     5.27, 
+                     5.43
+                  ], 
+                  [
+                     "pregnant", 
+                     5.43, 
+                     5.91
+                  ], 
+                  [
+                     "since", 
+                     5.91, 
+                     6.28
+                  ]
+               ], 
+               "confidence": 0.798, 
+               "transcript": "some hostile Chechen I'm pregnant since "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "rude", 
+                     6.74, 
+                     7.08
+                  ]
+               ], 
+               "confidence": 0.195, 
+               "transcript": "rude "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "and", 
+                     7.74, 
+                     7.95
+                  ], 
+                  [
+                     "when", 
+                     7.95, 
+                     8.11
+                  ], 
+                  [
+                     "he", 
+                     8.11, 
+                     8.26
+                  ], 
+                  [
+                     "began", 
+                     8.26, 
+                     8.66
+                  ], 
+                  [
+                     "to", 
+                     8.66, 
+                     8.82
+                  ]
+               ], 
+               "confidence": 0.783, 
+               "transcript": "and when he began to "
+            }
+         ], 
+         "final": true
+      }
+   ], 
+   "result_index": 0, 
+   "speaker_labels": [
+      {
+         "from": 0.1, 
+         "to": 0.45, 
+         "speaker": 0, 
+         "confidence": 0.5, 
+         "final": false
+      }, 
+      {
+         "from": 0.45, 
+         "to": 0.57, 
+         "speaker": 0, 
+         "confidence": 0.5, 
+         "final": false
+      }, 
+      {
+         "from": 0.57, 
+         "to": 0.77, 
+         "speaker": 0, 
+         "confidence": 0.5, 
+         "final": false
+      }, 
+      {
+         "from": 0.77, 
+         "to": 1.18, 
+         "speaker": 0, 
+         "confidence": 0.5, 
+         "final": false
+      }, 
+      {
+         "from": 1.18, 
+         "to": 1.53, 
+         "speaker": 0, 
+         "confidence": 0.5, 
+         "final": false
+      }, 
+      {
+         "from": 1.53, 
+         "to": 1.7, 
+         "speaker": 0, 
+         "confidence": 0.5, 
+         "final": false
+      }, 
+      {
+         "from": 1.7, 
+         "to": 2.17, 
+         "speaker": 0, 
+         "confidence": 0.5, 
+         "final": false
+      }, 
+      {
+         "from": 2.17, 
+         "to": 2.34, 
+         "speaker": 0, 
+         "confidence": 0.5, 
+         "final": false
+      }, 
+      {
+         "from": 2.34, 
+         "to": 2.56, 
+         "speaker": 0, 
+         "confidence": 0.5, 
+         "final": false
+      }, 
+      {
+         "from": 2.56, 
+         "to": 3.03, 
+         "speaker": 0, 
+         "confidence": 0.5, 
+         "final": false
+      }, 
+      {
+         "from": 3.42, 
+         "to": 3.71, 
+         "speaker": 0, 
+         "confidence": 0.575, 
+         "final": false
+      }, 
+      {
+         "from": 3.71, 
+         "to": 4.4, 
+         "speaker": 0, 
+         "confidence": 0.575, 
+         "final": false
+      }, 
+      {
+         "from": 4.4, 
+         "to": 5.08, 
+         "speaker": 0, 
+         "confidence": 0.575, 
+         "final": false
+      }, 
+      {
+         "from": 5.27, 
+         "to": 5.43, 
+         "speaker": 1, 
+         "confidence": 0.667, 
+         "final": false
+      }, 
+      {
+         "from": 5.43, 
+         "to": 5.91, 
+         "speaker": 1, 
+         "confidence": 0.667, 
+         "final": false
+      }, 
+      {
+         "from": 5.91, 
+         "to": 6.28, 
+         "speaker": 1, 
+         "confidence": 0.667, 
+         "final": false
+      }, 
+      {
+         "from": 6.74, 
+         "to": 7.08, 
+         "speaker": 1, 
+         "confidence": 0.608, 
+         "final": false
+      }, 
+      {
+         "from": 7.74, 
+         "to": 7.95, 
+         "speaker": 1, 
+         "confidence": 0.582, 
+         "final": false
+      }, 
+      {
+         "from": 7.95, 
+         "to": 8.11, 
+         "speaker": 1, 
+         "confidence": 0.582, 
+         "final": false
+      }, 
+      {
+         "from": 8.11, 
+         "to": 8.26, 
+         "speaker": 1, 
+         "confidence": 0.582, 
+         "final": false
+      }, 
+      {
+         "from": 8.26, 
+         "to": 8.66, 
+         "speaker": 1, 
+         "confidence": 0.582, 
+         "final": false
+      }, 
+      {
+         "from": 8.66, 
+         "to": 8.82, 
+         "speaker": 1, 
+         "confidence": 0.582, 
+         "final": true
+      }
+   ]
+}

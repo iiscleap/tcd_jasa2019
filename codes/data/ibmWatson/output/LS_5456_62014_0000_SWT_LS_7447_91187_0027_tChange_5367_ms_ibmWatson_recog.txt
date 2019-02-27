@@ -1,0 +1,243 @@
+{
+   "results": [
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "the", 
+                     0.32, 
+                     0.47
+                  ], 
+                  [
+                     "woman", 
+                     0.47, 
+                     0.76
+                  ], 
+                  [
+                     "who", 
+                     0.76, 
+                     0.87
+                  ], 
+                  [
+                     "meridionale", 
+                     0.87, 
+                     1.92
+                  ], 
+                  [
+                     "by", 
+                     2.25, 
+                     2.54
+                  ], 
+                  [
+                     "and", 
+                     2.57, 
+                     2.99
+                  ], 
+                  [
+                     "Virginia", 
+                     2.99, 
+                     3.45
+                  ], 
+                  [
+                     "Culbertson", 
+                     3.45, 
+                     4.11
+                  ]
+               ], 
+               "confidence": 0.536, 
+               "transcript": "the woman who meridionale by and Virginia Culbertson "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "to", 
+                     6.34, 
+                     6.49
+                  ], 
+                  [
+                     "show", 
+                     6.49, 
+                     6.93
+                  ]
+               ], 
+               "confidence": 0.918, 
+               "transcript": "to show "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "but", 
+                     7.07, 
+                     7.25
+                  ], 
+                  [
+                     "the", 
+                     7.25, 
+                     7.34
+                  ], 
+                  [
+                     "P.", 
+                     7.34, 
+                     7.5
+                  ]
+               ], 
+               "confidence": 0.401, 
+               "transcript": "but the P. "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "you", 
+                     7.94, 
+                     8.2
+                  ], 
+                  [
+                     "could", 
+                     8.48, 
+                     8.66
+                  ], 
+                  [
+                     "produce", 
+                     8.66, 
+                     9.08
+                  ]
+               ], 
+               "confidence": 0.766, 
+               "transcript": "you could produce "
+            }
+         ], 
+         "final": true
+      }
+   ], 
+   "result_index": 0, 
+   "speaker_labels": [
+      {
+         "from": 0.32, 
+         "to": 0.47, 
+         "speaker": 0, 
+         "confidence": 0.471, 
+         "final": false
+      }, 
+      {
+         "from": 0.47, 
+         "to": 0.76, 
+         "speaker": 0, 
+         "confidence": 0.471, 
+         "final": false
+      }, 
+      {
+         "from": 0.76, 
+         "to": 0.87, 
+         "speaker": 0, 
+         "confidence": 0.471, 
+         "final": false
+      }, 
+      {
+         "from": 0.87, 
+         "to": 1.92, 
+         "speaker": 0, 
+         "confidence": 0.471, 
+         "final": false
+      }, 
+      {
+         "from": 2.25, 
+         "to": 2.54, 
+         "speaker": 1, 
+         "confidence": 0.529, 
+         "final": false
+      }, 
+      {
+         "from": 2.57, 
+         "to": 2.99, 
+         "speaker": 0, 
+         "confidence": 0.45, 
+         "final": false
+      }, 
+      {
+         "from": 2.99, 
+         "to": 3.45, 
+         "speaker": 0, 
+         "confidence": 0.45, 
+         "final": false
+      }, 
+      {
+         "from": 3.45, 
+         "to": 4.11, 
+         "speaker": 0, 
+         "confidence": 0.45, 
+         "final": false
+      }, 
+      {
+         "from": 6.34, 
+         "to": 6.49, 
+         "speaker": 2, 
+         "confidence": 0.505, 
+         "final": false
+      }, 
+      {
+         "from": 6.49, 
+         "to": 6.93, 
+         "speaker": 2, 
+         "confidence": 0.505, 
+         "final": false
+      }, 
+      {
+         "from": 7.07, 
+         "to": 7.25, 
+         "speaker": 1, 
+         "confidence": 0.4, 
+         "final": false
+      }, 
+      {
+         "from": 7.25, 
+         "to": 7.34, 
+         "speaker": 1, 
+         "confidence": 0.4, 
+         "final": false
+      }, 
+      {
+         "from": 7.34, 
+         "to": 7.5, 
+         "speaker": 1, 
+         "confidence": 0.4, 
+         "final": false
+      }, 
+      {
+         "from": 7.94, 
+         "to": 8.2, 
+         "speaker": 2, 
+         "confidence": 0.447, 
+         "final": false
+      }, 
+      {
+         "from": 8.48, 
+         "to": 8.66, 
+         "speaker": 2, 
+         "confidence": 0.474, 
+         "final": false
+      }, 
+      {
+         "from": 8.66, 
+         "to": 9.08, 
+         "speaker": 2, 
+         "confidence": 0.474, 
+         "final": true
+      }
+   ]
+}

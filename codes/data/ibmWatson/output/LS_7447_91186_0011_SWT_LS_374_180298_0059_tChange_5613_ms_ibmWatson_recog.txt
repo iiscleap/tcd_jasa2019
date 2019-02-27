@@ -1,0 +1,291 @@
+{
+   "results": [
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "the", 
+                     0.45, 
+                     0.69
+                  ]
+               ], 
+               "confidence": 0.962, 
+               "transcript": "the "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "usually", 
+                     1.45, 
+                     1.81
+                  ], 
+                  [
+                     "of", 
+                     1.81, 
+                     2.07
+                  ]
+               ], 
+               "confidence": 0.971, 
+               "transcript": "usually of "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "long", 
+                     2.33, 
+                     2.56
+                  ], 
+                  [
+                     "shape", 
+                     2.56, 
+                     3.06
+                  ], 
+                  [
+                     "often", 
+                     3.37, 
+                     3.84
+                  ], 
+                  [
+                     "read", 
+                     3.84, 
+                     4.0
+                  ]
+               ], 
+               "confidence": 0.903, 
+               "transcript": "long shape often read "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "well", 
+                     5.54, 
+                     6.02
+                  ], 
+                  [
+                     "tell", 
+                     6.05, 
+                     6.33
+                  ], 
+                  [
+                     "the", 
+                     6.33, 
+                     6.45
+                  ], 
+                  [
+                     "Duke", 
+                     6.45, 
+                     6.74
+                  ], 
+                  [
+                     "to", 
+                     6.74, 
+                     6.85
+                  ], 
+                  [
+                     "take", 
+                     6.85, 
+                     7.12
+                  ], 
+                  [
+                     "it", 
+                     7.12, 
+                     7.26
+                  ], 
+                  [
+                     "for", 
+                     7.26, 
+                     7.5
+                  ], 
+                  [
+                     "you", 
+                     7.5, 
+                     7.84
+                  ], 
+                  [
+                     "he", 
+                     8.21, 
+                     8.39
+                  ], 
+                  [
+                     "would", 
+                     8.39, 
+                     8.54
+                  ], 
+                  [
+                     "do", 
+                     8.54, 
+                     8.74
+                  ], 
+                  [
+                     "so", 
+                     8.74, 
+                     9.05
+                  ]
+               ], 
+               "confidence": 0.927, 
+               "transcript": "well tell the Duke to take it for you he would do so "
+            }
+         ], 
+         "final": true
+      }
+   ], 
+   "result_index": 0, 
+   "speaker_labels": [
+      {
+         "from": 0.45, 
+         "to": 0.69, 
+         "speaker": 0, 
+         "confidence": 0.5, 
+         "final": false
+      }, 
+      {
+         "from": 1.45, 
+         "to": 1.81, 
+         "speaker": 0, 
+         "confidence": 0.59, 
+         "final": false
+      }, 
+      {
+         "from": 1.81, 
+         "to": 2.07, 
+         "speaker": 0, 
+         "confidence": 0.59, 
+         "final": false
+      }, 
+      {
+         "from": 2.33, 
+         "to": 2.56, 
+         "speaker": 0, 
+         "confidence": 0.52, 
+         "final": false
+      }, 
+      {
+         "from": 2.56, 
+         "to": 3.06, 
+         "speaker": 0, 
+         "confidence": 0.52, 
+         "final": false
+      }, 
+      {
+         "from": 3.37, 
+         "to": 3.84, 
+         "speaker": 0, 
+         "confidence": 0.581, 
+         "final": false
+      }, 
+      {
+         "from": 3.84, 
+         "to": 4.0, 
+         "speaker": 0, 
+         "confidence": 0.581, 
+         "final": false
+      }, 
+      {
+         "from": 5.54, 
+         "to": 6.02, 
+         "speaker": 1, 
+         "confidence": 0.594, 
+         "final": false
+      }, 
+      {
+         "from": 6.05, 
+         "to": 6.33, 
+         "speaker": 1, 
+         "confidence": 0.541, 
+         "final": false
+      }, 
+      {
+         "from": 6.33, 
+         "to": 6.45, 
+         "speaker": 1, 
+         "confidence": 0.541, 
+         "final": false
+      }, 
+      {
+         "from": 6.45, 
+         "to": 6.74, 
+         "speaker": 1, 
+         "confidence": 0.541, 
+         "final": false
+      }, 
+      {
+         "from": 6.74, 
+         "to": 6.85, 
+         "speaker": 1, 
+         "confidence": 0.541, 
+         "final": false
+      }, 
+      {
+         "from": 6.85, 
+         "to": 7.12, 
+         "speaker": 1, 
+         "confidence": 0.541, 
+         "final": false
+      }, 
+      {
+         "from": 7.12, 
+         "to": 7.26, 
+         "speaker": 1, 
+         "confidence": 0.541, 
+         "final": false
+      }, 
+      {
+         "from": 7.26, 
+         "to": 7.5, 
+         "speaker": 1, 
+         "confidence": 0.541, 
+         "final": false
+      }, 
+      {
+         "from": 7.5, 
+         "to": 7.84, 
+         "speaker": 1, 
+         "confidence": 0.541, 
+         "final": false
+      }, 
+      {
+         "from": 8.21, 
+         "to": 8.39, 
+         "speaker": 1, 
+         "confidence": 0.495, 
+         "final": false
+      }, 
+      {
+         "from": 8.39, 
+         "to": 8.54, 
+         "speaker": 1, 
+         "confidence": 0.495, 
+         "final": false
+      }, 
+      {
+         "from": 8.54, 
+         "to": 8.74, 
+         "speaker": 1, 
+         "confidence": 0.495, 
+         "final": false
+      }, 
+      {
+         "from": 8.74, 
+         "to": 9.05, 
+         "speaker": 1, 
+         "confidence": 0.495, 
+         "final": true
+      }
+   ]
+}

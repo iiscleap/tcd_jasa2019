@@ -1,0 +1,338 @@
+{
+   "results": [
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "from", 
+                     0.12, 
+                     0.35
+                  ], 
+                  [
+                     "an", 
+                     0.35, 
+                     0.51
+                  ]
+               ], 
+               "confidence": 0.655, 
+               "transcript": "from an "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "%HESITATION", 
+                     0.67, 
+                     0.78
+                  ], 
+                  [
+                     "piano", 
+                     0.78, 
+                     1.14
+                  ], 
+                  [
+                     "specialist", 
+                     1.14, 
+                     2.02
+                  ], 
+                  [
+                     "lists", 
+                     2.59, 
+                     2.99
+                  ], 
+                  [
+                     "once", 
+                     2.99, 
+                     3.41
+                  ], 
+                  [
+                     "said", 
+                     3.44, 
+                     3.94
+                  ], 
+                  [
+                     "show", 
+                     4.07, 
+                     4.3
+                  ], 
+                  [
+                     "up", 
+                     4.3, 
+                     4.46
+                  ]
+               ], 
+               "confidence": 0.747, 
+               "transcript": "%HESITATION piano specialist lists once said show up "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "yeah", 
+                     5.18, 
+                     5.3
+                  ], 
+                  [
+                     "it's", 
+                     5.3, 
+                     5.45
+                  ], 
+                  [
+                     "it's", 
+                     5.72, 
+                     6.03
+                  ], 
+                  [
+                     "leaves", 
+                     6.03, 
+                     6.43
+                  ], 
+                  [
+                     "tray", 
+                     6.43, 
+                     6.72
+                  ]
+               ], 
+               "confidence": 0.734, 
+               "transcript": "yeah it's it's leaves tray "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "with", 
+                     6.91, 
+                     7.13
+                  ], 
+                  [
+                     "every", 
+                     7.13, 
+                     7.55
+                  ]
+               ], 
+               "confidence": 0.976, 
+               "transcript": "with every "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "and", 
+                     8.22, 
+                     8.55
+                  ], 
+                  [
+                     "but", 
+                     8.7, 
+                     8.88
+                  ], 
+                  [
+                     "the", 
+                     8.88, 
+                     8.97
+                  ], 
+                  [
+                     "tree", 
+                     8.97, 
+                     9.22
+                  ], 
+                  [
+                     "for", 
+                     9.22, 
+                     9.33
+                  ], 
+                  [
+                     "me", 
+                     9.33, 
+                     9.45
+                  ]
+               ], 
+               "confidence": 0.735, 
+               "transcript": "and but the tree for me "
+            }
+         ], 
+         "final": true
+      }
+   ], 
+   "result_index": 0, 
+   "speaker_labels": [
+      {
+         "from": 0.12, 
+         "to": 0.35, 
+         "speaker": 2, 
+         "confidence": 0.434, 
+         "final": false
+      }, 
+      {
+         "from": 0.35, 
+         "to": 0.51, 
+         "speaker": 2, 
+         "confidence": 0.434, 
+         "final": false
+      }, 
+      {
+         "from": 0.67, 
+         "to": 0.78, 
+         "speaker": 1, 
+         "confidence": 0.588, 
+         "final": false
+      }, 
+      {
+         "from": 0.78, 
+         "to": 1.14, 
+         "speaker": 1, 
+         "confidence": 0.588, 
+         "final": false
+      }, 
+      {
+         "from": 1.14, 
+         "to": 2.02, 
+         "speaker": 1, 
+         "confidence": 0.588, 
+         "final": false
+      }, 
+      {
+         "from": 2.59, 
+         "to": 2.99, 
+         "speaker": 0, 
+         "confidence": 0.542, 
+         "final": false
+      }, 
+      {
+         "from": 2.99, 
+         "to": 3.41, 
+         "speaker": 0, 
+         "confidence": 0.542, 
+         "final": false
+      }, 
+      {
+         "from": 3.44, 
+         "to": 3.94, 
+         "speaker": 0, 
+         "confidence": 0.527, 
+         "final": false
+      }, 
+      {
+         "from": 4.07, 
+         "to": 4.3, 
+         "speaker": 1, 
+         "confidence": 0.591, 
+         "final": false
+      }, 
+      {
+         "from": 4.3, 
+         "to": 4.46, 
+         "speaker": 1, 
+         "confidence": 0.591, 
+         "final": false
+      }, 
+      {
+         "from": 5.18, 
+         "to": 5.3, 
+         "speaker": 2, 
+         "confidence": 0.425, 
+         "final": false
+      }, 
+      {
+         "from": 5.3, 
+         "to": 5.45, 
+         "speaker": 2, 
+         "confidence": 0.425, 
+         "final": false
+      }, 
+      {
+         "from": 5.72, 
+         "to": 6.03, 
+         "speaker": 1, 
+         "confidence": 0.336, 
+         "final": false
+      }, 
+      {
+         "from": 6.03, 
+         "to": 6.43, 
+         "speaker": 1, 
+         "confidence": 0.336, 
+         "final": false
+      }, 
+      {
+         "from": 6.43, 
+         "to": 6.72, 
+         "speaker": 1, 
+         "confidence": 0.336, 
+         "final": false
+      }, 
+      {
+         "from": 6.91, 
+         "to": 7.13, 
+         "speaker": 1, 
+         "confidence": 0.342, 
+         "final": false
+      }, 
+      {
+         "from": 7.13, 
+         "to": 7.55, 
+         "speaker": 1, 
+         "confidence": 0.342, 
+         "final": false
+      }, 
+      {
+         "from": 8.22, 
+         "to": 8.55, 
+         "speaker": 2, 
+         "confidence": 0.445, 
+         "final": false
+      }, 
+      {
+         "from": 8.7, 
+         "to": 8.88, 
+         "speaker": 1, 
+         "confidence": 0.439, 
+         "final": false
+      }, 
+      {
+         "from": 8.88, 
+         "to": 8.97, 
+         "speaker": 1, 
+         "confidence": 0.439, 
+         "final": false
+      }, 
+      {
+         "from": 8.97, 
+         "to": 9.22, 
+         "speaker": 1, 
+         "confidence": 0.439, 
+         "final": false
+      }, 
+      {
+         "from": 9.22, 
+         "to": 9.33, 
+         "speaker": 1, 
+         "confidence": 0.439, 
+         "final": false
+      }, 
+      {
+         "from": 9.33, 
+         "to": 9.45, 
+         "speaker": 1, 
+         "confidence": 0.439, 
+         "final": true
+      }
+   ]
+}

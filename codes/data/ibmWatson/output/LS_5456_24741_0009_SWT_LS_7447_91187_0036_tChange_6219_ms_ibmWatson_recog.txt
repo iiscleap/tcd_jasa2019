@@ -1,0 +1,354 @@
+{
+   "results": [
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "by", 
+                     0.07, 
+                     0.2
+                  ], 
+                  [
+                     "which", 
+                     0.2, 
+                     0.44
+                  ], 
+                  [
+                     "the", 
+                     0.44, 
+                     0.56
+                  ], 
+                  [
+                     "human", 
+                     0.56, 
+                     0.83
+                  ], 
+                  [
+                     "body", 
+                     0.83, 
+                     1.11
+                  ], 
+                  [
+                     "has", 
+                     1.11, 
+                     1.28
+                  ], 
+                  [
+                     "once", 
+                     1.28, 
+                     1.53
+                  ], 
+                  [
+                     "been", 
+                     1.53, 
+                     1.69
+                  ], 
+                  [
+                     "affected", 
+                     1.69, 
+                     2.31
+                  ], 
+                  [
+                     "me", 
+                     2.64, 
+                     2.78
+                  ], 
+                  [
+                     "no", 
+                     2.78, 
+                     2.93
+                  ], 
+                  [
+                     "longer", 
+                     2.93, 
+                     3.21
+                  ], 
+                  [
+                     "in", 
+                     3.21, 
+                     3.28
+                  ], 
+                  [
+                     "existence", 
+                     3.28, 
+                     4.11
+                  ], 
+                  [
+                     "the", 
+                     4.37, 
+                     4.47
+                  ], 
+                  [
+                     "mind", 
+                     4.47, 
+                     4.8
+                  ], 
+                  [
+                     "will", 
+                     4.8, 
+                     4.92
+                  ], 
+                  [
+                     "never", 
+                     4.92, 
+                     5.17
+                  ], 
+                  [
+                     "the", 
+                     5.17, 
+                     5.28
+                  ], 
+                  [
+                     "less", 
+                     5.28, 
+                     5.63
+                  ], 
+                  [
+                     "the", 
+                     6.17, 
+                     6.3
+                  ], 
+                  [
+                     "basis", 
+                     6.3, 
+                     6.79
+                  ], 
+                  [
+                     "of", 
+                     6.82, 
+                     7.1
+                  ], 
+                  [
+                     "this", 
+                     7.1, 
+                     7.38
+                  ], 
+                  [
+                     "method", 
+                     7.41, 
+                     7.9
+                  ], 
+                  [
+                     "consisted", 
+                     7.93, 
+                     8.67
+                  ], 
+                  [
+                     "in", 
+                     8.67, 
+                     8.85
+                  ], 
+                  [
+                     "refined", 
+                     8.85, 
+                     9.38
+                  ]
+               ], 
+               "confidence": 0.88, 
+               "transcript": "by which the human body has once been affected me no longer in existence the mind will never the less the basis of this method consisted in refined "
+            }
+         ], 
+         "final": true
+      }
+   ], 
+   "result_index": 0, 
+   "speaker_labels": [
+      {
+         "from": 0.07, 
+         "to": 0.2, 
+         "speaker": 0, 
+         "confidence": 0.6, 
+         "final": false
+      }, 
+      {
+         "from": 0.2, 
+         "to": 0.44, 
+         "speaker": 0, 
+         "confidence": 0.6, 
+         "final": false
+      }, 
+      {
+         "from": 0.44, 
+         "to": 0.56, 
+         "speaker": 0, 
+         "confidence": 0.6, 
+         "final": false
+      }, 
+      {
+         "from": 0.56, 
+         "to": 0.83, 
+         "speaker": 0, 
+         "confidence": 0.6, 
+         "final": false
+      }, 
+      {
+         "from": 0.83, 
+         "to": 1.11, 
+         "speaker": 0, 
+         "confidence": 0.6, 
+         "final": false
+      }, 
+      {
+         "from": 1.11, 
+         "to": 1.28, 
+         "speaker": 0, 
+         "confidence": 0.6, 
+         "final": false
+      }, 
+      {
+         "from": 1.28, 
+         "to": 1.53, 
+         "speaker": 0, 
+         "confidence": 0.6, 
+         "final": false
+      }, 
+      {
+         "from": 1.53, 
+         "to": 1.69, 
+         "speaker": 0, 
+         "confidence": 0.6, 
+         "final": false
+      }, 
+      {
+         "from": 1.69, 
+         "to": 2.31, 
+         "speaker": 0, 
+         "confidence": 0.6, 
+         "final": false
+      }, 
+      {
+         "from": 2.64, 
+         "to": 2.78, 
+         "speaker": 0, 
+         "confidence": 0.6, 
+         "final": false
+      }, 
+      {
+         "from": 2.78, 
+         "to": 2.93, 
+         "speaker": 0, 
+         "confidence": 0.6, 
+         "final": false
+      }, 
+      {
+         "from": 2.93, 
+         "to": 3.21, 
+         "speaker": 0, 
+         "confidence": 0.6, 
+         "final": false
+      }, 
+      {
+         "from": 3.21, 
+         "to": 3.28, 
+         "speaker": 0, 
+         "confidence": 0.6, 
+         "final": false
+      }, 
+      {
+         "from": 3.28, 
+         "to": 4.11, 
+         "speaker": 0, 
+         "confidence": 0.6, 
+         "final": false
+      }, 
+      {
+         "from": 4.37, 
+         "to": 4.47, 
+         "speaker": 0, 
+         "confidence": 0.607, 
+         "final": false
+      }, 
+      {
+         "from": 4.47, 
+         "to": 4.8, 
+         "speaker": 0, 
+         "confidence": 0.607, 
+         "final": false
+      }, 
+      {
+         "from": 4.8, 
+         "to": 4.92, 
+         "speaker": 0, 
+         "confidence": 0.607, 
+         "final": false
+      }, 
+      {
+         "from": 4.92, 
+         "to": 5.17, 
+         "speaker": 0, 
+         "confidence": 0.607, 
+         "final": false
+      }, 
+      {
+         "from": 5.17, 
+         "to": 5.28, 
+         "speaker": 0, 
+         "confidence": 0.607, 
+         "final": false
+      }, 
+      {
+         "from": 5.28, 
+         "to": 5.63, 
+         "speaker": 0, 
+         "confidence": 0.607, 
+         "final": false
+      }, 
+      {
+         "from": 6.17, 
+         "to": 6.3, 
+         "speaker": 1, 
+         "confidence": 0.566, 
+         "final": false
+      }, 
+      {
+         "from": 6.3, 
+         "to": 6.79, 
+         "speaker": 1, 
+         "confidence": 0.566, 
+         "final": false
+      }, 
+      {
+         "from": 6.82, 
+         "to": 7.1, 
+         "speaker": 1, 
+         "confidence": 0.523, 
+         "final": false
+      }, 
+      {
+         "from": 7.1, 
+         "to": 7.38, 
+         "speaker": 1, 
+         "confidence": 0.523, 
+         "final": false
+      }, 
+      {
+         "from": 7.41, 
+         "to": 7.9, 
+         "speaker": 1, 
+         "confidence": 0.595, 
+         "final": false
+      }, 
+      {
+         "from": 7.93, 
+         "to": 8.67, 
+         "speaker": 1, 
+         "confidence": 0.554, 
+         "final": false
+      }, 
+      {
+         "from": 8.67, 
+         "to": 8.85, 
+         "speaker": 1, 
+         "confidence": 0.554, 
+         "final": false
+      }, 
+      {
+         "from": 8.85, 
+         "to": 9.38, 
+         "speaker": 1, 
+         "confidence": 0.554, 
+         "final": true
+      }
+   ]
+}

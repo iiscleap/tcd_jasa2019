@@ -1,0 +1,377 @@
+{
+   "results": [
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "the", 
+                     0.19, 
+                     0.29
+                  ], 
+                  [
+                     "captain's", 
+                     0.29, 
+                     0.68
+                  ], 
+                  [
+                     "bragging", 
+                     0.68, 
+                     1.07
+                  ], 
+                  [
+                     "propensities", 
+                     1.07, 
+                     1.89
+                  ], 
+                  [
+                     "were", 
+                     1.89, 
+                     2.08
+                  ], 
+                  [
+                     "exercised", 
+                     2.08, 
+                     2.79
+                  ], 
+                  [
+                     "in", 
+                     2.79, 
+                     2.87
+                  ], 
+                  [
+                     "cracking", 
+                     2.87, 
+                     3.33
+                  ], 
+                  [
+                     "up", 
+                     3.33, 
+                     3.45
+                  ], 
+                  [
+                     "the", 
+                     3.45, 
+                     3.56
+                  ], 
+                  [
+                     "speed", 
+                     3.56, 
+                     3.88
+                  ], 
+                  [
+                     "of", 
+                     3.88, 
+                     3.95
+                  ], 
+                  [
+                     "his", 
+                     3.95, 
+                     4.09
+                  ], 
+                  [
+                     "boat", 
+                     4.09, 
+                     4.52
+                  ]
+               ], 
+               "confidence": 0.813, 
+               "transcript": "the captain's bragging propensities were exercised in cracking up the speed of his boat "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "always", 
+                     5.19, 
+                     5.63
+                  ], 
+                  [
+                     "repeating", 
+                     5.63, 
+                     6.18
+                  ], 
+                  [
+                     "that", 
+                     6.18, 
+                     6.34
+                  ], 
+                  [
+                     "I", 
+                     6.34, 
+                     6.44
+                  ], 
+                  [
+                     "was", 
+                     6.44, 
+                     6.63
+                  ], 
+                  [
+                     "quite", 
+                     6.63, 
+                     7.01
+                  ], 
+                  [
+                     "well", 
+                     7.01, 
+                     7.47
+                  ], 
+                  [
+                     "and", 
+                     7.62, 
+                     7.85
+                  ], 
+                  [
+                     "that", 
+                     7.85, 
+                     7.97
+                  ], 
+                  [
+                     "I", 
+                     7.97, 
+                     8.05
+                  ], 
+                  [
+                     "was", 
+                     8.05, 
+                     8.25
+                  ], 
+                  [
+                     "not", 
+                     8.25, 
+                     8.49
+                  ], 
+                  [
+                     "in", 
+                     8.49, 
+                     8.62
+                  ], 
+                  [
+                     "need", 
+                     8.62, 
+                     8.89
+                  ], 
+                  [
+                     "of", 
+                     8.89, 
+                     9.0
+                  ]
+               ], 
+               "confidence": 0.938, 
+               "transcript": "always repeating that I was quite well and that I was not in need of "
+            }
+         ], 
+         "final": true
+      }
+   ], 
+   "result_index": 0, 
+   "speaker_labels": [
+      {
+         "from": 0.19, 
+         "to": 0.29, 
+         "speaker": 0, 
+         "confidence": 0.5, 
+         "final": false
+      }, 
+      {
+         "from": 0.29, 
+         "to": 0.68, 
+         "speaker": 0, 
+         "confidence": 0.5, 
+         "final": false
+      }, 
+      {
+         "from": 0.68, 
+         "to": 1.07, 
+         "speaker": 0, 
+         "confidence": 0.5, 
+         "final": false
+      }, 
+      {
+         "from": 1.07, 
+         "to": 1.89, 
+         "speaker": 0, 
+         "confidence": 0.5, 
+         "final": false
+      }, 
+      {
+         "from": 1.89, 
+         "to": 2.08, 
+         "speaker": 0, 
+         "confidence": 0.5, 
+         "final": false
+      }, 
+      {
+         "from": 2.08, 
+         "to": 2.79, 
+         "speaker": 0, 
+         "confidence": 0.5, 
+         "final": false
+      }, 
+      {
+         "from": 2.79, 
+         "to": 2.87, 
+         "speaker": 0, 
+         "confidence": 0.5, 
+         "final": false
+      }, 
+      {
+         "from": 2.87, 
+         "to": 3.33, 
+         "speaker": 0, 
+         "confidence": 0.5, 
+         "final": false
+      }, 
+      {
+         "from": 3.33, 
+         "to": 3.45, 
+         "speaker": 0, 
+         "confidence": 0.5, 
+         "final": false
+      }, 
+      {
+         "from": 3.45, 
+         "to": 3.56, 
+         "speaker": 0, 
+         "confidence": 0.5, 
+         "final": false
+      }, 
+      {
+         "from": 3.56, 
+         "to": 3.88, 
+         "speaker": 0, 
+         "confidence": 0.5, 
+         "final": false
+      }, 
+      {
+         "from": 3.88, 
+         "to": 3.95, 
+         "speaker": 0, 
+         "confidence": 0.5, 
+         "final": false
+      }, 
+      {
+         "from": 3.95, 
+         "to": 4.09, 
+         "speaker": 0, 
+         "confidence": 0.5, 
+         "final": false
+      }, 
+      {
+         "from": 4.09, 
+         "to": 4.52, 
+         "speaker": 0, 
+         "confidence": 0.5, 
+         "final": false
+      }, 
+      {
+         "from": 5.19, 
+         "to": 5.63, 
+         "speaker": 1, 
+         "confidence": 0.474, 
+         "final": false
+      }, 
+      {
+         "from": 5.63, 
+         "to": 6.18, 
+         "speaker": 1, 
+         "confidence": 0.474, 
+         "final": false
+      }, 
+      {
+         "from": 6.18, 
+         "to": 6.34, 
+         "speaker": 1, 
+         "confidence": 0.474, 
+         "final": false
+      }, 
+      {
+         "from": 6.34, 
+         "to": 6.44, 
+         "speaker": 1, 
+         "confidence": 0.474, 
+         "final": false
+      }, 
+      {
+         "from": 6.44, 
+         "to": 6.63, 
+         "speaker": 1, 
+         "confidence": 0.474, 
+         "final": false
+      }, 
+      {
+         "from": 6.63, 
+         "to": 7.01, 
+         "speaker": 1, 
+         "confidence": 0.474, 
+         "final": false
+      }, 
+      {
+         "from": 7.01, 
+         "to": 7.47, 
+         "speaker": 1, 
+         "confidence": 0.474, 
+         "final": false
+      }, 
+      {
+         "from": 7.62, 
+         "to": 7.85, 
+         "speaker": 2, 
+         "confidence": 0.485, 
+         "final": false
+      }, 
+      {
+         "from": 7.85, 
+         "to": 7.97, 
+         "speaker": 2, 
+         "confidence": 0.485, 
+         "final": false
+      }, 
+      {
+         "from": 7.97, 
+         "to": 8.05, 
+         "speaker": 2, 
+         "confidence": 0.485, 
+         "final": false
+      }, 
+      {
+         "from": 8.05, 
+         "to": 8.25, 
+         "speaker": 2, 
+         "confidence": 0.485, 
+         "final": false
+      }, 
+      {
+         "from": 8.25, 
+         "to": 8.49, 
+         "speaker": 2, 
+         "confidence": 0.485, 
+         "final": false
+      }, 
+      {
+         "from": 8.49, 
+         "to": 8.62, 
+         "speaker": 2, 
+         "confidence": 0.485, 
+         "final": false
+      }, 
+      {
+         "from": 8.62, 
+         "to": 8.89, 
+         "speaker": 2, 
+         "confidence": 0.485, 
+         "final": false
+      }, 
+      {
+         "from": 8.89, 
+         "to": 9.0, 
+         "speaker": 2, 
+         "confidence": 0.485, 
+         "final": true
+      }
+   ]
+}

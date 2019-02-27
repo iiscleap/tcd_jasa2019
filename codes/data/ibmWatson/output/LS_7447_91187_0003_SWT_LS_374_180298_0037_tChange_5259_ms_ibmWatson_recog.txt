@@ -1,0 +1,351 @@
+{
+   "results": [
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "who", 
+                     0.24, 
+                     0.4
+                  ], 
+                  [
+                     "experts", 
+                     0.4, 
+                     0.86
+                  ]
+               ], 
+               "confidence": 0.942, 
+               "transcript": "who experts "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "Annika", 
+                     1.55, 
+                     1.87
+                  ], 
+                  [
+                     "vast", 
+                     1.87, 
+                     2.32
+                  ], 
+                  [
+                     "news", 
+                     2.32, 
+                     2.65
+                  ], 
+                  [
+                     "of", 
+                     2.68, 
+                     2.85
+                  ], 
+                  [
+                     "the", 
+                     2.85, 
+                     2.96
+                  ]
+               ], 
+               "confidence": 0.72, 
+               "transcript": "Annika vast news of the "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "Hey", 
+                     3.64, 
+                     3.93
+                  ], 
+                  [
+                     "and", 
+                     4.15, 
+                     4.32
+                  ]
+               ], 
+               "confidence": 0.54, 
+               "transcript": "Hey and "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "as", 
+                     4.77, 
+                     4.98
+                  ], 
+                  [
+                     "always", 
+                     5.17, 
+                     5.62
+                  ], 
+                  [
+                     "repeating", 
+                     5.62, 
+                     6.17
+                  ], 
+                  [
+                     "that", 
+                     6.17, 
+                     6.33
+                  ], 
+                  [
+                     "I", 
+                     6.33, 
+                     6.42
+                  ], 
+                  [
+                     "was", 
+                     6.42, 
+                     6.62
+                  ], 
+                  [
+                     "quite", 
+                     6.62, 
+                     6.99
+                  ], 
+                  [
+                     "well", 
+                     6.99, 
+                     7.45
+                  ], 
+                  [
+                     "and", 
+                     7.61, 
+                     7.84
+                  ], 
+                  [
+                     "that", 
+                     7.84, 
+                     7.96
+                  ], 
+                  [
+                     "I", 
+                     7.96, 
+                     8.04
+                  ], 
+                  [
+                     "was", 
+                     8.04, 
+                     8.23
+                  ], 
+                  [
+                     "not", 
+                     8.23, 
+                     8.48
+                  ], 
+                  [
+                     "in", 
+                     8.48, 
+                     8.6
+                  ], 
+                  [
+                     "need", 
+                     8.6, 
+                     8.88
+                  ], 
+                  [
+                     "of", 
+                     8.88, 
+                     8.99
+                  ]
+               ], 
+               "confidence": 0.92, 
+               "transcript": "as always repeating that I was quite well and that I was not in need of "
+            }
+         ], 
+         "final": true
+      }
+   ], 
+   "result_index": 0, 
+   "speaker_labels": [
+      {
+         "from": 0.24, 
+         "to": 0.4, 
+         "speaker": 0, 
+         "confidence": 0.5, 
+         "final": false
+      }, 
+      {
+         "from": 0.4, 
+         "to": 0.86, 
+         "speaker": 0, 
+         "confidence": 0.5, 
+         "final": false
+      }, 
+      {
+         "from": 1.55, 
+         "to": 1.87, 
+         "speaker": 2, 
+         "confidence": 0.409, 
+         "final": false
+      }, 
+      {
+         "from": 1.87, 
+         "to": 2.32, 
+         "speaker": 2, 
+         "confidence": 0.409, 
+         "final": false
+      }, 
+      {
+         "from": 2.32, 
+         "to": 2.65, 
+         "speaker": 2, 
+         "confidence": 0.409, 
+         "final": false
+      }, 
+      {
+         "from": 2.68, 
+         "to": 2.85, 
+         "speaker": 2, 
+         "confidence": 0.488, 
+         "final": false
+      }, 
+      {
+         "from": 2.85, 
+         "to": 2.96, 
+         "speaker": 2, 
+         "confidence": 0.488, 
+         "final": false
+      }, 
+      {
+         "from": 3.64, 
+         "to": 3.93, 
+         "speaker": 2, 
+         "confidence": 0.456, 
+         "final": false
+      }, 
+      {
+         "from": 4.15, 
+         "to": 4.32, 
+         "speaker": 2, 
+         "confidence": 0.34, 
+         "final": false
+      }, 
+      {
+         "from": 4.77, 
+         "to": 4.98, 
+         "speaker": 0, 
+         "confidence": 0.411, 
+         "final": false
+      }, 
+      {
+         "from": 5.17, 
+         "to": 5.62, 
+         "speaker": 1, 
+         "confidence": 0.492, 
+         "final": false
+      }, 
+      {
+         "from": 5.62, 
+         "to": 6.17, 
+         "speaker": 1, 
+         "confidence": 0.492, 
+         "final": false
+      }, 
+      {
+         "from": 6.17, 
+         "to": 6.33, 
+         "speaker": 1, 
+         "confidence": 0.492, 
+         "final": false
+      }, 
+      {
+         "from": 6.33, 
+         "to": 6.42, 
+         "speaker": 1, 
+         "confidence": 0.492, 
+         "final": false
+      }, 
+      {
+         "from": 6.42, 
+         "to": 6.62, 
+         "speaker": 1, 
+         "confidence": 0.492, 
+         "final": false
+      }, 
+      {
+         "from": 6.62, 
+         "to": 6.99, 
+         "speaker": 1, 
+         "confidence": 0.492, 
+         "final": false
+      }, 
+      {
+         "from": 6.99, 
+         "to": 7.45, 
+         "speaker": 1, 
+         "confidence": 0.492, 
+         "final": false
+      }, 
+      {
+         "from": 7.61, 
+         "to": 7.84, 
+         "speaker": 1, 
+         "confidence": 0.494, 
+         "final": false
+      }, 
+      {
+         "from": 7.84, 
+         "to": 7.96, 
+         "speaker": 1, 
+         "confidence": 0.494, 
+         "final": false
+      }, 
+      {
+         "from": 7.96, 
+         "to": 8.04, 
+         "speaker": 1, 
+         "confidence": 0.494, 
+         "final": false
+      }, 
+      {
+         "from": 8.04, 
+         "to": 8.23, 
+         "speaker": 1, 
+         "confidence": 0.494, 
+         "final": false
+      }, 
+      {
+         "from": 8.23, 
+         "to": 8.48, 
+         "speaker": 1, 
+         "confidence": 0.494, 
+         "final": false
+      }, 
+      {
+         "from": 8.48, 
+         "to": 8.6, 
+         "speaker": 1, 
+         "confidence": 0.494, 
+         "final": false
+      }, 
+      {
+         "from": 8.6, 
+         "to": 8.88, 
+         "speaker": 1, 
+         "confidence": 0.494, 
+         "final": false
+      }, 
+      {
+         "from": 8.88, 
+         "to": 8.99, 
+         "speaker": 1, 
+         "confidence": 0.494, 
+         "final": true
+      }
+   ]
+}

@@ -1,0 +1,397 @@
+{
+   "results": [
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "and", 
+                     0.18, 
+                     0.31
+                  ], 
+                  [
+                     "the", 
+                     0.31, 
+                     0.4
+                  ], 
+                  [
+                     "little", 
+                     0.4, 
+                     0.68
+                  ], 
+                  [
+                     "shops", 
+                     0.68, 
+                     1.23
+                  ], 
+                  [
+                     "along", 
+                     1.23, 
+                     1.57
+                  ], 
+                  [
+                     "the", 
+                     1.57, 
+                     1.68
+                  ], 
+                  [
+                     "type", 
+                     1.68, 
+                     2.01
+                  ], 
+                  [
+                     "or", 
+                     2.01, 
+                     2.31
+                  ], 
+                  [
+                     "or", 
+                     2.41, 
+                     2.76
+                  ], 
+                  [
+                     "in", 
+                     2.76, 
+                     2.9
+                  ], 
+                  [
+                     "the", 
+                     2.9, 
+                     3.0
+                  ], 
+                  [
+                     "Mercado", 
+                     3.0, 
+                     3.65
+                  ], 
+                  [
+                     "the", 
+                     3.65, 
+                     3.89
+                  ], 
+                  [
+                     "Fiori", 
+                     3.89, 
+                     4.63
+                  ]
+               ], 
+               "confidence": 0.708, 
+               "transcript": "and the little shops along the type or or in the Mercado the Fiori "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "that", 
+                     4.99, 
+                     5.23
+                  ], 
+                  [
+                     "was", 
+                     5.26, 
+                     5.47
+                  ], 
+                  [
+                     "his", 
+                     5.47, 
+                     5.74
+                  ]
+               ], 
+               "confidence": 0.906, 
+               "transcript": "that was his "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "he", 
+                     6.01, 
+                     6.17
+                  ], 
+                  [
+                     "had", 
+                     6.17, 
+                     6.45
+                  ], 
+                  [
+                     "not", 
+                     6.45, 
+                     6.6
+                  ]
+               ], 
+               "confidence": 0.748, 
+               "transcript": "he had not "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "reflection", 
+                     7.17, 
+                     7.81
+                  ]
+               ], 
+               "confidence": 1.0, 
+               "transcript": "reflection "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "that", 
+                     8.34, 
+                     8.58
+                  ], 
+                  [
+                     "site", 
+                     8.58, 
+                     8.85
+                  ]
+               ], 
+               "confidence": 0.382, 
+               "transcript": "that site "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "by", 
+                     9.04, 
+                     9.21
+                  ], 
+                  [
+                     "the", 
+                     9.21, 
+                     9.33
+                  ], 
+                  [
+                     "bed", 
+                     9.33, 
+                     9.57
+                  ], 
+                  [
+                     "so", 
+                     9.57, 
+                     9.74
+                  ]
+               ], 
+               "confidence": 0.751, 
+               "transcript": "by the bed so "
+            }
+         ], 
+         "final": true
+      }
+   ], 
+   "result_index": 0, 
+   "speaker_labels": [
+      {
+         "from": 0.18, 
+         "to": 0.31, 
+         "speaker": 0, 
+         "confidence": 0.667, 
+         "final": false
+      }, 
+      {
+         "from": 0.31, 
+         "to": 0.4, 
+         "speaker": 0, 
+         "confidence": 0.667, 
+         "final": false
+      }, 
+      {
+         "from": 0.4, 
+         "to": 0.68, 
+         "speaker": 0, 
+         "confidence": 0.667, 
+         "final": false
+      }, 
+      {
+         "from": 0.68, 
+         "to": 1.23, 
+         "speaker": 0, 
+         "confidence": 0.667, 
+         "final": false
+      }, 
+      {
+         "from": 1.23, 
+         "to": 1.57, 
+         "speaker": 0, 
+         "confidence": 0.667, 
+         "final": false
+      }, 
+      {
+         "from": 1.57, 
+         "to": 1.68, 
+         "speaker": 0, 
+         "confidence": 0.667, 
+         "final": false
+      }, 
+      {
+         "from": 1.68, 
+         "to": 2.01, 
+         "speaker": 0, 
+         "confidence": 0.667, 
+         "final": false
+      }, 
+      {
+         "from": 2.01, 
+         "to": 2.31, 
+         "speaker": 0, 
+         "confidence": 0.667, 
+         "final": false
+      }, 
+      {
+         "from": 2.41, 
+         "to": 2.76, 
+         "speaker": 0, 
+         "confidence": 0.424, 
+         "final": false
+      }, 
+      {
+         "from": 2.76, 
+         "to": 2.9, 
+         "speaker": 0, 
+         "confidence": 0.424, 
+         "final": false
+      }, 
+      {
+         "from": 2.9, 
+         "to": 3.0, 
+         "speaker": 0, 
+         "confidence": 0.424, 
+         "final": false
+      }, 
+      {
+         "from": 3.0, 
+         "to": 3.65, 
+         "speaker": 0, 
+         "confidence": 0.424, 
+         "final": false
+      }, 
+      {
+         "from": 3.65, 
+         "to": 3.89, 
+         "speaker": 0, 
+         "confidence": 0.424, 
+         "final": false
+      }, 
+      {
+         "from": 3.89, 
+         "to": 4.63, 
+         "speaker": 0, 
+         "confidence": 0.424, 
+         "final": false
+      }, 
+      {
+         "from": 4.99, 
+         "to": 5.23, 
+         "speaker": 2, 
+         "confidence": 0.413, 
+         "final": false
+      }, 
+      {
+         "from": 5.26, 
+         "to": 5.47, 
+         "speaker": 0, 
+         "confidence": 0.406, 
+         "final": false
+      }, 
+      {
+         "from": 5.47, 
+         "to": 5.74, 
+         "speaker": 0, 
+         "confidence": 0.406, 
+         "final": false
+      }, 
+      {
+         "from": 6.01, 
+         "to": 6.17, 
+         "speaker": 2, 
+         "confidence": 0.465, 
+         "final": false
+      }, 
+      {
+         "from": 6.17, 
+         "to": 6.45, 
+         "speaker": 2, 
+         "confidence": 0.465, 
+         "final": false
+      }, 
+      {
+         "from": 6.45, 
+         "to": 6.6, 
+         "speaker": 2, 
+         "confidence": 0.465, 
+         "final": false
+      }, 
+      {
+         "from": 7.17, 
+         "to": 7.81, 
+         "speaker": 1, 
+         "confidence": 0.388, 
+         "final": false
+      }, 
+      {
+         "from": 8.34, 
+         "to": 8.58, 
+         "speaker": 2, 
+         "confidence": 0.435, 
+         "final": false
+      }, 
+      {
+         "from": 8.58, 
+         "to": 8.85, 
+         "speaker": 2, 
+         "confidence": 0.435, 
+         "final": false
+      }, 
+      {
+         "from": 9.04, 
+         "to": 9.21, 
+         "speaker": 2, 
+         "confidence": 0.408, 
+         "final": false
+      }, 
+      {
+         "from": 9.21, 
+         "to": 9.33, 
+         "speaker": 2, 
+         "confidence": 0.408, 
+         "final": false
+      }, 
+      {
+         "from": 9.33, 
+         "to": 9.57, 
+         "speaker": 2, 
+         "confidence": 0.408, 
+         "final": false
+      }, 
+      {
+         "from": 9.57, 
+         "to": 9.74, 
+         "speaker": 2, 
+         "confidence": 0.408, 
+         "final": true
+      }
+   ]
+}

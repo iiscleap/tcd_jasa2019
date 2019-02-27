@@ -1,0 +1,269 @@
+{
+   "results": [
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "teacher", 
+                     0.18, 
+                     0.6
+                  ], 
+                  [
+                     "of", 
+                     0.6, 
+                     0.78
+                  ], 
+                  [
+                     "all", 
+                     0.82, 
+                     1.15
+                  ], 
+                  [
+                     "things", 
+                     1.15, 
+                     1.84
+                  ], 
+                  [
+                     "at", 
+                     2.36, 
+                     2.53
+                  ], 
+                  [
+                     "last", 
+                     2.53, 
+                     2.94
+                  ], 
+                  [
+                     "he", 
+                     2.94, 
+                     3.05
+                  ], 
+                  [
+                     "disappeared", 
+                     3.05, 
+                     3.83
+                  ], 
+                  [
+                     "in", 
+                     3.86, 
+                     3.99
+                  ], 
+                  [
+                     "the", 
+                     3.99, 
+                     4.07
+                  ], 
+                  [
+                     "western", 
+                     4.07, 
+                     4.44
+                  ], 
+                  [
+                     "ocean", 
+                     4.44, 
+                     4.86
+                  ]
+               ], 
+               "confidence": 0.946, 
+               "transcript": "teacher of all things at last he disappeared in the western ocean "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "the", 
+                     5.56, 
+                     5.69
+                  ], 
+                  [
+                     "basis", 
+                     5.69, 
+                     6.18
+                  ], 
+                  [
+                     "of", 
+                     6.21, 
+                     6.49
+                  ], 
+                  [
+                     "this", 
+                     6.49, 
+                     6.77
+                  ], 
+                  [
+                     "method", 
+                     6.8, 
+                     7.33
+                  ], 
+                  [
+                     "consisted", 
+                     7.33, 
+                     8.06
+                  ], 
+                  [
+                     "in", 
+                     8.06, 
+                     8.24
+                  ], 
+                  [
+                     "refined", 
+                     8.24, 
+                     8.77
+                  ]
+               ], 
+               "confidence": 0.991, 
+               "transcript": "the basis of this method consisted in refined "
+            }
+         ], 
+         "final": true
+      }
+   ], 
+   "result_index": 0, 
+   "speaker_labels": [
+      {
+         "from": 0.18, 
+         "to": 0.6, 
+         "speaker": 0, 
+         "confidence": 0.397, 
+         "final": false
+      }, 
+      {
+         "from": 0.6, 
+         "to": 0.78, 
+         "speaker": 0, 
+         "confidence": 0.397, 
+         "final": false
+      }, 
+      {
+         "from": 0.82, 
+         "to": 1.15, 
+         "speaker": 0, 
+         "confidence": 0.504, 
+         "final": false
+      }, 
+      {
+         "from": 1.15, 
+         "to": 1.84, 
+         "speaker": 0, 
+         "confidence": 0.504, 
+         "final": false
+      }, 
+      {
+         "from": 2.36, 
+         "to": 2.53, 
+         "speaker": 0, 
+         "confidence": 0.519, 
+         "final": false
+      }, 
+      {
+         "from": 2.53, 
+         "to": 2.94, 
+         "speaker": 0, 
+         "confidence": 0.519, 
+         "final": false
+      }, 
+      {
+         "from": 2.94, 
+         "to": 3.05, 
+         "speaker": 0, 
+         "confidence": 0.519, 
+         "final": false
+      }, 
+      {
+         "from": 3.05, 
+         "to": 3.83, 
+         "speaker": 0, 
+         "confidence": 0.519, 
+         "final": false
+      }, 
+      {
+         "from": 3.86, 
+         "to": 3.99, 
+         "speaker": 0, 
+         "confidence": 0.559, 
+         "final": false
+      }, 
+      {
+         "from": 3.99, 
+         "to": 4.07, 
+         "speaker": 0, 
+         "confidence": 0.559, 
+         "final": false
+      }, 
+      {
+         "from": 4.07, 
+         "to": 4.44, 
+         "speaker": 0, 
+         "confidence": 0.559, 
+         "final": false
+      }, 
+      {
+         "from": 4.44, 
+         "to": 4.86, 
+         "speaker": 0, 
+         "confidence": 0.559, 
+         "final": false
+      }, 
+      {
+         "from": 5.56, 
+         "to": 5.69, 
+         "speaker": 1, 
+         "confidence": 0.62, 
+         "final": false
+      }, 
+      {
+         "from": 5.69, 
+         "to": 6.18, 
+         "speaker": 1, 
+         "confidence": 0.62, 
+         "final": false
+      }, 
+      {
+         "from": 6.21, 
+         "to": 6.49, 
+         "speaker": 1, 
+         "confidence": 0.613, 
+         "final": false
+      }, 
+      {
+         "from": 6.49, 
+         "to": 6.77, 
+         "speaker": 1, 
+         "confidence": 0.613, 
+         "final": false
+      }, 
+      {
+         "from": 6.8, 
+         "to": 7.33, 
+         "speaker": 1, 
+         "confidence": 0.624, 
+         "final": false
+      }, 
+      {
+         "from": 7.33, 
+         "to": 8.06, 
+         "speaker": 1, 
+         "confidence": 0.624, 
+         "final": false
+      }, 
+      {
+         "from": 8.06, 
+         "to": 8.24, 
+         "speaker": 1, 
+         "confidence": 0.624, 
+         "final": false
+      }, 
+      {
+         "from": 8.24, 
+         "to": 8.77, 
+         "speaker": 1, 
+         "confidence": 0.624, 
+         "final": true
+      }
+   ]
+}

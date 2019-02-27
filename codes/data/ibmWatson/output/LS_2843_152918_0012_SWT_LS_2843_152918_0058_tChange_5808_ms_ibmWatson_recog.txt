@@ -1,0 +1,377 @@
+{
+   "results": [
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "the", 
+                     0.37, 
+                     0.46
+                  ], 
+                  [
+                     "dogs", 
+                     0.46, 
+                     0.81
+                  ], 
+                  [
+                     "were", 
+                     0.81, 
+                     0.94
+                  ], 
+                  [
+                     "not", 
+                     0.94, 
+                     1.16
+                  ], 
+                  [
+                     "much", 
+                     1.16, 
+                     1.36
+                  ], 
+                  [
+                     "inclined", 
+                     1.36, 
+                     1.83
+                  ], 
+                  [
+                     "to", 
+                     1.83, 
+                     1.94
+                  ], 
+                  [
+                     "start", 
+                     1.94, 
+                     2.46
+                  ], 
+                  [
+                     "and", 
+                     2.85, 
+                     3.03
+                  ], 
+                  [
+                     "it", 
+                     3.03, 
+                     3.15
+                  ], 
+                  [
+                     "took", 
+                     3.15, 
+                     3.35
+                  ], 
+                  [
+                     "time", 
+                     3.35, 
+                     3.69
+                  ], 
+                  [
+                     "to", 
+                     3.69, 
+                     3.81
+                  ], 
+                  [
+                     "get", 
+                     3.81, 
+                     4.01
+                  ], 
+                  [
+                     "them", 
+                     4.01, 
+                     4.27
+                  ], 
+                  [
+                     "into", 
+                     4.27, 
+                     4.55
+                  ], 
+                  [
+                     "their", 
+                     4.55, 
+                     4.73
+                  ], 
+                  [
+                     "harness", 
+                     4.73, 
+                     5.34
+                  ]
+               ], 
+               "confidence": 0.92, 
+               "transcript": "the dogs were not much inclined to start and it took time to get them into their harness "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "but", 
+                     5.75, 
+                     5.88
+                  ], 
+                  [
+                     "the", 
+                     5.88, 
+                     5.97
+                  ], 
+                  [
+                     "day", 
+                     5.97, 
+                     6.22
+                  ], 
+                  [
+                     "did", 
+                     6.22, 
+                     6.38
+                  ], 
+                  [
+                     "not", 
+                     6.38, 
+                     6.64
+                  ], 
+                  [
+                     "turn", 
+                     6.64, 
+                     6.87
+                  ], 
+                  [
+                     "out", 
+                     6.87, 
+                     7.09
+                  ], 
+                  [
+                     "so", 
+                     7.09, 
+                     7.24
+                  ], 
+                  [
+                     "badly", 
+                     7.24, 
+                     7.7
+                  ], 
+                  [
+                     "after", 
+                     7.7, 
+                     8.05
+                  ], 
+                  [
+                     "all", 
+                     8.05, 
+                     8.52
+                  ]
+               ], 
+               "confidence": 0.897, 
+               "transcript": "but the day did not turn out so badly after all "
+            }
+         ], 
+         "final": true
+      }
+   ], 
+   "result_index": 0, 
+   "speaker_labels": [
+      {
+         "from": 0.37, 
+         "to": 0.46, 
+         "speaker": 0, 
+         "confidence": 0.667, 
+         "final": false
+      }, 
+      {
+         "from": 0.46, 
+         "to": 0.81, 
+         "speaker": 0, 
+         "confidence": 0.667, 
+         "final": false
+      }, 
+      {
+         "from": 0.81, 
+         "to": 0.94, 
+         "speaker": 0, 
+         "confidence": 0.667, 
+         "final": false
+      }, 
+      {
+         "from": 0.94, 
+         "to": 1.16, 
+         "speaker": 0, 
+         "confidence": 0.667, 
+         "final": false
+      }, 
+      {
+         "from": 1.16, 
+         "to": 1.36, 
+         "speaker": 0, 
+         "confidence": 0.667, 
+         "final": false
+      }, 
+      {
+         "from": 1.36, 
+         "to": 1.83, 
+         "speaker": 0, 
+         "confidence": 0.667, 
+         "final": false
+      }, 
+      {
+         "from": 1.83, 
+         "to": 1.94, 
+         "speaker": 0, 
+         "confidence": 0.667, 
+         "final": false
+      }, 
+      {
+         "from": 1.94, 
+         "to": 2.46, 
+         "speaker": 0, 
+         "confidence": 0.667, 
+         "final": false
+      }, 
+      {
+         "from": 2.85, 
+         "to": 3.03, 
+         "speaker": 0, 
+         "confidence": 0.556, 
+         "final": false
+      }, 
+      {
+         "from": 3.03, 
+         "to": 3.15, 
+         "speaker": 0, 
+         "confidence": 0.556, 
+         "final": false
+      }, 
+      {
+         "from": 3.15, 
+         "to": 3.35, 
+         "speaker": 0, 
+         "confidence": 0.556, 
+         "final": false
+      }, 
+      {
+         "from": 3.35, 
+         "to": 3.69, 
+         "speaker": 0, 
+         "confidence": 0.556, 
+         "final": false
+      }, 
+      {
+         "from": 3.69, 
+         "to": 3.81, 
+         "speaker": 0, 
+         "confidence": 0.556, 
+         "final": false
+      }, 
+      {
+         "from": 3.81, 
+         "to": 4.01, 
+         "speaker": 0, 
+         "confidence": 0.556, 
+         "final": false
+      }, 
+      {
+         "from": 4.01, 
+         "to": 4.27, 
+         "speaker": 0, 
+         "confidence": 0.556, 
+         "final": false
+      }, 
+      {
+         "from": 4.27, 
+         "to": 4.55, 
+         "speaker": 0, 
+         "confidence": 0.556, 
+         "final": false
+      }, 
+      {
+         "from": 4.55, 
+         "to": 4.73, 
+         "speaker": 0, 
+         "confidence": 0.556, 
+         "final": false
+      }, 
+      {
+         "from": 4.73, 
+         "to": 5.34, 
+         "speaker": 0, 
+         "confidence": 0.556, 
+         "final": false
+      }, 
+      {
+         "from": 5.75, 
+         "to": 5.88, 
+         "speaker": 1, 
+         "confidence": 0.667, 
+         "final": false
+      }, 
+      {
+         "from": 5.88, 
+         "to": 5.97, 
+         "speaker": 1, 
+         "confidence": 0.667, 
+         "final": false
+      }, 
+      {
+         "from": 5.97, 
+         "to": 6.22, 
+         "speaker": 1, 
+         "confidence": 0.667, 
+         "final": false
+      }, 
+      {
+         "from": 6.22, 
+         "to": 6.38, 
+         "speaker": 1, 
+         "confidence": 0.667, 
+         "final": false
+      }, 
+      {
+         "from": 6.38, 
+         "to": 6.64, 
+         "speaker": 1, 
+         "confidence": 0.667, 
+         "final": false
+      }, 
+      {
+         "from": 6.64, 
+         "to": 6.87, 
+         "speaker": 1, 
+         "confidence": 0.667, 
+         "final": false
+      }, 
+      {
+         "from": 6.87, 
+         "to": 7.09, 
+         "speaker": 1, 
+         "confidence": 0.667, 
+         "final": false
+      }, 
+      {
+         "from": 7.09, 
+         "to": 7.24, 
+         "speaker": 1, 
+         "confidence": 0.667, 
+         "final": false
+      }, 
+      {
+         "from": 7.24, 
+         "to": 7.7, 
+         "speaker": 1, 
+         "confidence": 0.667, 
+         "final": false
+      }, 
+      {
+         "from": 7.7, 
+         "to": 8.05, 
+         "speaker": 1, 
+         "confidence": 0.667, 
+         "final": false
+      }, 
+      {
+         "from": 8.05, 
+         "to": 8.52, 
+         "speaker": 1, 
+         "confidence": 0.667, 
+         "final": true
+      }
+   ]
+}

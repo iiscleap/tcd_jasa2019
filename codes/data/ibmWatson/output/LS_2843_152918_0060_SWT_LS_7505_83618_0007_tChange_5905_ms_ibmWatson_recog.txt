@@ -1,0 +1,281 @@
+{
+   "results": [
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "on", 
+                     0.35, 
+                     0.52
+                  ], 
+                  [
+                     "the", 
+                     0.52, 
+                     0.61
+                  ], 
+                  [
+                     "side", 
+                     0.61, 
+                     1.16
+                  ], 
+                  [
+                     "nearest", 
+                     1.19, 
+                     1.63
+                  ], 
+                  [
+                     "to", 
+                     1.63, 
+                     1.73
+                  ], 
+                  [
+                     "the", 
+                     1.73, 
+                     1.84
+                  ], 
+                  [
+                     "mountain", 
+                     1.84, 
+                     2.38
+                  ], 
+                  [
+                     "these", 
+                     2.54, 
+                     2.78
+                  ], 
+                  [
+                     "disturbances", 
+                     2.78, 
+                     3.84
+                  ], 
+                  [
+                     "were", 
+                     3.87, 
+                     4.02
+                  ], 
+                  [
+                     "such", 
+                     4.02, 
+                     4.41
+                  ], 
+                  [
+                     "that", 
+                     4.41, 
+                     4.6
+                  ], 
+                  [
+                     "a", 
+                     4.6, 
+                     4.65
+                  ], 
+                  [
+                     "hasty", 
+                     4.65, 
+                     5.07
+                  ], 
+                  [
+                     "glance", 
+                     5.07, 
+                     5.65
+                  ], 
+                  [
+                     "but", 
+                     5.82, 
+                     6.01
+                  ], 
+                  [
+                     "in", 
+                     6.01, 
+                     6.14
+                  ], 
+                  [
+                     "psychology", 
+                     6.14, 
+                     7.25
+                  ]
+               ], 
+               "confidence": 0.885, 
+               "transcript": "on the side nearest to the mountain these disturbances were such that a hasty glance but in psychology "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "man", 
+                     7.93, 
+                     8.52
+                  ], 
+                  [
+                     "chiefly", 
+                     8.69, 
+                     9.08
+                  ], 
+                  [
+                     "cognizant", 
+                     9.08, 
+                     9.63
+                  ]
+               ], 
+               "confidence": 0.856, 
+               "transcript": "man chiefly cognizant "
+            }
+         ], 
+         "final": true
+      }
+   ], 
+   "result_index": 0, 
+   "speaker_labels": [
+      {
+         "from": 0.35, 
+         "to": 0.52, 
+         "speaker": 0, 
+         "confidence": 0.443, 
+         "final": false
+      }, 
+      {
+         "from": 0.52, 
+         "to": 0.61, 
+         "speaker": 0, 
+         "confidence": 0.443, 
+         "final": false
+      }, 
+      {
+         "from": 0.61, 
+         "to": 1.16, 
+         "speaker": 0, 
+         "confidence": 0.443, 
+         "final": false
+      }, 
+      {
+         "from": 1.19, 
+         "to": 1.63, 
+         "speaker": 0, 
+         "confidence": 0.583, 
+         "final": false
+      }, 
+      {
+         "from": 1.63, 
+         "to": 1.73, 
+         "speaker": 0, 
+         "confidence": 0.583, 
+         "final": false
+      }, 
+      {
+         "from": 1.73, 
+         "to": 1.84, 
+         "speaker": 0, 
+         "confidence": 0.583, 
+         "final": false
+      }, 
+      {
+         "from": 1.84, 
+         "to": 2.38, 
+         "speaker": 0, 
+         "confidence": 0.583, 
+         "final": false
+      }, 
+      {
+         "from": 2.54, 
+         "to": 2.78, 
+         "speaker": 0, 
+         "confidence": 0.556, 
+         "final": false
+      }, 
+      {
+         "from": 2.78, 
+         "to": 3.84, 
+         "speaker": 0, 
+         "confidence": 0.556, 
+         "final": false
+      }, 
+      {
+         "from": 3.87, 
+         "to": 4.02, 
+         "speaker": 0, 
+         "confidence": 0.437, 
+         "final": false
+      }, 
+      {
+         "from": 4.02, 
+         "to": 4.41, 
+         "speaker": 0, 
+         "confidence": 0.437, 
+         "final": false
+      }, 
+      {
+         "from": 4.41, 
+         "to": 4.6, 
+         "speaker": 0, 
+         "confidence": 0.437, 
+         "final": false
+      }, 
+      {
+         "from": 4.6, 
+         "to": 4.65, 
+         "speaker": 0, 
+         "confidence": 0.437, 
+         "final": false
+      }, 
+      {
+         "from": 4.65, 
+         "to": 5.07, 
+         "speaker": 0, 
+         "confidence": 0.437, 
+         "final": false
+      }, 
+      {
+         "from": 5.07, 
+         "to": 5.65, 
+         "speaker": 0, 
+         "confidence": 0.437, 
+         "final": false
+      }, 
+      {
+         "from": 5.82, 
+         "to": 6.01, 
+         "speaker": 2, 
+         "confidence": 0.523, 
+         "final": false
+      }, 
+      {
+         "from": 6.01, 
+         "to": 6.14, 
+         "speaker": 2, 
+         "confidence": 0.523, 
+         "final": false
+      }, 
+      {
+         "from": 6.14, 
+         "to": 7.25, 
+         "speaker": 2, 
+         "confidence": 0.523, 
+         "final": false
+      }, 
+      {
+         "from": 7.93, 
+         "to": 8.52, 
+         "speaker": 2, 
+         "confidence": 0.529, 
+         "final": false
+      }, 
+      {
+         "from": 8.69, 
+         "to": 9.08, 
+         "speaker": 2, 
+         "confidence": 0.596, 
+         "final": false
+      }, 
+      {
+         "from": 9.08, 
+         "to": 9.63, 
+         "speaker": 2, 
+         "confidence": 0.596, 
+         "final": true
+      }
+   ]
+}

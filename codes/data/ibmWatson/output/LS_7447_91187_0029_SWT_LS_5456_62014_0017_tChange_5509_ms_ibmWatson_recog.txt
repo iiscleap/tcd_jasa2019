@@ -1,0 +1,279 @@
+{
+   "results": [
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "so", 
+                     0.16, 
+                     0.49
+                  ], 
+                  [
+                     "may", 
+                     0.49, 
+                     0.64
+                  ]
+               ], 
+               "confidence": 0.805, 
+               "transcript": "so may "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "and", 
+                     0.91, 
+                     1.1
+                  ], 
+                  [
+                     "so", 
+                     1.1, 
+                     1.45
+                  ], 
+                  [
+                     "eloquent", 
+                     1.45, 
+                     2.18
+                  ], 
+                  [
+                     "have", 
+                     2.18, 
+                     2.39
+                  ], 
+                  [
+                     "been", 
+                     2.39, 
+                     2.53
+                  ]
+               ], 
+               "confidence": 0.987, 
+               "transcript": "and so eloquent have been "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "the", 
+                     2.68, 
+                     2.77
+                  ], 
+                  [
+                     "descriptions", 
+                     2.77, 
+                     3.55
+                  ]
+               ], 
+               "confidence": 0.945, 
+               "transcript": "the descriptions "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "and", 
+                     5.46, 
+                     5.64
+                  ], 
+                  [
+                     "did", 
+                     5.64, 
+                     5.78
+                  ], 
+                  [
+                     "he", 
+                     5.78, 
+                     5.93
+                  ], 
+                  [
+                     "ever", 
+                     5.93, 
+                     6.12
+                  ], 
+                  [
+                     "come", 
+                     6.12, 
+                     6.34
+                  ], 
+                  [
+                     "back", 
+                     6.34, 
+                     6.63
+                  ], 
+                  [
+                     "said", 
+                     6.77, 
+                     7.14
+                  ], 
+                  [
+                     "Ned", 
+                     7.14, 
+                     7.52
+                  ], 
+                  [
+                     "Nossa", 
+                     7.93, 
+                     8.64
+                  ], 
+                  [
+                     "Daddy", 
+                     8.8, 
+                     9.09
+                  ]
+               ], 
+               "confidence": 0.681, 
+               "transcript": "and did he ever come back said Ned Nossa Daddy "
+            }
+         ], 
+         "final": true
+      }
+   ], 
+   "result_index": 0, 
+   "speaker_labels": [
+      {
+         "from": 0.16, 
+         "to": 0.49, 
+         "speaker": 0, 
+         "confidence": 0.5, 
+         "final": false
+      }, 
+      {
+         "from": 0.49, 
+         "to": 0.64, 
+         "speaker": 0, 
+         "confidence": 0.5, 
+         "final": false
+      }, 
+      {
+         "from": 0.91, 
+         "to": 1.1, 
+         "speaker": 0, 
+         "confidence": 0.515, 
+         "final": false
+      }, 
+      {
+         "from": 1.1, 
+         "to": 1.45, 
+         "speaker": 0, 
+         "confidence": 0.515, 
+         "final": false
+      }, 
+      {
+         "from": 1.45, 
+         "to": 2.18, 
+         "speaker": 0, 
+         "confidence": 0.515, 
+         "final": false
+      }, 
+      {
+         "from": 2.18, 
+         "to": 2.39, 
+         "speaker": 0, 
+         "confidence": 0.515, 
+         "final": false
+      }, 
+      {
+         "from": 2.39, 
+         "to": 2.53, 
+         "speaker": 0, 
+         "confidence": 0.515, 
+         "final": false
+      }, 
+      {
+         "from": 2.68, 
+         "to": 2.77, 
+         "speaker": 0, 
+         "confidence": 0.621, 
+         "final": false
+      }, 
+      {
+         "from": 2.77, 
+         "to": 3.55, 
+         "speaker": 0, 
+         "confidence": 0.621, 
+         "final": false
+      }, 
+      {
+         "from": 5.46, 
+         "to": 5.64, 
+         "speaker": 1, 
+         "confidence": 0.555, 
+         "final": false
+      }, 
+      {
+         "from": 5.64, 
+         "to": 5.78, 
+         "speaker": 1, 
+         "confidence": 0.555, 
+         "final": false
+      }, 
+      {
+         "from": 5.78, 
+         "to": 5.93, 
+         "speaker": 1, 
+         "confidence": 0.555, 
+         "final": false
+      }, 
+      {
+         "from": 5.93, 
+         "to": 6.12, 
+         "speaker": 1, 
+         "confidence": 0.555, 
+         "final": false
+      }, 
+      {
+         "from": 6.12, 
+         "to": 6.34, 
+         "speaker": 1, 
+         "confidence": 0.555, 
+         "final": false
+      }, 
+      {
+         "from": 6.34, 
+         "to": 6.63, 
+         "speaker": 1, 
+         "confidence": 0.555, 
+         "final": false
+      }, 
+      {
+         "from": 6.77, 
+         "to": 7.14, 
+         "speaker": 1, 
+         "confidence": 0.518, 
+         "final": false
+      }, 
+      {
+         "from": 7.14, 
+         "to": 7.52, 
+         "speaker": 1, 
+         "confidence": 0.518, 
+         "final": false
+      }, 
+      {
+         "from": 7.93, 
+         "to": 8.64, 
+         "speaker": 1, 
+         "confidence": 0.532, 
+         "final": false
+      }, 
+      {
+         "from": 8.8, 
+         "to": 9.09, 
+         "speaker": 1, 
+         "confidence": 0.533, 
+         "final": true
+      }
+   ]
+}

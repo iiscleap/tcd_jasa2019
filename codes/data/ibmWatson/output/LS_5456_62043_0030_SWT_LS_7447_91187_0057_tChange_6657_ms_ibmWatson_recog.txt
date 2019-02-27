@@ -1,0 +1,364 @@
+{
+   "results": [
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "it", 
+                     0.42, 
+                     0.56
+                  ], 
+                  [
+                     "appears", 
+                     0.56, 
+                     0.94
+                  ], 
+                  [
+                     "the", 
+                     0.94, 
+                     1.03
+                  ], 
+                  [
+                     "two", 
+                     1.03, 
+                     1.22
+                  ], 
+                  [
+                     "passengers", 
+                     1.22, 
+                     2.02
+                  ], 
+                  [
+                     "and", 
+                     2.05, 
+                     2.19
+                  ], 
+                  [
+                     "their", 
+                     2.19, 
+                     2.31
+                  ], 
+                  [
+                     "first", 
+                     2.31, 
+                     2.67
+                  ], 
+                  [
+                     "lesson", 
+                     2.67, 
+                     3.13
+                  ], 
+                  [
+                     "had", 
+                     3.47, 
+                     3.67
+                  ], 
+                  [
+                     "incidentally", 
+                     3.67, 
+                     4.32
+                  ], 
+                  [
+                     "lost", 
+                     4.32, 
+                     4.69
+                  ], 
+                  [
+                     "one", 
+                     4.69, 
+                     4.83
+                  ], 
+                  [
+                     "hundred", 
+                     4.83, 
+                     5.09
+                  ], 
+                  [
+                     "and", 
+                     5.09, 
+                     5.18
+                  ], 
+                  [
+                     "twenty", 
+                     5.18, 
+                     5.47
+                  ], 
+                  [
+                     "dollars", 
+                     5.47, 
+                     6.08
+                  ], 
+                  [
+                     "it's", 
+                     6.59, 
+                     6.86
+                  ], 
+                  [
+                     "leaves", 
+                     6.86, 
+                     7.26
+                  ], 
+                  [
+                     "tree", 
+                     7.26, 
+                     7.54
+                  ]
+               ], 
+               "confidence": 0.903, 
+               "transcript": "it appears the two passengers and their first lesson had incidentally lost one hundred and twenty dollars it's leaves tree "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "with", 
+                     7.72, 
+                     7.96
+                  ], 
+                  [
+                     "every", 
+                     7.96, 
+                     8.31
+                  ]
+               ], 
+               "confidence": 0.96, 
+               "transcript": "with every "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "and", 
+                     9.04, 
+                     9.34
+                  ], 
+                  [
+                     "but", 
+                     9.53, 
+                     9.7
+                  ], 
+                  [
+                     "the", 
+                     9.7, 
+                     9.79
+                  ], 
+                  [
+                     "tree", 
+                     9.79, 
+                     10.06
+                  ], 
+                  [
+                     "trimming", 
+                     10.06, 
+                     10.3
+                  ]
+               ], 
+               "confidence": 0.681, 
+               "transcript": "and but the tree trimming "
+            }
+         ], 
+         "final": true
+      }
+   ], 
+   "result_index": 0, 
+   "speaker_labels": [
+      {
+         "from": 0.42, 
+         "to": 0.56, 
+         "speaker": 1, 
+         "confidence": 0.533, 
+         "final": false
+      }, 
+      {
+         "from": 0.56, 
+         "to": 0.94, 
+         "speaker": 1, 
+         "confidence": 0.533, 
+         "final": false
+      }, 
+      {
+         "from": 0.94, 
+         "to": 1.03, 
+         "speaker": 1, 
+         "confidence": 0.533, 
+         "final": false
+      }, 
+      {
+         "from": 1.03, 
+         "to": 1.22, 
+         "speaker": 1, 
+         "confidence": 0.533, 
+         "final": false
+      }, 
+      {
+         "from": 1.22, 
+         "to": 2.02, 
+         "speaker": 1, 
+         "confidence": 0.533, 
+         "final": false
+      }, 
+      {
+         "from": 2.05, 
+         "to": 2.19, 
+         "speaker": 1, 
+         "confidence": 0.453, 
+         "final": false
+      }, 
+      {
+         "from": 2.19, 
+         "to": 2.31, 
+         "speaker": 1, 
+         "confidence": 0.453, 
+         "final": false
+      }, 
+      {
+         "from": 2.31, 
+         "to": 2.67, 
+         "speaker": 1, 
+         "confidence": 0.453, 
+         "final": false
+      }, 
+      {
+         "from": 2.67, 
+         "to": 3.13, 
+         "speaker": 1, 
+         "confidence": 0.453, 
+         "final": false
+      }, 
+      {
+         "from": 3.47, 
+         "to": 3.67, 
+         "speaker": 1, 
+         "confidence": 0.413, 
+         "final": false
+      }, 
+      {
+         "from": 3.67, 
+         "to": 4.32, 
+         "speaker": 1, 
+         "confidence": 0.413, 
+         "final": false
+      }, 
+      {
+         "from": 4.32, 
+         "to": 4.69, 
+         "speaker": 1, 
+         "confidence": 0.413, 
+         "final": false
+      }, 
+      {
+         "from": 4.69, 
+         "to": 4.83, 
+         "speaker": 1, 
+         "confidence": 0.413, 
+         "final": false
+      }, 
+      {
+         "from": 4.83, 
+         "to": 5.09, 
+         "speaker": 1, 
+         "confidence": 0.413, 
+         "final": false
+      }, 
+      {
+         "from": 5.09, 
+         "to": 5.18, 
+         "speaker": 1, 
+         "confidence": 0.413, 
+         "final": false
+      }, 
+      {
+         "from": 5.18, 
+         "to": 5.47, 
+         "speaker": 1, 
+         "confidence": 0.413, 
+         "final": false
+      }, 
+      {
+         "from": 5.47, 
+         "to": 6.08, 
+         "speaker": 1, 
+         "confidence": 0.413, 
+         "final": false
+      }, 
+      {
+         "from": 6.59, 
+         "to": 6.86, 
+         "speaker": 2, 
+         "confidence": 0.499, 
+         "final": false
+      }, 
+      {
+         "from": 6.86, 
+         "to": 7.26, 
+         "speaker": 2, 
+         "confidence": 0.499, 
+         "final": false
+      }, 
+      {
+         "from": 7.26, 
+         "to": 7.54, 
+         "speaker": 2, 
+         "confidence": 0.499, 
+         "final": false
+      }, 
+      {
+         "from": 7.72, 
+         "to": 7.96, 
+         "speaker": 2, 
+         "confidence": 0.483, 
+         "final": false
+      }, 
+      {
+         "from": 7.96, 
+         "to": 8.31, 
+         "speaker": 2, 
+         "confidence": 0.483, 
+         "final": false
+      }, 
+      {
+         "from": 9.04, 
+         "to": 9.34, 
+         "speaker": 2, 
+         "confidence": 0.539, 
+         "final": false
+      }, 
+      {
+         "from": 9.53, 
+         "to": 9.7, 
+         "speaker": 2, 
+         "confidence": 0.568, 
+         "final": false
+      }, 
+      {
+         "from": 9.7, 
+         "to": 9.79, 
+         "speaker": 2, 
+         "confidence": 0.568, 
+         "final": false
+      }, 
+      {
+         "from": 9.79, 
+         "to": 10.06, 
+         "speaker": 2, 
+         "confidence": 0.568, 
+         "final": false
+      }, 
+      {
+         "from": 10.06, 
+         "to": 10.3, 
+         "speaker": 2, 
+         "confidence": 0.568, 
+         "final": true
+      }
+   ]
+}

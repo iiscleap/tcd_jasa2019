@@ -1,0 +1,347 @@
+{
+   "results": [
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "rip", 
+                     0.21, 
+                     0.46
+                  ]
+               ], 
+               "confidence": 1.0, 
+               "transcript": "rip "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "sent", 
+                     0.57, 
+                     0.83
+                  ], 
+                  [
+                     "it", 
+                     0.86, 
+                     0.98
+                  ], 
+                  [
+                     "to", 
+                     0.98, 
+                     1.21
+                  ]
+               ], 
+               "confidence": 0.632, 
+               "transcript": "sent it to "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "type", 
+                     1.36, 
+                     1.6
+                  ], 
+                  [
+                     "switch", 
+                     1.6, 
+                     1.96
+                  ], 
+                  [
+                     "run", 
+                     1.96, 
+                     2.2
+                  ]
+               ], 
+               "confidence": 0.331, 
+               "transcript": "type switch run "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "%HESITATION", 
+                     3.02, 
+                     3.07
+                  ], 
+                  [
+                     "history", 
+                     3.07, 
+                     3.57
+                  ], 
+                  [
+                     "of", 
+                     3.57, 
+                     3.68
+                  ], 
+                  [
+                     "the", 
+                     3.68, 
+                     3.77
+                  ]
+               ], 
+               "confidence": 0.92, 
+               "transcript": "%HESITATION history of the "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "more", 
+                     5.5, 
+                     5.74
+                  ], 
+                  [
+                     "intimate", 
+                     5.77, 
+                     6.4
+                  ]
+               ], 
+               "confidence": 0.998, 
+               "transcript": "more intimate "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "to", 
+                     7.68, 
+                     7.92
+                  ], 
+                  [
+                     "show", 
+                     7.92, 
+                     8.25
+                  ]
+               ], 
+               "confidence": 0.995, 
+               "transcript": "to show "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "that", 
+                     8.49, 
+                     8.67
+                  ], 
+                  [
+                     "the", 
+                     8.67, 
+                     8.76
+                  ], 
+                  [
+                     "P.", 
+                     8.76, 
+                     8.92
+                  ]
+               ], 
+               "confidence": 0.379, 
+               "transcript": "that the P. "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "you", 
+                     9.37, 
+                     9.63
+                  ], 
+                  [
+                     "could", 
+                     9.9, 
+                     10.08
+                  ], 
+                  [
+                     "produce", 
+                     10.08, 
+                     10.51
+                  ]
+               ], 
+               "confidence": 0.752, 
+               "transcript": "you could produce "
+            }
+         ], 
+         "final": true
+      }
+   ], 
+   "result_index": 0, 
+   "speaker_labels": [
+      {
+         "from": 0.21, 
+         "to": 0.46, 
+         "speaker": 0, 
+         "confidence": 0.5, 
+         "final": false
+      }, 
+      {
+         "from": 0.57, 
+         "to": 0.83, 
+         "speaker": 1, 
+         "confidence": 0.36, 
+         "final": false
+      }, 
+      {
+         "from": 0.86, 
+         "to": 0.98, 
+         "speaker": 1, 
+         "confidence": 0.602, 
+         "final": false
+      }, 
+      {
+         "from": 0.98, 
+         "to": 1.21, 
+         "speaker": 1, 
+         "confidence": 0.602, 
+         "final": false
+      }, 
+      {
+         "from": 1.36, 
+         "to": 1.6, 
+         "speaker": 1, 
+         "confidence": 0.483, 
+         "final": false
+      }, 
+      {
+         "from": 1.6, 
+         "to": 1.96, 
+         "speaker": 1, 
+         "confidence": 0.483, 
+         "final": false
+      }, 
+      {
+         "from": 1.96, 
+         "to": 2.2, 
+         "speaker": 1, 
+         "confidence": 0.483, 
+         "final": false
+      }, 
+      {
+         "from": 3.02, 
+         "to": 3.07, 
+         "speaker": 1, 
+         "confidence": 0.458, 
+         "final": false
+      }, 
+      {
+         "from": 3.07, 
+         "to": 3.57, 
+         "speaker": 1, 
+         "confidence": 0.458, 
+         "final": false
+      }, 
+      {
+         "from": 3.57, 
+         "to": 3.68, 
+         "speaker": 1, 
+         "confidence": 0.458, 
+         "final": false
+      }, 
+      {
+         "from": 3.68, 
+         "to": 3.77, 
+         "speaker": 1, 
+         "confidence": 0.458, 
+         "final": false
+      }, 
+      {
+         "from": 5.5, 
+         "to": 5.74, 
+         "speaker": 0, 
+         "confidence": 0.582, 
+         "final": false
+      }, 
+      {
+         "from": 5.77, 
+         "to": 6.4, 
+         "speaker": 1, 
+         "confidence": 0.459, 
+         "final": false
+      }, 
+      {
+         "from": 7.68, 
+         "to": 7.92, 
+         "speaker": 1, 
+         "confidence": 0.518, 
+         "final": false
+      }, 
+      {
+         "from": 7.92, 
+         "to": 8.25, 
+         "speaker": 1, 
+         "confidence": 0.518, 
+         "final": false
+      }, 
+      {
+         "from": 8.49, 
+         "to": 8.67, 
+         "speaker": 0, 
+         "confidence": 0.571, 
+         "final": false
+      }, 
+      {
+         "from": 8.67, 
+         "to": 8.76, 
+         "speaker": 0, 
+         "confidence": 0.571, 
+         "final": false
+      }, 
+      {
+         "from": 8.76, 
+         "to": 8.92, 
+         "speaker": 0, 
+         "confidence": 0.571, 
+         "final": false
+      }, 
+      {
+         "from": 9.37, 
+         "to": 9.63, 
+         "speaker": 0, 
+         "confidence": 0.465, 
+         "final": false
+      }, 
+      {
+         "from": 9.9, 
+         "to": 10.08, 
+         "speaker": 1, 
+         "confidence": 0.502, 
+         "final": false
+      }, 
+      {
+         "from": 10.08, 
+         "to": 10.51, 
+         "speaker": 1, 
+         "confidence": 0.502, 
+         "final": true
+      }
+   ]
+}

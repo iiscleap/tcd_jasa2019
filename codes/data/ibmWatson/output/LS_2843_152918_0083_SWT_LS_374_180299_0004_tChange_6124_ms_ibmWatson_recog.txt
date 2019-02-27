@@ -1,0 +1,304 @@
+{
+   "results": [
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "and", 
+                     0.06, 
+                     0.27
+                  ], 
+                  [
+                     "a", 
+                     0.27, 
+                     0.35
+                  ], 
+                  [
+                     "lightning", 
+                     0.35, 
+                     0.75
+                  ], 
+                  [
+                     "like", 
+                     0.75, 
+                     1.03
+                  ], 
+                  [
+                     "movement", 
+                     1.03, 
+                     1.59
+                  ], 
+                  [
+                     "someone", 
+                     1.98, 
+                     2.34
+                  ], 
+                  [
+                     "call", 
+                     2.34, 
+                     2.57
+                  ], 
+                  [
+                     "it", 
+                     2.57, 
+                     2.69
+                  ], 
+                  [
+                     "luck", 
+                     2.69, 
+                     3.23
+                  ], 
+                  [
+                     "he", 
+                     3.61, 
+                     3.73
+                  ], 
+                  [
+                     "managed", 
+                     3.73, 
+                     4.3
+                  ], 
+                  [
+                     "to", 
+                     4.3, 
+                     4.42
+                  ], 
+                  [
+                     "save", 
+                     4.42, 
+                     4.74
+                  ], 
+                  [
+                     "himself", 
+                     4.74, 
+                     5.4
+                  ]
+               ], 
+               "confidence": 0.814, 
+               "transcript": "and a lightning like movement someone call it luck he managed to save himself "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "but", 
+                     6.06, 
+                     6.2
+                  ], 
+                  [
+                     "that", 
+                     6.2, 
+                     6.39
+                  ], 
+                  [
+                     "is", 
+                     6.39, 
+                     6.54
+                  ], 
+                  [
+                     "not", 
+                     6.54, 
+                     6.78
+                  ], 
+                  [
+                     "all", 
+                     6.78, 
+                     7.25
+                  ], 
+                  [
+                     "continued", 
+                     7.3, 
+                     7.91
+                  ], 
+                  [
+                     "Marguerite", 
+                     7.91, 
+                     8.63
+                  ]
+               ], 
+               "confidence": 0.821, 
+               "transcript": "but that is not all continued Marguerite "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "what", 
+                     9.32, 
+                     9.57
+                  ]
+               ], 
+               "confidence": 0.821, 
+               "transcript": "what "
+            }
+         ], 
+         "final": true
+      }
+   ], 
+   "result_index": 0, 
+   "speaker_labels": [
+      {
+         "from": 0.06, 
+         "to": 0.27, 
+         "speaker": 0, 
+         "confidence": 0.483, 
+         "final": false
+      }, 
+      {
+         "from": 0.27, 
+         "to": 0.35, 
+         "speaker": 0, 
+         "confidence": 0.483, 
+         "final": false
+      }, 
+      {
+         "from": 0.35, 
+         "to": 0.75, 
+         "speaker": 0, 
+         "confidence": 0.483, 
+         "final": false
+      }, 
+      {
+         "from": 0.75, 
+         "to": 1.03, 
+         "speaker": 0, 
+         "confidence": 0.483, 
+         "final": false
+      }, 
+      {
+         "from": 1.03, 
+         "to": 1.59, 
+         "speaker": 0, 
+         "confidence": 0.483, 
+         "final": false
+      }, 
+      {
+         "from": 1.98, 
+         "to": 2.34, 
+         "speaker": 0, 
+         "confidence": 0.56, 
+         "final": false
+      }, 
+      {
+         "from": 2.34, 
+         "to": 2.57, 
+         "speaker": 0, 
+         "confidence": 0.56, 
+         "final": false
+      }, 
+      {
+         "from": 2.57, 
+         "to": 2.69, 
+         "speaker": 0, 
+         "confidence": 0.56, 
+         "final": false
+      }, 
+      {
+         "from": 2.69, 
+         "to": 3.23, 
+         "speaker": 0, 
+         "confidence": 0.56, 
+         "final": false
+      }, 
+      {
+         "from": 3.61, 
+         "to": 3.73, 
+         "speaker": 0, 
+         "confidence": 0.573, 
+         "final": false
+      }, 
+      {
+         "from": 3.73, 
+         "to": 4.3, 
+         "speaker": 0, 
+         "confidence": 0.573, 
+         "final": false
+      }, 
+      {
+         "from": 4.3, 
+         "to": 4.42, 
+         "speaker": 0, 
+         "confidence": 0.573, 
+         "final": false
+      }, 
+      {
+         "from": 4.42, 
+         "to": 4.74, 
+         "speaker": 0, 
+         "confidence": 0.573, 
+         "final": false
+      }, 
+      {
+         "from": 4.74, 
+         "to": 5.4, 
+         "speaker": 0, 
+         "confidence": 0.573, 
+         "final": false
+      }, 
+      {
+         "from": 6.06, 
+         "to": 6.2, 
+         "speaker": 1, 
+         "confidence": 0.575, 
+         "final": false
+      }, 
+      {
+         "from": 6.2, 
+         "to": 6.39, 
+         "speaker": 1, 
+         "confidence": 0.575, 
+         "final": false
+      }, 
+      {
+         "from": 6.39, 
+         "to": 6.54, 
+         "speaker": 1, 
+         "confidence": 0.575, 
+         "final": false
+      }, 
+      {
+         "from": 6.54, 
+         "to": 6.78, 
+         "speaker": 1, 
+         "confidence": 0.575, 
+         "final": false
+      }, 
+      {
+         "from": 6.78, 
+         "to": 7.25, 
+         "speaker": 1, 
+         "confidence": 0.575, 
+         "final": false
+      }, 
+      {
+         "from": 7.3, 
+         "to": 7.91, 
+         "speaker": 1, 
+         "confidence": 0.581, 
+         "final": false
+      }, 
+      {
+         "from": 7.91, 
+         "to": 8.63, 
+         "speaker": 1, 
+         "confidence": 0.581, 
+         "final": false
+      }, 
+      {
+         "from": 9.32, 
+         "to": 9.57, 
+         "speaker": 1, 
+         "confidence": 0.52, 
+         "final": true
+      }
+   ]
+}

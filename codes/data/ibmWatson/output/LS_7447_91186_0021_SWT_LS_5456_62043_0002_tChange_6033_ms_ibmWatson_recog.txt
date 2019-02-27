@@ -1,0 +1,340 @@
+{
+   "results": [
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "the", 
+                     0.54, 
+                     0.64
+                  ], 
+                  [
+                     "secular", 
+                     0.64, 
+                     1.15
+                  ], 
+                  [
+                     "music", 
+                     1.15, 
+                     1.47
+                  ], 
+                  [
+                     "prince", 
+                     1.47, 
+                     1.71
+                  ]
+               ], 
+               "confidence": 0.896, 
+               "transcript": "the secular music prince "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "of", 
+                     2.02, 
+                     2.14
+                  ], 
+                  [
+                     "the", 
+                     2.14, 
+                     2.23
+                  ], 
+                  [
+                     "sixteenth", 
+                     2.23, 
+                     2.73
+                  ], 
+                  [
+                     "century", 
+                     2.73, 
+                     3.2
+                  ], 
+                  [
+                     "that", 
+                     3.2, 
+                     3.38
+                  ], 
+                  [
+                     "called", 
+                     3.38, 
+                     3.83
+                  ], 
+                  [
+                     "into", 
+                     3.86, 
+                     4.07
+                  ], 
+                  [
+                     "active", 
+                     4.07, 
+                     4.66
+                  ]
+               ], 
+               "confidence": 0.785, 
+               "transcript": "of the sixteenth century that called into active "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "or", 
+                     5.25, 
+                     5.44
+                  ], 
+                  [
+                     "because", 
+                     5.44, 
+                     5.74
+                  ], 
+                  [
+                     "of", 
+                     5.99, 
+                     6.14
+                  ], 
+                  [
+                     "oil", 
+                     6.14, 
+                     6.37
+                  ], 
+                  [
+                     "from", 
+                     6.4, 
+                     6.56
+                  ], 
+                  [
+                     "New", 
+                     6.56, 
+                     6.7
+                  ], 
+                  [
+                     "Orleans", 
+                     6.7, 
+                     7.07
+                  ], 
+                  [
+                     "to", 
+                     7.07, 
+                     7.18
+                  ], 
+                  [
+                     "Vicksburg", 
+                     7.18, 
+                     7.73
+                  ], 
+                  [
+                     "in", 
+                     7.73, 
+                     7.82
+                  ], 
+                  [
+                     "back", 
+                     7.82, 
+                     8.27
+                  ], 
+                  [
+                     "including", 
+                     8.57, 
+                     9.1
+                  ], 
+                  [
+                     "stoppages", 
+                     9.1, 
+                     9.69
+                  ]
+               ], 
+               "confidence": 0.919, 
+               "transcript": "or because of oil from New Orleans to Vicksburg in back including stoppages "
+            }
+         ], 
+         "final": true
+      }
+   ], 
+   "result_index": 0, 
+   "speaker_labels": [
+      {
+         "from": 0.54, 
+         "to": 0.64, 
+         "speaker": 0, 
+         "confidence": 0.5, 
+         "final": false
+      }, 
+      {
+         "from": 0.64, 
+         "to": 1.15, 
+         "speaker": 0, 
+         "confidence": 0.5, 
+         "final": false
+      }, 
+      {
+         "from": 1.15, 
+         "to": 1.47, 
+         "speaker": 0, 
+         "confidence": 0.5, 
+         "final": false
+      }, 
+      {
+         "from": 1.47, 
+         "to": 1.71, 
+         "speaker": 0, 
+         "confidence": 0.5, 
+         "final": false
+      }, 
+      {
+         "from": 2.02, 
+         "to": 2.14, 
+         "speaker": 0, 
+         "confidence": 0.403, 
+         "final": false
+      }, 
+      {
+         "from": 2.14, 
+         "to": 2.23, 
+         "speaker": 0, 
+         "confidence": 0.403, 
+         "final": false
+      }, 
+      {
+         "from": 2.23, 
+         "to": 2.73, 
+         "speaker": 0, 
+         "confidence": 0.403, 
+         "final": false
+      }, 
+      {
+         "from": 2.73, 
+         "to": 3.2, 
+         "speaker": 0, 
+         "confidence": 0.403, 
+         "final": false
+      }, 
+      {
+         "from": 3.2, 
+         "to": 3.38, 
+         "speaker": 0, 
+         "confidence": 0.403, 
+         "final": false
+      }, 
+      {
+         "from": 3.38, 
+         "to": 3.83, 
+         "speaker": 0, 
+         "confidence": 0.403, 
+         "final": false
+      }, 
+      {
+         "from": 3.86, 
+         "to": 4.07, 
+         "speaker": 0, 
+         "confidence": 0.449, 
+         "final": false
+      }, 
+      {
+         "from": 4.07, 
+         "to": 4.66, 
+         "speaker": 0, 
+         "confidence": 0.449, 
+         "final": false
+      }, 
+      {
+         "from": 5.25, 
+         "to": 5.44, 
+         "speaker": 1, 
+         "confidence": 0.443, 
+         "final": false
+      }, 
+      {
+         "from": 5.44, 
+         "to": 5.74, 
+         "speaker": 1, 
+         "confidence": 0.443, 
+         "final": false
+      }, 
+      {
+         "from": 5.99, 
+         "to": 6.14, 
+         "speaker": 2, 
+         "confidence": 0.38, 
+         "final": false
+      }, 
+      {
+         "from": 6.14, 
+         "to": 6.37, 
+         "speaker": 2, 
+         "confidence": 0.38, 
+         "final": false
+      }, 
+      {
+         "from": 6.4, 
+         "to": 6.56, 
+         "speaker": 2, 
+         "confidence": 0.437, 
+         "final": false
+      }, 
+      {
+         "from": 6.56, 
+         "to": 6.7, 
+         "speaker": 2, 
+         "confidence": 0.437, 
+         "final": false
+      }, 
+      {
+         "from": 6.7, 
+         "to": 7.07, 
+         "speaker": 2, 
+         "confidence": 0.437, 
+         "final": false
+      }, 
+      {
+         "from": 7.07, 
+         "to": 7.18, 
+         "speaker": 2, 
+         "confidence": 0.437, 
+         "final": false
+      }, 
+      {
+         "from": 7.18, 
+         "to": 7.73, 
+         "speaker": 2, 
+         "confidence": 0.437, 
+         "final": false
+      }, 
+      {
+         "from": 7.73, 
+         "to": 7.82, 
+         "speaker": 2, 
+         "confidence": 0.437, 
+         "final": false
+      }, 
+      {
+         "from": 7.82, 
+         "to": 8.27, 
+         "speaker": 2, 
+         "confidence": 0.437, 
+         "final": false
+      }, 
+      {
+         "from": 8.57, 
+         "to": 9.1, 
+         "speaker": 2, 
+         "confidence": 0.495, 
+         "final": false
+      }, 
+      {
+         "from": 9.1, 
+         "to": 9.69, 
+         "speaker": 2, 
+         "confidence": 0.495, 
+         "final": true
+      }
+   ]
+}

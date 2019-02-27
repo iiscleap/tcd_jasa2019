@@ -1,0 +1,402 @@
+{
+   "results": [
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "and", 
+                     0.22, 
+                     0.38
+                  ], 
+                  [
+                     "a", 
+                     0.38, 
+                     0.43
+                  ], 
+                  [
+                     "pipe", 
+                     0.43, 
+                     0.76
+                  ], 
+                  [
+                     "in", 
+                     0.76, 
+                     0.83
+                  ], 
+                  [
+                     "his", 
+                     0.83, 
+                     0.98
+                  ], 
+                  [
+                     "mouth", 
+                     0.98, 
+                     1.37
+                  ], 
+                  [
+                     "casting", 
+                     1.72, 
+                     2.12
+                  ], 
+                  [
+                     "a", 
+                     2.12, 
+                     2.19
+                  ], 
+                  [
+                     "glance", 
+                     2.19, 
+                     2.56
+                  ], 
+                  [
+                     "at", 
+                     2.56, 
+                     2.64
+                  ], 
+                  [
+                     "the", 
+                     2.64, 
+                     2.75
+                  ], 
+                  [
+                     "M.", 
+                     2.75, 
+                     2.86
+                  ], 
+                  [
+                     "B.", 
+                     2.86, 
+                     2.97
+                  ], 
+                  [
+                     "guards", 
+                     2.97, 
+                     3.35
+                  ], 
+                  [
+                     "of", 
+                     3.35, 
+                     3.43
+                  ], 
+                  [
+                     "our", 
+                     3.43, 
+                     3.61
+                  ], 
+                  [
+                     "boat", 
+                     3.61, 
+                     3.95
+                  ], 
+                  [
+                     "and", 
+                     3.98, 
+                     4.14
+                  ], 
+                  [
+                     "uttering", 
+                     4.17, 
+                     4.52
+                  ], 
+                  [
+                     "a", 
+                     4.52, 
+                     4.61
+                  ], 
+                  [
+                     "grunt", 
+                     4.61, 
+                     5.0
+                  ], 
+                  [
+                     "it", 
+                     5.0, 
+                     5.12
+                  ], 
+                  [
+                     "but", 
+                     5.49, 
+                     5.67
+                  ], 
+                  [
+                     "in", 
+                     5.67, 
+                     5.8
+                  ], 
+                  [
+                     "doing", 
+                     5.8, 
+                     6.13
+                  ], 
+                  [
+                     "that", 
+                     6.13, 
+                     6.43
+                  ], 
+                  [
+                     "he", 
+                     6.43, 
+                     6.66
+                  ], 
+                  [
+                     "affects", 
+                     6.66, 
+                     7.07
+                  ], 
+                  [
+                     "the", 
+                     7.07, 
+                     7.27
+                  ], 
+                  [
+                     "agents", 
+                     7.3, 
+                     7.93
+                  ], 
+                  [
+                     "owned", 
+                     7.96, 
+                     8.51
+                  ], 
+                  [
+                     "into", 
+                     8.71, 
+                     9.05
+                  ]
+               ], 
+               "confidence": 0.844, 
+               "transcript": "and a pipe in his mouth casting a glance at the M. B. guards of our boat and uttering a grunt it but in doing that he affects the agents owned into "
+            }
+         ], 
+         "final": true
+      }
+   ], 
+   "result_index": 0, 
+   "speaker_labels": [
+      {
+         "from": 0.22, 
+         "to": 0.38, 
+         "speaker": 0, 
+         "confidence": 0.577, 
+         "final": false
+      }, 
+      {
+         "from": 0.38, 
+         "to": 0.43, 
+         "speaker": 0, 
+         "confidence": 0.577, 
+         "final": false
+      }, 
+      {
+         "from": 0.43, 
+         "to": 0.76, 
+         "speaker": 0, 
+         "confidence": 0.577, 
+         "final": false
+      }, 
+      {
+         "from": 0.76, 
+         "to": 0.83, 
+         "speaker": 0, 
+         "confidence": 0.577, 
+         "final": false
+      }, 
+      {
+         "from": 0.83, 
+         "to": 0.98, 
+         "speaker": 0, 
+         "confidence": 0.577, 
+         "final": false
+      }, 
+      {
+         "from": 0.98, 
+         "to": 1.37, 
+         "speaker": 0, 
+         "confidence": 0.577, 
+         "final": false
+      }, 
+      {
+         "from": 1.72, 
+         "to": 2.12, 
+         "speaker": 0, 
+         "confidence": 0.534, 
+         "final": false
+      }, 
+      {
+         "from": 2.12, 
+         "to": 2.19, 
+         "speaker": 0, 
+         "confidence": 0.534, 
+         "final": false
+      }, 
+      {
+         "from": 2.19, 
+         "to": 2.56, 
+         "speaker": 0, 
+         "confidence": 0.534, 
+         "final": false
+      }, 
+      {
+         "from": 2.56, 
+         "to": 2.64, 
+         "speaker": 0, 
+         "confidence": 0.534, 
+         "final": false
+      }, 
+      {
+         "from": 2.64, 
+         "to": 2.75, 
+         "speaker": 0, 
+         "confidence": 0.534, 
+         "final": false
+      }, 
+      {
+         "from": 2.75, 
+         "to": 2.86, 
+         "speaker": 0, 
+         "confidence": 0.534, 
+         "final": false
+      }, 
+      {
+         "from": 2.86, 
+         "to": 2.97, 
+         "speaker": 0, 
+         "confidence": 0.534, 
+         "final": false
+      }, 
+      {
+         "from": 2.97, 
+         "to": 3.35, 
+         "speaker": 0, 
+         "confidence": 0.534, 
+         "final": false
+      }, 
+      {
+         "from": 3.35, 
+         "to": 3.43, 
+         "speaker": 0, 
+         "confidence": 0.534, 
+         "final": false
+      }, 
+      {
+         "from": 3.43, 
+         "to": 3.61, 
+         "speaker": 0, 
+         "confidence": 0.534, 
+         "final": false
+      }, 
+      {
+         "from": 3.61, 
+         "to": 3.95, 
+         "speaker": 0, 
+         "confidence": 0.534, 
+         "final": false
+      }, 
+      {
+         "from": 3.98, 
+         "to": 4.14, 
+         "speaker": 0, 
+         "confidence": 0.486, 
+         "final": false
+      }, 
+      {
+         "from": 4.17, 
+         "to": 4.52, 
+         "speaker": 0, 
+         "confidence": 0.587, 
+         "final": false
+      }, 
+      {
+         "from": 4.52, 
+         "to": 4.61, 
+         "speaker": 0, 
+         "confidence": 0.587, 
+         "final": false
+      }, 
+      {
+         "from": 4.61, 
+         "to": 5.0, 
+         "speaker": 0, 
+         "confidence": 0.587, 
+         "final": false
+      }, 
+      {
+         "from": 5.0, 
+         "to": 5.12, 
+         "speaker": 0, 
+         "confidence": 0.587, 
+         "final": false
+      }, 
+      {
+         "from": 5.49, 
+         "to": 5.67, 
+         "speaker": 1, 
+         "confidence": 0.601, 
+         "final": false
+      }, 
+      {
+         "from": 5.67, 
+         "to": 5.8, 
+         "speaker": 1, 
+         "confidence": 0.601, 
+         "final": false
+      }, 
+      {
+         "from": 5.8, 
+         "to": 6.13, 
+         "speaker": 1, 
+         "confidence": 0.601, 
+         "final": false
+      }, 
+      {
+         "from": 6.13, 
+         "to": 6.43, 
+         "speaker": 1, 
+         "confidence": 0.601, 
+         "final": false
+      }, 
+      {
+         "from": 6.43, 
+         "to": 6.66, 
+         "speaker": 1, 
+         "confidence": 0.601, 
+         "final": false
+      }, 
+      {
+         "from": 6.66, 
+         "to": 7.07, 
+         "speaker": 1, 
+         "confidence": 0.601, 
+         "final": false
+      }, 
+      {
+         "from": 7.07, 
+         "to": 7.27, 
+         "speaker": 1, 
+         "confidence": 0.601, 
+         "final": false
+      }, 
+      {
+         "from": 7.3, 
+         "to": 7.93, 
+         "speaker": 1, 
+         "confidence": 0.616, 
+         "final": false
+      }, 
+      {
+         "from": 7.96, 
+         "to": 8.51, 
+         "speaker": 1, 
+         "confidence": 0.538, 
+         "final": false
+      }, 
+      {
+         "from": 8.71, 
+         "to": 9.05, 
+         "speaker": 1, 
+         "confidence": 0.499, 
+         "final": true
+      }
+   ]
+}

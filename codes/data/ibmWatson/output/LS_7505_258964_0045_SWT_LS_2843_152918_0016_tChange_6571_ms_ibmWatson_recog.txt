@@ -1,0 +1,281 @@
+{
+   "results": [
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "many", 
+                     0.25, 
+                     0.61
+                  ], 
+                  [
+                     "street", 
+                     0.61, 
+                     1.05
+                  ], 
+                  [
+                     "railways", 
+                     1.05, 
+                     1.79
+                  ], 
+                  [
+                     "are", 
+                     1.82, 
+                     2.18
+                  ], 
+                  [
+                     "unfortunate", 
+                     2.21, 
+                     3.06
+                  ], 
+                  [
+                     "ventures", 
+                     3.06, 
+                     3.71
+                  ], 
+                  [
+                     "the", 
+                     4.08, 
+                     4.27
+                  ], 
+                  [
+                     "earnings", 
+                     4.3, 
+                     4.76
+                  ], 
+                  [
+                     "being", 
+                     4.76, 
+                     5.19
+                  ], 
+                  [
+                     "insufficient", 
+                     5.26, 
+                     6.19
+                  ], 
+                  [
+                     "as", 
+                     6.51, 
+                     6.68
+                  ], 
+                  [
+                     "we", 
+                     6.68, 
+                     6.81
+                  ], 
+                  [
+                     "had", 
+                     6.81, 
+                     6.99
+                  ], 
+                  [
+                     "nothing", 
+                     6.99, 
+                     7.32
+                  ], 
+                  [
+                     "to", 
+                     7.32, 
+                     7.45
+                  ], 
+                  [
+                     "lean", 
+                     7.45, 
+                     7.65
+                  ], 
+                  [
+                     "against", 
+                     7.65, 
+                     8.31
+                  ]
+               ], 
+               "confidence": 0.894, 
+               "transcript": "many street railways are unfortunate ventures the earnings being insufficient as we had nothing to lean against "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "went", 
+                     8.95, 
+                     9.22
+                  ], 
+                  [
+                     "on", 
+                     9.22, 
+                     9.44
+                  ], 
+                  [
+                     "like", 
+                     9.44, 
+                     9.73
+                  ], 
+                  [
+                     "this", 
+                     9.73, 
+                     10.27
+                  ]
+               ], 
+               "confidence": 0.953, 
+               "transcript": "went on like this "
+            }
+         ], 
+         "final": true
+      }
+   ], 
+   "result_index": 0, 
+   "speaker_labels": [
+      {
+         "from": 0.25, 
+         "to": 0.61, 
+         "speaker": 0, 
+         "confidence": 0.359, 
+         "final": false
+      }, 
+      {
+         "from": 0.61, 
+         "to": 1.05, 
+         "speaker": 0, 
+         "confidence": 0.359, 
+         "final": false
+      }, 
+      {
+         "from": 1.05, 
+         "to": 1.79, 
+         "speaker": 0, 
+         "confidence": 0.359, 
+         "final": false
+      }, 
+      {
+         "from": 1.82, 
+         "to": 2.18, 
+         "speaker": 0, 
+         "confidence": 0.44, 
+         "final": false
+      }, 
+      {
+         "from": 2.21, 
+         "to": 3.06, 
+         "speaker": 1, 
+         "confidence": 0.447, 
+         "final": false
+      }, 
+      {
+         "from": 3.06, 
+         "to": 3.71, 
+         "speaker": 1, 
+         "confidence": 0.447, 
+         "final": false
+      }, 
+      {
+         "from": 4.08, 
+         "to": 4.27, 
+         "speaker": 0, 
+         "confidence": 0.405, 
+         "final": false
+      }, 
+      {
+         "from": 4.3, 
+         "to": 4.76, 
+         "speaker": 1, 
+         "confidence": 0.39, 
+         "final": false
+      }, 
+      {
+         "from": 4.76, 
+         "to": 5.19, 
+         "speaker": 1, 
+         "confidence": 0.39, 
+         "final": false
+      }, 
+      {
+         "from": 5.26, 
+         "to": 6.19, 
+         "speaker": 1, 
+         "confidence": 0.443, 
+         "final": false
+      }, 
+      {
+         "from": 6.51, 
+         "to": 6.68, 
+         "speaker": 2, 
+         "confidence": 0.469, 
+         "final": false
+      }, 
+      {
+         "from": 6.68, 
+         "to": 6.81, 
+         "speaker": 2, 
+         "confidence": 0.469, 
+         "final": false
+      }, 
+      {
+         "from": 6.81, 
+         "to": 6.99, 
+         "speaker": 2, 
+         "confidence": 0.469, 
+         "final": false
+      }, 
+      {
+         "from": 6.99, 
+         "to": 7.32, 
+         "speaker": 2, 
+         "confidence": 0.469, 
+         "final": false
+      }, 
+      {
+         "from": 7.32, 
+         "to": 7.45, 
+         "speaker": 2, 
+         "confidence": 0.469, 
+         "final": false
+      }, 
+      {
+         "from": 7.45, 
+         "to": 7.65, 
+         "speaker": 2, 
+         "confidence": 0.469, 
+         "final": false
+      }, 
+      {
+         "from": 7.65, 
+         "to": 8.31, 
+         "speaker": 2, 
+         "confidence": 0.469, 
+         "final": false
+      }, 
+      {
+         "from": 8.95, 
+         "to": 9.22, 
+         "speaker": 2, 
+         "confidence": 0.508, 
+         "final": false
+      }, 
+      {
+         "from": 9.22, 
+         "to": 9.44, 
+         "speaker": 2, 
+         "confidence": 0.508, 
+         "final": false
+      }, 
+      {
+         "from": 9.44, 
+         "to": 9.73, 
+         "speaker": 2, 
+         "confidence": 0.508, 
+         "final": false
+      }, 
+      {
+         "from": 9.73, 
+         "to": 10.27, 
+         "speaker": 2, 
+         "confidence": 0.508, 
+         "final": true
+      }
+   ]
+}

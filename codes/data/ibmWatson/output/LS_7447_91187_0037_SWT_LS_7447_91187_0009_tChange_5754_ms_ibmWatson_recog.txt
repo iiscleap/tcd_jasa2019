@@ -1,0 +1,302 @@
+{
+   "results": [
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "before", 
+                     0.14, 
+                     0.62
+                  ]
+               ], 
+               "confidence": 0.885, 
+               "transcript": "before "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "any", 
+                     1.13, 
+                     1.35
+                  ], 
+                  [
+                     "attempt", 
+                     1.35, 
+                     1.88
+                  ], 
+                  [
+                     "at", 
+                     1.91, 
+                     2.07
+                  ], 
+                  [
+                     "the", 
+                     2.07, 
+                     2.18
+                  ], 
+                  [
+                     "reproduction", 
+                     2.18, 
+                     3.01
+                  ], 
+                  [
+                     "of", 
+                     3.04, 
+                     3.22
+                  ], 
+                  [
+                     "musical", 
+                     3.22, 
+                     3.73
+                  ], 
+                  [
+                     "ideas", 
+                     3.73, 
+                     4.46
+                  ], 
+                  [
+                     "in", 
+                     4.94, 
+                     5.09
+                  ], 
+                  [
+                     "order", 
+                     5.09, 
+                     5.36
+                  ], 
+                  [
+                     "to", 
+                     5.36, 
+                     5.53
+                  ], 
+                  [
+                     "agree", 
+                     5.68, 
+                     6.04
+                  ]
+               ], 
+               "confidence": 1.0, 
+               "transcript": "any attempt at the reproduction of musical ideas in order to agree "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "to", 
+                     6.35, 
+                     6.5
+                  ], 
+                  [
+                     "him", 
+                     6.5, 
+                     6.75
+                  ]
+               ], 
+               "confidence": 0.505, 
+               "transcript": "to him "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "to", 
+                     6.88, 
+                     7.05
+                  ], 
+                  [
+                     "gratify", 
+                     7.05, 
+                     7.74
+                  ], 
+                  [
+                     "the", 
+                     7.74, 
+                     7.88
+                  ], 
+                  [
+                     "home", 
+                     7.88, 
+                     8.13
+                  ]
+               ], 
+               "confidence": 0.872, 
+               "transcript": "to gratify the home "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "his", 
+                     9.11, 
+                     9.43
+                  ]
+               ], 
+               "confidence": 0.551, 
+               "transcript": "his "
+            }
+         ], 
+         "final": true
+      }
+   ], 
+   "result_index": 0, 
+   "speaker_labels": [
+      {
+         "from": 0.14, 
+         "to": 0.62, 
+         "speaker": 0, 
+         "confidence": 0.5, 
+         "final": false
+      }, 
+      {
+         "from": 1.13, 
+         "to": 1.35, 
+         "speaker": 1, 
+         "confidence": 0.38, 
+         "final": false
+      }, 
+      {
+         "from": 1.35, 
+         "to": 1.88, 
+         "speaker": 1, 
+         "confidence": 0.38, 
+         "final": false
+      }, 
+      {
+         "from": 1.91, 
+         "to": 2.07, 
+         "speaker": 0, 
+         "confidence": 0.347, 
+         "final": false
+      }, 
+      {
+         "from": 2.07, 
+         "to": 2.18, 
+         "speaker": 0, 
+         "confidence": 0.347, 
+         "final": false
+      }, 
+      {
+         "from": 2.18, 
+         "to": 3.01, 
+         "speaker": 0, 
+         "confidence": 0.347, 
+         "final": false
+      }, 
+      {
+         "from": 3.04, 
+         "to": 3.22, 
+         "speaker": 3, 
+         "confidence": 0.393, 
+         "final": false
+      }, 
+      {
+         "from": 3.22, 
+         "to": 3.73, 
+         "speaker": 3, 
+         "confidence": 0.393, 
+         "final": false
+      }, 
+      {
+         "from": 3.73, 
+         "to": 4.46, 
+         "speaker": 3, 
+         "confidence": 0.393, 
+         "final": false
+      }, 
+      {
+         "from": 4.94, 
+         "to": 5.09, 
+         "speaker": 0, 
+         "confidence": 0.383, 
+         "final": false
+      }, 
+      {
+         "from": 5.09, 
+         "to": 5.36, 
+         "speaker": 0, 
+         "confidence": 0.383, 
+         "final": false
+      }, 
+      {
+         "from": 5.36, 
+         "to": 5.53, 
+         "speaker": 0, 
+         "confidence": 0.383, 
+         "final": false
+      }, 
+      {
+         "from": 5.68, 
+         "to": 6.04, 
+         "speaker": 0, 
+         "confidence": 0.341, 
+         "final": false
+      }, 
+      {
+         "from": 6.35, 
+         "to": 6.5, 
+         "speaker": 1, 
+         "confidence": 0.371, 
+         "final": false
+      }, 
+      {
+         "from": 6.5, 
+         "to": 6.75, 
+         "speaker": 1, 
+         "confidence": 0.371, 
+         "final": false
+      }, 
+      {
+         "from": 6.88, 
+         "to": 7.05, 
+         "speaker": 3, 
+         "confidence": 0.413, 
+         "final": false
+      }, 
+      {
+         "from": 7.05, 
+         "to": 7.74, 
+         "speaker": 3, 
+         "confidence": 0.413, 
+         "final": false
+      }, 
+      {
+         "from": 7.74, 
+         "to": 7.88, 
+         "speaker": 3, 
+         "confidence": 0.413, 
+         "final": false
+      }, 
+      {
+         "from": 7.88, 
+         "to": 8.13, 
+         "speaker": 3, 
+         "confidence": 0.413, 
+         "final": false
+      }, 
+      {
+         "from": 9.11, 
+         "to": 9.43, 
+         "speaker": 1, 
+         "confidence": 0.42, 
+         "final": true
+      }
+   ]
+}

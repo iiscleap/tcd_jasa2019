@@ -1,0 +1,315 @@
+{
+   "results": [
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "by", 
+                     0.07, 
+                     0.22
+                  ], 
+                  [
+                     "twisting", 
+                     0.22, 
+                     0.73
+                  ], 
+                  [
+                     "his", 
+                     0.73, 
+                     1.0
+                  ], 
+                  [
+                     "latch", 
+                     1.0, 
+                     1.57
+                  ]
+               ], 
+               "confidence": 0.667, 
+               "transcript": "by twisting his latch "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "the", 
+                     2.01, 
+                     2.11
+                  ], 
+                  [
+                     "others", 
+                     2.11, 
+                     2.75
+                  ], 
+                  [
+                     "who", 
+                     2.91, 
+                     3.04
+                  ], 
+                  [
+                     "were", 
+                     3.04, 
+                     3.17
+                  ], 
+                  [
+                     "following", 
+                     3.17, 
+                     3.94
+                  ], 
+                  [
+                     "stopped", 
+                     4.1, 
+                     4.8
+                  ], 
+                  [
+                     "when", 
+                     4.83, 
+                     4.99
+                  ], 
+                  [
+                     "they", 
+                     4.99, 
+                     5.09
+                  ], 
+                  [
+                     "came", 
+                     5.09, 
+                     5.37
+                  ], 
+                  [
+                     "up", 
+                     5.37, 
+                     5.58
+                  ], 
+                  [
+                     "to", 
+                     5.7, 
+                     5.87
+                  ], 
+                  [
+                     "often", 
+                     5.87, 
+                     6.23
+                  ]
+               ], 
+               "confidence": 0.896, 
+               "transcript": "the others who were following stopped when they came up to often "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "as", 
+                     6.67, 
+                     6.9
+                  ], 
+                  [
+                     "Dr", 
+                     6.9, 
+                     7.3
+                  ]
+               ], 
+               "confidence": 0.621, 
+               "transcript": "as Dr "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "as", 
+                     7.42, 
+                     7.52
+                  ], 
+                  [
+                     "dust", 
+                     7.52, 
+                     7.88
+                  ], 
+                  [
+                     "studies", 
+                     7.91, 
+                     8.55
+                  ], 
+                  [
+                     "are", 
+                     8.73, 
+                     8.97
+                  ]
+               ], 
+               "confidence": 0.832, 
+               "transcript": "as dust studies are "
+            }
+         ], 
+         "final": true
+      }
+   ], 
+   "result_index": 0, 
+   "speaker_labels": [
+      {
+         "from": 0.07, 
+         "to": 0.22, 
+         "speaker": 0, 
+         "confidence": 0.5, 
+         "final": false
+      }, 
+      {
+         "from": 0.22, 
+         "to": 0.73, 
+         "speaker": 0, 
+         "confidence": 0.5, 
+         "final": false
+      }, 
+      {
+         "from": 0.73, 
+         "to": 1.0, 
+         "speaker": 0, 
+         "confidence": 0.5, 
+         "final": false
+      }, 
+      {
+         "from": 1.0, 
+         "to": 1.57, 
+         "speaker": 0, 
+         "confidence": 0.5, 
+         "final": false
+      }, 
+      {
+         "from": 2.01, 
+         "to": 2.11, 
+         "speaker": 0, 
+         "confidence": 0.46, 
+         "final": false
+      }, 
+      {
+         "from": 2.11, 
+         "to": 2.75, 
+         "speaker": 0, 
+         "confidence": 0.46, 
+         "final": false
+      }, 
+      {
+         "from": 2.91, 
+         "to": 3.04, 
+         "speaker": 0, 
+         "confidence": 0.524, 
+         "final": false
+      }, 
+      {
+         "from": 3.04, 
+         "to": 3.17, 
+         "speaker": 0, 
+         "confidence": 0.524, 
+         "final": false
+      }, 
+      {
+         "from": 3.17, 
+         "to": 3.94, 
+         "speaker": 0, 
+         "confidence": 0.524, 
+         "final": false
+      }, 
+      {
+         "from": 4.1, 
+         "to": 4.8, 
+         "speaker": 0, 
+         "confidence": 0.4, 
+         "final": false
+      }, 
+      {
+         "from": 4.83, 
+         "to": 4.99, 
+         "speaker": 0, 
+         "confidence": 0.565, 
+         "final": false
+      }, 
+      {
+         "from": 4.99, 
+         "to": 5.09, 
+         "speaker": 0, 
+         "confidence": 0.565, 
+         "final": false
+      }, 
+      {
+         "from": 5.09, 
+         "to": 5.37, 
+         "speaker": 0, 
+         "confidence": 0.565, 
+         "final": false
+      }, 
+      {
+         "from": 5.37, 
+         "to": 5.58, 
+         "speaker": 0, 
+         "confidence": 0.565, 
+         "final": false
+      }, 
+      {
+         "from": 5.7, 
+         "to": 5.87, 
+         "speaker": 2, 
+         "confidence": 0.478, 
+         "final": false
+      }, 
+      {
+         "from": 5.87, 
+         "to": 6.23, 
+         "speaker": 2, 
+         "confidence": 0.478, 
+         "final": false
+      }, 
+      {
+         "from": 6.67, 
+         "to": 6.9, 
+         "speaker": 2, 
+         "confidence": 0.471, 
+         "final": false
+      }, 
+      {
+         "from": 6.9, 
+         "to": 7.3, 
+         "speaker": 2, 
+         "confidence": 0.471, 
+         "final": false
+      }, 
+      {
+         "from": 7.42, 
+         "to": 7.52, 
+         "speaker": 2, 
+         "confidence": 0.549, 
+         "final": false
+      }, 
+      {
+         "from": 7.52, 
+         "to": 7.88, 
+         "speaker": 2, 
+         "confidence": 0.549, 
+         "final": false
+      }, 
+      {
+         "from": 7.91, 
+         "to": 8.55, 
+         "speaker": 2, 
+         "confidence": 0.595, 
+         "final": false
+      }, 
+      {
+         "from": 8.73, 
+         "to": 8.97, 
+         "speaker": 2, 
+         "confidence": 0.495, 
+         "final": true
+      }
+   ]
+}

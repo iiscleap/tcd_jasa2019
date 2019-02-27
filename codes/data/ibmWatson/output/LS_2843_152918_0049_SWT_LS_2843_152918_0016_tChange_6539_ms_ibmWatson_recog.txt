@@ -1,0 +1,365 @@
+{
+   "results": [
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "and", 
+                     0.16, 
+                     0.33
+                  ], 
+                  [
+                     "fracking", 
+                     0.33, 
+                     0.81
+                  ], 
+                  [
+                     "at", 
+                     0.81, 
+                     0.97
+                  ], 
+                  [
+                     "the", 
+                     0.97, 
+                     1.06
+                  ], 
+                  [
+                     "persistently", 
+                     1.06, 
+                     1.79
+                  ], 
+                  [
+                     "sick", 
+                     1.79, 
+                     2.08
+                  ], 
+                  [
+                     "whether", 
+                     2.08, 
+                     2.59
+                  ], 
+                  [
+                     "one", 
+                     3.05, 
+                     3.27
+                  ], 
+                  [
+                     "of", 
+                     3.27, 
+                     3.38
+                  ], 
+                  [
+                     "us", 
+                     3.38, 
+                     3.55
+                  ], 
+                  [
+                     "suddenly", 
+                     3.55, 
+                     3.95
+                  ], 
+                  [
+                     "called", 
+                     3.95, 
+                     4.27
+                  ], 
+                  [
+                     "out", 
+                     4.27, 
+                     4.66
+                  ], 
+                  [
+                     "hello", 
+                     4.83, 
+                     5.37
+                  ], 
+                  [
+                     "look", 
+                     5.4, 
+                     5.63
+                  ], 
+                  [
+                     "there", 
+                     5.63, 
+                     6.17
+                  ], 
+                  [
+                     "as", 
+                     6.48, 
+                     6.65
+                  ], 
+                  [
+                     "we", 
+                     6.65, 
+                     6.78
+                  ], 
+                  [
+                     "had", 
+                     6.78, 
+                     6.96
+                  ], 
+                  [
+                     "nothing", 
+                     6.96, 
+                     7.29
+                  ], 
+                  [
+                     "to", 
+                     7.29, 
+                     7.43
+                  ], 
+                  [
+                     "lean", 
+                     7.43, 
+                     7.62
+                  ], 
+                  [
+                     "against", 
+                     7.62, 
+                     8.28
+                  ]
+               ], 
+               "confidence": 0.917, 
+               "transcript": "and fracking at the persistently sick whether one of us suddenly called out hello look there as we had nothing to lean against "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "we", 
+                     8.79, 
+                     8.95
+                  ], 
+                  [
+                     "went", 
+                     8.95, 
+                     9.18
+                  ], 
+                  [
+                     "on", 
+                     9.18, 
+                     9.4
+                  ], 
+                  [
+                     "like", 
+                     9.4, 
+                     9.7
+                  ], 
+                  [
+                     "this", 
+                     9.7, 
+                     10.23
+                  ]
+               ], 
+               "confidence": 0.976, 
+               "transcript": "we went on like this "
+            }
+         ], 
+         "final": true
+      }
+   ], 
+   "result_index": 0, 
+   "speaker_labels": [
+      {
+         "from": 0.16, 
+         "to": 0.33, 
+         "speaker": 0, 
+         "confidence": 0.425, 
+         "final": false
+      }, 
+      {
+         "from": 0.33, 
+         "to": 0.81, 
+         "speaker": 0, 
+         "confidence": 0.425, 
+         "final": false
+      }, 
+      {
+         "from": 0.81, 
+         "to": 0.97, 
+         "speaker": 0, 
+         "confidence": 0.425, 
+         "final": false
+      }, 
+      {
+         "from": 0.97, 
+         "to": 1.06, 
+         "speaker": 0, 
+         "confidence": 0.425, 
+         "final": false
+      }, 
+      {
+         "from": 1.06, 
+         "to": 1.79, 
+         "speaker": 0, 
+         "confidence": 0.425, 
+         "final": false
+      }, 
+      {
+         "from": 1.79, 
+         "to": 2.08, 
+         "speaker": 0, 
+         "confidence": 0.425, 
+         "final": false
+      }, 
+      {
+         "from": 2.08, 
+         "to": 2.59, 
+         "speaker": 0, 
+         "confidence": 0.425, 
+         "final": false
+      }, 
+      {
+         "from": 3.05, 
+         "to": 3.27, 
+         "speaker": 1, 
+         "confidence": 0.402, 
+         "final": false
+      }, 
+      {
+         "from": 3.27, 
+         "to": 3.38, 
+         "speaker": 1, 
+         "confidence": 0.402, 
+         "final": false
+      }, 
+      {
+         "from": 3.38, 
+         "to": 3.55, 
+         "speaker": 1, 
+         "confidence": 0.402, 
+         "final": false
+      }, 
+      {
+         "from": 3.55, 
+         "to": 3.95, 
+         "speaker": 1, 
+         "confidence": 0.402, 
+         "final": false
+      }, 
+      {
+         "from": 3.95, 
+         "to": 4.27, 
+         "speaker": 1, 
+         "confidence": 0.402, 
+         "final": false
+      }, 
+      {
+         "from": 4.27, 
+         "to": 4.66, 
+         "speaker": 1, 
+         "confidence": 0.402, 
+         "final": false
+      }, 
+      {
+         "from": 4.83, 
+         "to": 5.37, 
+         "speaker": 1, 
+         "confidence": 0.472, 
+         "final": false
+      }, 
+      {
+         "from": 5.4, 
+         "to": 5.63, 
+         "speaker": 2, 
+         "confidence": 0.463, 
+         "final": false
+      }, 
+      {
+         "from": 5.63, 
+         "to": 6.17, 
+         "speaker": 2, 
+         "confidence": 0.463, 
+         "final": false
+      }, 
+      {
+         "from": 6.48, 
+         "to": 6.65, 
+         "speaker": 0, 
+         "confidence": 0.463, 
+         "final": false
+      }, 
+      {
+         "from": 6.65, 
+         "to": 6.78, 
+         "speaker": 0, 
+         "confidence": 0.463, 
+         "final": false
+      }, 
+      {
+         "from": 6.78, 
+         "to": 6.96, 
+         "speaker": 0, 
+         "confidence": 0.463, 
+         "final": false
+      }, 
+      {
+         "from": 6.96, 
+         "to": 7.29, 
+         "speaker": 0, 
+         "confidence": 0.463, 
+         "final": false
+      }, 
+      {
+         "from": 7.29, 
+         "to": 7.43, 
+         "speaker": 0, 
+         "confidence": 0.463, 
+         "final": false
+      }, 
+      {
+         "from": 7.43, 
+         "to": 7.62, 
+         "speaker": 0, 
+         "confidence": 0.463, 
+         "final": false
+      }, 
+      {
+         "from": 7.62, 
+         "to": 8.28, 
+         "speaker": 0, 
+         "confidence": 0.463, 
+         "final": false
+      }, 
+      {
+         "from": 8.79, 
+         "to": 8.95, 
+         "speaker": 0, 
+         "confidence": 0.47, 
+         "final": false
+      }, 
+      {
+         "from": 8.95, 
+         "to": 9.18, 
+         "speaker": 0, 
+         "confidence": 0.47, 
+         "final": false
+      }, 
+      {
+         "from": 9.18, 
+         "to": 9.4, 
+         "speaker": 0, 
+         "confidence": 0.47, 
+         "final": false
+      }, 
+      {
+         "from": 9.4, 
+         "to": 9.7, 
+         "speaker": 0, 
+         "confidence": 0.47, 
+         "final": false
+      }, 
+      {
+         "from": 9.7, 
+         "to": 10.23, 
+         "speaker": 0, 
+         "confidence": 0.47, 
+         "final": true
+      }
+   ]
+}

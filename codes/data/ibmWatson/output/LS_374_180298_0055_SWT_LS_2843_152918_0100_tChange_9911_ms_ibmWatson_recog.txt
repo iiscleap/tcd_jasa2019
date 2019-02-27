@@ -1,0 +1,497 @@
+{
+   "results": [
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "and", 
+                     0.21, 
+                     0.38
+                  ], 
+                  [
+                     "behind", 
+                     0.38, 
+                     0.8
+                  ], 
+                  [
+                     "the", 
+                     0.8, 
+                     0.87
+                  ], 
+                  [
+                     "house", 
+                     0.87, 
+                     1.18
+                  ], 
+                  [
+                     "a", 
+                     1.18, 
+                     1.25
+                  ], 
+                  [
+                     "little", 
+                     1.25, 
+                     1.54
+                  ], 
+                  [
+                     "wood", 
+                     1.54, 
+                     1.81
+                  ], 
+                  [
+                     "for", 
+                     1.81, 
+                     2.17
+                  ], 
+                  [
+                     "mysterious", 
+                     2.2, 
+                     2.9
+                  ], 
+                  [
+                     "retreats", 
+                     2.9, 
+                     3.68
+                  ], 
+                  [
+                     "where", 
+                     4.01, 
+                     4.22
+                  ], 
+                  [
+                     "the", 
+                     4.22, 
+                     4.31
+                  ], 
+                  [
+                     "mas", 
+                     4.31, 
+                     4.78
+                  ], 
+                  [
+                     "must", 
+                     4.78, 
+                     5.12
+                  ], 
+                  [
+                     "to", 
+                     5.12, 
+                     5.2
+                  ], 
+                  [
+                     "face", 
+                     5.2, 
+                     5.58
+                  ], 
+                  [
+                     "each", 
+                     5.58, 
+                     5.89
+                  ], 
+                  [
+                     "morning", 
+                     5.89, 
+                     6.44
+                  ], 
+                  [
+                     "the", 
+                     6.44, 
+                     6.55
+                  ], 
+                  [
+                     "pathway", 
+                     6.55, 
+                     7.12
+                  ], 
+                  [
+                     "that", 
+                     7.12, 
+                     7.34
+                  ], 
+                  [
+                     "had", 
+                     7.34, 
+                     7.5
+                  ], 
+                  [
+                     "been", 
+                     7.5, 
+                     7.71
+                  ], 
+                  [
+                     "made", 
+                     7.71, 
+                     8.1
+                  ], 
+                  [
+                     "the", 
+                     8.1, 
+                     8.19
+                  ], 
+                  [
+                     "day", 
+                     8.19, 
+                     8.37
+                  ], 
+                  [
+                     "before", 
+                     8.37, 
+                     9.08
+                  ]
+               ], 
+               "confidence": 0.897, 
+               "transcript": "and behind the house a little wood for mysterious retreats where the mas must to face each morning the pathway that had been made the day before "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "and", 
+                     9.86, 
+                     9.97
+                  ], 
+                  [
+                     "for", 
+                     9.97, 
+                     10.24
+                  ], 
+                  [
+                     "our", 
+                     10.24, 
+                     10.47
+                  ], 
+                  [
+                     "final", 
+                     10.47, 
+                     10.84
+                  ], 
+                  [
+                     "success", 
+                     10.84, 
+                     11.53
+                  ], 
+                  [
+                     "we", 
+                     11.53, 
+                     11.74
+                  ], 
+                  [
+                     "%HESITATION", 
+                     11.74, 
+                     11.85
+                  ], 
+                  [
+                     "what", 
+                     11.85, 
+                     12.03
+                  ], 
+                  [
+                     "deep", 
+                     12.03, 
+                     12.34
+                  ], 
+                  [
+                     "debt", 
+                     12.37, 
+                     12.66
+                  ], 
+                  [
+                     "of", 
+                     12.66, 
+                     12.8
+                  ], 
+                  [
+                     "gratitude", 
+                     12.8, 
+                     13.53
+                  ]
+               ], 
+               "confidence": 0.93, 
+               "transcript": "and for our final success we %HESITATION what deep debt of gratitude "
+            }
+         ], 
+         "final": true
+      }
+   ], 
+   "result_index": 0, 
+   "speaker_labels": [
+      {
+         "from": 0.21, 
+         "to": 0.38, 
+         "speaker": 0, 
+         "confidence": 0.517, 
+         "final": false
+      }, 
+      {
+         "from": 0.38, 
+         "to": 0.8, 
+         "speaker": 0, 
+         "confidence": 0.517, 
+         "final": false
+      }, 
+      {
+         "from": 0.8, 
+         "to": 0.87, 
+         "speaker": 0, 
+         "confidence": 0.517, 
+         "final": false
+      }, 
+      {
+         "from": 0.87, 
+         "to": 1.18, 
+         "speaker": 0, 
+         "confidence": 0.517, 
+         "final": false
+      }, 
+      {
+         "from": 1.18, 
+         "to": 1.25, 
+         "speaker": 0, 
+         "confidence": 0.517, 
+         "final": false
+      }, 
+      {
+         "from": 1.25, 
+         "to": 1.54, 
+         "speaker": 0, 
+         "confidence": 0.517, 
+         "final": false
+      }, 
+      {
+         "from": 1.54, 
+         "to": 1.81, 
+         "speaker": 0, 
+         "confidence": 0.517, 
+         "final": false
+      }, 
+      {
+         "from": 1.81, 
+         "to": 2.17, 
+         "speaker": 0, 
+         "confidence": 0.517, 
+         "final": false
+      }, 
+      {
+         "from": 2.2, 
+         "to": 2.9, 
+         "speaker": 0, 
+         "confidence": 0.536, 
+         "final": false
+      }, 
+      {
+         "from": 2.9, 
+         "to": 3.68, 
+         "speaker": 0, 
+         "confidence": 0.536, 
+         "final": false
+      }, 
+      {
+         "from": 4.01, 
+         "to": 4.22, 
+         "speaker": 0, 
+         "confidence": 0.572, 
+         "final": false
+      }, 
+      {
+         "from": 4.22, 
+         "to": 4.31, 
+         "speaker": 0, 
+         "confidence": 0.572, 
+         "final": false
+      }, 
+      {
+         "from": 4.31, 
+         "to": 4.78, 
+         "speaker": 0, 
+         "confidence": 0.572, 
+         "final": false
+      }, 
+      {
+         "from": 4.78, 
+         "to": 5.12, 
+         "speaker": 0, 
+         "confidence": 0.572, 
+         "final": false
+      }, 
+      {
+         "from": 5.12, 
+         "to": 5.2, 
+         "speaker": 0, 
+         "confidence": 0.572, 
+         "final": false
+      }, 
+      {
+         "from": 5.2, 
+         "to": 5.58, 
+         "speaker": 0, 
+         "confidence": 0.572, 
+         "final": false
+      }, 
+      {
+         "from": 5.58, 
+         "to": 5.89, 
+         "speaker": 0, 
+         "confidence": 0.572, 
+         "final": false
+      }, 
+      {
+         "from": 5.89, 
+         "to": 6.44, 
+         "speaker": 0, 
+         "confidence": 0.572, 
+         "final": false
+      }, 
+      {
+         "from": 6.44, 
+         "to": 6.55, 
+         "speaker": 0, 
+         "confidence": 0.572, 
+         "final": false
+      }, 
+      {
+         "from": 6.55, 
+         "to": 7.12, 
+         "speaker": 0, 
+         "confidence": 0.572, 
+         "final": false
+      }, 
+      {
+         "from": 7.12, 
+         "to": 7.34, 
+         "speaker": 0, 
+         "confidence": 0.572, 
+         "final": false
+      }, 
+      {
+         "from": 7.34, 
+         "to": 7.5, 
+         "speaker": 0, 
+         "confidence": 0.572, 
+         "final": false
+      }, 
+      {
+         "from": 7.5, 
+         "to": 7.71, 
+         "speaker": 0, 
+         "confidence": 0.572, 
+         "final": false
+      }, 
+      {
+         "from": 7.71, 
+         "to": 8.1, 
+         "speaker": 0, 
+         "confidence": 0.572, 
+         "final": false
+      }, 
+      {
+         "from": 8.1, 
+         "to": 8.19, 
+         "speaker": 0, 
+         "confidence": 0.572, 
+         "final": false
+      }, 
+      {
+         "from": 8.19, 
+         "to": 8.37, 
+         "speaker": 0, 
+         "confidence": 0.572, 
+         "final": false
+      }, 
+      {
+         "from": 8.37, 
+         "to": 9.08, 
+         "speaker": 0, 
+         "confidence": 0.572, 
+         "final": false
+      }, 
+      {
+         "from": 9.86, 
+         "to": 9.97, 
+         "speaker": 1, 
+         "confidence": 0.65, 
+         "final": false
+      }, 
+      {
+         "from": 9.97, 
+         "to": 10.24, 
+         "speaker": 1, 
+         "confidence": 0.65, 
+         "final": false
+      }, 
+      {
+         "from": 10.24, 
+         "to": 10.47, 
+         "speaker": 1, 
+         "confidence": 0.65, 
+         "final": false
+      }, 
+      {
+         "from": 10.47, 
+         "to": 10.84, 
+         "speaker": 1, 
+         "confidence": 0.65, 
+         "final": false
+      }, 
+      {
+         "from": 10.84, 
+         "to": 11.53, 
+         "speaker": 1, 
+         "confidence": 0.65, 
+         "final": false
+      }, 
+      {
+         "from": 11.53, 
+         "to": 11.74, 
+         "speaker": 1, 
+         "confidence": 0.65, 
+         "final": false
+      }, 
+      {
+         "from": 11.74, 
+         "to": 11.85, 
+         "speaker": 1, 
+         "confidence": 0.65, 
+         "final": false
+      }, 
+      {
+         "from": 11.85, 
+         "to": 12.03, 
+         "speaker": 1, 
+         "confidence": 0.65, 
+         "final": false
+      }, 
+      {
+         "from": 12.03, 
+         "to": 12.34, 
+         "speaker": 1, 
+         "confidence": 0.65, 
+         "final": false
+      }, 
+      {
+         "from": 12.37, 
+         "to": 12.66, 
+         "speaker": 1, 
+         "confidence": 0.649, 
+         "final": false
+      }, 
+      {
+         "from": 12.66, 
+         "to": 12.8, 
+         "speaker": 1, 
+         "confidence": 0.649, 
+         "final": false
+      }, 
+      {
+         "from": 12.8, 
+         "to": 13.53, 
+         "speaker": 1, 
+         "confidence": 0.649, 
+         "final": true
+      }
+   ]
+}

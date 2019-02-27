@@ -1,0 +1,365 @@
+{
+   "results": [
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "no", 
+                     0.23, 
+                     0.45
+                  ], 
+                  [
+                     "more", 
+                     0.45, 
+                     0.68
+                  ], 
+                  [
+                     "Berrier", 
+                     0.68, 
+                     1.18
+                  ], 
+                  [
+                     "is", 
+                     1.18, 
+                     1.41
+                  ], 
+                  [
+                     "my", 
+                     1.44, 
+                     1.61
+                  ], 
+                  [
+                     "mark", 
+                     1.61, 
+                     1.88
+                  ], 
+                  [
+                     "greet", 
+                     1.88, 
+                     2.33
+                  ], 
+                  [
+                     "we", 
+                     2.53, 
+                     2.72
+                  ], 
+                  [
+                     "love", 
+                     2.72, 
+                     3.27
+                  ], 
+                  [
+                     "what", 
+                     3.38, 
+                     3.62
+                  ], 
+                  [
+                     "matters", 
+                     3.62, 
+                     4.04
+                  ], 
+                  [
+                     "all", 
+                     4.04, 
+                     4.19
+                  ], 
+                  [
+                     "the", 
+                     4.19, 
+                     4.31
+                  ], 
+                  [
+                     "rest", 
+                     4.31, 
+                     4.88
+                  ]
+               ], 
+               "confidence": 0.763, 
+               "transcript": "no more Berrier is my mark greet we love what matters all the rest "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "or", 
+                     5.66, 
+                     5.84
+                  ], 
+                  [
+                     "if", 
+                     5.84, 
+                     5.93
+                  ], 
+                  [
+                     "they", 
+                     5.93, 
+                     6.05
+                  ], 
+                  [
+                     "did", 
+                     6.05, 
+                     6.32
+                  ], 
+                  [
+                     "venture", 
+                     6.32, 
+                     6.6
+                  ], 
+                  [
+                     "to", 
+                     6.6, 
+                     6.7
+                  ], 
+                  [
+                     "call", 
+                     6.7, 
+                     6.99
+                  ], 
+                  [
+                     "out", 
+                     6.99, 
+                     7.26
+                  ], 
+                  [
+                     "on", 
+                     7.32, 
+                     7.67
+                  ], 
+                  [
+                     "two", 
+                     7.7, 
+                     7.88
+                  ], 
+                  [
+                     "bullets", 
+                     7.88, 
+                     8.21
+                  ], 
+                  [
+                     "into", 
+                     8.21, 
+                     8.41
+                  ], 
+                  [
+                     "brag", 
+                     8.41, 
+                     8.75
+                  ], 
+                  [
+                     "or", 
+                     8.75, 
+                     9.0
+                  ]
+               ], 
+               "confidence": 0.842, 
+               "transcript": "or if they did venture to call out on two bullets into brag or "
+            }
+         ], 
+         "final": true
+      }
+   ], 
+   "result_index": 0, 
+   "speaker_labels": [
+      {
+         "from": 0.23, 
+         "to": 0.45, 
+         "speaker": 2, 
+         "confidence": 0.515, 
+         "final": false
+      }, 
+      {
+         "from": 0.45, 
+         "to": 0.68, 
+         "speaker": 2, 
+         "confidence": 0.515, 
+         "final": false
+      }, 
+      {
+         "from": 0.68, 
+         "to": 1.18, 
+         "speaker": 2, 
+         "confidence": 0.515, 
+         "final": false
+      }, 
+      {
+         "from": 1.18, 
+         "to": 1.41, 
+         "speaker": 2, 
+         "confidence": 0.515, 
+         "final": false
+      }, 
+      {
+         "from": 1.44, 
+         "to": 1.61, 
+         "speaker": 2, 
+         "confidence": 0.551, 
+         "final": false
+      }, 
+      {
+         "from": 1.61, 
+         "to": 1.88, 
+         "speaker": 2, 
+         "confidence": 0.551, 
+         "final": false
+      }, 
+      {
+         "from": 1.88, 
+         "to": 2.33, 
+         "speaker": 2, 
+         "confidence": 0.551, 
+         "final": false
+      }, 
+      {
+         "from": 2.53, 
+         "to": 2.72, 
+         "speaker": 2, 
+         "confidence": 0.45, 
+         "final": false
+      }, 
+      {
+         "from": 2.72, 
+         "to": 3.27, 
+         "speaker": 2, 
+         "confidence": 0.45, 
+         "final": false
+      }, 
+      {
+         "from": 3.38, 
+         "to": 3.62, 
+         "speaker": 2, 
+         "confidence": 0.417, 
+         "final": false
+      }, 
+      {
+         "from": 3.62, 
+         "to": 4.04, 
+         "speaker": 2, 
+         "confidence": 0.417, 
+         "final": false
+      }, 
+      {
+         "from": 4.04, 
+         "to": 4.19, 
+         "speaker": 2, 
+         "confidence": 0.417, 
+         "final": false
+      }, 
+      {
+         "from": 4.19, 
+         "to": 4.31, 
+         "speaker": 2, 
+         "confidence": 0.417, 
+         "final": false
+      }, 
+      {
+         "from": 4.31, 
+         "to": 4.88, 
+         "speaker": 2, 
+         "confidence": 0.417, 
+         "final": false
+      }, 
+      {
+         "from": 5.66, 
+         "to": 5.84, 
+         "speaker": 0, 
+         "confidence": 0.564, 
+         "final": false
+      }, 
+      {
+         "from": 5.84, 
+         "to": 5.93, 
+         "speaker": 0, 
+         "confidence": 0.564, 
+         "final": false
+      }, 
+      {
+         "from": 5.93, 
+         "to": 6.05, 
+         "speaker": 0, 
+         "confidence": 0.564, 
+         "final": false
+      }, 
+      {
+         "from": 6.05, 
+         "to": 6.32, 
+         "speaker": 0, 
+         "confidence": 0.564, 
+         "final": false
+      }, 
+      {
+         "from": 6.32, 
+         "to": 6.6, 
+         "speaker": 0, 
+         "confidence": 0.564, 
+         "final": false
+      }, 
+      {
+         "from": 6.6, 
+         "to": 6.7, 
+         "speaker": 0, 
+         "confidence": 0.564, 
+         "final": false
+      }, 
+      {
+         "from": 6.7, 
+         "to": 6.99, 
+         "speaker": 0, 
+         "confidence": 0.564, 
+         "final": false
+      }, 
+      {
+         "from": 6.99, 
+         "to": 7.26, 
+         "speaker": 0, 
+         "confidence": 0.564, 
+         "final": false
+      }, 
+      {
+         "from": 7.32, 
+         "to": 7.67, 
+         "speaker": 0, 
+         "confidence": 0.562, 
+         "final": false
+      }, 
+      {
+         "from": 7.7, 
+         "to": 7.88, 
+         "speaker": 0, 
+         "confidence": 0.535, 
+         "final": false
+      }, 
+      {
+         "from": 7.88, 
+         "to": 8.21, 
+         "speaker": 0, 
+         "confidence": 0.535, 
+         "final": false
+      }, 
+      {
+         "from": 8.21, 
+         "to": 8.41, 
+         "speaker": 0, 
+         "confidence": 0.535, 
+         "final": false
+      }, 
+      {
+         "from": 8.41, 
+         "to": 8.75, 
+         "speaker": 0, 
+         "confidence": 0.535, 
+         "final": false
+      }, 
+      {
+         "from": 8.75, 
+         "to": 9.0, 
+         "speaker": 0, 
+         "confidence": 0.535, 
+         "final": true
+      }
+   ]
+}

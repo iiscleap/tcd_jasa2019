@@ -1,0 +1,388 @@
+{
+   "results": [
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "a", 
+                     0.13, 
+                     0.23
+                  ], 
+                  [
+                     "not", 
+                     0.23, 
+                     0.54
+                  ], 
+                  [
+                     "that", 
+                     0.54, 
+                     0.69
+                  ], 
+                  [
+                     "gold", 
+                     0.69, 
+                     1.02
+                  ], 
+                  [
+                     "and", 
+                     1.02, 
+                     1.15
+                  ], 
+                  [
+                     "silver", 
+                     1.15, 
+                     1.47
+                  ], 
+                  [
+                     "can", 
+                     1.47, 
+                     1.68
+                  ]
+               ], 
+               "confidence": 0.691, 
+               "transcript": "a not that gold and silver can "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "by", 
+                     1.74, 
+                     2.16
+                  ], 
+                  [
+                     "gold", 
+                     2.27, 
+                     2.69
+                  ], 
+                  [
+                     "and", 
+                     2.69, 
+                     2.82
+                  ], 
+                  [
+                     "silver", 
+                     2.82, 
+                     3.13
+                  ], 
+                  [
+                     "may", 
+                     3.13, 
+                     3.3
+                  ], 
+                  [
+                     "yet", 
+                     3.3, 
+                     3.61
+                  ], 
+                  [
+                     "on", 
+                     3.61, 
+                     3.75
+                  ], 
+                  [
+                     "time", 
+                     3.75, 
+                     4.31
+                  ], 
+                  [
+                     "unless", 
+                     4.47, 
+                     4.81
+                  ], 
+                  [
+                     "it", 
+                     4.81, 
+                     4.94
+                  ], 
+                  [
+                     "is", 
+                     4.94, 
+                     5.13
+                  ]
+               ], 
+               "confidence": 0.65, 
+               "transcript": "by gold and silver may yet on time unless it is "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "but", 
+                     5.52, 
+                     5.65
+                  ], 
+                  [
+                     "the", 
+                     5.65, 
+                     5.74
+                  ], 
+                  [
+                     "day", 
+                     5.74, 
+                     5.99
+                  ], 
+                  [
+                     "did", 
+                     5.99, 
+                     6.15
+                  ], 
+                  [
+                     "not", 
+                     6.15, 
+                     6.4
+                  ], 
+                  [
+                     "turn", 
+                     6.4, 
+                     6.63
+                  ], 
+                  [
+                     "out", 
+                     6.63, 
+                     6.85
+                  ], 
+                  [
+                     "so", 
+                     6.85, 
+                     7.01
+                  ], 
+                  [
+                     "badly", 
+                     7.01, 
+                     7.47
+                  ], 
+                  [
+                     "after", 
+                     7.47, 
+                     7.81
+                  ], 
+                  [
+                     "all", 
+                     7.81, 
+                     8.29
+                  ]
+               ], 
+               "confidence": 0.898, 
+               "transcript": "but the day did not turn out so badly after all "
+            }
+         ], 
+         "final": true
+      }
+   ], 
+   "result_index": 0, 
+   "speaker_labels": [
+      {
+         "from": 0.13, 
+         "to": 0.23, 
+         "speaker": 0, 
+         "confidence": 0.5, 
+         "final": false
+      }, 
+      {
+         "from": 0.23, 
+         "to": 0.54, 
+         "speaker": 0, 
+         "confidence": 0.5, 
+         "final": false
+      }, 
+      {
+         "from": 0.54, 
+         "to": 0.69, 
+         "speaker": 0, 
+         "confidence": 0.5, 
+         "final": false
+      }, 
+      {
+         "from": 0.69, 
+         "to": 1.02, 
+         "speaker": 0, 
+         "confidence": 0.5, 
+         "final": false
+      }, 
+      {
+         "from": 1.02, 
+         "to": 1.15, 
+         "speaker": 0, 
+         "confidence": 0.5, 
+         "final": false
+      }, 
+      {
+         "from": 1.15, 
+         "to": 1.47, 
+         "speaker": 0, 
+         "confidence": 0.5, 
+         "final": false
+      }, 
+      {
+         "from": 1.47, 
+         "to": 1.68, 
+         "speaker": 0, 
+         "confidence": 0.5, 
+         "final": false
+      }, 
+      {
+         "from": 1.74, 
+         "to": 2.16, 
+         "speaker": 1, 
+         "confidence": 0.501, 
+         "final": false
+      }, 
+      {
+         "from": 2.27, 
+         "to": 2.69, 
+         "speaker": 0, 
+         "confidence": 0.408, 
+         "final": false
+      }, 
+      {
+         "from": 2.69, 
+         "to": 2.82, 
+         "speaker": 0, 
+         "confidence": 0.408, 
+         "final": false
+      }, 
+      {
+         "from": 2.82, 
+         "to": 3.13, 
+         "speaker": 0, 
+         "confidence": 0.408, 
+         "final": false
+      }, 
+      {
+         "from": 3.13, 
+         "to": 3.3, 
+         "speaker": 0, 
+         "confidence": 0.408, 
+         "final": false
+      }, 
+      {
+         "from": 3.3, 
+         "to": 3.61, 
+         "speaker": 0, 
+         "confidence": 0.408, 
+         "final": false
+      }, 
+      {
+         "from": 3.61, 
+         "to": 3.75, 
+         "speaker": 0, 
+         "confidence": 0.408, 
+         "final": false
+      }, 
+      {
+         "from": 3.75, 
+         "to": 4.31, 
+         "speaker": 0, 
+         "confidence": 0.408, 
+         "final": false
+      }, 
+      {
+         "from": 4.47, 
+         "to": 4.81, 
+         "speaker": 2, 
+         "confidence": 0.511, 
+         "final": false
+      }, 
+      {
+         "from": 4.81, 
+         "to": 4.94, 
+         "speaker": 2, 
+         "confidence": 0.511, 
+         "final": false
+      }, 
+      {
+         "from": 4.94, 
+         "to": 5.13, 
+         "speaker": 2, 
+         "confidence": 0.511, 
+         "final": false
+      }, 
+      {
+         "from": 5.52, 
+         "to": 5.65, 
+         "speaker": 3, 
+         "confidence": 0.409, 
+         "final": false
+      }, 
+      {
+         "from": 5.65, 
+         "to": 5.74, 
+         "speaker": 3, 
+         "confidence": 0.409, 
+         "final": false
+      }, 
+      {
+         "from": 5.74, 
+         "to": 5.99, 
+         "speaker": 3, 
+         "confidence": 0.409, 
+         "final": false
+      }, 
+      {
+         "from": 5.99, 
+         "to": 6.15, 
+         "speaker": 3, 
+         "confidence": 0.409, 
+         "final": false
+      }, 
+      {
+         "from": 6.15, 
+         "to": 6.4, 
+         "speaker": 3, 
+         "confidence": 0.409, 
+         "final": false
+      }, 
+      {
+         "from": 6.4, 
+         "to": 6.63, 
+         "speaker": 3, 
+         "confidence": 0.409, 
+         "final": false
+      }, 
+      {
+         "from": 6.63, 
+         "to": 6.85, 
+         "speaker": 3, 
+         "confidence": 0.409, 
+         "final": false
+      }, 
+      {
+         "from": 6.85, 
+         "to": 7.01, 
+         "speaker": 3, 
+         "confidence": 0.409, 
+         "final": false
+      }, 
+      {
+         "from": 7.01, 
+         "to": 7.47, 
+         "speaker": 3, 
+         "confidence": 0.409, 
+         "final": false
+      }, 
+      {
+         "from": 7.47, 
+         "to": 7.81, 
+         "speaker": 3, 
+         "confidence": 0.409, 
+         "final": false
+      }, 
+      {
+         "from": 7.81, 
+         "to": 8.29, 
+         "speaker": 3, 
+         "confidence": 0.409, 
+         "final": true
+      }
+   ]
+}

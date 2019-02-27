@@ -1,0 +1,378 @@
+{
+   "results": [
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "some", 
+                     0.52, 
+                     0.85
+                  ], 
+                  [
+                     "of", 
+                     0.85, 
+                     0.97
+                  ], 
+                  [
+                     "the", 
+                     0.97, 
+                     1.07
+                  ], 
+                  [
+                     "groupings", 
+                     1.07, 
+                     1.57
+                  ], 
+                  [
+                     "in", 
+                     1.57, 
+                     1.7
+                  ], 
+                  [
+                     "the", 
+                     1.7, 
+                     1.81
+                  ], 
+                  [
+                     "chemical", 
+                     1.81, 
+                     2.39
+                  ], 
+                  [
+                     "and", 
+                     2.39, 
+                     2.7
+                  ], 
+                  [
+                     "physical", 
+                     2.7, 
+                     3.18
+                  ], 
+                  [
+                     "world", 
+                     3.18, 
+                     3.68
+                  ], 
+                  [
+                     "that", 
+                     3.68, 
+                     3.84
+                  ], 
+                  [
+                     "do", 
+                     3.87, 
+                     4.2
+                  ], 
+                  [
+                     "not", 
+                     4.2, 
+                     4.49
+                  ], 
+                  [
+                     "fit", 
+                     4.49, 
+                     4.76
+                  ], 
+                  [
+                     "man", 
+                     4.79, 
+                     5.13
+                  ], 
+                  [
+                     "always", 
+                     5.34, 
+                     5.78
+                  ], 
+                  [
+                     "repeating", 
+                     5.78, 
+                     6.33
+                  ], 
+                  [
+                     "that", 
+                     6.33, 
+                     6.49
+                  ], 
+                  [
+                     "I", 
+                     6.49, 
+                     6.58
+                  ], 
+                  [
+                     "was", 
+                     6.58, 
+                     6.78
+                  ], 
+                  [
+                     "quite", 
+                     6.78, 
+                     7.16
+                  ], 
+                  [
+                     "well", 
+                     7.16, 
+                     7.61
+                  ], 
+                  [
+                     "and", 
+                     7.77, 
+                     8.0
+                  ], 
+                  [
+                     "that", 
+                     8.0, 
+                     8.12
+                  ], 
+                  [
+                     "I", 
+                     8.12, 
+                     8.2
+                  ], 
+                  [
+                     "was", 
+                     8.2, 
+                     8.39
+                  ], 
+                  [
+                     "not", 
+                     8.39, 
+                     8.64
+                  ], 
+                  [
+                     "in", 
+                     8.64, 
+                     8.77
+                  ], 
+                  [
+                     "need", 
+                     8.77, 
+                     9.04
+                  ], 
+                  [
+                     "of", 
+                     9.04, 
+                     9.15
+                  ]
+               ], 
+               "confidence": 0.906, 
+               "transcript": "some of the groupings in the chemical and physical world that do not fit man always repeating that I was quite well and that I was not in need of "
+            }
+         ], 
+         "final": true
+      }
+   ], 
+   "result_index": 0, 
+   "speaker_labels": [
+      {
+         "from": 0.52, 
+         "to": 0.85, 
+         "speaker": 0, 
+         "confidence": 0.423, 
+         "final": false
+      }, 
+      {
+         "from": 0.85, 
+         "to": 0.97, 
+         "speaker": 0, 
+         "confidence": 0.423, 
+         "final": false
+      }, 
+      {
+         "from": 0.97, 
+         "to": 1.07, 
+         "speaker": 0, 
+         "confidence": 0.423, 
+         "final": false
+      }, 
+      {
+         "from": 1.07, 
+         "to": 1.57, 
+         "speaker": 0, 
+         "confidence": 0.423, 
+         "final": false
+      }, 
+      {
+         "from": 1.57, 
+         "to": 1.7, 
+         "speaker": 0, 
+         "confidence": 0.423, 
+         "final": false
+      }, 
+      {
+         "from": 1.7, 
+         "to": 1.81, 
+         "speaker": 0, 
+         "confidence": 0.423, 
+         "final": false
+      }, 
+      {
+         "from": 1.81, 
+         "to": 2.39, 
+         "speaker": 0, 
+         "confidence": 0.423, 
+         "final": false
+      }, 
+      {
+         "from": 2.39, 
+         "to": 2.7, 
+         "speaker": 0, 
+         "confidence": 0.423, 
+         "final": false
+      }, 
+      {
+         "from": 2.7, 
+         "to": 3.18, 
+         "speaker": 0, 
+         "confidence": 0.423, 
+         "final": false
+      }, 
+      {
+         "from": 3.18, 
+         "to": 3.68, 
+         "speaker": 0, 
+         "confidence": 0.423, 
+         "final": false
+      }, 
+      {
+         "from": 3.68, 
+         "to": 3.84, 
+         "speaker": 0, 
+         "confidence": 0.423, 
+         "final": false
+      }, 
+      {
+         "from": 3.87, 
+         "to": 4.2, 
+         "speaker": 0, 
+         "confidence": 0.459, 
+         "final": false
+      }, 
+      {
+         "from": 4.2, 
+         "to": 4.49, 
+         "speaker": 0, 
+         "confidence": 0.459, 
+         "final": false
+      }, 
+      {
+         "from": 4.49, 
+         "to": 4.76, 
+         "speaker": 0, 
+         "confidence": 0.459, 
+         "final": false
+      }, 
+      {
+         "from": 4.79, 
+         "to": 5.13, 
+         "speaker": 1, 
+         "confidence": 0.458, 
+         "final": false
+      }, 
+      {
+         "from": 5.34, 
+         "to": 5.78, 
+         "speaker": 2, 
+         "confidence": 0.468, 
+         "final": false
+      }, 
+      {
+         "from": 5.78, 
+         "to": 6.33, 
+         "speaker": 2, 
+         "confidence": 0.468, 
+         "final": false
+      }, 
+      {
+         "from": 6.33, 
+         "to": 6.49, 
+         "speaker": 2, 
+         "confidence": 0.468, 
+         "final": false
+      }, 
+      {
+         "from": 6.49, 
+         "to": 6.58, 
+         "speaker": 2, 
+         "confidence": 0.468, 
+         "final": false
+      }, 
+      {
+         "from": 6.58, 
+         "to": 6.78, 
+         "speaker": 2, 
+         "confidence": 0.468, 
+         "final": false
+      }, 
+      {
+         "from": 6.78, 
+         "to": 7.16, 
+         "speaker": 2, 
+         "confidence": 0.468, 
+         "final": false
+      }, 
+      {
+         "from": 7.16, 
+         "to": 7.61, 
+         "speaker": 2, 
+         "confidence": 0.468, 
+         "final": false
+      }, 
+      {
+         "from": 7.77, 
+         "to": 8.0, 
+         "speaker": 2, 
+         "confidence": 0.444, 
+         "final": false
+      }, 
+      {
+         "from": 8.0, 
+         "to": 8.12, 
+         "speaker": 2, 
+         "confidence": 0.444, 
+         "final": false
+      }, 
+      {
+         "from": 8.12, 
+         "to": 8.2, 
+         "speaker": 2, 
+         "confidence": 0.444, 
+         "final": false
+      }, 
+      {
+         "from": 8.2, 
+         "to": 8.39, 
+         "speaker": 2, 
+         "confidence": 0.444, 
+         "final": false
+      }, 
+      {
+         "from": 8.39, 
+         "to": 8.64, 
+         "speaker": 2, 
+         "confidence": 0.444, 
+         "final": false
+      }, 
+      {
+         "from": 8.64, 
+         "to": 8.77, 
+         "speaker": 2, 
+         "confidence": 0.444, 
+         "final": false
+      }, 
+      {
+         "from": 8.77, 
+         "to": 9.04, 
+         "speaker": 2, 
+         "confidence": 0.444, 
+         "final": false
+      }, 
+      {
+         "from": 9.04, 
+         "to": 9.15, 
+         "speaker": 2, 
+         "confidence": 0.444, 
+         "final": true
+      }
+   ]
+}

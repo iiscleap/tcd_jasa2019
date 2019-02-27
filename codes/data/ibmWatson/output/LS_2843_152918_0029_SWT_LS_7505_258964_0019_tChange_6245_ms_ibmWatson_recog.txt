@@ -1,0 +1,364 @@
+{
+   "results": [
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "and", 
+                     0.22, 
+                     0.37
+                  ], 
+                  [
+                     "we", 
+                     0.37, 
+                     0.48
+                  ], 
+                  [
+                     "knew", 
+                     0.48, 
+                     0.64
+                  ], 
+                  [
+                     "well", 
+                     0.64, 
+                     1.09
+                  ], 
+                  [
+                     "that", 
+                     1.09, 
+                     1.3
+                  ], 
+                  [
+                     "nothing", 
+                     1.3, 
+                     1.62
+                  ], 
+                  [
+                     "could", 
+                     1.62, 
+                     1.82
+                  ], 
+                  [
+                     "happen", 
+                     1.82, 
+                     2.28
+                  ], 
+                  [
+                     "without", 
+                     2.31, 
+                     2.67
+                  ], 
+                  [
+                     "our", 
+                     2.67, 
+                     2.91
+                  ], 
+                  [
+                     "noticing", 
+                     2.91, 
+                     3.46
+                  ], 
+                  [
+                     "it", 
+                     3.46, 
+                     3.8
+                  ]
+               ], 
+               "confidence": 0.961, 
+               "transcript": "and we knew well that nothing could happen without our noticing it "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "at", 
+                     4.61, 
+                     4.77
+                  ], 
+                  [
+                     "three", 
+                     4.77, 
+                     5.03
+                  ], 
+                  [
+                     "in", 
+                     5.03, 
+                     5.12
+                  ], 
+                  [
+                     "the", 
+                     5.12, 
+                     5.2
+                  ], 
+                  [
+                     "morning", 
+                     5.2, 
+                     5.76
+                  ]
+               ], 
+               "confidence": 0.998, 
+               "transcript": "at three in the morning "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "but", 
+                     6.18, 
+                     6.35
+                  ], 
+                  [
+                     "in", 
+                     6.35, 
+                     6.49
+                  ], 
+                  [
+                     "doing", 
+                     6.49, 
+                     6.82
+                  ], 
+                  [
+                     "that", 
+                     6.82, 
+                     7.11
+                  ], 
+                  [
+                     "he", 
+                     7.11, 
+                     7.35
+                  ], 
+                  [
+                     "affects", 
+                     7.35, 
+                     7.76
+                  ], 
+                  [
+                     "the", 
+                     7.76, 
+                     7.96
+                  ], 
+                  [
+                     "agents", 
+                     7.99, 
+                     8.61
+                  ], 
+                  [
+                     "owned", 
+                     8.64, 
+                     9.2
+                  ], 
+                  [
+                     "into", 
+                     9.4, 
+                     9.69
+                  ]
+               ], 
+               "confidence": 0.889, 
+               "transcript": "but in doing that he affects the agents owned into "
+            }
+         ], 
+         "final": true
+      }
+   ], 
+   "result_index": 0, 
+   "speaker_labels": [
+      {
+         "from": 0.22, 
+         "to": 0.37, 
+         "speaker": 0, 
+         "confidence": 0.667, 
+         "final": false
+      }, 
+      {
+         "from": 0.37, 
+         "to": 0.48, 
+         "speaker": 0, 
+         "confidence": 0.667, 
+         "final": false
+      }, 
+      {
+         "from": 0.48, 
+         "to": 0.64, 
+         "speaker": 0, 
+         "confidence": 0.667, 
+         "final": false
+      }, 
+      {
+         "from": 0.64, 
+         "to": 1.09, 
+         "speaker": 0, 
+         "confidence": 0.667, 
+         "final": false
+      }, 
+      {
+         "from": 1.09, 
+         "to": 1.3, 
+         "speaker": 0, 
+         "confidence": 0.667, 
+         "final": false
+      }, 
+      {
+         "from": 1.3, 
+         "to": 1.62, 
+         "speaker": 0, 
+         "confidence": 0.667, 
+         "final": false
+      }, 
+      {
+         "from": 1.62, 
+         "to": 1.82, 
+         "speaker": 0, 
+         "confidence": 0.667, 
+         "final": false
+      }, 
+      {
+         "from": 1.82, 
+         "to": 2.28, 
+         "speaker": 0, 
+         "confidence": 0.667, 
+         "final": false
+      }, 
+      {
+         "from": 2.31, 
+         "to": 2.67, 
+         "speaker": 0, 
+         "confidence": 0.614, 
+         "final": false
+      }, 
+      {
+         "from": 2.67, 
+         "to": 2.91, 
+         "speaker": 0, 
+         "confidence": 0.614, 
+         "final": false
+      }, 
+      {
+         "from": 2.91, 
+         "to": 3.46, 
+         "speaker": 0, 
+         "confidence": 0.614, 
+         "final": false
+      }, 
+      {
+         "from": 3.46, 
+         "to": 3.8, 
+         "speaker": 0, 
+         "confidence": 0.614, 
+         "final": false
+      }, 
+      {
+         "from": 4.61, 
+         "to": 4.77, 
+         "speaker": 0, 
+         "confidence": 0.567, 
+         "final": false
+      }, 
+      {
+         "from": 4.77, 
+         "to": 5.03, 
+         "speaker": 0, 
+         "confidence": 0.567, 
+         "final": false
+      }, 
+      {
+         "from": 5.03, 
+         "to": 5.12, 
+         "speaker": 0, 
+         "confidence": 0.567, 
+         "final": false
+      }, 
+      {
+         "from": 5.12, 
+         "to": 5.2, 
+         "speaker": 0, 
+         "confidence": 0.567, 
+         "final": false
+      }, 
+      {
+         "from": 5.2, 
+         "to": 5.76, 
+         "speaker": 0, 
+         "confidence": 0.567, 
+         "final": false
+      }, 
+      {
+         "from": 6.18, 
+         "to": 6.35, 
+         "speaker": 1, 
+         "confidence": 0.534, 
+         "final": false
+      }, 
+      {
+         "from": 6.35, 
+         "to": 6.49, 
+         "speaker": 1, 
+         "confidence": 0.534, 
+         "final": false
+      }, 
+      {
+         "from": 6.49, 
+         "to": 6.82, 
+         "speaker": 1, 
+         "confidence": 0.534, 
+         "final": false
+      }, 
+      {
+         "from": 6.82, 
+         "to": 7.11, 
+         "speaker": 1, 
+         "confidence": 0.534, 
+         "final": false
+      }, 
+      {
+         "from": 7.11, 
+         "to": 7.35, 
+         "speaker": 1, 
+         "confidence": 0.534, 
+         "final": false
+      }, 
+      {
+         "from": 7.35, 
+         "to": 7.76, 
+         "speaker": 1, 
+         "confidence": 0.534, 
+         "final": false
+      }, 
+      {
+         "from": 7.76, 
+         "to": 7.96, 
+         "speaker": 1, 
+         "confidence": 0.534, 
+         "final": false
+      }, 
+      {
+         "from": 7.99, 
+         "to": 8.61, 
+         "speaker": 1, 
+         "confidence": 0.62, 
+         "final": false
+      }, 
+      {
+         "from": 8.64, 
+         "to": 9.2, 
+         "speaker": 1, 
+         "confidence": 0.528, 
+         "final": false
+      }, 
+      {
+         "from": 9.4, 
+         "to": 9.69, 
+         "speaker": 1, 
+         "confidence": 0.521, 
+         "final": true
+      }
+   ]
+}

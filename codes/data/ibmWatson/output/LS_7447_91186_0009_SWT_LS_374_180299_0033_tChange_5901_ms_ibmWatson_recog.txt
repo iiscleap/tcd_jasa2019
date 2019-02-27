@@ -1,0 +1,340 @@
+{
+   "results": [
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "consider", 
+                     0.24, 
+                     0.84
+                  ]
+               ], 
+               "confidence": 0.519, 
+               "transcript": "consider "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "and", 
+                     1.11, 
+                     1.38
+                  ], 
+                  [
+                     "whether", 
+                     1.44, 
+                     1.76
+                  ], 
+                  [
+                     "this", 
+                     1.76, 
+                     2.06
+                  ], 
+                  [
+                     "would", 
+                     2.06, 
+                     2.42
+                  ], 
+                  [
+                     "become", 
+                     2.42, 
+                     2.81
+                  ], 
+                  [
+                     "you", 
+                     2.81, 
+                     3.08
+                  ], 
+                  [
+                     "if", 
+                     3.59, 
+                     3.76
+                  ], 
+                  [
+                     "your", 
+                     3.76, 
+                     3.88
+                  ], 
+                  [
+                     "friends", 
+                     3.88, 
+                     4.31
+                  ], 
+                  [
+                     "we", 
+                     4.31, 
+                     4.55
+                  ], 
+                  [
+                     "shoot", 
+                     4.55, 
+                     4.86
+                  ]
+               ], 
+               "confidence": 0.893, 
+               "transcript": "and whether this would become you if your friends we shoot "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "you", 
+                     5.3, 
+                     5.4
+                  ], 
+                  [
+                     "know", 
+                     5.4, 
+                     5.59
+                  ], 
+                  [
+                     "said", 
+                     5.75, 
+                     6.12
+                  ], 
+                  [
+                     "she", 
+                     6.12, 
+                     6.54
+                  ], 
+                  [
+                     "turning", 
+                     6.68, 
+                     7.06
+                  ], 
+                  [
+                     "to", 
+                     7.06, 
+                     7.18
+                  ], 
+                  [
+                     "prudence", 
+                     7.18, 
+                     7.89
+                  ], 
+                  [
+                     "and", 
+                     8.02, 
+                     8.24
+                  ], 
+                  [
+                     "speaking", 
+                     8.24, 
+                     8.68
+                  ], 
+                  [
+                     "in", 
+                     8.68, 
+                     8.81
+                  ], 
+                  [
+                     "a", 
+                     8.81, 
+                     8.87
+                  ], 
+                  [
+                     "broken", 
+                     8.87, 
+                     9.25
+                  ], 
+                  [
+                     "voice", 
+                     9.25, 
+                     9.59
+                  ]
+               ], 
+               "confidence": 0.95, 
+               "transcript": "you know said she turning to prudence and speaking in a broken voice "
+            }
+         ], 
+         "final": true
+      }
+   ], 
+   "result_index": 0, 
+   "speaker_labels": [
+      {
+         "from": 0.24, 
+         "to": 0.84, 
+         "speaker": 0, 
+         "confidence": 0.5, 
+         "final": false
+      }, 
+      {
+         "from": 1.11, 
+         "to": 1.38, 
+         "speaker": 0, 
+         "confidence": 0.583, 
+         "final": false
+      }, 
+      {
+         "from": 1.44, 
+         "to": 1.76, 
+         "speaker": 0, 
+         "confidence": 0.604, 
+         "final": false
+      }, 
+      {
+         "from": 1.76, 
+         "to": 2.06, 
+         "speaker": 0, 
+         "confidence": 0.604, 
+         "final": false
+      }, 
+      {
+         "from": 2.06, 
+         "to": 2.42, 
+         "speaker": 0, 
+         "confidence": 0.604, 
+         "final": false
+      }, 
+      {
+         "from": 2.42, 
+         "to": 2.81, 
+         "speaker": 0, 
+         "confidence": 0.604, 
+         "final": false
+      }, 
+      {
+         "from": 2.81, 
+         "to": 3.08, 
+         "speaker": 0, 
+         "confidence": 0.604, 
+         "final": false
+      }, 
+      {
+         "from": 3.59, 
+         "to": 3.76, 
+         "speaker": 0, 
+         "confidence": 0.505, 
+         "final": false
+      }, 
+      {
+         "from": 3.76, 
+         "to": 3.88, 
+         "speaker": 0, 
+         "confidence": 0.505, 
+         "final": false
+      }, 
+      {
+         "from": 3.88, 
+         "to": 4.31, 
+         "speaker": 0, 
+         "confidence": 0.505, 
+         "final": false
+      }, 
+      {
+         "from": 4.31, 
+         "to": 4.55, 
+         "speaker": 0, 
+         "confidence": 0.505, 
+         "final": false
+      }, 
+      {
+         "from": 4.55, 
+         "to": 4.86, 
+         "speaker": 0, 
+         "confidence": 0.505, 
+         "final": false
+      }, 
+      {
+         "from": 5.3, 
+         "to": 5.4, 
+         "speaker": 0, 
+         "confidence": 0.486, 
+         "final": false
+      }, 
+      {
+         "from": 5.4, 
+         "to": 5.59, 
+         "speaker": 0, 
+         "confidence": 0.486, 
+         "final": false
+      }, 
+      {
+         "from": 5.75, 
+         "to": 6.12, 
+         "speaker": 1, 
+         "confidence": 0.582, 
+         "final": false
+      }, 
+      {
+         "from": 6.12, 
+         "to": 6.54, 
+         "speaker": 1, 
+         "confidence": 0.582, 
+         "final": false
+      }, 
+      {
+         "from": 6.68, 
+         "to": 7.06, 
+         "speaker": 1, 
+         "confidence": 0.589, 
+         "final": false
+      }, 
+      {
+         "from": 7.06, 
+         "to": 7.18, 
+         "speaker": 1, 
+         "confidence": 0.589, 
+         "final": false
+      }, 
+      {
+         "from": 7.18, 
+         "to": 7.89, 
+         "speaker": 1, 
+         "confidence": 0.589, 
+         "final": false
+      }, 
+      {
+         "from": 8.02, 
+         "to": 8.24, 
+         "speaker": 1, 
+         "confidence": 0.628, 
+         "final": false
+      }, 
+      {
+         "from": 8.24, 
+         "to": 8.68, 
+         "speaker": 1, 
+         "confidence": 0.628, 
+         "final": false
+      }, 
+      {
+         "from": 8.68, 
+         "to": 8.81, 
+         "speaker": 1, 
+         "confidence": 0.628, 
+         "final": false
+      }, 
+      {
+         "from": 8.81, 
+         "to": 8.87, 
+         "speaker": 1, 
+         "confidence": 0.628, 
+         "final": false
+      }, 
+      {
+         "from": 8.87, 
+         "to": 9.25, 
+         "speaker": 1, 
+         "confidence": 0.628, 
+         "final": false
+      }, 
+      {
+         "from": 9.25, 
+         "to": 9.59, 
+         "speaker": 1, 
+         "confidence": 0.628, 
+         "final": true
+      }
+   ]
+}

@@ -1,0 +1,240 @@
+{
+   "results": [
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "harmony", 
+                     0.13, 
+                     0.75
+                  ], 
+                  [
+                     "and", 
+                     0.78, 
+                     0.99
+                  ]
+               ], 
+               "confidence": 0.998, 
+               "transcript": "harmony and "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "%HESITATION", 
+                     1.29, 
+                     1.56
+                  ]
+               ], 
+               "confidence": 0.19, 
+               "transcript": "%HESITATION "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "new", 
+                     2.37, 
+                     2.61
+                  ], 
+                  [
+                     "court", 
+                     2.61, 
+                     2.94
+                  ], 
+                  [
+                     "extend", 
+                     2.94, 
+                     3.43
+                  ]
+               ], 
+               "confidence": 0.826, 
+               "transcript": "new court extend "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "this", 
+                     3.59, 
+                     3.83
+                  ]
+               ], 
+               "confidence": 0.253, 
+               "transcript": "this "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "notes", 
+                     5.16, 
+                     5.66
+                  ]
+               ], 
+               "confidence": 0.538, 
+               "transcript": "notes "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "in", 
+                     6.01, 
+                     6.15
+                  ], 
+                  [
+                     "psychology", 
+                     6.15, 
+                     7.26
+                  ]
+               ], 
+               "confidence": 0.973, 
+               "transcript": "in psychology "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "man", 
+                     7.93, 
+                     8.53
+                  ], 
+                  [
+                     "chiefly", 
+                     8.69, 
+                     9.08
+                  ], 
+                  [
+                     "cognizant", 
+                     9.08, 
+                     9.64
+                  ]
+               ], 
+               "confidence": 0.873, 
+               "transcript": "man chiefly cognizant "
+            }
+         ], 
+         "final": true
+      }
+   ], 
+   "result_index": 0, 
+   "speaker_labels": [
+      {
+         "from": 0.13, 
+         "to": 0.75, 
+         "speaker": 0, 
+         "confidence": 0.667, 
+         "final": false
+      }, 
+      {
+         "from": 0.78, 
+         "to": 0.99, 
+         "speaker": 0, 
+         "confidence": 0.436, 
+         "final": false
+      }, 
+      {
+         "from": 1.29, 
+         "to": 1.56, 
+         "speaker": 0, 
+         "confidence": 0.519, 
+         "final": false
+      }, 
+      {
+         "from": 2.37, 
+         "to": 2.61, 
+         "speaker": 0, 
+         "confidence": 0.424, 
+         "final": false
+      }, 
+      {
+         "from": 2.61, 
+         "to": 2.94, 
+         "speaker": 0, 
+         "confidence": 0.424, 
+         "final": false
+      }, 
+      {
+         "from": 2.94, 
+         "to": 3.43, 
+         "speaker": 0, 
+         "confidence": 0.424, 
+         "final": false
+      }, 
+      {
+         "from": 3.59, 
+         "to": 3.83, 
+         "speaker": 0, 
+         "confidence": 0.48, 
+         "final": false
+      }, 
+      {
+         "from": 5.16, 
+         "to": 5.66, 
+         "speaker": 0, 
+         "confidence": 0.553, 
+         "final": false
+      }, 
+      {
+         "from": 6.01, 
+         "to": 6.15, 
+         "speaker": 3, 
+         "confidence": 0.392, 
+         "final": false
+      }, 
+      {
+         "from": 6.15, 
+         "to": 7.26, 
+         "speaker": 3, 
+         "confidence": 0.392, 
+         "final": false
+      }, 
+      {
+         "from": 7.93, 
+         "to": 8.53, 
+         "speaker": 3, 
+         "confidence": 0.547, 
+         "final": false
+      }, 
+      {
+         "from": 8.69, 
+         "to": 9.08, 
+         "speaker": 3, 
+         "confidence": 0.614, 
+         "final": false
+      }, 
+      {
+         "from": 9.08, 
+         "to": 9.64, 
+         "speaker": 3, 
+         "confidence": 0.614, 
+         "final": true
+      }
+   ]
+}

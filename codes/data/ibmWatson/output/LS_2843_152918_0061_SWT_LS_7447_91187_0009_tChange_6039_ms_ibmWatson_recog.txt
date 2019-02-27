@@ -1,0 +1,362 @@
+{
+   "results": [
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "and", 
+                     0.08, 
+                     0.28
+                  ], 
+                  [
+                     "waited", 
+                     0.28, 
+                     0.75
+                  ], 
+                  [
+                     "for", 
+                     0.78, 
+                     0.98
+                  ], 
+                  [
+                     "decently", 
+                     0.98, 
+                     1.56
+                  ], 
+                  [
+                     "clear", 
+                     1.56, 
+                     1.85
+                  ], 
+                  [
+                     "weather", 
+                     1.85, 
+                     2.36
+                  ], 
+                  [
+                     "so", 
+                     2.9, 
+                     3.07
+                  ], 
+                  [
+                     "that", 
+                     3.07, 
+                     3.26
+                  ], 
+                  [
+                     "we", 
+                     3.26, 
+                     3.38
+                  ], 
+                  [
+                     "might", 
+                     3.38, 
+                     3.68
+                  ], 
+                  [
+                     "survey", 
+                     3.68, 
+                     4.03
+                  ], 
+                  [
+                     "the", 
+                     4.03, 
+                     4.17
+                  ], 
+                  [
+                     "ground", 
+                     4.17, 
+                     4.75
+                  ], 
+                  [
+                     "at", 
+                     4.81, 
+                     4.98
+                  ], 
+                  [
+                     "our", 
+                     4.98, 
+                     5.26
+                  ]
+               ], 
+               "confidence": 0.925, 
+               "transcript": "and waited for decently clear weather so that we might survey the ground at our "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "I", 
+                     5.96, 
+                     6.05
+                  ], 
+                  [
+                     "agree", 
+                     6.05, 
+                     6.32
+                  ]
+               ], 
+               "confidence": 0.901, 
+               "transcript": "I agree "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "to", 
+                     6.63, 
+                     6.78
+                  ], 
+                  [
+                     "him", 
+                     6.78, 
+                     7.01
+                  ]
+               ], 
+               "confidence": 0.519, 
+               "transcript": "to him "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "to", 
+                     7.17, 
+                     7.34
+                  ], 
+                  [
+                     "gratify", 
+                     7.34, 
+                     8.03
+                  ], 
+                  [
+                     "the", 
+                     8.03, 
+                     8.24
+                  ], 
+                  [
+                     "on", 
+                     8.3, 
+                     8.51
+                  ]
+               ], 
+               "confidence": 0.813, 
+               "transcript": "to gratify the on "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "this", 
+                     9.28, 
+                     9.44
+                  ], 
+                  [
+                     "is", 
+                     9.47, 
+                     9.72
+                  ]
+               ], 
+               "confidence": 0.292, 
+               "transcript": "this is "
+            }
+         ], 
+         "final": true
+      }
+   ], 
+   "result_index": 0, 
+   "speaker_labels": [
+      {
+         "from": 0.08, 
+         "to": 0.28, 
+         "speaker": 0, 
+         "confidence": 0.438, 
+         "final": false
+      }, 
+      {
+         "from": 0.28, 
+         "to": 0.75, 
+         "speaker": 0, 
+         "confidence": 0.438, 
+         "final": false
+      }, 
+      {
+         "from": 0.78, 
+         "to": 0.98, 
+         "speaker": 0, 
+         "confidence": 0.391, 
+         "final": false
+      }, 
+      {
+         "from": 0.98, 
+         "to": 1.56, 
+         "speaker": 0, 
+         "confidence": 0.391, 
+         "final": false
+      }, 
+      {
+         "from": 1.56, 
+         "to": 1.85, 
+         "speaker": 0, 
+         "confidence": 0.391, 
+         "final": false
+      }, 
+      {
+         "from": 1.85, 
+         "to": 2.36, 
+         "speaker": 0, 
+         "confidence": 0.391, 
+         "final": false
+      }, 
+      {
+         "from": 2.9, 
+         "to": 3.07, 
+         "speaker": 0, 
+         "confidence": 0.432, 
+         "final": false
+      }, 
+      {
+         "from": 3.07, 
+         "to": 3.26, 
+         "speaker": 0, 
+         "confidence": 0.432, 
+         "final": false
+      }, 
+      {
+         "from": 3.26, 
+         "to": 3.38, 
+         "speaker": 0, 
+         "confidence": 0.432, 
+         "final": false
+      }, 
+      {
+         "from": 3.38, 
+         "to": 3.68, 
+         "speaker": 0, 
+         "confidence": 0.432, 
+         "final": false
+      }, 
+      {
+         "from": 3.68, 
+         "to": 4.03, 
+         "speaker": 0, 
+         "confidence": 0.432, 
+         "final": false
+      }, 
+      {
+         "from": 4.03, 
+         "to": 4.17, 
+         "speaker": 0, 
+         "confidence": 0.432, 
+         "final": false
+      }, 
+      {
+         "from": 4.17, 
+         "to": 4.75, 
+         "speaker": 0, 
+         "confidence": 0.432, 
+         "final": false
+      }, 
+      {
+         "from": 4.81, 
+         "to": 4.98, 
+         "speaker": 0, 
+         "confidence": 0.478, 
+         "final": false
+      }, 
+      {
+         "from": 4.98, 
+         "to": 5.26, 
+         "speaker": 0, 
+         "confidence": 0.478, 
+         "final": false
+      }, 
+      {
+         "from": 5.96, 
+         "to": 6.05, 
+         "speaker": 1, 
+         "confidence": 0.503, 
+         "final": false
+      }, 
+      {
+         "from": 6.05, 
+         "to": 6.32, 
+         "speaker": 1, 
+         "confidence": 0.503, 
+         "final": false
+      }, 
+      {
+         "from": 6.63, 
+         "to": 6.78, 
+         "speaker": 1, 
+         "confidence": 0.616, 
+         "final": false
+      }, 
+      {
+         "from": 6.78, 
+         "to": 7.01, 
+         "speaker": 1, 
+         "confidence": 0.616, 
+         "final": false
+      }, 
+      {
+         "from": 7.17, 
+         "to": 7.34, 
+         "speaker": 1, 
+         "confidence": 0.579, 
+         "final": false
+      }, 
+      {
+         "from": 7.34, 
+         "to": 8.03, 
+         "speaker": 1, 
+         "confidence": 0.579, 
+         "final": false
+      }, 
+      {
+         "from": 8.03, 
+         "to": 8.24, 
+         "speaker": 1, 
+         "confidence": 0.579, 
+         "final": false
+      }, 
+      {
+         "from": 8.3, 
+         "to": 8.51, 
+         "speaker": 1, 
+         "confidence": 0.612, 
+         "final": false
+      }, 
+      {
+         "from": 9.28, 
+         "to": 9.44, 
+         "speaker": 1, 
+         "confidence": 0.513, 
+         "final": false
+      }, 
+      {
+         "from": 9.47, 
+         "to": 9.72, 
+         "speaker": 1, 
+         "confidence": 0.52, 
+         "final": true
+      }
+   ]
+}

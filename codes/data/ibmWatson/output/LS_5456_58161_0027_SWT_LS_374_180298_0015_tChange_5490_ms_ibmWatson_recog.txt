@@ -1,0 +1,340 @@
+{
+   "results": [
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "well", 
+                     0.11, 
+                     0.26
+                  ], 
+                  [
+                     "sure", 
+                     0.26, 
+                     0.55
+                  ], 
+                  [
+                     "reply", 
+                     0.58, 
+                     0.87
+                  ]
+               ], 
+               "confidence": 0.608, 
+               "transcript": "well sure reply "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "thanks", 
+                     1.11, 
+                     1.42
+                  ], 
+                  [
+                     "to", 
+                     1.42, 
+                     1.5
+                  ], 
+                  [
+                     "the", 
+                     1.5, 
+                     1.62
+                  ], 
+                  [
+                     "sticks", 
+                     1.62, 
+                     2.38
+                  ], 
+                  [
+                     "quite", 
+                     2.68, 
+                     3.0
+                  ], 
+                  [
+                     "is", 
+                     3.0, 
+                     3.13
+                  ], 
+                  [
+                     "helpless", 
+                     3.13, 
+                     3.54
+                  ]
+               ], 
+               "confidence": 0.759, 
+               "transcript": "thanks to the sticks quite is helpless "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "worn", 
+                     4.09, 
+                     4.5
+                  ], 
+                  [
+                     "Nick", 
+                     4.62, 
+                     4.87
+                  ], 
+                  [
+                     "is", 
+                     4.87, 
+                     5.07
+                  ], 
+                  [
+                     "formally", 
+                     5.32, 
+                     6.04
+                  ], 
+                  [
+                     "when", 
+                     6.07, 
+                     6.25
+                  ], 
+                  [
+                     "one", 
+                     6.25, 
+                     6.46
+                  ], 
+                  [
+                     "went", 
+                     6.46, 
+                     6.67
+                  ], 
+                  [
+                     "to", 
+                     6.67, 
+                     6.77
+                  ], 
+                  [
+                     "for", 
+                     6.77, 
+                     6.94
+                  ], 
+                  [
+                     "Scotty", 
+                     6.94, 
+                     7.59
+                  ], 
+                  [
+                     "one", 
+                     7.91, 
+                     8.13
+                  ], 
+                  [
+                     "had", 
+                     8.13, 
+                     8.41
+                  ], 
+                  [
+                     "the", 
+                     8.41, 
+                     8.5
+                  ], 
+                  [
+                     "chance", 
+                     8.5, 
+                     8.91
+                  ], 
+                  [
+                     "of", 
+                     8.91, 
+                     9.04
+                  ]
+               ], 
+               "confidence": 0.757, 
+               "transcript": "worn Nick is formally when one went to for Scotty one had the chance of "
+            }
+         ], 
+         "final": true
+      }
+   ], 
+   "result_index": 0, 
+   "speaker_labels": [
+      {
+         "from": 0.11, 
+         "to": 0.26, 
+         "speaker": 0, 
+         "confidence": 0.667, 
+         "final": false
+      }, 
+      {
+         "from": 0.26, 
+         "to": 0.55, 
+         "speaker": 0, 
+         "confidence": 0.667, 
+         "final": false
+      }, 
+      {
+         "from": 0.58, 
+         "to": 0.87, 
+         "speaker": 1, 
+         "confidence": 0.667, 
+         "final": false
+      }, 
+      {
+         "from": 1.11, 
+         "to": 1.42, 
+         "speaker": 0, 
+         "confidence": 0.445, 
+         "final": false
+      }, 
+      {
+         "from": 1.42, 
+         "to": 1.5, 
+         "speaker": 0, 
+         "confidence": 0.445, 
+         "final": false
+      }, 
+      {
+         "from": 1.5, 
+         "to": 1.62, 
+         "speaker": 0, 
+         "confidence": 0.445, 
+         "final": false
+      }, 
+      {
+         "from": 1.62, 
+         "to": 2.38, 
+         "speaker": 0, 
+         "confidence": 0.445, 
+         "final": false
+      }, 
+      {
+         "from": 2.68, 
+         "to": 3.0, 
+         "speaker": 0, 
+         "confidence": 0.364, 
+         "final": false
+      }, 
+      {
+         "from": 3.0, 
+         "to": 3.13, 
+         "speaker": 0, 
+         "confidence": 0.364, 
+         "final": false
+      }, 
+      {
+         "from": 3.13, 
+         "to": 3.54, 
+         "speaker": 0, 
+         "confidence": 0.364, 
+         "final": false
+      }, 
+      {
+         "from": 4.09, 
+         "to": 4.5, 
+         "speaker": 1, 
+         "confidence": 0.408, 
+         "final": false
+      }, 
+      {
+         "from": 4.62, 
+         "to": 4.87, 
+         "speaker": 0, 
+         "confidence": 0.45, 
+         "final": false
+      }, 
+      {
+         "from": 4.87, 
+         "to": 5.07, 
+         "speaker": 0, 
+         "confidence": 0.45, 
+         "final": false
+      }, 
+      {
+         "from": 5.32, 
+         "to": 6.04, 
+         "speaker": 2, 
+         "confidence": 0.441, 
+         "final": false
+      }, 
+      {
+         "from": 6.07, 
+         "to": 6.25, 
+         "speaker": 2, 
+         "confidence": 0.514, 
+         "final": false
+      }, 
+      {
+         "from": 6.25, 
+         "to": 6.46, 
+         "speaker": 2, 
+         "confidence": 0.514, 
+         "final": false
+      }, 
+      {
+         "from": 6.46, 
+         "to": 6.67, 
+         "speaker": 2, 
+         "confidence": 0.514, 
+         "final": false
+      }, 
+      {
+         "from": 6.67, 
+         "to": 6.77, 
+         "speaker": 2, 
+         "confidence": 0.514, 
+         "final": false
+      }, 
+      {
+         "from": 6.77, 
+         "to": 6.94, 
+         "speaker": 2, 
+         "confidence": 0.514, 
+         "final": false
+      }, 
+      {
+         "from": 6.94, 
+         "to": 7.59, 
+         "speaker": 2, 
+         "confidence": 0.514, 
+         "final": false
+      }, 
+      {
+         "from": 7.91, 
+         "to": 8.13, 
+         "speaker": 2, 
+         "confidence": 0.481, 
+         "final": false
+      }, 
+      {
+         "from": 8.13, 
+         "to": 8.41, 
+         "speaker": 2, 
+         "confidence": 0.481, 
+         "final": false
+      }, 
+      {
+         "from": 8.41, 
+         "to": 8.5, 
+         "speaker": 2, 
+         "confidence": 0.481, 
+         "final": false
+      }, 
+      {
+         "from": 8.5, 
+         "to": 8.91, 
+         "speaker": 2, 
+         "confidence": 0.481, 
+         "final": false
+      }, 
+      {
+         "from": 8.91, 
+         "to": 9.04, 
+         "speaker": 2, 
+         "confidence": 0.481, 
+         "final": true
+      }
+   ]
+}

@@ -1,0 +1,315 @@
+{
+   "results": [
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "as", 
+                     0.17, 
+                     0.33
+                  ], 
+                  [
+                     "well", 
+                     0.33, 
+                     0.94
+                  ], 
+                  [
+                     "as", 
+                     0.97, 
+                     1.13
+                  ], 
+                  [
+                     "a", 
+                     1.13, 
+                     1.21
+                  ], 
+                  [
+                     "game", 
+                     1.24, 
+                     1.75
+                  ]
+               ], 
+               "confidence": 0.964, 
+               "transcript": "as well as a game "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "the", 
+                     3.04, 
+                     3.18
+                  ], 
+                  [
+                     "term", 
+                     3.18, 
+                     3.79
+                  ], 
+                  [
+                     "on", 
+                     3.94, 
+                     4.25
+                  ], 
+                  [
+                     "earned", 
+                     4.28, 
+                     4.75
+                  ], 
+                  [
+                     "increments", 
+                     4.78, 
+                     5.37
+                  ]
+               ], 
+               "confidence": 0.847, 
+               "transcript": "the term on earned increments "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "the", 
+                     5.89, 
+                     6.06
+                  ], 
+                  [
+                     "game", 
+                     6.06, 
+                     6.33
+                  ], 
+                  [
+                     "went", 
+                     6.33, 
+                     6.51
+                  ], 
+                  [
+                     "all", 
+                     6.51, 
+                     6.77
+                  ]
+               ], 
+               "confidence": 0.743, 
+               "transcript": "the game went all "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "and", 
+                     6.98, 
+                     7.12
+                  ], 
+                  [
+                     "the", 
+                     7.12, 
+                     7.19
+                  ], 
+                  [
+                     "paddles", 
+                     7.19, 
+                     7.6
+                  ], 
+                  [
+                     "kept", 
+                     7.6, 
+                     7.84
+                  ], 
+                  [
+                     "moving", 
+                     7.84, 
+                     8.3
+                  ], 
+                  [
+                     "at", 
+                     8.68, 
+                     8.81
+                  ], 
+                  [
+                     "eleven", 
+                     8.81, 
+                     9.1
+                  ], 
+                  [
+                     "o'clock", 
+                     9.1, 
+                     9.45
+                  ]
+               ], 
+               "confidence": 0.9, 
+               "transcript": "and the paddles kept moving at eleven o'clock "
+            }
+         ], 
+         "final": true
+      }
+   ], 
+   "result_index": 0, 
+   "speaker_labels": [
+      {
+         "from": 0.17, 
+         "to": 0.33, 
+         "speaker": 0, 
+         "confidence": 0.502, 
+         "final": false
+      }, 
+      {
+         "from": 0.33, 
+         "to": 0.94, 
+         "speaker": 0, 
+         "confidence": 0.502, 
+         "final": false
+      }, 
+      {
+         "from": 0.97, 
+         "to": 1.13, 
+         "speaker": 2, 
+         "confidence": 0.385, 
+         "final": false
+      }, 
+      {
+         "from": 1.13, 
+         "to": 1.21, 
+         "speaker": 2, 
+         "confidence": 0.385, 
+         "final": false
+      }, 
+      {
+         "from": 1.24, 
+         "to": 1.75, 
+         "speaker": 1, 
+         "confidence": 0.357, 
+         "final": false
+      }, 
+      {
+         "from": 3.04, 
+         "to": 3.18, 
+         "speaker": 0, 
+         "confidence": 0.359, 
+         "final": false
+      }, 
+      {
+         "from": 3.18, 
+         "to": 3.79, 
+         "speaker": 0, 
+         "confidence": 0.359, 
+         "final": false
+      }, 
+      {
+         "from": 3.94, 
+         "to": 4.25, 
+         "speaker": 2, 
+         "confidence": 0.382, 
+         "final": false
+      }, 
+      {
+         "from": 4.28, 
+         "to": 4.75, 
+         "speaker": 0, 
+         "confidence": 0.463, 
+         "final": false
+      }, 
+      {
+         "from": 4.78, 
+         "to": 5.37, 
+         "speaker": 0, 
+         "confidence": 0.416, 
+         "final": false
+      }, 
+      {
+         "from": 5.89, 
+         "to": 6.06, 
+         "speaker": 1, 
+         "confidence": 0.379, 
+         "final": false
+      }, 
+      {
+         "from": 6.06, 
+         "to": 6.33, 
+         "speaker": 1, 
+         "confidence": 0.379, 
+         "final": false
+      }, 
+      {
+         "from": 6.33, 
+         "to": 6.51, 
+         "speaker": 1, 
+         "confidence": 0.379, 
+         "final": false
+      }, 
+      {
+         "from": 6.51, 
+         "to": 6.77, 
+         "speaker": 1, 
+         "confidence": 0.379, 
+         "final": false
+      }, 
+      {
+         "from": 6.98, 
+         "to": 7.12, 
+         "speaker": 1, 
+         "confidence": 0.466, 
+         "final": false
+      }, 
+      {
+         "from": 7.12, 
+         "to": 7.19, 
+         "speaker": 1, 
+         "confidence": 0.466, 
+         "final": false
+      }, 
+      {
+         "from": 7.19, 
+         "to": 7.6, 
+         "speaker": 1, 
+         "confidence": 0.466, 
+         "final": false
+      }, 
+      {
+         "from": 7.6, 
+         "to": 7.84, 
+         "speaker": 1, 
+         "confidence": 0.466, 
+         "final": false
+      }, 
+      {
+         "from": 7.84, 
+         "to": 8.3, 
+         "speaker": 1, 
+         "confidence": 0.466, 
+         "final": false
+      }, 
+      {
+         "from": 8.68, 
+         "to": 8.81, 
+         "speaker": 1, 
+         "confidence": 0.475, 
+         "final": false
+      }, 
+      {
+         "from": 8.81, 
+         "to": 9.1, 
+         "speaker": 1, 
+         "confidence": 0.475, 
+         "final": false
+      }, 
+      {
+         "from": 9.1, 
+         "to": 9.45, 
+         "speaker": 1, 
+         "confidence": 0.475, 
+         "final": true
+      }
+   ]
+}

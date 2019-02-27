@@ -1,0 +1,342 @@
+{
+   "results": [
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "could", 
+                     0.17, 
+                     0.41
+                  ], 
+                  [
+                     "adequately", 
+                     0.44, 
+                     1.17
+                  ], 
+                  [
+                     "interpret", 
+                     1.17, 
+                     1.73
+                  ], 
+                  [
+                     "his", 
+                     1.73, 
+                     1.96
+                  ], 
+                  [
+                     "tone", 
+                     1.96, 
+                     2.27
+                  ], 
+                  [
+                     "creations", 
+                     2.27, 
+                     3.19
+                  ], 
+                  [
+                     "or", 
+                     3.24, 
+                     3.57
+                  ], 
+                  [
+                     "make", 
+                     3.57, 
+                     3.88
+                  ], 
+                  [
+                     "perfectly", 
+                     3.91, 
+                     4.47
+                  ], 
+                  [
+                     "intelligent", 
+                     4.47, 
+                     5.13
+                  ], 
+                  [
+                     "I", 
+                     5.27, 
+                     5.38
+                  ], 
+                  [
+                     "let", 
+                     5.38, 
+                     5.57
+                  ], 
+                  [
+                     "me", 
+                     5.57, 
+                     5.7
+                  ], 
+                  [
+                     "get", 
+                     5.7, 
+                     5.86
+                  ], 
+                  [
+                     "so", 
+                     5.86, 
+                     5.99
+                  ], 
+                  [
+                     "tired", 
+                     5.99, 
+                     6.42
+                  ], 
+                  [
+                     "now", 
+                     6.59, 
+                     6.88
+                  ], 
+                  [
+                     "they", 
+                     6.88, 
+                     7.32
+                  ], 
+                  [
+                     "know", 
+                     7.38, 
+                     7.55
+                  ], 
+                  [
+                     "what", 
+                     7.55, 
+                     7.89
+                  ], 
+                  [
+                     "he", 
+                     7.89, 
+                     8.02
+                  ], 
+                  [
+                     "had", 
+                     8.02, 
+                     8.22
+                  ], 
+                  [
+                     "to", 
+                     8.22, 
+                     8.3
+                  ], 
+                  [
+                     "blink", 
+                     8.3, 
+                     8.57
+                  ], 
+                  [
+                     "his", 
+                     8.57, 
+                     8.74
+                  ], 
+                  [
+                     "eyes", 
+                     8.74, 
+                     9.03
+                  ], 
+                  [
+                     "to", 
+                     9.03, 
+                     9.13
+                  ]
+               ], 
+               "confidence": 0.809, 
+               "transcript": "could adequately interpret his tone creations or make perfectly intelligent I let me get so tired now they know what he had to blink his eyes to "
+            }
+         ], 
+         "final": true
+      }
+   ], 
+   "result_index": 0, 
+   "speaker_labels": [
+      {
+         "from": 0.17, 
+         "to": 0.41, 
+         "speaker": 0, 
+         "confidence": 0.598, 
+         "final": false
+      }, 
+      {
+         "from": 0.44, 
+         "to": 1.17, 
+         "speaker": 0, 
+         "confidence": 0.516, 
+         "final": false
+      }, 
+      {
+         "from": 1.17, 
+         "to": 1.73, 
+         "speaker": 0, 
+         "confidence": 0.516, 
+         "final": false
+      }, 
+      {
+         "from": 1.73, 
+         "to": 1.96, 
+         "speaker": 0, 
+         "confidence": 0.516, 
+         "final": false
+      }, 
+      {
+         "from": 1.96, 
+         "to": 2.27, 
+         "speaker": 0, 
+         "confidence": 0.516, 
+         "final": false
+      }, 
+      {
+         "from": 2.27, 
+         "to": 3.19, 
+         "speaker": 0, 
+         "confidence": 0.516, 
+         "final": false
+      }, 
+      {
+         "from": 3.24, 
+         "to": 3.57, 
+         "speaker": 0, 
+         "confidence": 0.576, 
+         "final": false
+      }, 
+      {
+         "from": 3.57, 
+         "to": 3.88, 
+         "speaker": 0, 
+         "confidence": 0.576, 
+         "final": false
+      }, 
+      {
+         "from": 3.91, 
+         "to": 4.47, 
+         "speaker": 0, 
+         "confidence": 0.533, 
+         "final": false
+      }, 
+      {
+         "from": 4.47, 
+         "to": 5.13, 
+         "speaker": 0, 
+         "confidence": 0.533, 
+         "final": false
+      }, 
+      {
+         "from": 5.27, 
+         "to": 5.38, 
+         "speaker": 1, 
+         "confidence": 0.56, 
+         "final": false
+      }, 
+      {
+         "from": 5.38, 
+         "to": 5.57, 
+         "speaker": 1, 
+         "confidence": 0.56, 
+         "final": false
+      }, 
+      {
+         "from": 5.57, 
+         "to": 5.7, 
+         "speaker": 1, 
+         "confidence": 0.56, 
+         "final": false
+      }, 
+      {
+         "from": 5.7, 
+         "to": 5.86, 
+         "speaker": 1, 
+         "confidence": 0.56, 
+         "final": false
+      }, 
+      {
+         "from": 5.86, 
+         "to": 5.99, 
+         "speaker": 1, 
+         "confidence": 0.56, 
+         "final": false
+      }, 
+      {
+         "from": 5.99, 
+         "to": 6.42, 
+         "speaker": 1, 
+         "confidence": 0.56, 
+         "final": false
+      }, 
+      {
+         "from": 6.59, 
+         "to": 6.88, 
+         "speaker": 1, 
+         "confidence": 0.59, 
+         "final": false
+      }, 
+      {
+         "from": 6.88, 
+         "to": 7.32, 
+         "speaker": 1, 
+         "confidence": 0.59, 
+         "final": false
+      }, 
+      {
+         "from": 7.38, 
+         "to": 7.55, 
+         "speaker": 1, 
+         "confidence": 0.59, 
+         "final": false
+      }, 
+      {
+         "from": 7.55, 
+         "to": 7.89, 
+         "speaker": 1, 
+         "confidence": 0.59, 
+         "final": false
+      }, 
+      {
+         "from": 7.89, 
+         "to": 8.02, 
+         "speaker": 1, 
+         "confidence": 0.59, 
+         "final": false
+      }, 
+      {
+         "from": 8.02, 
+         "to": 8.22, 
+         "speaker": 1, 
+         "confidence": 0.59, 
+         "final": false
+      }, 
+      {
+         "from": 8.22, 
+         "to": 8.3, 
+         "speaker": 1, 
+         "confidence": 0.59, 
+         "final": false
+      }, 
+      {
+         "from": 8.3, 
+         "to": 8.57, 
+         "speaker": 1, 
+         "confidence": 0.59, 
+         "final": false
+      }, 
+      {
+         "from": 8.57, 
+         "to": 8.74, 
+         "speaker": 1, 
+         "confidence": 0.59, 
+         "final": false
+      }, 
+      {
+         "from": 8.74, 
+         "to": 9.03, 
+         "speaker": 1, 
+         "confidence": 0.59, 
+         "final": false
+      }, 
+      {
+         "from": 9.03, 
+         "to": 9.13, 
+         "speaker": 1, 
+         "confidence": 0.59, 
+         "final": true
+      }
+   ]
+}

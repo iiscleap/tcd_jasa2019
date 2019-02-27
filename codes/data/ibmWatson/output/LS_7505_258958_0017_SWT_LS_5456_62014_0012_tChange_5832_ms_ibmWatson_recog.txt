@@ -1,0 +1,342 @@
+{
+   "results": [
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "%HESITATION", 
+                     0.13, 
+                     0.45
+                  ], 
+                  [
+                     "mere", 
+                     0.45, 
+                     0.8
+                  ], 
+                  [
+                     "figure", 
+                     0.8, 
+                     1.3
+                  ], 
+                  [
+                     "of", 
+                     1.3, 
+                     1.42
+                  ], 
+                  [
+                     "speech", 
+                     1.42, 
+                     1.94
+                  ], 
+                  [
+                     "to", 
+                     1.94, 
+                     2.15
+                  ], 
+                  [
+                     "say", 
+                     2.15, 
+                     2.65
+                  ], 
+                  [
+                     "indirect", 
+                     2.68, 
+                     3.45
+                  ], 
+                  [
+                     "wants", 
+                     3.48, 
+                     3.93
+                  ], 
+                  [
+                     "Greta", 
+                     3.93, 
+                     4.27
+                  ], 
+                  [
+                     "fires", 
+                     4.27, 
+                     4.81
+                  ], 
+                  [
+                     "become", 
+                     4.81, 
+                     5.41
+                  ], 
+                  [
+                     "here", 
+                     5.76, 
+                     5.96
+                  ], 
+                  [
+                     "the", 
+                     5.96, 
+                     6.06
+                  ], 
+                  [
+                     "old", 
+                     6.06, 
+                     6.27
+                  ], 
+                  [
+                     "woman", 
+                     6.27, 
+                     6.48
+                  ], 
+                  [
+                     "Rosen", 
+                     6.48, 
+                     7.0
+                  ], 
+                  [
+                     "through", 
+                     7.0, 
+                     7.2
+                  ], 
+                  [
+                     "on", 
+                     7.2, 
+                     7.37
+                  ], 
+                  [
+                     "a", 
+                     7.37, 
+                     7.42
+                  ], 
+                  [
+                     "handful", 
+                     7.42, 
+                     7.85
+                  ], 
+                  [
+                     "of", 
+                     7.85, 
+                     7.95
+                  ], 
+                  [
+                     "light", 
+                     7.95, 
+                     8.25
+                  ], 
+                  [
+                     "would", 
+                     8.25, 
+                     8.51
+                  ], 
+                  [
+                     "which", 
+                     8.76, 
+                     8.94
+                  ], 
+                  [
+                     "blazed", 
+                     8.94, 
+                     9.33
+                  ], 
+                  [
+                     "a", 
+                     9.33, 
+                     9.43
+                  ]
+               ], 
+               "confidence": 0.711, 
+               "transcript": "%HESITATION mere figure of speech to say indirect wants Greta fires become here the old woman Rosen through on a handful of light would which blazed a "
+            }
+         ], 
+         "final": true
+      }
+   ], 
+   "result_index": 0, 
+   "speaker_labels": [
+      {
+         "from": 0.13, 
+         "to": 0.45, 
+         "speaker": 0, 
+         "confidence": 0.463, 
+         "final": false
+      }, 
+      {
+         "from": 0.45, 
+         "to": 0.8, 
+         "speaker": 0, 
+         "confidence": 0.463, 
+         "final": false
+      }, 
+      {
+         "from": 0.8, 
+         "to": 1.3, 
+         "speaker": 0, 
+         "confidence": 0.463, 
+         "final": false
+      }, 
+      {
+         "from": 1.3, 
+         "to": 1.42, 
+         "speaker": 0, 
+         "confidence": 0.463, 
+         "final": false
+      }, 
+      {
+         "from": 1.42, 
+         "to": 1.94, 
+         "speaker": 0, 
+         "confidence": 0.463, 
+         "final": false
+      }, 
+      {
+         "from": 1.94, 
+         "to": 2.15, 
+         "speaker": 0, 
+         "confidence": 0.463, 
+         "final": false
+      }, 
+      {
+         "from": 2.15, 
+         "to": 2.65, 
+         "speaker": 0, 
+         "confidence": 0.463, 
+         "final": false
+      }, 
+      {
+         "from": 2.68, 
+         "to": 3.45, 
+         "speaker": 1, 
+         "confidence": 0.474, 
+         "final": false
+      }, 
+      {
+         "from": 3.48, 
+         "to": 3.93, 
+         "speaker": 1, 
+         "confidence": 0.425, 
+         "final": false
+      }, 
+      {
+         "from": 3.93, 
+         "to": 4.27, 
+         "speaker": 1, 
+         "confidence": 0.425, 
+         "final": false
+      }, 
+      {
+         "from": 4.27, 
+         "to": 4.81, 
+         "speaker": 1, 
+         "confidence": 0.425, 
+         "final": false
+      }, 
+      {
+         "from": 4.81, 
+         "to": 5.41, 
+         "speaker": 1, 
+         "confidence": 0.425, 
+         "final": false
+      }, 
+      {
+         "from": 5.76, 
+         "to": 5.96, 
+         "speaker": 2, 
+         "confidence": 0.47, 
+         "final": false
+      }, 
+      {
+         "from": 5.96, 
+         "to": 6.06, 
+         "speaker": 2, 
+         "confidence": 0.47, 
+         "final": false
+      }, 
+      {
+         "from": 6.06, 
+         "to": 6.27, 
+         "speaker": 2, 
+         "confidence": 0.47, 
+         "final": false
+      }, 
+      {
+         "from": 6.27, 
+         "to": 6.48, 
+         "speaker": 2, 
+         "confidence": 0.47, 
+         "final": false
+      }, 
+      {
+         "from": 6.48, 
+         "to": 7.0, 
+         "speaker": 2, 
+         "confidence": 0.47, 
+         "final": false
+      }, 
+      {
+         "from": 7.0, 
+         "to": 7.2, 
+         "speaker": 2, 
+         "confidence": 0.47, 
+         "final": false
+      }, 
+      {
+         "from": 7.2, 
+         "to": 7.37, 
+         "speaker": 2, 
+         "confidence": 0.47, 
+         "final": false
+      }, 
+      {
+         "from": 7.37, 
+         "to": 7.42, 
+         "speaker": 2, 
+         "confidence": 0.47, 
+         "final": false
+      }, 
+      {
+         "from": 7.42, 
+         "to": 7.85, 
+         "speaker": 2, 
+         "confidence": 0.47, 
+         "final": false
+      }, 
+      {
+         "from": 7.85, 
+         "to": 7.95, 
+         "speaker": 2, 
+         "confidence": 0.47, 
+         "final": false
+      }, 
+      {
+         "from": 7.95, 
+         "to": 8.25, 
+         "speaker": 2, 
+         "confidence": 0.47, 
+         "final": false
+      }, 
+      {
+         "from": 8.25, 
+         "to": 8.51, 
+         "speaker": 2, 
+         "confidence": 0.47, 
+         "final": false
+      }, 
+      {
+         "from": 8.76, 
+         "to": 8.94, 
+         "speaker": 2, 
+         "confidence": 0.454, 
+         "final": false
+      }, 
+      {
+         "from": 8.94, 
+         "to": 9.33, 
+         "speaker": 2, 
+         "confidence": 0.454, 
+         "final": false
+      }, 
+      {
+         "from": 9.33, 
+         "to": 9.43, 
+         "speaker": 2, 
+         "confidence": 0.454, 
+         "final": true
+      }
+   ]
+}

@@ -1,0 +1,318 @@
+{
+   "results": [
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "below", 
+                     0.22, 
+                     0.51
+                  ], 
+                  [
+                     "the", 
+                     0.51, 
+                     0.66
+                  ], 
+                  [
+                     "high", 
+                     0.66, 
+                     0.97
+                  ], 
+                  [
+                     "snow", 
+                     0.97, 
+                     1.31
+                  ], 
+                  [
+                     "ridge", 
+                     1.31, 
+                     1.88
+                  ], 
+                  [
+                     "that", 
+                     1.98, 
+                     2.14
+                  ], 
+                  [
+                     "forms", 
+                     2.14, 
+                     2.5
+                  ], 
+                  [
+                     "one", 
+                     2.5, 
+                     2.78
+                  ], 
+                  [
+                     "side", 
+                     2.78, 
+                     3.23
+                  ], 
+                  [
+                     "of", 
+                     3.23, 
+                     3.33
+                  ], 
+                  [
+                     "a", 
+                     3.33, 
+                     3.4
+                  ], 
+                  [
+                     "very", 
+                     3.4, 
+                     3.75
+                  ], 
+                  [
+                     "wide", 
+                     3.75, 
+                     4.36
+                  ], 
+                  [
+                     "but", 
+                     4.52, 
+                     4.69
+                  ], 
+                  [
+                     "partly", 
+                     4.69, 
+                     5.15
+                  ], 
+                  [
+                     "filled", 
+                     5.15, 
+                     5.44
+                  ], 
+                  [
+                     "teacher", 
+                     5.61, 
+                     6.03
+                  ], 
+                  [
+                     "of", 
+                     6.03, 
+                     6.22
+                  ], 
+                  [
+                     "all", 
+                     6.25, 
+                     6.58
+                  ], 
+                  [
+                     "things", 
+                     6.58, 
+                     7.27
+                  ], 
+                  [
+                     "at", 
+                     7.8, 
+                     7.97
+                  ], 
+                  [
+                     "last", 
+                     7.97, 
+                     8.38
+                  ], 
+                  [
+                     "he", 
+                     8.38, 
+                     8.48
+                  ], 
+                  [
+                     "disappeared", 
+                     8.48, 
+                     9.27
+                  ], 
+                  [
+                     "in", 
+                     9.3, 
+                     9.42
+                  ]
+               ], 
+               "confidence": 0.836, 
+               "transcript": "below the high snow ridge that forms one side of a very wide but partly filled teacher of all things at last he disappeared in "
+            }
+         ], 
+         "final": true
+      }
+   ], 
+   "result_index": 0, 
+   "speaker_labels": [
+      {
+         "from": 0.22, 
+         "to": 0.51, 
+         "speaker": 0, 
+         "confidence": 0.459, 
+         "final": false
+      }, 
+      {
+         "from": 0.51, 
+         "to": 0.66, 
+         "speaker": 0, 
+         "confidence": 0.459, 
+         "final": false
+      }, 
+      {
+         "from": 0.66, 
+         "to": 0.97, 
+         "speaker": 0, 
+         "confidence": 0.459, 
+         "final": false
+      }, 
+      {
+         "from": 0.97, 
+         "to": 1.31, 
+         "speaker": 0, 
+         "confidence": 0.459, 
+         "final": false
+      }, 
+      {
+         "from": 1.31, 
+         "to": 1.88, 
+         "speaker": 0, 
+         "confidence": 0.459, 
+         "final": false
+      }, 
+      {
+         "from": 1.98, 
+         "to": 2.14, 
+         "speaker": 0, 
+         "confidence": 0.488, 
+         "final": false
+      }, 
+      {
+         "from": 2.14, 
+         "to": 2.5, 
+         "speaker": 0, 
+         "confidence": 0.488, 
+         "final": false
+      }, 
+      {
+         "from": 2.5, 
+         "to": 2.78, 
+         "speaker": 0, 
+         "confidence": 0.488, 
+         "final": false
+      }, 
+      {
+         "from": 2.78, 
+         "to": 3.23, 
+         "speaker": 0, 
+         "confidence": 0.488, 
+         "final": false
+      }, 
+      {
+         "from": 3.23, 
+         "to": 3.33, 
+         "speaker": 0, 
+         "confidence": 0.488, 
+         "final": false
+      }, 
+      {
+         "from": 3.33, 
+         "to": 3.4, 
+         "speaker": 0, 
+         "confidence": 0.488, 
+         "final": false
+      }, 
+      {
+         "from": 3.4, 
+         "to": 3.75, 
+         "speaker": 0, 
+         "confidence": 0.488, 
+         "final": false
+      }, 
+      {
+         "from": 3.75, 
+         "to": 4.36, 
+         "speaker": 0, 
+         "confidence": 0.488, 
+         "final": false
+      }, 
+      {
+         "from": 4.52, 
+         "to": 4.69, 
+         "speaker": 0, 
+         "confidence": 0.453, 
+         "final": false
+      }, 
+      {
+         "from": 4.69, 
+         "to": 5.15, 
+         "speaker": 0, 
+         "confidence": 0.453, 
+         "final": false
+      }, 
+      {
+         "from": 5.15, 
+         "to": 5.44, 
+         "speaker": 0, 
+         "confidence": 0.453, 
+         "final": false
+      }, 
+      {
+         "from": 5.61, 
+         "to": 6.03, 
+         "speaker": 1, 
+         "confidence": 0.464, 
+         "final": false
+      }, 
+      {
+         "from": 6.03, 
+         "to": 6.22, 
+         "speaker": 1, 
+         "confidence": 0.464, 
+         "final": false
+      }, 
+      {
+         "from": 6.25, 
+         "to": 6.58, 
+         "speaker": 2, 
+         "confidence": 0.454, 
+         "final": false
+      }, 
+      {
+         "from": 6.58, 
+         "to": 7.27, 
+         "speaker": 2, 
+         "confidence": 0.454, 
+         "final": false
+      }, 
+      {
+         "from": 7.8, 
+         "to": 7.97, 
+         "speaker": 1, 
+         "confidence": 0.393, 
+         "final": false
+      }, 
+      {
+         "from": 7.97, 
+         "to": 8.38, 
+         "speaker": 1, 
+         "confidence": 0.393, 
+         "final": false
+      }, 
+      {
+         "from": 8.38, 
+         "to": 8.48, 
+         "speaker": 1, 
+         "confidence": 0.393, 
+         "final": false
+      }, 
+      {
+         "from": 8.48, 
+         "to": 9.27, 
+         "speaker": 1, 
+         "confidence": 0.393, 
+         "final": false
+      }, 
+      {
+         "from": 9.3, 
+         "to": 9.42, 
+         "speaker": 1, 
+         "confidence": 0.39, 
+         "final": true
+      }
+   ]
+}

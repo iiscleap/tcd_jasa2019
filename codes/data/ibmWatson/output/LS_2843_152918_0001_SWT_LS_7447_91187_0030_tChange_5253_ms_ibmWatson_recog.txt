@@ -1,0 +1,326 @@
+{
+   "results": [
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "as", 
+                     0.48, 
+                     0.71
+                  ], 
+                  [
+                     "regards", 
+                     0.71, 
+                     1.21
+                  ], 
+                  [
+                     "ourselves", 
+                     1.21, 
+                     1.93
+                  ], 
+                  [
+                     "a", 
+                     1.96, 
+                     2.05
+                  ], 
+                  [
+                     "day", 
+                     2.05, 
+                     2.28
+                  ], 
+                  [
+                     "or", 
+                     2.28, 
+                     2.51
+                  ], 
+                  [
+                     "two", 
+                     2.51, 
+                     2.69
+                  ], 
+                  [
+                     "longer", 
+                     2.69, 
+                     3.21
+                  ], 
+                  [
+                     "made", 
+                     3.21, 
+                     3.5
+                  ], 
+                  [
+                     "no", 
+                     3.5, 
+                     3.64
+                  ], 
+                  [
+                     "difference", 
+                     3.64, 
+                     4.4
+                  ]
+               ], 
+               "confidence": 0.997, 
+               "transcript": "as regards ourselves a day or two longer made no difference "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "the", 
+                     5.19, 
+                     5.3
+                  ], 
+                  [
+                     "most", 
+                     5.3, 
+                     5.71
+                  ], 
+                  [
+                     "on", 
+                     5.82, 
+                     5.98
+                  ], 
+                  [
+                     "a", 
+                     5.98, 
+                     6.04
+                  ], 
+                  [
+                     "cost", 
+                     6.04, 
+                     6.53
+                  ]
+               ], 
+               "confidence": 0.636, 
+               "transcript": "the most on a cost "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "and", 
+                     6.6, 
+                     6.84
+                  ], 
+                  [
+                     "of", 
+                     6.96, 
+                     7.15
+                  ], 
+                  [
+                     "his", 
+                     7.15, 
+                     7.33
+                  ]
+               ], 
+               "confidence": 0.902, 
+               "transcript": "and of his "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "complicate", 
+                     7.51, 
+                     7.99
+                  ]
+               ], 
+               "confidence": 1.0, 
+               "transcript": "complicate "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "matic", 
+                     8.32, 
+                     8.62
+                  ], 
+                  [
+                     "my", 
+                     8.62, 
+                     8.85
+                  ]
+               ], 
+               "confidence": 0.453, 
+               "transcript": "matic my "
+            }
+         ], 
+         "final": true
+      }
+   ], 
+   "result_index": 0, 
+   "speaker_labels": [
+      {
+         "from": 0.48, 
+         "to": 0.71, 
+         "speaker": 0, 
+         "confidence": 0.667, 
+         "final": false
+      }, 
+      {
+         "from": 0.71, 
+         "to": 1.21, 
+         "speaker": 0, 
+         "confidence": 0.667, 
+         "final": false
+      }, 
+      {
+         "from": 1.21, 
+         "to": 1.93, 
+         "speaker": 0, 
+         "confidence": 0.667, 
+         "final": false
+      }, 
+      {
+         "from": 1.96, 
+         "to": 2.05, 
+         "speaker": 0, 
+         "confidence": 0.619, 
+         "final": false
+      }, 
+      {
+         "from": 2.05, 
+         "to": 2.28, 
+         "speaker": 0, 
+         "confidence": 0.619, 
+         "final": false
+      }, 
+      {
+         "from": 2.28, 
+         "to": 2.51, 
+         "speaker": 0, 
+         "confidence": 0.619, 
+         "final": false
+      }, 
+      {
+         "from": 2.51, 
+         "to": 2.69, 
+         "speaker": 0, 
+         "confidence": 0.619, 
+         "final": false
+      }, 
+      {
+         "from": 2.69, 
+         "to": 3.21, 
+         "speaker": 0, 
+         "confidence": 0.619, 
+         "final": false
+      }, 
+      {
+         "from": 3.21, 
+         "to": 3.5, 
+         "speaker": 0, 
+         "confidence": 0.619, 
+         "final": false
+      }, 
+      {
+         "from": 3.5, 
+         "to": 3.64, 
+         "speaker": 0, 
+         "confidence": 0.619, 
+         "final": false
+      }, 
+      {
+         "from": 3.64, 
+         "to": 4.4, 
+         "speaker": 0, 
+         "confidence": 0.619, 
+         "final": false
+      }, 
+      {
+         "from": 5.19, 
+         "to": 5.3, 
+         "speaker": 2, 
+         "confidence": 0.432, 
+         "final": false
+      }, 
+      {
+         "from": 5.3, 
+         "to": 5.71, 
+         "speaker": 2, 
+         "confidence": 0.432, 
+         "final": false
+      }, 
+      {
+         "from": 5.82, 
+         "to": 5.98, 
+         "speaker": 2, 
+         "confidence": 0.428, 
+         "final": false
+      }, 
+      {
+         "from": 5.98, 
+         "to": 6.04, 
+         "speaker": 2, 
+         "confidence": 0.428, 
+         "final": false
+      }, 
+      {
+         "from": 6.04, 
+         "to": 6.53, 
+         "speaker": 2, 
+         "confidence": 0.428, 
+         "final": false
+      }, 
+      {
+         "from": 6.6, 
+         "to": 6.84, 
+         "speaker": 1, 
+         "confidence": 0.576, 
+         "final": false
+      }, 
+      {
+         "from": 6.96, 
+         "to": 7.15, 
+         "speaker": 1, 
+         "confidence": 0.537, 
+         "final": false
+      }, 
+      {
+         "from": 7.15, 
+         "to": 7.33, 
+         "speaker": 1, 
+         "confidence": 0.537, 
+         "final": false
+      }, 
+      {
+         "from": 7.51, 
+         "to": 7.99, 
+         "speaker": 1, 
+         "confidence": 0.498, 
+         "final": false
+      }, 
+      {
+         "from": 8.32, 
+         "to": 8.62, 
+         "speaker": 1, 
+         "confidence": 0.414, 
+         "final": false
+      }, 
+      {
+         "from": 8.62, 
+         "to": 8.85, 
+         "speaker": 1, 
+         "confidence": 0.414, 
+         "final": true
+      }
+   ]
+}

@@ -1,0 +1,313 @@
+{
+   "results": [
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "that", 
+                     0.14, 
+                     0.32
+                  ], 
+                  [
+                     "up", 
+                     0.32, 
+                     0.56
+                  ], 
+                  [
+                     "lists", 
+                     0.56, 
+                     0.99
+                  ], 
+                  [
+                     "and", 
+                     0.99, 
+                     1.29
+                  ], 
+                  [
+                     "strengthens", 
+                     1.29, 
+                     2.04
+                  ], 
+                  [
+                     "the", 
+                     2.04, 
+                     2.17
+                  ], 
+                  [
+                     "true", 
+                     2.17, 
+                     2.34
+                  ]
+               ], 
+               "confidence": 0.669, 
+               "transcript": "that up lists and strengthens the true "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "so", 
+                     2.82, 
+                     3.26
+                  ]
+               ], 
+               "confidence": 0.44, 
+               "transcript": "so "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "it", 
+                     3.94, 
+                     4.08
+                  ], 
+                  [
+                     "had", 
+                     4.08, 
+                     4.21
+                  ]
+               ], 
+               "confidence": 0.727, 
+               "transcript": "it had "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "instead", 
+                     4.37, 
+                     4.81
+                  ], 
+                  [
+                     "of", 
+                     4.81, 
+                     4.87
+                  ]
+               ], 
+               "confidence": 0.264, 
+               "transcript": "instead of "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "but", 
+                     5.75, 
+                     5.88
+                  ], 
+                  [
+                     "that", 
+                     5.88, 
+                     6.08
+                  ], 
+                  [
+                     "is", 
+                     6.08, 
+                     6.23
+                  ], 
+                  [
+                     "not", 
+                     6.23, 
+                     6.47
+                  ], 
+                  [
+                     "all", 
+                     6.47, 
+                     6.93
+                  ], 
+                  [
+                     "continued", 
+                     6.99, 
+                     7.59
+                  ], 
+                  [
+                     "Marguerite", 
+                     7.59, 
+                     8.32
+                  ]
+               ], 
+               "confidence": 0.818, 
+               "transcript": "but that is not all continued Marguerite "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "what", 
+                     9.01, 
+                     9.26
+                  ]
+               ], 
+               "confidence": 0.817, 
+               "transcript": "what "
+            }
+         ], 
+         "final": true
+      }
+   ], 
+   "result_index": 0, 
+   "speaker_labels": [
+      {
+         "from": 0.14, 
+         "to": 0.32, 
+         "speaker": 1, 
+         "confidence": 0.423, 
+         "final": false
+      }, 
+      {
+         "from": 0.32, 
+         "to": 0.56, 
+         "speaker": 1, 
+         "confidence": 0.423, 
+         "final": false
+      }, 
+      {
+         "from": 0.56, 
+         "to": 0.99, 
+         "speaker": 1, 
+         "confidence": 0.423, 
+         "final": false
+      }, 
+      {
+         "from": 0.99, 
+         "to": 1.29, 
+         "speaker": 1, 
+         "confidence": 0.423, 
+         "final": false
+      }, 
+      {
+         "from": 1.29, 
+         "to": 2.04, 
+         "speaker": 1, 
+         "confidence": 0.423, 
+         "final": false
+      }, 
+      {
+         "from": 2.04, 
+         "to": 2.17, 
+         "speaker": 1, 
+         "confidence": 0.423, 
+         "final": false
+      }, 
+      {
+         "from": 2.17, 
+         "to": 2.34, 
+         "speaker": 1, 
+         "confidence": 0.423, 
+         "final": false
+      }, 
+      {
+         "from": 2.82, 
+         "to": 3.26, 
+         "speaker": 1, 
+         "confidence": 0.667, 
+         "final": false
+      }, 
+      {
+         "from": 3.94, 
+         "to": 4.08, 
+         "speaker": 1, 
+         "confidence": 0.499, 
+         "final": false
+      }, 
+      {
+         "from": 4.08, 
+         "to": 4.21, 
+         "speaker": 1, 
+         "confidence": 0.499, 
+         "final": false
+      }, 
+      {
+         "from": 4.37, 
+         "to": 4.81, 
+         "speaker": 1, 
+         "confidence": 0.391, 
+         "final": false
+      }, 
+      {
+         "from": 4.81, 
+         "to": 4.87, 
+         "speaker": 1, 
+         "confidence": 0.391, 
+         "final": false
+      }, 
+      {
+         "from": 5.75, 
+         "to": 5.88, 
+         "speaker": 0, 
+         "confidence": 0.468, 
+         "final": false
+      }, 
+      {
+         "from": 5.88, 
+         "to": 6.08, 
+         "speaker": 0, 
+         "confidence": 0.468, 
+         "final": false
+      }, 
+      {
+         "from": 6.08, 
+         "to": 6.23, 
+         "speaker": 0, 
+         "confidence": 0.468, 
+         "final": false
+      }, 
+      {
+         "from": 6.23, 
+         "to": 6.47, 
+         "speaker": 0, 
+         "confidence": 0.468, 
+         "final": false
+      }, 
+      {
+         "from": 6.47, 
+         "to": 6.93, 
+         "speaker": 0, 
+         "confidence": 0.468, 
+         "final": false
+      }, 
+      {
+         "from": 6.99, 
+         "to": 7.59, 
+         "speaker": 0, 
+         "confidence": 0.451, 
+         "final": false
+      }, 
+      {
+         "from": 7.59, 
+         "to": 8.32, 
+         "speaker": 0, 
+         "confidence": 0.451, 
+         "final": false
+      }, 
+      {
+         "from": 9.01, 
+         "to": 9.26, 
+         "speaker": 0, 
+         "confidence": 0.536, 
+         "final": true
+      }
+   ]
+}

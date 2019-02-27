@@ -1,0 +1,329 @@
+{
+   "results": [
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "the", 
+                     0.23, 
+                     0.31
+                  ], 
+                  [
+                     "bossy", 
+                     0.31, 
+                     1.18
+                  ], 
+                  [
+                     "came", 
+                     1.23, 
+                     1.53
+                  ], 
+                  [
+                     "alive", 
+                     1.53, 
+                     1.92
+                  ], 
+                  [
+                     "swelling", 
+                     1.92, 
+                     2.56
+                  ], 
+                  [
+                     "and", 
+                     2.56, 
+                     2.79
+                  ], 
+                  [
+                     "white", 
+                     2.79, 
+                     3.2
+                  ], 
+                  [
+                     "and", 
+                     3.23, 
+                     3.39
+                  ], 
+                  [
+                     "purple", 
+                     3.39, 
+                     3.79
+                  ], 
+                  [
+                     "piles", 
+                     3.79, 
+                     4.52
+                  ], 
+                  [
+                     "above", 
+                     4.87, 
+                     5.24
+                  ], 
+                  [
+                     "the", 
+                     5.24, 
+                     5.35
+                  ], 
+                  [
+                     "highest", 
+                     5.35, 
+                     5.93
+                  ], 
+                  [
+                     "because", 
+                     6.1, 
+                     6.45
+                  ], 
+                  [
+                     "they", 
+                     6.45, 
+                     6.58
+                  ], 
+                  [
+                     "had", 
+                     6.58, 
+                     6.77
+                  ], 
+                  [
+                     "something", 
+                     6.77, 
+                     7.18
+                  ], 
+                  [
+                     "else", 
+                     7.18, 
+                     7.53
+                  ], 
+                  [
+                     "to", 
+                     7.53, 
+                     7.7
+                  ], 
+                  [
+                     "divert", 
+                     7.7, 
+                     8.17
+                  ], 
+                  [
+                     "them", 
+                     8.17, 
+                     8.35
+                  ], 
+                  [
+                     "that", 
+                     8.35, 
+                     8.56
+                  ], 
+                  [
+                     "evening", 
+                     8.56, 
+                     9.03
+                  ]
+               ], 
+               "confidence": 0.815, 
+               "transcript": "the bossy came alive swelling and white and purple piles above the highest because they had something else to divert them that evening "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "some", 
+                     9.42, 
+                     9.71
+                  ], 
+                  [
+                     "hot", 
+                     9.71, 
+                     9.98
+                  ]
+               ], 
+               "confidence": 0.756, 
+               "transcript": "some hot "
+            }
+         ], 
+         "final": true
+      }
+   ], 
+   "result_index": 0, 
+   "speaker_labels": [
+      {
+         "from": 0.23, 
+         "to": 0.31, 
+         "speaker": 1, 
+         "confidence": 0.538, 
+         "final": false
+      }, 
+      {
+         "from": 0.31, 
+         "to": 1.18, 
+         "speaker": 1, 
+         "confidence": 0.538, 
+         "final": false
+      }, 
+      {
+         "from": 1.23, 
+         "to": 1.53, 
+         "speaker": 1, 
+         "confidence": 0.379, 
+         "final": false
+      }, 
+      {
+         "from": 1.53, 
+         "to": 1.92, 
+         "speaker": 1, 
+         "confidence": 0.379, 
+         "final": false
+      }, 
+      {
+         "from": 1.92, 
+         "to": 2.56, 
+         "speaker": 1, 
+         "confidence": 0.379, 
+         "final": false
+      }, 
+      {
+         "from": 2.56, 
+         "to": 2.79, 
+         "speaker": 1, 
+         "confidence": 0.379, 
+         "final": false
+      }, 
+      {
+         "from": 2.79, 
+         "to": 3.2, 
+         "speaker": 1, 
+         "confidence": 0.379, 
+         "final": false
+      }, 
+      {
+         "from": 3.23, 
+         "to": 3.39, 
+         "speaker": 1, 
+         "confidence": 0.411, 
+         "final": false
+      }, 
+      {
+         "from": 3.39, 
+         "to": 3.79, 
+         "speaker": 1, 
+         "confidence": 0.411, 
+         "final": false
+      }, 
+      {
+         "from": 3.79, 
+         "to": 4.52, 
+         "speaker": 1, 
+         "confidence": 0.411, 
+         "final": false
+      }, 
+      {
+         "from": 4.87, 
+         "to": 5.24, 
+         "speaker": 1, 
+         "confidence": 0.399, 
+         "final": false
+      }, 
+      {
+         "from": 5.24, 
+         "to": 5.35, 
+         "speaker": 1, 
+         "confidence": 0.399, 
+         "final": false
+      }, 
+      {
+         "from": 5.35, 
+         "to": 5.93, 
+         "speaker": 1, 
+         "confidence": 0.399, 
+         "final": false
+      }, 
+      {
+         "from": 6.1, 
+         "to": 6.45, 
+         "speaker": 2, 
+         "confidence": 0.537, 
+         "final": false
+      }, 
+      {
+         "from": 6.45, 
+         "to": 6.58, 
+         "speaker": 2, 
+         "confidence": 0.537, 
+         "final": false
+      }, 
+      {
+         "from": 6.58, 
+         "to": 6.77, 
+         "speaker": 2, 
+         "confidence": 0.537, 
+         "final": false
+      }, 
+      {
+         "from": 6.77, 
+         "to": 7.18, 
+         "speaker": 2, 
+         "confidence": 0.537, 
+         "final": false
+      }, 
+      {
+         "from": 7.18, 
+         "to": 7.53, 
+         "speaker": 2, 
+         "confidence": 0.537, 
+         "final": false
+      }, 
+      {
+         "from": 7.53, 
+         "to": 7.7, 
+         "speaker": 2, 
+         "confidence": 0.537, 
+         "final": false
+      }, 
+      {
+         "from": 7.7, 
+         "to": 8.17, 
+         "speaker": 2, 
+         "confidence": 0.537, 
+         "final": false
+      }, 
+      {
+         "from": 8.17, 
+         "to": 8.35, 
+         "speaker": 2, 
+         "confidence": 0.537, 
+         "final": false
+      }, 
+      {
+         "from": 8.35, 
+         "to": 8.56, 
+         "speaker": 2, 
+         "confidence": 0.537, 
+         "final": false
+      }, 
+      {
+         "from": 8.56, 
+         "to": 9.03, 
+         "speaker": 2, 
+         "confidence": 0.537, 
+         "final": false
+      }, 
+      {
+         "from": 9.42, 
+         "to": 9.71, 
+         "speaker": 2, 
+         "confidence": 0.628, 
+         "final": false
+      }, 
+      {
+         "from": 9.71, 
+         "to": 9.98, 
+         "speaker": 2, 
+         "confidence": 0.628, 
+         "final": true
+      }
+   ]
+}

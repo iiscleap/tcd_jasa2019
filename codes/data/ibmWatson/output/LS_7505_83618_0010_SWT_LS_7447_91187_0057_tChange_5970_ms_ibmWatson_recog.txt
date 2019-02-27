@@ -1,0 +1,339 @@
+{
+   "results": [
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "language", 
+                     0.48, 
+                     0.98
+                  ], 
+                  [
+                     "itself", 
+                     0.98, 
+                     1.45
+                  ], 
+                  [
+                     "is", 
+                     1.45, 
+                     1.56
+                  ], 
+                  [
+                     "proof", 
+                     1.56, 
+                     1.83
+                  ], 
+                  [
+                     "of", 
+                     1.83, 
+                     1.94
+                  ], 
+                  [
+                     "it", 
+                     1.94, 
+                     2.18
+                  ]
+               ], 
+               "confidence": 0.969, 
+               "transcript": "language itself is proof of it "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "many", 
+                     2.79, 
+                     3.09
+                  ], 
+                  [
+                     "all", 
+                     3.09, 
+                     3.23
+                  ], 
+                  [
+                     "gone", 
+                     3.23, 
+                     3.5
+                  ], 
+                  [
+                     "can", 
+                     3.5, 
+                     3.65
+                  ], 
+                  [
+                     "words", 
+                     3.65, 
+                     3.99
+                  ], 
+                  [
+                     "for", 
+                     3.99, 
+                     4.27
+                  ], 
+                  [
+                     "east", 
+                     4.3, 
+                     4.81
+                  ], 
+                  [
+                     "morning", 
+                     4.9, 
+                     5.57
+                  ], 
+                  [
+                     "it's", 
+                     5.9, 
+                     6.17
+                  ], 
+                  [
+                     "leaves", 
+                     6.17, 
+                     6.57
+                  ], 
+                  [
+                     "tram", 
+                     6.57, 
+                     6.96
+                  ]
+               ], 
+               "confidence": 0.807, 
+               "transcript": "many all gone can words for east morning it's leaves tram "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "with", 
+                     7.05, 
+                     7.27
+                  ], 
+                  [
+                     "every", 
+                     7.27, 
+                     7.63
+                  ]
+               ], 
+               "confidence": 0.963, 
+               "transcript": "with every "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "and", 
+                     8.35, 
+                     8.66
+                  ], 
+                  [
+                     "but", 
+                     8.84, 
+                     9.02
+                  ], 
+                  [
+                     "the", 
+                     9.02, 
+                     9.11
+                  ], 
+                  [
+                     "tree", 
+                     9.11, 
+                     9.37
+                  ], 
+                  [
+                     "trimming", 
+                     9.37, 
+                     9.61
+                  ]
+               ], 
+               "confidence": 0.707, 
+               "transcript": "and but the tree trimming "
+            }
+         ], 
+         "final": true
+      }
+   ], 
+   "result_index": 0, 
+   "speaker_labels": [
+      {
+         "from": 0.48, 
+         "to": 0.98, 
+         "speaker": 0, 
+         "confidence": 0.5, 
+         "final": false
+      }, 
+      {
+         "from": 0.98, 
+         "to": 1.45, 
+         "speaker": 0, 
+         "confidence": 0.5, 
+         "final": false
+      }, 
+      {
+         "from": 1.45, 
+         "to": 1.56, 
+         "speaker": 0, 
+         "confidence": 0.5, 
+         "final": false
+      }, 
+      {
+         "from": 1.56, 
+         "to": 1.83, 
+         "speaker": 0, 
+         "confidence": 0.5, 
+         "final": false
+      }, 
+      {
+         "from": 1.83, 
+         "to": 1.94, 
+         "speaker": 0, 
+         "confidence": 0.5, 
+         "final": false
+      }, 
+      {
+         "from": 1.94, 
+         "to": 2.18, 
+         "speaker": 0, 
+         "confidence": 0.5, 
+         "final": false
+      }, 
+      {
+         "from": 2.79, 
+         "to": 3.09, 
+         "speaker": 1, 
+         "confidence": 0.38, 
+         "final": false
+      }, 
+      {
+         "from": 3.09, 
+         "to": 3.23, 
+         "speaker": 1, 
+         "confidence": 0.38, 
+         "final": false
+      }, 
+      {
+         "from": 3.23, 
+         "to": 3.5, 
+         "speaker": 1, 
+         "confidence": 0.38, 
+         "final": false
+      }, 
+      {
+         "from": 3.5, 
+         "to": 3.65, 
+         "speaker": 1, 
+         "confidence": 0.38, 
+         "final": false
+      }, 
+      {
+         "from": 3.65, 
+         "to": 3.99, 
+         "speaker": 1, 
+         "confidence": 0.38, 
+         "final": false
+      }, 
+      {
+         "from": 3.99, 
+         "to": 4.27, 
+         "speaker": 1, 
+         "confidence": 0.38, 
+         "final": false
+      }, 
+      {
+         "from": 4.3, 
+         "to": 4.81, 
+         "speaker": 0, 
+         "confidence": 0.397, 
+         "final": false
+      }, 
+      {
+         "from": 4.9, 
+         "to": 5.57, 
+         "speaker": 1, 
+         "confidence": 0.434, 
+         "final": false
+      }, 
+      {
+         "from": 5.9, 
+         "to": 6.17, 
+         "speaker": 3, 
+         "confidence": 0.381, 
+         "final": false
+      }, 
+      {
+         "from": 6.17, 
+         "to": 6.57, 
+         "speaker": 3, 
+         "confidence": 0.381, 
+         "final": false
+      }, 
+      {
+         "from": 6.57, 
+         "to": 6.96, 
+         "speaker": 3, 
+         "confidence": 0.381, 
+         "final": false
+      }, 
+      {
+         "from": 7.05, 
+         "to": 7.27, 
+         "speaker": 3, 
+         "confidence": 0.461, 
+         "final": false
+      }, 
+      {
+         "from": 7.27, 
+         "to": 7.63, 
+         "speaker": 3, 
+         "confidence": 0.461, 
+         "final": false
+      }, 
+      {
+         "from": 8.35, 
+         "to": 8.66, 
+         "speaker": 3, 
+         "confidence": 0.444, 
+         "final": false
+      }, 
+      {
+         "from": 8.84, 
+         "to": 9.02, 
+         "speaker": 1, 
+         "confidence": 0.347, 
+         "final": false
+      }, 
+      {
+         "from": 9.02, 
+         "to": 9.11, 
+         "speaker": 1, 
+         "confidence": 0.347, 
+         "final": false
+      }, 
+      {
+         "from": 9.11, 
+         "to": 9.37, 
+         "speaker": 1, 
+         "confidence": 0.347, 
+         "final": false
+      }, 
+      {
+         "from": 9.37, 
+         "to": 9.61, 
+         "speaker": 1, 
+         "confidence": 0.347, 
+         "final": true
+      }
+   ]
+}

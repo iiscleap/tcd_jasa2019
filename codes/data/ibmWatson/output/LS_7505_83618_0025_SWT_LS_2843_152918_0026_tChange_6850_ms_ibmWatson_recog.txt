@@ -1,0 +1,388 @@
+{
+   "results": [
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "the", 
+                     0.17, 
+                     0.27
+                  ], 
+                  [
+                     "hill", 
+                     0.27, 
+                     0.6
+                  ], 
+                  [
+                     "shouting", 
+                     0.6, 
+                     1.21
+                  ], 
+                  [
+                     "with", 
+                     1.29, 
+                     1.61
+                  ], 
+                  [
+                     "such", 
+                     1.61, 
+                     1.97
+                  ], 
+                  [
+                     "a", 
+                     1.97, 
+                     2.03
+                  ], 
+                  [
+                     "mighty", 
+                     2.03, 
+                     2.36
+                  ], 
+                  [
+                     "voice", 
+                     2.36, 
+                     2.93
+                  ], 
+                  [
+                     "that", 
+                     3.16, 
+                     3.32
+                  ], 
+                  [
+                     "it", 
+                     3.32, 
+                     3.44
+                  ], 
+                  [
+                     "could", 
+                     3.44, 
+                     3.61
+                  ], 
+                  [
+                     "be", 
+                     3.61, 
+                     3.75
+                  ], 
+                  [
+                     "heard", 
+                     3.75, 
+                     4.39
+                  ], 
+                  [
+                     "a", 
+                     4.42, 
+                     4.52
+                  ], 
+                  [
+                     "hundred", 
+                     4.52, 
+                     5.04
+                  ]
+               ], 
+               "confidence": 0.902, 
+               "transcript": "the hill shouting with such a mighty voice that it could be heard a hundred "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "eggs", 
+                     5.35, 
+                     5.56
+                  ], 
+                  [
+                     "around", 
+                     5.56, 
+                     6.21
+                  ]
+               ], 
+               "confidence": 0.696, 
+               "transcript": "eggs around "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "we", 
+                     6.79, 
+                     6.91
+                  ], 
+                  [
+                     "traveled", 
+                     6.91, 
+                     7.35
+                  ], 
+                  [
+                     "down", 
+                     7.35, 
+                     7.55
+                  ], 
+                  [
+                     "a", 
+                     7.55, 
+                     7.61
+                  ], 
+                  [
+                     "place", 
+                     7.61, 
+                     7.96
+                  ], 
+                  [
+                     "for", 
+                     7.96, 
+                     8.11
+                  ], 
+                  [
+                     "the", 
+                     8.11, 
+                     8.22
+                  ], 
+                  [
+                     "tension", 
+                     8.22, 
+                     8.73
+                  ], 
+                  [
+                     "the", 
+                     8.73, 
+                     8.83
+                  ], 
+                  [
+                     "loose", 
+                     8.83, 
+                     9.19
+                  ], 
+                  [
+                     "now", 
+                     9.19, 
+                     9.64
+                  ], 
+                  [
+                     "and", 
+                     10.02, 
+                     10.27
+                  ]
+               ], 
+               "confidence": 0.672, 
+               "transcript": "we traveled down a place for the tension the loose now and "
+            }
+         ], 
+         "final": true
+      }
+   ], 
+   "result_index": 0, 
+   "speaker_labels": [
+      {
+         "from": 0.17, 
+         "to": 0.27, 
+         "speaker": 0, 
+         "confidence": 0.434, 
+         "final": false
+      }, 
+      {
+         "from": 0.27, 
+         "to": 0.6, 
+         "speaker": 0, 
+         "confidence": 0.434, 
+         "final": false
+      }, 
+      {
+         "from": 0.6, 
+         "to": 1.21, 
+         "speaker": 0, 
+         "confidence": 0.434, 
+         "final": false
+      }, 
+      {
+         "from": 1.29, 
+         "to": 1.61, 
+         "speaker": 3, 
+         "confidence": 0.346, 
+         "final": false
+      }, 
+      {
+         "from": 1.61, 
+         "to": 1.97, 
+         "speaker": 3, 
+         "confidence": 0.346, 
+         "final": false
+      }, 
+      {
+         "from": 1.97, 
+         "to": 2.03, 
+         "speaker": 3, 
+         "confidence": 0.346, 
+         "final": false
+      }, 
+      {
+         "from": 2.03, 
+         "to": 2.36, 
+         "speaker": 3, 
+         "confidence": 0.346, 
+         "final": false
+      }, 
+      {
+         "from": 2.36, 
+         "to": 2.93, 
+         "speaker": 3, 
+         "confidence": 0.346, 
+         "final": false
+      }, 
+      {
+         "from": 3.16, 
+         "to": 3.32, 
+         "speaker": 0, 
+         "confidence": 0.371, 
+         "final": false
+      }, 
+      {
+         "from": 3.32, 
+         "to": 3.44, 
+         "speaker": 0, 
+         "confidence": 0.371, 
+         "final": false
+      }, 
+      {
+         "from": 3.44, 
+         "to": 3.61, 
+         "speaker": 0, 
+         "confidence": 0.371, 
+         "final": false
+      }, 
+      {
+         "from": 3.61, 
+         "to": 3.75, 
+         "speaker": 0, 
+         "confidence": 0.371, 
+         "final": false
+      }, 
+      {
+         "from": 3.75, 
+         "to": 4.39, 
+         "speaker": 0, 
+         "confidence": 0.371, 
+         "final": false
+      }, 
+      {
+         "from": 4.42, 
+         "to": 4.52, 
+         "speaker": 2, 
+         "confidence": 0.502, 
+         "final": false
+      }, 
+      {
+         "from": 4.52, 
+         "to": 5.04, 
+         "speaker": 2, 
+         "confidence": 0.502, 
+         "final": false
+      }, 
+      {
+         "from": 5.35, 
+         "to": 5.56, 
+         "speaker": 3, 
+         "confidence": 0.386, 
+         "final": false
+      }, 
+      {
+         "from": 5.56, 
+         "to": 6.21, 
+         "speaker": 3, 
+         "confidence": 0.386, 
+         "final": false
+      }, 
+      {
+         "from": 6.79, 
+         "to": 6.91, 
+         "speaker": 1, 
+         "confidence": 0.356, 
+         "final": false
+      }, 
+      {
+         "from": 6.91, 
+         "to": 7.35, 
+         "speaker": 1, 
+         "confidence": 0.356, 
+         "final": false
+      }, 
+      {
+         "from": 7.35, 
+         "to": 7.55, 
+         "speaker": 1, 
+         "confidence": 0.356, 
+         "final": false
+      }, 
+      {
+         "from": 7.55, 
+         "to": 7.61, 
+         "speaker": 1, 
+         "confidence": 0.356, 
+         "final": false
+      }, 
+      {
+         "from": 7.61, 
+         "to": 7.96, 
+         "speaker": 1, 
+         "confidence": 0.356, 
+         "final": false
+      }, 
+      {
+         "from": 7.96, 
+         "to": 8.11, 
+         "speaker": 1, 
+         "confidence": 0.356, 
+         "final": false
+      }, 
+      {
+         "from": 8.11, 
+         "to": 8.22, 
+         "speaker": 1, 
+         "confidence": 0.356, 
+         "final": false
+      }, 
+      {
+         "from": 8.22, 
+         "to": 8.73, 
+         "speaker": 1, 
+         "confidence": 0.356, 
+         "final": false
+      }, 
+      {
+         "from": 8.73, 
+         "to": 8.83, 
+         "speaker": 1, 
+         "confidence": 0.356, 
+         "final": false
+      }, 
+      {
+         "from": 8.83, 
+         "to": 9.19, 
+         "speaker": 1, 
+         "confidence": 0.356, 
+         "final": false
+      }, 
+      {
+         "from": 9.19, 
+         "to": 9.64, 
+         "speaker": 1, 
+         "confidence": 0.356, 
+         "final": false
+      }, 
+      {
+         "from": 10.02, 
+         "to": 10.27, 
+         "speaker": 1, 
+         "confidence": 0.389, 
+         "final": true
+      }
+   ]
+}

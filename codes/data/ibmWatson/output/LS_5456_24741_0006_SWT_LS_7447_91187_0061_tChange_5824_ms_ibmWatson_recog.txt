@@ -1,0 +1,327 @@
+{
+   "results": [
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "in", 
+                     0.25, 
+                     0.4
+                  ], 
+                  [
+                     "other", 
+                     0.4, 
+                     0.67
+                  ], 
+                  [
+                     "words", 
+                     0.67, 
+                     1.15
+                  ], 
+                  [
+                     "it", 
+                     1.41, 
+                     1.55
+                  ], 
+                  [
+                     "will", 
+                     1.55, 
+                     1.66
+                  ], 
+                  [
+                     "have", 
+                     1.66, 
+                     1.88
+                  ], 
+                  [
+                     "the", 
+                     1.88, 
+                     2.04
+                  ], 
+                  [
+                     "idea", 
+                     2.04, 
+                     2.45
+                  ], 
+                  [
+                     "which", 
+                     2.45, 
+                     2.65
+                  ], 
+                  [
+                     "does", 
+                     2.65, 
+                     2.84
+                  ], 
+                  [
+                     "not", 
+                     2.84, 
+                     3.05
+                  ], 
+                  [
+                     "exclude", 
+                     3.05, 
+                     3.65
+                  ]
+               ], 
+               "confidence": 0.979, 
+               "transcript": "in other words it will have the idea which does not exclude "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "but", 
+                     4.09, 
+                     4.26
+                  ], 
+                  [
+                     "postulates", 
+                     4.26, 
+                     5.0
+                  ], 
+                  [
+                     "the", 
+                     5.0, 
+                     5.1
+                  ], 
+                  [
+                     "existence", 
+                     5.1, 
+                     5.57
+                  ], 
+                  [
+                     "harmony", 
+                     5.71, 
+                     6.33
+                  ], 
+                  [
+                     "and", 
+                     6.36, 
+                     6.6
+                  ], 
+                  [
+                     "rhythm", 
+                     6.6, 
+                     7.14
+                  ]
+               ], 
+               "confidence": 0.999, 
+               "transcript": "but postulates the existence harmony and rhythm "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "new", 
+                     7.95, 
+                     8.19
+                  ], 
+                  [
+                     "court", 
+                     8.19, 
+                     8.52
+                  ], 
+                  [
+                     "extension", 
+                     8.52, 
+                     9.03
+                  ]
+               ], 
+               "confidence": 0.791, 
+               "transcript": "new court extension "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "this", 
+                     9.14, 
+                     9.4
+                  ]
+               ], 
+               "confidence": 0.238, 
+               "transcript": "this "
+            }
+         ], 
+         "final": true
+      }
+   ], 
+   "result_index": 0, 
+   "speaker_labels": [
+      {
+         "from": 0.25, 
+         "to": 0.4, 
+         "speaker": 1, 
+         "confidence": 0.53, 
+         "final": false
+      }, 
+      {
+         "from": 0.4, 
+         "to": 0.67, 
+         "speaker": 1, 
+         "confidence": 0.53, 
+         "final": false
+      }, 
+      {
+         "from": 0.67, 
+         "to": 1.15, 
+         "speaker": 1, 
+         "confidence": 0.53, 
+         "final": false
+      }, 
+      {
+         "from": 1.41, 
+         "to": 1.55, 
+         "speaker": 1, 
+         "confidence": 0.667, 
+         "final": false
+      }, 
+      {
+         "from": 1.55, 
+         "to": 1.66, 
+         "speaker": 1, 
+         "confidence": 0.667, 
+         "final": false
+      }, 
+      {
+         "from": 1.66, 
+         "to": 1.88, 
+         "speaker": 1, 
+         "confidence": 0.667, 
+         "final": false
+      }, 
+      {
+         "from": 1.88, 
+         "to": 2.04, 
+         "speaker": 1, 
+         "confidence": 0.667, 
+         "final": false
+      }, 
+      {
+         "from": 2.04, 
+         "to": 2.45, 
+         "speaker": 1, 
+         "confidence": 0.667, 
+         "final": false
+      }, 
+      {
+         "from": 2.45, 
+         "to": 2.65, 
+         "speaker": 1, 
+         "confidence": 0.667, 
+         "final": false
+      }, 
+      {
+         "from": 2.65, 
+         "to": 2.84, 
+         "speaker": 1, 
+         "confidence": 0.667, 
+         "final": false
+      }, 
+      {
+         "from": 2.84, 
+         "to": 3.05, 
+         "speaker": 1, 
+         "confidence": 0.667, 
+         "final": false
+      }, 
+      {
+         "from": 3.05, 
+         "to": 3.65, 
+         "speaker": 1, 
+         "confidence": 0.667, 
+         "final": false
+      }, 
+      {
+         "from": 4.09, 
+         "to": 4.26, 
+         "speaker": 1, 
+         "confidence": 0.467, 
+         "final": false
+      }, 
+      {
+         "from": 4.26, 
+         "to": 5.0, 
+         "speaker": 1, 
+         "confidence": 0.467, 
+         "final": false
+      }, 
+      {
+         "from": 5.0, 
+         "to": 5.1, 
+         "speaker": 1, 
+         "confidence": 0.467, 
+         "final": false
+      }, 
+      {
+         "from": 5.1, 
+         "to": 5.57, 
+         "speaker": 1, 
+         "confidence": 0.467, 
+         "final": false
+      }, 
+      {
+         "from": 5.71, 
+         "to": 6.33, 
+         "speaker": 2, 
+         "confidence": 0.444, 
+         "final": false
+      }, 
+      {
+         "from": 6.36, 
+         "to": 6.6, 
+         "speaker": 2, 
+         "confidence": 0.45, 
+         "final": false
+      }, 
+      {
+         "from": 6.6, 
+         "to": 7.14, 
+         "speaker": 2, 
+         "confidence": 0.45, 
+         "final": false
+      }, 
+      {
+         "from": 7.95, 
+         "to": 8.19, 
+         "speaker": 2, 
+         "confidence": 0.557, 
+         "final": false
+      }, 
+      {
+         "from": 8.19, 
+         "to": 8.52, 
+         "speaker": 2, 
+         "confidence": 0.557, 
+         "final": false
+      }, 
+      {
+         "from": 8.52, 
+         "to": 9.03, 
+         "speaker": 2, 
+         "confidence": 0.557, 
+         "final": false
+      }, 
+      {
+         "from": 9.14, 
+         "to": 9.4, 
+         "speaker": 0, 
+         "confidence": 0.464, 
+         "final": true
+      }
+   ]
+}

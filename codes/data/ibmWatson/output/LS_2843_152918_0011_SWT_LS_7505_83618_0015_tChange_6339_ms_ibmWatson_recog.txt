@@ -1,0 +1,304 @@
+{
+   "results": [
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "amid", 
+                     0.17, 
+                     0.46
+                  ], 
+                  [
+                     "joking", 
+                     0.46, 
+                     0.89
+                  ], 
+                  [
+                     "in", 
+                     0.89, 
+                     1.0
+                  ], 
+                  [
+                     "chess", 
+                     1.0, 
+                     1.63
+                  ], 
+                  [
+                     "everything", 
+                     1.78, 
+                     2.27
+                  ], 
+                  [
+                     "was", 
+                     2.27, 
+                     2.45
+                  ], 
+                  [
+                     "packed", 
+                     2.45, 
+                     3.01
+                  ], 
+                  [
+                     "and", 
+                     3.01, 
+                     3.19
+                  ], 
+                  [
+                     "then", 
+                     3.19, 
+                     3.66
+                  ], 
+                  [
+                     "out", 
+                     3.9, 
+                     4.31
+                  ], 
+                  [
+                     "into", 
+                     4.57, 
+                     4.85
+                  ], 
+                  [
+                     "the", 
+                     4.85, 
+                     4.96
+                  ], 
+                  [
+                     "blizzard", 
+                     4.96, 
+                     5.5
+                  ]
+               ], 
+               "confidence": 0.827, 
+               "transcript": "amid joking in chess everything was packed and then out into the blizzard "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "they", 
+                     6.27, 
+                     6.43
+                  ], 
+                  [
+                     "recognize", 
+                     6.43, 
+                     7.08
+                  ], 
+                  [
+                     "their", 
+                     7.08, 
+                     7.23
+                  ], 
+                  [
+                     "maker", 
+                     7.23, 
+                     7.68
+                  ]
+               ], 
+               "confidence": 0.633, 
+               "transcript": "they recognize their maker "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "and", 
+                     8.22, 
+                     8.39
+                  ], 
+                  [
+                     "humbled", 
+                     8.39, 
+                     8.85
+                  ], 
+                  [
+                     "themselves", 
+                     8.85, 
+                     9.35
+                  ], 
+                  [
+                     "before", 
+                     9.35, 
+                     9.79
+                  ], 
+                  [
+                     "him", 
+                     9.79, 
+                     9.93
+                  ]
+               ], 
+               "confidence": 0.879, 
+               "transcript": "and humbled themselves before him "
+            }
+         ], 
+         "final": true
+      }
+   ], 
+   "result_index": 0, 
+   "speaker_labels": [
+      {
+         "from": 0.17, 
+         "to": 0.46, 
+         "speaker": 0, 
+         "confidence": 0.455, 
+         "final": false
+      }, 
+      {
+         "from": 0.46, 
+         "to": 0.89, 
+         "speaker": 0, 
+         "confidence": 0.455, 
+         "final": false
+      }, 
+      {
+         "from": 0.89, 
+         "to": 1.0, 
+         "speaker": 0, 
+         "confidence": 0.455, 
+         "final": false
+      }, 
+      {
+         "from": 1.0, 
+         "to": 1.63, 
+         "speaker": 0, 
+         "confidence": 0.455, 
+         "final": false
+      }, 
+      {
+         "from": 1.78, 
+         "to": 2.27, 
+         "speaker": 0, 
+         "confidence": 0.458, 
+         "final": false
+      }, 
+      {
+         "from": 2.27, 
+         "to": 2.45, 
+         "speaker": 0, 
+         "confidence": 0.458, 
+         "final": false
+      }, 
+      {
+         "from": 2.45, 
+         "to": 3.01, 
+         "speaker": 0, 
+         "confidence": 0.458, 
+         "final": false
+      }, 
+      {
+         "from": 3.01, 
+         "to": 3.19, 
+         "speaker": 0, 
+         "confidence": 0.458, 
+         "final": false
+      }, 
+      {
+         "from": 3.19, 
+         "to": 3.66, 
+         "speaker": 0, 
+         "confidence": 0.458, 
+         "final": false
+      }, 
+      {
+         "from": 3.9, 
+         "to": 4.31, 
+         "speaker": 1, 
+         "confidence": 0.49, 
+         "final": false
+      }, 
+      {
+         "from": 4.57, 
+         "to": 4.85, 
+         "speaker": 0, 
+         "confidence": 0.371, 
+         "final": false
+      }, 
+      {
+         "from": 4.85, 
+         "to": 4.96, 
+         "speaker": 0, 
+         "confidence": 0.371, 
+         "final": false
+      }, 
+      {
+         "from": 4.96, 
+         "to": 5.5, 
+         "speaker": 0, 
+         "confidence": 0.371, 
+         "final": false
+      }, 
+      {
+         "from": 6.27, 
+         "to": 6.43, 
+         "speaker": 3, 
+         "confidence": 0.4, 
+         "final": false
+      }, 
+      {
+         "from": 6.43, 
+         "to": 7.08, 
+         "speaker": 3, 
+         "confidence": 0.4, 
+         "final": false
+      }, 
+      {
+         "from": 7.08, 
+         "to": 7.23, 
+         "speaker": 3, 
+         "confidence": 0.4, 
+         "final": false
+      }, 
+      {
+         "from": 7.23, 
+         "to": 7.68, 
+         "speaker": 3, 
+         "confidence": 0.4, 
+         "final": false
+      }, 
+      {
+         "from": 8.22, 
+         "to": 8.39, 
+         "speaker": 3, 
+         "confidence": 0.481, 
+         "final": false
+      }, 
+      {
+         "from": 8.39, 
+         "to": 8.85, 
+         "speaker": 3, 
+         "confidence": 0.481, 
+         "final": false
+      }, 
+      {
+         "from": 8.85, 
+         "to": 9.35, 
+         "speaker": 3, 
+         "confidence": 0.481, 
+         "final": false
+      }, 
+      {
+         "from": 9.35, 
+         "to": 9.79, 
+         "speaker": 3, 
+         "confidence": 0.481, 
+         "final": false
+      }, 
+      {
+         "from": 9.79, 
+         "to": 9.93, 
+         "speaker": 3, 
+         "confidence": 0.481, 
+         "final": true
+      }
+   ]
+}

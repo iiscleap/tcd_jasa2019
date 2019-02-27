@@ -1,0 +1,362 @@
+{
+   "results": [
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "situated", 
+                     0.16, 
+                     0.71
+                  ], 
+                  [
+                     "along", 
+                     0.71, 
+                     1.06
+                  ], 
+                  [
+                     "side", 
+                     1.06, 
+                     1.52
+                  ], 
+                  [
+                     "and", 
+                     1.52, 
+                     1.67
+                  ], 
+                  [
+                     "overlooking", 
+                     1.67, 
+                     2.18
+                  ], 
+                  [
+                     "the", 
+                     2.18, 
+                     2.27
+                  ], 
+                  [
+                     "brac", 
+                     2.27, 
+                     2.62
+                  ], 
+                  [
+                     "table", 
+                     2.62, 
+                     3.06
+                  ]
+               ], 
+               "confidence": 0.773, 
+               "transcript": "situated along side and overlooking the brac table "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "where", 
+                     3.41, 
+                     3.59
+                  ], 
+                  [
+                     "the", 
+                     3.59, 
+                     3.69
+                  ], 
+                  [
+                     "captain", 
+                     3.69, 
+                     4.08
+                  ], 
+                  [
+                     "was", 
+                     4.08, 
+                     4.22
+                  ], 
+                  [
+                     "deeply", 
+                     4.22, 
+                     4.59
+                  ], 
+                  [
+                     "engaged", 
+                     4.59, 
+                     5.38
+                  ], 
+                  [
+                     "the", 
+                     5.62, 
+                     5.73
+                  ], 
+                  [
+                     "most", 
+                     5.73, 
+                     6.13
+                  ], 
+                  [
+                     "on", 
+                     6.25, 
+                     6.41
+                  ], 
+                  [
+                     "a", 
+                     6.41, 
+                     6.47
+                  ], 
+                  [
+                     "custom", 
+                     6.47, 
+                     6.96
+                  ]
+               ], 
+               "confidence": 0.864, 
+               "transcript": "where the captain was deeply engaged the most on a custom "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "and", 
+                     7.03, 
+                     7.27
+                  ], 
+                  [
+                     "of", 
+                     7.38, 
+                     7.58
+                  ], 
+                  [
+                     "his", 
+                     7.58, 
+                     7.75
+                  ]
+               ], 
+               "confidence": 0.907, 
+               "transcript": "and of his "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "complicate", 
+                     7.93, 
+                     8.42
+                  ]
+               ], 
+               "confidence": 1.0, 
+               "transcript": "complicate "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "matic", 
+                     8.75, 
+                     9.05
+                  ], 
+                  [
+                     "much", 
+                     9.05, 
+                     9.28
+                  ]
+               ], 
+               "confidence": 0.519, 
+               "transcript": "matic much "
+            }
+         ], 
+         "final": true
+      }
+   ], 
+   "result_index": 0, 
+   "speaker_labels": [
+      {
+         "from": 0.16, 
+         "to": 0.71, 
+         "speaker": 0, 
+         "confidence": 0.5, 
+         "final": false
+      }, 
+      {
+         "from": 0.71, 
+         "to": 1.06, 
+         "speaker": 0, 
+         "confidence": 0.5, 
+         "final": false
+      }, 
+      {
+         "from": 1.06, 
+         "to": 1.52, 
+         "speaker": 0, 
+         "confidence": 0.5, 
+         "final": false
+      }, 
+      {
+         "from": 1.52, 
+         "to": 1.67, 
+         "speaker": 0, 
+         "confidence": 0.5, 
+         "final": false
+      }, 
+      {
+         "from": 1.67, 
+         "to": 2.18, 
+         "speaker": 0, 
+         "confidence": 0.5, 
+         "final": false
+      }, 
+      {
+         "from": 2.18, 
+         "to": 2.27, 
+         "speaker": 0, 
+         "confidence": 0.5, 
+         "final": false
+      }, 
+      {
+         "from": 2.27, 
+         "to": 2.62, 
+         "speaker": 0, 
+         "confidence": 0.5, 
+         "final": false
+      }, 
+      {
+         "from": 2.62, 
+         "to": 3.06, 
+         "speaker": 0, 
+         "confidence": 0.5, 
+         "final": false
+      }, 
+      {
+         "from": 3.41, 
+         "to": 3.59, 
+         "speaker": 0, 
+         "confidence": 0.612, 
+         "final": false
+      }, 
+      {
+         "from": 3.59, 
+         "to": 3.69, 
+         "speaker": 0, 
+         "confidence": 0.612, 
+         "final": false
+      }, 
+      {
+         "from": 3.69, 
+         "to": 4.08, 
+         "speaker": 0, 
+         "confidence": 0.612, 
+         "final": false
+      }, 
+      {
+         "from": 4.08, 
+         "to": 4.22, 
+         "speaker": 0, 
+         "confidence": 0.612, 
+         "final": false
+      }, 
+      {
+         "from": 4.22, 
+         "to": 4.59, 
+         "speaker": 0, 
+         "confidence": 0.612, 
+         "final": false
+      }, 
+      {
+         "from": 4.59, 
+         "to": 5.38, 
+         "speaker": 0, 
+         "confidence": 0.612, 
+         "final": false
+      }, 
+      {
+         "from": 5.62, 
+         "to": 5.73, 
+         "speaker": 1, 
+         "confidence": 0.613, 
+         "final": false
+      }, 
+      {
+         "from": 5.73, 
+         "to": 6.13, 
+         "speaker": 1, 
+         "confidence": 0.613, 
+         "final": false
+      }, 
+      {
+         "from": 6.25, 
+         "to": 6.41, 
+         "speaker": 1, 
+         "confidence": 0.601, 
+         "final": false
+      }, 
+      {
+         "from": 6.41, 
+         "to": 6.47, 
+         "speaker": 1, 
+         "confidence": 0.601, 
+         "final": false
+      }, 
+      {
+         "from": 6.47, 
+         "to": 6.96, 
+         "speaker": 1, 
+         "confidence": 0.601, 
+         "final": false
+      }, 
+      {
+         "from": 7.03, 
+         "to": 7.27, 
+         "speaker": 1, 
+         "confidence": 0.519, 
+         "final": false
+      }, 
+      {
+         "from": 7.38, 
+         "to": 7.58, 
+         "speaker": 1, 
+         "confidence": 0.555, 
+         "final": false
+      }, 
+      {
+         "from": 7.58, 
+         "to": 7.75, 
+         "speaker": 1, 
+         "confidence": 0.555, 
+         "final": false
+      }, 
+      {
+         "from": 7.93, 
+         "to": 8.42, 
+         "speaker": 1, 
+         "confidence": 0.51, 
+         "final": false
+      }, 
+      {
+         "from": 8.75, 
+         "to": 9.05, 
+         "speaker": 1, 
+         "confidence": 0.458, 
+         "final": false
+      }, 
+      {
+         "from": 9.05, 
+         "to": 9.28, 
+         "speaker": 1, 
+         "confidence": 0.458, 
+         "final": true
+      }
+   ]
+}

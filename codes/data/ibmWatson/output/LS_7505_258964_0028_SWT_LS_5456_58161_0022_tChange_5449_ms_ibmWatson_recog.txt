@@ -1,0 +1,327 @@
+{
+   "results": [
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "of", 
+                     0.16, 
+                     0.33
+                  ], 
+                  [
+                     "land", 
+                     0.33, 
+                     0.9
+                  ], 
+                  [
+                     "tenfold", 
+                     0.99, 
+                     1.98
+                  ], 
+                  [
+                     "its", 
+                     2.03, 
+                     2.23
+                  ], 
+                  [
+                     "former", 
+                     2.23, 
+                     2.86
+                  ], 
+                  [
+                     "total", 
+                     2.89, 
+                     3.3
+                  ], 
+                  [
+                     "value", 
+                     3.3, 
+                     3.78
+                  ]
+               ], 
+               "confidence": 0.799, 
+               "transcript": "of land tenfold its former total value "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "fitness", 
+                     4.68, 
+                     5.28
+                  ], 
+                  [
+                     "a", 
+                     5.4, 
+                     5.5
+                  ], 
+                  [
+                     "not", 
+                     5.5, 
+                     5.81
+                  ], 
+                  [
+                     "the", 
+                     5.81, 
+                     5.94
+                  ], 
+                  [
+                     "gold", 
+                     5.94, 
+                     6.29
+                  ], 
+                  [
+                     "and", 
+                     6.29, 
+                     6.42
+                  ], 
+                  [
+                     "silver", 
+                     6.42, 
+                     6.73
+                  ], 
+                  [
+                     "can", 
+                     6.73, 
+                     6.89
+                  ]
+               ], 
+               "confidence": 0.795, 
+               "transcript": "fitness a not the gold and silver can "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "five", 
+                     7.0, 
+                     7.42
+                  ], 
+                  [
+                     "gold", 
+                     7.53, 
+                     7.96
+                  ], 
+                  [
+                     "and", 
+                     7.96, 
+                     8.09
+                  ], 
+                  [
+                     "silver", 
+                     8.09, 
+                     8.46
+                  ]
+               ], 
+               "confidence": 0.682, 
+               "transcript": "five gold and silver "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "a", 
+                     8.56, 
+                     8.59
+                  ], 
+                  [
+                     "yet", 
+                     8.59, 
+                     8.88
+                  ], 
+                  [
+                     "on", 
+                     8.88, 
+                     9.02
+                  ], 
+                  [
+                     "top", 
+                     9.02, 
+                     9.25
+                  ]
+               ], 
+               "confidence": 0.692, 
+               "transcript": "a yet on top "
+            }
+         ], 
+         "final": true
+      }
+   ], 
+   "result_index": 0, 
+   "speaker_labels": [
+      {
+         "from": 0.16, 
+         "to": 0.33, 
+         "speaker": 0, 
+         "confidence": 0.398, 
+         "final": false
+      }, 
+      {
+         "from": 0.33, 
+         "to": 0.9, 
+         "speaker": 0, 
+         "confidence": 0.398, 
+         "final": false
+      }, 
+      {
+         "from": 0.99, 
+         "to": 1.98, 
+         "speaker": 0, 
+         "confidence": 0.442, 
+         "final": false
+      }, 
+      {
+         "from": 2.03, 
+         "to": 2.23, 
+         "speaker": 2, 
+         "confidence": 0.407, 
+         "final": false
+      }, 
+      {
+         "from": 2.23, 
+         "to": 2.86, 
+         "speaker": 2, 
+         "confidence": 0.407, 
+         "final": false
+      }, 
+      {
+         "from": 2.89, 
+         "to": 3.3, 
+         "speaker": 0, 
+         "confidence": 0.411, 
+         "final": false
+      }, 
+      {
+         "from": 3.3, 
+         "to": 3.78, 
+         "speaker": 0, 
+         "confidence": 0.411, 
+         "final": false
+      }, 
+      {
+         "from": 4.68, 
+         "to": 5.28, 
+         "speaker": 0, 
+         "confidence": 0.561, 
+         "final": false
+      }, 
+      {
+         "from": 5.4, 
+         "to": 5.5, 
+         "speaker": 2, 
+         "confidence": 0.332, 
+         "final": false
+      }, 
+      {
+         "from": 5.5, 
+         "to": 5.81, 
+         "speaker": 2, 
+         "confidence": 0.332, 
+         "final": false
+      }, 
+      {
+         "from": 5.81, 
+         "to": 5.94, 
+         "speaker": 2, 
+         "confidence": 0.332, 
+         "final": false
+      }, 
+      {
+         "from": 5.94, 
+         "to": 6.29, 
+         "speaker": 2, 
+         "confidence": 0.332, 
+         "final": false
+      }, 
+      {
+         "from": 6.29, 
+         "to": 6.42, 
+         "speaker": 2, 
+         "confidence": 0.332, 
+         "final": false
+      }, 
+      {
+         "from": 6.42, 
+         "to": 6.73, 
+         "speaker": 2, 
+         "confidence": 0.332, 
+         "final": false
+      }, 
+      {
+         "from": 6.73, 
+         "to": 6.89, 
+         "speaker": 2, 
+         "confidence": 0.332, 
+         "final": false
+      }, 
+      {
+         "from": 7.0, 
+         "to": 7.42, 
+         "speaker": 2, 
+         "confidence": 0.446, 
+         "final": false
+      }, 
+      {
+         "from": 7.53, 
+         "to": 7.96, 
+         "speaker": 2, 
+         "confidence": 0.417, 
+         "final": false
+      }, 
+      {
+         "from": 7.96, 
+         "to": 8.09, 
+         "speaker": 2, 
+         "confidence": 0.417, 
+         "final": false
+      }, 
+      {
+         "from": 8.09, 
+         "to": 8.46, 
+         "speaker": 2, 
+         "confidence": 0.417, 
+         "final": false
+      }, 
+      {
+         "from": 8.56, 
+         "to": 8.59, 
+         "speaker": 2, 
+         "confidence": 0.53, 
+         "final": false
+      }, 
+      {
+         "from": 8.59, 
+         "to": 8.88, 
+         "speaker": 2, 
+         "confidence": 0.53, 
+         "final": false
+      }, 
+      {
+         "from": 8.88, 
+         "to": 9.02, 
+         "speaker": 2, 
+         "confidence": 0.53, 
+         "final": false
+      }, 
+      {
+         "from": 9.02, 
+         "to": 9.25, 
+         "speaker": 2, 
+         "confidence": 0.53, 
+         "final": true
+      }
+   ]
+}

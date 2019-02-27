@@ -1,0 +1,389 @@
+{
+   "results": [
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "it", 
+                     0.39, 
+                     0.53
+                  ], 
+                  [
+                     "appeared", 
+                     0.53, 
+                     0.9
+                  ], 
+                  [
+                     "to", 
+                     0.9, 
+                     0.98
+                  ], 
+                  [
+                     "be", 
+                     0.98, 
+                     1.08
+                  ], 
+                  [
+                     "quite", 
+                     1.08, 
+                     1.43
+                  ], 
+                  [
+                     "isolated", 
+                     1.46, 
+                     2.3
+                  ], 
+                  [
+                     "into", 
+                     2.49, 
+                     2.71
+                  ], 
+                  [
+                     "consistent", 
+                     2.71, 
+                     3.33
+                  ], 
+                  [
+                     "for", 
+                     3.33, 
+                     3.61
+                  ], 
+                  [
+                     "mountains", 
+                     3.61, 
+                     4.32
+                  ]
+               ], 
+               "confidence": 0.948, 
+               "transcript": "it appeared to be quite isolated into consistent for mountains "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "one", 
+                     4.86, 
+                     5.01
+                  ], 
+                  [
+                     "of", 
+                     5.01, 
+                     5.1
+                  ], 
+                  [
+                     "these", 
+                     5.1, 
+                     5.6
+                  ], 
+                  [
+                     "she", 
+                     5.74, 
+                     5.94
+                  ], 
+                  [
+                     "would", 
+                     5.94, 
+                     6.1
+                  ], 
+                  [
+                     "write", 
+                     6.1, 
+                     6.35
+                  ], 
+                  [
+                     "to", 
+                     6.35, 
+                     6.47
+                  ], 
+                  [
+                     "me", 
+                     6.47, 
+                     6.61
+                  ], 
+                  [
+                     "in", 
+                     6.61, 
+                     6.73
+                  ], 
+                  [
+                     "the", 
+                     6.73, 
+                     6.81
+                  ], 
+                  [
+                     "morning", 
+                     6.81, 
+                     7.24
+                  ], 
+                  [
+                     "that", 
+                     7.24, 
+                     7.39
+                  ], 
+                  [
+                     "she", 
+                     7.39, 
+                     7.54
+                  ], 
+                  [
+                     "would", 
+                     7.54, 
+                     7.7
+                  ], 
+                  [
+                     "dine", 
+                     7.7, 
+                     8.0
+                  ], 
+                  [
+                     "with", 
+                     8.0, 
+                     8.22
+                  ], 
+                  [
+                     "me", 
+                     8.22, 
+                     8.56
+                  ], 
+                  [
+                     "not", 
+                     8.81, 
+                     9.07
+                  ], 
+                  [
+                     "at", 
+                     9.07, 
+                     9.16
+                  ], 
+                  [
+                     "home", 
+                     9.19, 
+                     9.55
+                  ]
+               ], 
+               "confidence": 0.963, 
+               "transcript": "one of these she would write to me in the morning that she would dine with me not at home "
+            }
+         ], 
+         "final": true
+      }
+   ], 
+   "result_index": 0, 
+   "speaker_labels": [
+      {
+         "from": 0.39, 
+         "to": 0.53, 
+         "speaker": 0, 
+         "confidence": 0.492, 
+         "final": false
+      }, 
+      {
+         "from": 0.53, 
+         "to": 0.9, 
+         "speaker": 0, 
+         "confidence": 0.492, 
+         "final": false
+      }, 
+      {
+         "from": 0.9, 
+         "to": 0.98, 
+         "speaker": 0, 
+         "confidence": 0.492, 
+         "final": false
+      }, 
+      {
+         "from": 0.98, 
+         "to": 1.08, 
+         "speaker": 0, 
+         "confidence": 0.492, 
+         "final": false
+      }, 
+      {
+         "from": 1.08, 
+         "to": 1.43, 
+         "speaker": 0, 
+         "confidence": 0.492, 
+         "final": false
+      }, 
+      {
+         "from": 1.46, 
+         "to": 2.3, 
+         "speaker": 0, 
+         "confidence": 0.58, 
+         "final": false
+      }, 
+      {
+         "from": 2.49, 
+         "to": 2.71, 
+         "speaker": 0, 
+         "confidence": 0.567, 
+         "final": false
+      }, 
+      {
+         "from": 2.71, 
+         "to": 3.33, 
+         "speaker": 0, 
+         "confidence": 0.567, 
+         "final": false
+      }, 
+      {
+         "from": 3.33, 
+         "to": 3.61, 
+         "speaker": 0, 
+         "confidence": 0.567, 
+         "final": false
+      }, 
+      {
+         "from": 3.61, 
+         "to": 4.32, 
+         "speaker": 0, 
+         "confidence": 0.567, 
+         "final": false
+      }, 
+      {
+         "from": 4.86, 
+         "to": 5.01, 
+         "speaker": 0, 
+         "confidence": 0.512, 
+         "final": false
+      }, 
+      {
+         "from": 5.01, 
+         "to": 5.1, 
+         "speaker": 0, 
+         "confidence": 0.512, 
+         "final": false
+      }, 
+      {
+         "from": 5.1, 
+         "to": 5.6, 
+         "speaker": 0, 
+         "confidence": 0.512, 
+         "final": false
+      }, 
+      {
+         "from": 5.74, 
+         "to": 5.94, 
+         "speaker": 1, 
+         "confidence": 0.596, 
+         "final": false
+      }, 
+      {
+         "from": 5.94, 
+         "to": 6.1, 
+         "speaker": 1, 
+         "confidence": 0.596, 
+         "final": false
+      }, 
+      {
+         "from": 6.1, 
+         "to": 6.35, 
+         "speaker": 1, 
+         "confidence": 0.596, 
+         "final": false
+      }, 
+      {
+         "from": 6.35, 
+         "to": 6.47, 
+         "speaker": 1, 
+         "confidence": 0.596, 
+         "final": false
+      }, 
+      {
+         "from": 6.47, 
+         "to": 6.61, 
+         "speaker": 1, 
+         "confidence": 0.596, 
+         "final": false
+      }, 
+      {
+         "from": 6.61, 
+         "to": 6.73, 
+         "speaker": 1, 
+         "confidence": 0.596, 
+         "final": false
+      }, 
+      {
+         "from": 6.73, 
+         "to": 6.81, 
+         "speaker": 1, 
+         "confidence": 0.596, 
+         "final": false
+      }, 
+      {
+         "from": 6.81, 
+         "to": 7.24, 
+         "speaker": 1, 
+         "confidence": 0.596, 
+         "final": false
+      }, 
+      {
+         "from": 7.24, 
+         "to": 7.39, 
+         "speaker": 1, 
+         "confidence": 0.596, 
+         "final": false
+      }, 
+      {
+         "from": 7.39, 
+         "to": 7.54, 
+         "speaker": 1, 
+         "confidence": 0.596, 
+         "final": false
+      }, 
+      {
+         "from": 7.54, 
+         "to": 7.7, 
+         "speaker": 1, 
+         "confidence": 0.596, 
+         "final": false
+      }, 
+      {
+         "from": 7.7, 
+         "to": 8.0, 
+         "speaker": 1, 
+         "confidence": 0.596, 
+         "final": false
+      }, 
+      {
+         "from": 8.0, 
+         "to": 8.22, 
+         "speaker": 1, 
+         "confidence": 0.596, 
+         "final": false
+      }, 
+      {
+         "from": 8.22, 
+         "to": 8.56, 
+         "speaker": 1, 
+         "confidence": 0.596, 
+         "final": false
+      }, 
+      {
+         "from": 8.81, 
+         "to": 9.07, 
+         "speaker": 1, 
+         "confidence": 0.584, 
+         "final": false
+      }, 
+      {
+         "from": 9.07, 
+         "to": 9.16, 
+         "speaker": 1, 
+         "confidence": 0.584, 
+         "final": false
+      }, 
+      {
+         "from": 9.19, 
+         "to": 9.55, 
+         "speaker": 1, 
+         "confidence": 0.627, 
+         "final": true
+      }
+   ]
+}

@@ -1,0 +1,400 @@
+{
+   "results": [
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "I", 
+                     0.5, 
+                     0.62
+                  ], 
+                  [
+                     "passed", 
+                     0.62, 
+                     1.12
+                  ], 
+                  [
+                     "whole", 
+                     1.12, 
+                     1.41
+                  ], 
+                  [
+                     "days", 
+                     1.41, 
+                     1.8
+                  ], 
+                  [
+                     "at", 
+                     1.8, 
+                     1.92
+                  ], 
+                  [
+                     "the", 
+                     1.92, 
+                     2.0
+                  ], 
+                  [
+                     "feet", 
+                     2.0, 
+                     2.27
+                  ], 
+                  [
+                     "of", 
+                     2.27, 
+                     2.39
+                  ], 
+                  [
+                     "my", 
+                     2.39, 
+                     2.55
+                  ], 
+                  [
+                     "mistress", 
+                     2.55, 
+                     3.4
+                  ]
+               ], 
+               "confidence": 0.788, 
+               "transcript": "I passed whole days at the feet of my mistress "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "we", 
+                     3.74, 
+                     3.9
+                  ], 
+                  [
+                     "open", 
+                     3.9, 
+                     4.19
+                  ], 
+                  [
+                     "the", 
+                     4.19, 
+                     4.29
+                  ], 
+                  [
+                     "windows", 
+                     4.29, 
+                     4.8
+                  ], 
+                  [
+                     "upon", 
+                     4.8, 
+                     5.11
+                  ], 
+                  [
+                     "the", 
+                     5.11, 
+                     5.22
+                  ], 
+                  [
+                     "garden", 
+                     5.22, 
+                     5.82
+                  ]
+               ], 
+               "confidence": 0.954, 
+               "transcript": "we open the windows upon the garden "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "we", 
+                     6.41, 
+                     6.52
+                  ], 
+                  [
+                     "traveled", 
+                     6.52, 
+                     6.96
+                  ], 
+                  [
+                     "down", 
+                     6.96, 
+                     7.17
+                  ], 
+                  [
+                     "a", 
+                     7.17, 
+                     7.23
+                  ], 
+                  [
+                     "place", 
+                     7.23, 
+                     7.57
+                  ], 
+                  [
+                     "for", 
+                     7.57, 
+                     7.72
+                  ], 
+                  [
+                     "the", 
+                     7.72, 
+                     7.83
+                  ], 
+                  [
+                     "tent", 
+                     7.83, 
+                     8.26
+                  ], 
+                  [
+                     "in", 
+                     8.26, 
+                     8.34
+                  ], 
+                  [
+                     "the", 
+                     8.34, 
+                     8.44
+                  ], 
+                  [
+                     "loose", 
+                     8.44, 
+                     8.74
+                  ], 
+                  [
+                     "snow", 
+                     8.74, 
+                     9.25
+                  ], 
+                  [
+                     "and", 
+                     9.63, 
+                     9.88
+                  ]
+               ], 
+               "confidence": 0.658, 
+               "transcript": "we traveled down a place for the tent in the loose snow and "
+            }
+         ], 
+         "final": true
+      }
+   ], 
+   "result_index": 0, 
+   "speaker_labels": [
+      {
+         "from": 0.5, 
+         "to": 0.62, 
+         "speaker": 0, 
+         "confidence": 0.5, 
+         "final": false
+      }, 
+      {
+         "from": 0.62, 
+         "to": 1.12, 
+         "speaker": 0, 
+         "confidence": 0.5, 
+         "final": false
+      }, 
+      {
+         "from": 1.12, 
+         "to": 1.41, 
+         "speaker": 0, 
+         "confidence": 0.5, 
+         "final": false
+      }, 
+      {
+         "from": 1.41, 
+         "to": 1.8, 
+         "speaker": 0, 
+         "confidence": 0.5, 
+         "final": false
+      }, 
+      {
+         "from": 1.8, 
+         "to": 1.92, 
+         "speaker": 0, 
+         "confidence": 0.5, 
+         "final": false
+      }, 
+      {
+         "from": 1.92, 
+         "to": 2.0, 
+         "speaker": 0, 
+         "confidence": 0.5, 
+         "final": false
+      }, 
+      {
+         "from": 2.0, 
+         "to": 2.27, 
+         "speaker": 0, 
+         "confidence": 0.5, 
+         "final": false
+      }, 
+      {
+         "from": 2.27, 
+         "to": 2.39, 
+         "speaker": 0, 
+         "confidence": 0.5, 
+         "final": false
+      }, 
+      {
+         "from": 2.39, 
+         "to": 2.55, 
+         "speaker": 0, 
+         "confidence": 0.5, 
+         "final": false
+      }, 
+      {
+         "from": 2.55, 
+         "to": 3.4, 
+         "speaker": 0, 
+         "confidence": 0.5, 
+         "final": false
+      }, 
+      {
+         "from": 3.74, 
+         "to": 3.9, 
+         "speaker": 0, 
+         "confidence": 0.554, 
+         "final": false
+      }, 
+      {
+         "from": 3.9, 
+         "to": 4.19, 
+         "speaker": 0, 
+         "confidence": 0.554, 
+         "final": false
+      }, 
+      {
+         "from": 4.19, 
+         "to": 4.29, 
+         "speaker": 0, 
+         "confidence": 0.554, 
+         "final": false
+      }, 
+      {
+         "from": 4.29, 
+         "to": 4.8, 
+         "speaker": 0, 
+         "confidence": 0.554, 
+         "final": false
+      }, 
+      {
+         "from": 4.8, 
+         "to": 5.11, 
+         "speaker": 0, 
+         "confidence": 0.554, 
+         "final": false
+      }, 
+      {
+         "from": 5.11, 
+         "to": 5.22, 
+         "speaker": 0, 
+         "confidence": 0.554, 
+         "final": false
+      }, 
+      {
+         "from": 5.22, 
+         "to": 5.82, 
+         "speaker": 0, 
+         "confidence": 0.554, 
+         "final": false
+      }, 
+      {
+         "from": 6.41, 
+         "to": 6.52, 
+         "speaker": 1, 
+         "confidence": 0.574, 
+         "final": false
+      }, 
+      {
+         "from": 6.52, 
+         "to": 6.96, 
+         "speaker": 1, 
+         "confidence": 0.574, 
+         "final": false
+      }, 
+      {
+         "from": 6.96, 
+         "to": 7.17, 
+         "speaker": 1, 
+         "confidence": 0.574, 
+         "final": false
+      }, 
+      {
+         "from": 7.17, 
+         "to": 7.23, 
+         "speaker": 1, 
+         "confidence": 0.574, 
+         "final": false
+      }, 
+      {
+         "from": 7.23, 
+         "to": 7.57, 
+         "speaker": 1, 
+         "confidence": 0.574, 
+         "final": false
+      }, 
+      {
+         "from": 7.57, 
+         "to": 7.72, 
+         "speaker": 1, 
+         "confidence": 0.574, 
+         "final": false
+      }, 
+      {
+         "from": 7.72, 
+         "to": 7.83, 
+         "speaker": 1, 
+         "confidence": 0.574, 
+         "final": false
+      }, 
+      {
+         "from": 7.83, 
+         "to": 8.26, 
+         "speaker": 1, 
+         "confidence": 0.574, 
+         "final": false
+      }, 
+      {
+         "from": 8.26, 
+         "to": 8.34, 
+         "speaker": 1, 
+         "confidence": 0.574, 
+         "final": false
+      }, 
+      {
+         "from": 8.34, 
+         "to": 8.44, 
+         "speaker": 1, 
+         "confidence": 0.574, 
+         "final": false
+      }, 
+      {
+         "from": 8.44, 
+         "to": 8.74, 
+         "speaker": 1, 
+         "confidence": 0.574, 
+         "final": false
+      }, 
+      {
+         "from": 8.74, 
+         "to": 9.25, 
+         "speaker": 1, 
+         "confidence": 0.574, 
+         "final": false
+      }, 
+      {
+         "from": 9.63, 
+         "to": 9.88, 
+         "speaker": 1, 
+         "confidence": 0.579, 
+         "final": true
+      }
+   ]
+}

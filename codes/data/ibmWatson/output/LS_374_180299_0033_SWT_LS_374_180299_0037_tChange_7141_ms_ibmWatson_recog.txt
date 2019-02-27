@@ -1,0 +1,390 @@
+{
+   "results": [
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "said", 
+                     0.15, 
+                     0.52
+                  ], 
+                  [
+                     "she", 
+                     0.52, 
+                     0.94
+                  ], 
+                  [
+                     "turning", 
+                     1.08, 
+                     1.45
+                  ], 
+                  [
+                     "to", 
+                     1.45, 
+                     1.57
+                  ], 
+                  [
+                     "prudence", 
+                     1.57, 
+                     2.27
+                  ], 
+                  [
+                     "and", 
+                     2.43, 
+                     2.63
+                  ], 
+                  [
+                     "speaking", 
+                     2.63, 
+                     3.07
+                  ], 
+                  [
+                     "in", 
+                     3.07, 
+                     3.2
+                  ], 
+                  [
+                     "a", 
+                     3.2, 
+                     3.26
+                  ], 
+                  [
+                     "broken", 
+                     3.26, 
+                     3.64
+                  ], 
+                  [
+                     "voice", 
+                     3.64, 
+                     4.2
+                  ], 
+                  [
+                     "you", 
+                     4.85, 
+                     5.02
+                  ], 
+                  [
+                     "can", 
+                     5.02, 
+                     5.21
+                  ], 
+                  [
+                     "report", 
+                     5.21, 
+                     5.67
+                  ], 
+                  [
+                     "this", 
+                     5.67, 
+                     5.84
+                  ], 
+                  [
+                     "scene", 
+                     5.84, 
+                     6.21
+                  ], 
+                  [
+                     "to", 
+                     6.21, 
+                     6.34
+                  ], 
+                  [
+                     "the", 
+                     6.34, 
+                     6.48
+                  ], 
+                  [
+                     "for", 
+                     6.98, 
+                     7.21
+                  ], 
+                  [
+                     "two", 
+                     7.21, 
+                     7.43
+                  ], 
+                  [
+                     "months", 
+                     7.43, 
+                     7.87
+                  ], 
+                  [
+                     "we", 
+                     7.87, 
+                     8.06
+                  ], 
+                  [
+                     "had", 
+                     8.06, 
+                     8.18
+                  ], 
+                  [
+                     "not", 
+                     8.18, 
+                     8.39
+                  ], 
+                  [
+                     "even", 
+                     8.39, 
+                     8.64
+                  ], 
+                  [
+                     "been", 
+                     8.64, 
+                     8.87
+                  ], 
+                  [
+                     "to", 
+                     8.87, 
+                     8.97
+                  ], 
+                  [
+                     "Paris", 
+                     8.97, 
+                     9.62
+                  ], 
+                  [
+                     "no", 
+                     9.94, 
+                     10.14
+                  ], 
+                  [
+                     "one", 
+                     10.14, 
+                     10.31
+                  ], 
+                  [
+                     "can", 
+                     10.31, 
+                     10.48
+                  ]
+               ], 
+               "confidence": 0.889, 
+               "transcript": "said she turning to prudence and speaking in a broken voice you can report this scene to the for two months we had not even been to Paris no one can "
+            }
+         ], 
+         "final": true
+      }
+   ], 
+   "result_index": 0, 
+   "speaker_labels": [
+      {
+         "from": 0.15, 
+         "to": 0.52, 
+         "speaker": 0, 
+         "confidence": 0.403, 
+         "final": false
+      }, 
+      {
+         "from": 0.52, 
+         "to": 0.94, 
+         "speaker": 0, 
+         "confidence": 0.403, 
+         "final": false
+      }, 
+      {
+         "from": 1.08, 
+         "to": 1.45, 
+         "speaker": 1, 
+         "confidence": 0.384, 
+         "final": false
+      }, 
+      {
+         "from": 1.45, 
+         "to": 1.57, 
+         "speaker": 1, 
+         "confidence": 0.384, 
+         "final": false
+      }, 
+      {
+         "from": 1.57, 
+         "to": 2.27, 
+         "speaker": 1, 
+         "confidence": 0.384, 
+         "final": false
+      }, 
+      {
+         "from": 2.43, 
+         "to": 2.63, 
+         "speaker": 1, 
+         "confidence": 0.345, 
+         "final": false
+      }, 
+      {
+         "from": 2.63, 
+         "to": 3.07, 
+         "speaker": 1, 
+         "confidence": 0.345, 
+         "final": false
+      }, 
+      {
+         "from": 3.07, 
+         "to": 3.2, 
+         "speaker": 1, 
+         "confidence": 0.345, 
+         "final": false
+      }, 
+      {
+         "from": 3.2, 
+         "to": 3.26, 
+         "speaker": 1, 
+         "confidence": 0.345, 
+         "final": false
+      }, 
+      {
+         "from": 3.26, 
+         "to": 3.64, 
+         "speaker": 1, 
+         "confidence": 0.345, 
+         "final": false
+      }, 
+      {
+         "from": 3.64, 
+         "to": 4.2, 
+         "speaker": 1, 
+         "confidence": 0.345, 
+         "final": false
+      }, 
+      {
+         "from": 4.85, 
+         "to": 5.02, 
+         "speaker": 2, 
+         "confidence": 0.373, 
+         "final": false
+      }, 
+      {
+         "from": 5.02, 
+         "to": 5.21, 
+         "speaker": 2, 
+         "confidence": 0.373, 
+         "final": false
+      }, 
+      {
+         "from": 5.21, 
+         "to": 5.67, 
+         "speaker": 2, 
+         "confidence": 0.373, 
+         "final": false
+      }, 
+      {
+         "from": 5.67, 
+         "to": 5.84, 
+         "speaker": 2, 
+         "confidence": 0.373, 
+         "final": false
+      }, 
+      {
+         "from": 5.84, 
+         "to": 6.21, 
+         "speaker": 2, 
+         "confidence": 0.373, 
+         "final": false
+      }, 
+      {
+         "from": 6.21, 
+         "to": 6.34, 
+         "speaker": 2, 
+         "confidence": 0.373, 
+         "final": false
+      }, 
+      {
+         "from": 6.34, 
+         "to": 6.48, 
+         "speaker": 2, 
+         "confidence": 0.373, 
+         "final": false
+      }, 
+      {
+         "from": 6.98, 
+         "to": 7.21, 
+         "speaker": 2, 
+         "confidence": 0.298, 
+         "final": false
+      }, 
+      {
+         "from": 7.21, 
+         "to": 7.43, 
+         "speaker": 2, 
+         "confidence": 0.298, 
+         "final": false
+      }, 
+      {
+         "from": 7.43, 
+         "to": 7.87, 
+         "speaker": 2, 
+         "confidence": 0.298, 
+         "final": false
+      }, 
+      {
+         "from": 7.87, 
+         "to": 8.06, 
+         "speaker": 2, 
+         "confidence": 0.298, 
+         "final": false
+      }, 
+      {
+         "from": 8.06, 
+         "to": 8.18, 
+         "speaker": 2, 
+         "confidence": 0.298, 
+         "final": false
+      }, 
+      {
+         "from": 8.18, 
+         "to": 8.39, 
+         "speaker": 2, 
+         "confidence": 0.298, 
+         "final": false
+      }, 
+      {
+         "from": 8.39, 
+         "to": 8.64, 
+         "speaker": 2, 
+         "confidence": 0.298, 
+         "final": false
+      }, 
+      {
+         "from": 8.64, 
+         "to": 8.87, 
+         "speaker": 2, 
+         "confidence": 0.298, 
+         "final": false
+      }, 
+      {
+         "from": 8.87, 
+         "to": 8.97, 
+         "speaker": 2, 
+         "confidence": 0.298, 
+         "final": false
+      }, 
+      {
+         "from": 8.97, 
+         "to": 9.62, 
+         "speaker": 2, 
+         "confidence": 0.298, 
+         "final": false
+      }, 
+      {
+         "from": 9.94, 
+         "to": 10.14, 
+         "speaker": 3, 
+         "confidence": 0.393, 
+         "final": false
+      }, 
+      {
+         "from": 10.14, 
+         "to": 10.31, 
+         "speaker": 3, 
+         "confidence": 0.393, 
+         "final": false
+      }, 
+      {
+         "from": 10.31, 
+         "to": 10.48, 
+         "speaker": 3, 
+         "confidence": 0.393, 
+         "final": true
+      }
+   ]
+}

@@ -1,0 +1,389 @@
+{
+   "results": [
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "and", 
+                     0.14, 
+                     0.35
+                  ], 
+                  [
+                     "blotted", 
+                     0.35, 
+                     0.74
+                  ], 
+                  [
+                     "out", 
+                     0.74, 
+                     0.96
+                  ], 
+                  [
+                     "the", 
+                     0.96, 
+                     1.04
+                  ], 
+                  [
+                     "view", 
+                     1.04, 
+                     1.54
+                  ]
+               ], 
+               "confidence": 0.719, 
+               "transcript": "and blotted out the view "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "%HESITATION", 
+                     2.71, 
+                     2.83
+                  ], 
+                  [
+                     "now", 
+                     2.83, 
+                     3.16
+                  ], 
+                  [
+                     "that", 
+                     3.16, 
+                     3.34
+                  ], 
+                  [
+                     "we", 
+                     3.34, 
+                     3.46
+                  ], 
+                  [
+                     "had", 
+                     3.46, 
+                     3.65
+                  ], 
+                  [
+                     "to", 
+                     3.65, 
+                     3.73
+                  ], 
+                  [
+                     "be", 
+                     3.73, 
+                     3.87
+                  ], 
+                  [
+                     "prepared", 
+                     3.87, 
+                     4.39
+                  ], 
+                  [
+                     "for", 
+                     4.39, 
+                     4.54
+                  ], 
+                  [
+                     "surprises", 
+                     4.54, 
+                     5.38
+                  ], 
+                  [
+                     "always", 
+                     5.55, 
+                     5.99
+                  ], 
+                  [
+                     "repeating", 
+                     5.99, 
+                     6.54
+                  ], 
+                  [
+                     "that", 
+                     6.54, 
+                     6.7
+                  ], 
+                  [
+                     "I", 
+                     6.7, 
+                     6.8
+                  ], 
+                  [
+                     "was", 
+                     6.8, 
+                     6.99
+                  ], 
+                  [
+                     "quite", 
+                     6.99, 
+                     7.37
+                  ], 
+                  [
+                     "well", 
+                     7.37, 
+                     7.82
+                  ], 
+                  [
+                     "and", 
+                     7.98, 
+                     8.21
+                  ], 
+                  [
+                     "that", 
+                     8.21, 
+                     8.33
+                  ], 
+                  [
+                     "I", 
+                     8.33, 
+                     8.42
+                  ], 
+                  [
+                     "was", 
+                     8.42, 
+                     8.61
+                  ], 
+                  [
+                     "not", 
+                     8.61, 
+                     8.85
+                  ], 
+                  [
+                     "in", 
+                     8.85, 
+                     8.98
+                  ], 
+                  [
+                     "need", 
+                     8.98, 
+                     9.25
+                  ], 
+                  [
+                     "of", 
+                     9.25, 
+                     9.36
+                  ]
+               ], 
+               "confidence": 0.949, 
+               "transcript": "%HESITATION now that we had to be prepared for surprises always repeating that I was quite well and that I was not in need of "
+            }
+         ], 
+         "final": true
+      }
+   ], 
+   "result_index": 0, 
+   "speaker_labels": [
+      {
+         "from": 0.14, 
+         "to": 0.35, 
+         "speaker": 0, 
+         "confidence": 0.5, 
+         "final": false
+      }, 
+      {
+         "from": 0.35, 
+         "to": 0.74, 
+         "speaker": 0, 
+         "confidence": 0.5, 
+         "final": false
+      }, 
+      {
+         "from": 0.74, 
+         "to": 0.96, 
+         "speaker": 0, 
+         "confidence": 0.5, 
+         "final": false
+      }, 
+      {
+         "from": 0.96, 
+         "to": 1.04, 
+         "speaker": 0, 
+         "confidence": 0.5, 
+         "final": false
+      }, 
+      {
+         "from": 1.04, 
+         "to": 1.54, 
+         "speaker": 0, 
+         "confidence": 0.5, 
+         "final": false
+      }, 
+      {
+         "from": 2.71, 
+         "to": 2.83, 
+         "speaker": 0, 
+         "confidence": 0.615, 
+         "final": false
+      }, 
+      {
+         "from": 2.83, 
+         "to": 3.16, 
+         "speaker": 0, 
+         "confidence": 0.615, 
+         "final": false
+      }, 
+      {
+         "from": 3.16, 
+         "to": 3.34, 
+         "speaker": 0, 
+         "confidence": 0.615, 
+         "final": false
+      }, 
+      {
+         "from": 3.34, 
+         "to": 3.46, 
+         "speaker": 0, 
+         "confidence": 0.615, 
+         "final": false
+      }, 
+      {
+         "from": 3.46, 
+         "to": 3.65, 
+         "speaker": 0, 
+         "confidence": 0.615, 
+         "final": false
+      }, 
+      {
+         "from": 3.65, 
+         "to": 3.73, 
+         "speaker": 0, 
+         "confidence": 0.615, 
+         "final": false
+      }, 
+      {
+         "from": 3.73, 
+         "to": 3.87, 
+         "speaker": 0, 
+         "confidence": 0.615, 
+         "final": false
+      }, 
+      {
+         "from": 3.87, 
+         "to": 4.39, 
+         "speaker": 0, 
+         "confidence": 0.615, 
+         "final": false
+      }, 
+      {
+         "from": 4.39, 
+         "to": 4.54, 
+         "speaker": 0, 
+         "confidence": 0.615, 
+         "final": false
+      }, 
+      {
+         "from": 4.54, 
+         "to": 5.38, 
+         "speaker": 0, 
+         "confidence": 0.615, 
+         "final": false
+      }, 
+      {
+         "from": 5.55, 
+         "to": 5.99, 
+         "speaker": 1, 
+         "confidence": 0.581, 
+         "final": false
+      }, 
+      {
+         "from": 5.99, 
+         "to": 6.54, 
+         "speaker": 1, 
+         "confidence": 0.581, 
+         "final": false
+      }, 
+      {
+         "from": 6.54, 
+         "to": 6.7, 
+         "speaker": 1, 
+         "confidence": 0.581, 
+         "final": false
+      }, 
+      {
+         "from": 6.7, 
+         "to": 6.8, 
+         "speaker": 1, 
+         "confidence": 0.581, 
+         "final": false
+      }, 
+      {
+         "from": 6.8, 
+         "to": 6.99, 
+         "speaker": 1, 
+         "confidence": 0.581, 
+         "final": false
+      }, 
+      {
+         "from": 6.99, 
+         "to": 7.37, 
+         "speaker": 1, 
+         "confidence": 0.581, 
+         "final": false
+      }, 
+      {
+         "from": 7.37, 
+         "to": 7.82, 
+         "speaker": 1, 
+         "confidence": 0.581, 
+         "final": false
+      }, 
+      {
+         "from": 7.98, 
+         "to": 8.21, 
+         "speaker": 1, 
+         "confidence": 0.577, 
+         "final": false
+      }, 
+      {
+         "from": 8.21, 
+         "to": 8.33, 
+         "speaker": 1, 
+         "confidence": 0.577, 
+         "final": false
+      }, 
+      {
+         "from": 8.33, 
+         "to": 8.42, 
+         "speaker": 1, 
+         "confidence": 0.577, 
+         "final": false
+      }, 
+      {
+         "from": 8.42, 
+         "to": 8.61, 
+         "speaker": 1, 
+         "confidence": 0.577, 
+         "final": false
+      }, 
+      {
+         "from": 8.61, 
+         "to": 8.85, 
+         "speaker": 1, 
+         "confidence": 0.577, 
+         "final": false
+      }, 
+      {
+         "from": 8.85, 
+         "to": 8.98, 
+         "speaker": 1, 
+         "confidence": 0.577, 
+         "final": false
+      }, 
+      {
+         "from": 8.98, 
+         "to": 9.25, 
+         "speaker": 1, 
+         "confidence": 0.577, 
+         "final": false
+      }, 
+      {
+         "from": 9.25, 
+         "to": 9.36, 
+         "speaker": 1, 
+         "confidence": 0.577, 
+         "final": true
+      }
+   ]
+}

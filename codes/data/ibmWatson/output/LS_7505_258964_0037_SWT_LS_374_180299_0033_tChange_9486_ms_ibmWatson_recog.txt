@@ -1,0 +1,390 @@
+{
+   "results": [
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "such", 
+                     0.32, 
+                     0.63
+                  ], 
+                  [
+                     "prosperous", 
+                     0.63, 
+                     1.39
+                  ], 
+                  [
+                     "periods", 
+                     1.39, 
+                     2.12
+                  ], 
+                  [
+                     "or", 
+                     2.16, 
+                     2.36
+                  ], 
+                  [
+                     "the", 
+                     2.36, 
+                     2.58
+                  ], 
+                  [
+                     "opportunity", 
+                     2.63, 
+                     3.63
+                  ], 
+                  [
+                     "of", 
+                     3.66, 
+                     3.81
+                  ], 
+                  [
+                     "the", 
+                     3.81, 
+                     3.93
+                  ], 
+                  [
+                     "businessman", 
+                     3.93, 
+                     4.94
+                  ], 
+                  [
+                     "and", 
+                     5.2, 
+                     5.4
+                  ], 
+                  [
+                     "of", 
+                     5.4, 
+                     5.51
+                  ], 
+                  [
+                     "the", 
+                     5.51, 
+                     5.62
+                  ], 
+                  [
+                     "promoter", 
+                     5.62, 
+                     6.34
+                  ], 
+                  [
+                     "to", 
+                     6.57, 
+                     6.75
+                  ], 
+                  [
+                     "sell", 
+                     6.75, 
+                     7.31
+                  ], 
+                  [
+                     "the", 
+                     7.31, 
+                     7.47
+                  ], 
+                  [
+                     "factory", 
+                     7.47, 
+                     8.04
+                  ], 
+                  [
+                     "at", 
+                     8.04, 
+                     8.21
+                  ], 
+                  [
+                     "its", 
+                     8.21, 
+                     8.37
+                  ], 
+                  [
+                     "highest", 
+                     8.37, 
+                     9.15
+                  ], 
+                  [
+                     "said", 
+                     9.34, 
+                     9.71
+                  ], 
+                  [
+                     "she", 
+                     9.71, 
+                     10.13
+                  ], 
+                  [
+                     "turning", 
+                     10.27, 
+                     10.65
+                  ], 
+                  [
+                     "to", 
+                     10.65, 
+                     10.77
+                  ], 
+                  [
+                     "prudence", 
+                     10.77, 
+                     11.47
+                  ], 
+                  [
+                     "and", 
+                     11.62, 
+                     11.82
+                  ], 
+                  [
+                     "speaking", 
+                     11.82, 
+                     12.26
+                  ], 
+                  [
+                     "in", 
+                     12.26, 
+                     12.39
+                  ], 
+                  [
+                     "a", 
+                     12.39, 
+                     12.45
+                  ], 
+                  [
+                     "broken", 
+                     12.45, 
+                     12.84
+                  ], 
+                  [
+                     "voice", 
+                     12.84, 
+                     13.17
+                  ]
+               ], 
+               "confidence": 0.944, 
+               "transcript": "such prosperous periods or the opportunity of the businessman and of the promoter to sell the factory at its highest said she turning to prudence and speaking in a broken voice "
+            }
+         ], 
+         "final": true
+      }
+   ], 
+   "result_index": 0, 
+   "speaker_labels": [
+      {
+         "from": 0.32, 
+         "to": 0.63, 
+         "speaker": 0, 
+         "confidence": 0.46, 
+         "final": false
+      }, 
+      {
+         "from": 0.63, 
+         "to": 1.39, 
+         "speaker": 0, 
+         "confidence": 0.46, 
+         "final": false
+      }, 
+      {
+         "from": 1.39, 
+         "to": 2.12, 
+         "speaker": 0, 
+         "confidence": 0.46, 
+         "final": false
+      }, 
+      {
+         "from": 2.16, 
+         "to": 2.36, 
+         "speaker": 1, 
+         "confidence": 0.348, 
+         "final": false
+      }, 
+      {
+         "from": 2.36, 
+         "to": 2.58, 
+         "speaker": 1, 
+         "confidence": 0.348, 
+         "final": false
+      }, 
+      {
+         "from": 2.63, 
+         "to": 3.63, 
+         "speaker": 0, 
+         "confidence": 0.398, 
+         "final": false
+      }, 
+      {
+         "from": 3.66, 
+         "to": 3.81, 
+         "speaker": 1, 
+         "confidence": 0.387, 
+         "final": false
+      }, 
+      {
+         "from": 3.81, 
+         "to": 3.93, 
+         "speaker": 1, 
+         "confidence": 0.387, 
+         "final": false
+      }, 
+      {
+         "from": 3.93, 
+         "to": 4.94, 
+         "speaker": 1, 
+         "confidence": 0.387, 
+         "final": false
+      }, 
+      {
+         "from": 5.2, 
+         "to": 5.4, 
+         "speaker": 1, 
+         "confidence": 0.444, 
+         "final": false
+      }, 
+      {
+         "from": 5.4, 
+         "to": 5.51, 
+         "speaker": 1, 
+         "confidence": 0.444, 
+         "final": false
+      }, 
+      {
+         "from": 5.51, 
+         "to": 5.62, 
+         "speaker": 1, 
+         "confidence": 0.444, 
+         "final": false
+      }, 
+      {
+         "from": 5.62, 
+         "to": 6.34, 
+         "speaker": 1, 
+         "confidence": 0.444, 
+         "final": false
+      }, 
+      {
+         "from": 6.57, 
+         "to": 6.75, 
+         "speaker": 0, 
+         "confidence": 0.411, 
+         "final": false
+      }, 
+      {
+         "from": 6.75, 
+         "to": 7.31, 
+         "speaker": 0, 
+         "confidence": 0.411, 
+         "final": false
+      }, 
+      {
+         "from": 7.31, 
+         "to": 7.47, 
+         "speaker": 0, 
+         "confidence": 0.411, 
+         "final": false
+      }, 
+      {
+         "from": 7.47, 
+         "to": 8.04, 
+         "speaker": 0, 
+         "confidence": 0.411, 
+         "final": false
+      }, 
+      {
+         "from": 8.04, 
+         "to": 8.21, 
+         "speaker": 0, 
+         "confidence": 0.411, 
+         "final": false
+      }, 
+      {
+         "from": 8.21, 
+         "to": 8.37, 
+         "speaker": 0, 
+         "confidence": 0.411, 
+         "final": false
+      }, 
+      {
+         "from": 8.37, 
+         "to": 9.15, 
+         "speaker": 0, 
+         "confidence": 0.411, 
+         "final": false
+      }, 
+      {
+         "from": 9.34, 
+         "to": 9.71, 
+         "speaker": 2, 
+         "confidence": 0.451, 
+         "final": false
+      }, 
+      {
+         "from": 9.71, 
+         "to": 10.13, 
+         "speaker": 2, 
+         "confidence": 0.451, 
+         "final": false
+      }, 
+      {
+         "from": 10.27, 
+         "to": 10.65, 
+         "speaker": 2, 
+         "confidence": 0.471, 
+         "final": false
+      }, 
+      {
+         "from": 10.65, 
+         "to": 10.77, 
+         "speaker": 2, 
+         "confidence": 0.471, 
+         "final": false
+      }, 
+      {
+         "from": 10.77, 
+         "to": 11.47, 
+         "speaker": 2, 
+         "confidence": 0.471, 
+         "final": false
+      }, 
+      {
+         "from": 11.62, 
+         "to": 11.82, 
+         "speaker": 2, 
+         "confidence": 0.492, 
+         "final": false
+      }, 
+      {
+         "from": 11.82, 
+         "to": 12.26, 
+         "speaker": 2, 
+         "confidence": 0.492, 
+         "final": false
+      }, 
+      {
+         "from": 12.26, 
+         "to": 12.39, 
+         "speaker": 2, 
+         "confidence": 0.492, 
+         "final": false
+      }, 
+      {
+         "from": 12.39, 
+         "to": 12.45, 
+         "speaker": 2, 
+         "confidence": 0.492, 
+         "final": false
+      }, 
+      {
+         "from": 12.45, 
+         "to": 12.84, 
+         "speaker": 2, 
+         "confidence": 0.492, 
+         "final": false
+      }, 
+      {
+         "from": 12.84, 
+         "to": 13.17, 
+         "speaker": 2, 
+         "confidence": 0.492, 
+         "final": true
+      }
+   ]
+}

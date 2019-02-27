@@ -1,0 +1,350 @@
+{
+   "results": [
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "they", 
+                     0.27, 
+                     0.4
+                  ], 
+                  [
+                     "wanted", 
+                     0.4, 
+                     0.71
+                  ], 
+                  [
+                     "to", 
+                     0.71, 
+                     0.81
+                  ], 
+                  [
+                     "learn", 
+                     0.81, 
+                     1.04
+                  ], 
+                  [
+                     "the", 
+                     1.04, 
+                     1.14
+                  ], 
+                  [
+                     "game", 
+                     1.14, 
+                     1.6
+                  ]
+               ], 
+               "confidence": 0.998, 
+               "transcript": "they wanted to learn the game "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "a", 
+                     2.45, 
+                     2.53
+                  ], 
+                  [
+                     "two", 
+                     2.53, 
+                     2.75
+                  ], 
+                  [
+                     "o'clock", 
+                     2.75, 
+                     3.22
+                  ], 
+                  [
+                     "the", 
+                     3.35, 
+                     3.49
+                  ], 
+                  [
+                     "captain", 
+                     3.49, 
+                     3.87
+                  ], 
+                  [
+                     "estimate", 
+                     3.87, 
+                     4.53
+                  ], 
+                  [
+                     "how", 
+                     4.56, 
+                     4.69
+                  ], 
+                  [
+                     "we", 
+                     4.69, 
+                     4.86
+                  ], 
+                  [
+                     "were", 
+                     4.86, 
+                     5.03
+                  ], 
+                  [
+                     "agree", 
+                     5.16, 
+                     5.51
+                  ]
+               ], 
+               "confidence": 0.711, 
+               "transcript": "a two o'clock the captain estimate how we were agree "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "%HESITATION", 
+                     5.71, 
+                     5.84
+                  ], 
+                  [
+                     "to", 
+                     5.84, 
+                     5.97
+                  ], 
+                  [
+                     "him", 
+                     5.97, 
+                     6.22
+                  ]
+               ], 
+               "confidence": 0.207, 
+               "transcript": "%HESITATION to him "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "to", 
+                     6.35, 
+                     6.52
+                  ], 
+                  [
+                     "gratify", 
+                     6.52, 
+                     7.22
+                  ], 
+                  [
+                     "the", 
+                     7.22, 
+                     7.35
+                  ], 
+                  [
+                     "home", 
+                     7.35, 
+                     7.6
+                  ]
+               ], 
+               "confidence": 0.873, 
+               "transcript": "to gratify the home "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "his", 
+                     8.58, 
+                     8.9
+                  ]
+               ], 
+               "confidence": 0.422, 
+               "transcript": "his "
+            }
+         ], 
+         "final": true
+      }
+   ], 
+   "result_index": 0, 
+   "speaker_labels": [
+      {
+         "from": 0.27, 
+         "to": 0.4, 
+         "speaker": 0, 
+         "confidence": 0.5, 
+         "final": false
+      }, 
+      {
+         "from": 0.4, 
+         "to": 0.71, 
+         "speaker": 0, 
+         "confidence": 0.5, 
+         "final": false
+      }, 
+      {
+         "from": 0.71, 
+         "to": 0.81, 
+         "speaker": 0, 
+         "confidence": 0.5, 
+         "final": false
+      }, 
+      {
+         "from": 0.81, 
+         "to": 1.04, 
+         "speaker": 0, 
+         "confidence": 0.5, 
+         "final": false
+      }, 
+      {
+         "from": 1.04, 
+         "to": 1.14, 
+         "speaker": 0, 
+         "confidence": 0.5, 
+         "final": false
+      }, 
+      {
+         "from": 1.14, 
+         "to": 1.6, 
+         "speaker": 0, 
+         "confidence": 0.5, 
+         "final": false
+      }, 
+      {
+         "from": 2.45, 
+         "to": 2.53, 
+         "speaker": 0, 
+         "confidence": 0.575, 
+         "final": false
+      }, 
+      {
+         "from": 2.53, 
+         "to": 2.75, 
+         "speaker": 0, 
+         "confidence": 0.575, 
+         "final": false
+      }, 
+      {
+         "from": 2.75, 
+         "to": 3.22, 
+         "speaker": 0, 
+         "confidence": 0.575, 
+         "final": false
+      }, 
+      {
+         "from": 3.35, 
+         "to": 3.49, 
+         "speaker": 0, 
+         "confidence": 0.455, 
+         "final": false
+      }, 
+      {
+         "from": 3.49, 
+         "to": 3.87, 
+         "speaker": 0, 
+         "confidence": 0.455, 
+         "final": false
+      }, 
+      {
+         "from": 3.87, 
+         "to": 4.53, 
+         "speaker": 0, 
+         "confidence": 0.455, 
+         "final": false
+      }, 
+      {
+         "from": 4.56, 
+         "to": 4.69, 
+         "speaker": 0, 
+         "confidence": 0.472, 
+         "final": false
+      }, 
+      {
+         "from": 4.69, 
+         "to": 4.86, 
+         "speaker": 0, 
+         "confidence": 0.472, 
+         "final": false
+      }, 
+      {
+         "from": 4.86, 
+         "to": 5.03, 
+         "speaker": 0, 
+         "confidence": 0.472, 
+         "final": false
+      }, 
+      {
+         "from": 5.16, 
+         "to": 5.51, 
+         "speaker": 2, 
+         "confidence": 0.479, 
+         "final": false
+      }, 
+      {
+         "from": 5.71, 
+         "to": 5.84, 
+         "speaker": 2, 
+         "confidence": 0.495, 
+         "final": false
+      }, 
+      {
+         "from": 5.84, 
+         "to": 5.97, 
+         "speaker": 2, 
+         "confidence": 0.495, 
+         "final": false
+      }, 
+      {
+         "from": 5.97, 
+         "to": 6.22, 
+         "speaker": 2, 
+         "confidence": 0.495, 
+         "final": false
+      }, 
+      {
+         "from": 6.35, 
+         "to": 6.52, 
+         "speaker": 2, 
+         "confidence": 0.493, 
+         "final": false
+      }, 
+      {
+         "from": 6.52, 
+         "to": 7.22, 
+         "speaker": 2, 
+         "confidence": 0.493, 
+         "final": false
+      }, 
+      {
+         "from": 7.22, 
+         "to": 7.35, 
+         "speaker": 2, 
+         "confidence": 0.493, 
+         "final": false
+      }, 
+      {
+         "from": 7.35, 
+         "to": 7.6, 
+         "speaker": 2, 
+         "confidence": 0.493, 
+         "final": false
+      }, 
+      {
+         "from": 8.58, 
+         "to": 8.9, 
+         "speaker": 2, 
+         "confidence": 0.575, 
+         "final": true
+      }
+   ]
+}

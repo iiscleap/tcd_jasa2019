@@ -1,0 +1,265 @@
+{
+   "results": [
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "and", 
+                     0.2, 
+                     0.41
+                  ], 
+                  [
+                     "it", 
+                     0.41, 
+                     0.53
+                  ], 
+                  [
+                     "all", 
+                     0.56, 
+                     0.87
+                  ]
+               ], 
+               "confidence": 0.868, 
+               "transcript": "and it all "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "the", 
+                     0.98, 
+                     1.1
+                  ], 
+                  [
+                     "exquisite", 
+                     1.1, 
+                     1.68
+                  ]
+               ], 
+               "confidence": 1.0, 
+               "transcript": "the exquisite "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "the", 
+                     5.17, 
+                     5.28
+                  ], 
+                  [
+                     "most", 
+                     5.28, 
+                     5.69
+                  ], 
+                  [
+                     "on", 
+                     5.8, 
+                     5.96
+                  ], 
+                  [
+                     "a", 
+                     5.96, 
+                     6.02
+                  ], 
+                  [
+                     "custom", 
+                     6.02, 
+                     6.51
+                  ]
+               ], 
+               "confidence": 0.923, 
+               "transcript": "the most on a custom "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "and", 
+                     6.58, 
+                     6.82
+                  ], 
+                  [
+                     "of", 
+                     6.93, 
+                     7.14
+                  ], 
+                  [
+                     "his", 
+                     7.14, 
+                     7.31
+                  ]
+               ], 
+               "confidence": 0.914, 
+               "transcript": "and of his "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "complicate", 
+                     7.49, 
+                     7.97
+                  ]
+               ], 
+               "confidence": 1.0, 
+               "transcript": "complicate "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "matic", 
+                     8.3, 
+                     8.61
+                  ], 
+                  [
+                     "my", 
+                     8.61, 
+                     8.83
+                  ]
+               ], 
+               "confidence": 0.455, 
+               "transcript": "matic my "
+            }
+         ], 
+         "final": true
+      }
+   ], 
+   "result_index": 0, 
+   "speaker_labels": [
+      {
+         "from": 0.2, 
+         "to": 0.41, 
+         "speaker": 0, 
+         "confidence": 0.667, 
+         "final": false
+      }, 
+      {
+         "from": 0.41, 
+         "to": 0.53, 
+         "speaker": 0, 
+         "confidence": 0.667, 
+         "final": false
+      }, 
+      {
+         "from": 0.56, 
+         "to": 0.87, 
+         "speaker": 0, 
+         "confidence": 0.616, 
+         "final": false
+      }, 
+      {
+         "from": 0.98, 
+         "to": 1.1, 
+         "speaker": 2, 
+         "confidence": 0.516, 
+         "final": false
+      }, 
+      {
+         "from": 1.1, 
+         "to": 1.68, 
+         "speaker": 2, 
+         "confidence": 0.516, 
+         "final": false
+      }, 
+      {
+         "from": 5.17, 
+         "to": 5.28, 
+         "speaker": 2, 
+         "confidence": 0.587, 
+         "final": false
+      }, 
+      {
+         "from": 5.28, 
+         "to": 5.69, 
+         "speaker": 2, 
+         "confidence": 0.587, 
+         "final": false
+      }, 
+      {
+         "from": 5.8, 
+         "to": 5.96, 
+         "speaker": 2, 
+         "confidence": 0.516, 
+         "final": false
+      }, 
+      {
+         "from": 5.96, 
+         "to": 6.02, 
+         "speaker": 2, 
+         "confidence": 0.516, 
+         "final": false
+      }, 
+      {
+         "from": 6.02, 
+         "to": 6.51, 
+         "speaker": 2, 
+         "confidence": 0.516, 
+         "final": false
+      }, 
+      {
+         "from": 6.58, 
+         "to": 6.82, 
+         "speaker": 2, 
+         "confidence": 0.356, 
+         "final": false
+      }, 
+      {
+         "from": 6.93, 
+         "to": 7.14, 
+         "speaker": 2, 
+         "confidence": 0.358, 
+         "final": false
+      }, 
+      {
+         "from": 7.14, 
+         "to": 7.31, 
+         "speaker": 2, 
+         "confidence": 0.358, 
+         "final": false
+      }, 
+      {
+         "from": 7.49, 
+         "to": 7.97, 
+         "speaker": 1, 
+         "confidence": 0.445, 
+         "final": false
+      }, 
+      {
+         "from": 8.3, 
+         "to": 8.61, 
+         "speaker": 1, 
+         "confidence": 0.442, 
+         "final": false
+      }, 
+      {
+         "from": 8.61, 
+         "to": 8.83, 
+         "speaker": 1, 
+         "confidence": 0.442, 
+         "final": true
+      }
+   ]
+}

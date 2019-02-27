@@ -1,0 +1,318 @@
+{
+   "results": [
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "the", 
+                     0.27, 
+                     0.38
+                  ], 
+                  [
+                     "rapid", 
+                     0.38, 
+                     0.82
+                  ], 
+                  [
+                     "pace", 
+                     0.82, 
+                     1.13
+                  ], 
+                  [
+                     "afterwards", 
+                     1.13, 
+                     1.98
+                  ], 
+                  [
+                     "had", 
+                     2.35, 
+                     2.56
+                  ], 
+                  [
+                     "made", 
+                     2.56, 
+                     2.76
+                  ], 
+                  [
+                     "it", 
+                     2.76, 
+                     2.86
+                  ], 
+                  [
+                     "impossible", 
+                     2.86, 
+                     3.59
+                  ], 
+                  [
+                     "to", 
+                     3.59, 
+                     3.76
+                  ], 
+                  [
+                     "walk", 
+                     3.76, 
+                     4.23
+                  ], 
+                  [
+                     "as", 
+                     4.23, 
+                     4.42
+                  ], 
+                  [
+                     "fast", 
+                     4.42, 
+                     4.87
+                  ], 
+                  [
+                     "the", 
+                     4.87, 
+                     4.96
+                  ], 
+                  [
+                     "dogs", 
+                     4.96, 
+                     5.38
+                  ], 
+                  [
+                     "could", 
+                     5.38, 
+                     5.58
+                  ], 
+                  [
+                     "avoid", 
+                     5.92, 
+                     6.33
+                  ], 
+                  [
+                     "from", 
+                     6.33, 
+                     6.49
+                  ], 
+                  [
+                     "New", 
+                     6.49, 
+                     6.63
+                  ], 
+                  [
+                     "Orleans", 
+                     6.63, 
+                     7.0
+                  ], 
+                  [
+                     "to", 
+                     7.0, 
+                     7.1
+                  ], 
+                  [
+                     "Vicksburg", 
+                     7.1, 
+                     7.66
+                  ], 
+                  [
+                     "in", 
+                     7.66, 
+                     7.75
+                  ], 
+                  [
+                     "back", 
+                     7.75, 
+                     8.2
+                  ], 
+                  [
+                     "including", 
+                     8.5, 
+                     9.02
+                  ], 
+                  [
+                     "stoppages", 
+                     9.02, 
+                     9.62
+                  ]
+               ], 
+               "confidence": 0.972, 
+               "transcript": "the rapid pace afterwards had made it impossible to walk as fast the dogs could avoid from New Orleans to Vicksburg in back including stoppages "
+            }
+         ], 
+         "final": true
+      }
+   ], 
+   "result_index": 0, 
+   "speaker_labels": [
+      {
+         "from": 0.27, 
+         "to": 0.38, 
+         "speaker": 0, 
+         "confidence": 0.605, 
+         "final": false
+      }, 
+      {
+         "from": 0.38, 
+         "to": 0.82, 
+         "speaker": 0, 
+         "confidence": 0.605, 
+         "final": false
+      }, 
+      {
+         "from": 0.82, 
+         "to": 1.13, 
+         "speaker": 0, 
+         "confidence": 0.605, 
+         "final": false
+      }, 
+      {
+         "from": 1.13, 
+         "to": 1.98, 
+         "speaker": 0, 
+         "confidence": 0.605, 
+         "final": false
+      }, 
+      {
+         "from": 2.35, 
+         "to": 2.56, 
+         "speaker": 0, 
+         "confidence": 0.603, 
+         "final": false
+      }, 
+      {
+         "from": 2.56, 
+         "to": 2.76, 
+         "speaker": 0, 
+         "confidence": 0.603, 
+         "final": false
+      }, 
+      {
+         "from": 2.76, 
+         "to": 2.86, 
+         "speaker": 0, 
+         "confidence": 0.603, 
+         "final": false
+      }, 
+      {
+         "from": 2.86, 
+         "to": 3.59, 
+         "speaker": 0, 
+         "confidence": 0.603, 
+         "final": false
+      }, 
+      {
+         "from": 3.59, 
+         "to": 3.76, 
+         "speaker": 0, 
+         "confidence": 0.603, 
+         "final": false
+      }, 
+      {
+         "from": 3.76, 
+         "to": 4.23, 
+         "speaker": 0, 
+         "confidence": 0.603, 
+         "final": false
+      }, 
+      {
+         "from": 4.23, 
+         "to": 4.42, 
+         "speaker": 0, 
+         "confidence": 0.603, 
+         "final": false
+      }, 
+      {
+         "from": 4.42, 
+         "to": 4.87, 
+         "speaker": 0, 
+         "confidence": 0.603, 
+         "final": false
+      }, 
+      {
+         "from": 4.87, 
+         "to": 4.96, 
+         "speaker": 0, 
+         "confidence": 0.603, 
+         "final": false
+      }, 
+      {
+         "from": 4.96, 
+         "to": 5.38, 
+         "speaker": 0, 
+         "confidence": 0.603, 
+         "final": false
+      }, 
+      {
+         "from": 5.38, 
+         "to": 5.58, 
+         "speaker": 0, 
+         "confidence": 0.603, 
+         "final": false
+      }, 
+      {
+         "from": 5.92, 
+         "to": 6.33, 
+         "speaker": 1, 
+         "confidence": 0.557, 
+         "final": false
+      }, 
+      {
+         "from": 6.33, 
+         "to": 6.49, 
+         "speaker": 1, 
+         "confidence": 0.557, 
+         "final": false
+      }, 
+      {
+         "from": 6.49, 
+         "to": 6.63, 
+         "speaker": 1, 
+         "confidence": 0.557, 
+         "final": false
+      }, 
+      {
+         "from": 6.63, 
+         "to": 7.0, 
+         "speaker": 1, 
+         "confidence": 0.557, 
+         "final": false
+      }, 
+      {
+         "from": 7.0, 
+         "to": 7.1, 
+         "speaker": 1, 
+         "confidence": 0.557, 
+         "final": false
+      }, 
+      {
+         "from": 7.1, 
+         "to": 7.66, 
+         "speaker": 1, 
+         "confidence": 0.557, 
+         "final": false
+      }, 
+      {
+         "from": 7.66, 
+         "to": 7.75, 
+         "speaker": 1, 
+         "confidence": 0.557, 
+         "final": false
+      }, 
+      {
+         "from": 7.75, 
+         "to": 8.2, 
+         "speaker": 1, 
+         "confidence": 0.557, 
+         "final": false
+      }, 
+      {
+         "from": 8.5, 
+         "to": 9.02, 
+         "speaker": 1, 
+         "confidence": 0.592, 
+         "final": false
+      }, 
+      {
+         "from": 9.02, 
+         "to": 9.62, 
+         "speaker": 1, 
+         "confidence": 0.592, 
+         "final": true
+      }
+   ]
+}

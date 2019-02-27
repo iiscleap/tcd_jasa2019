@@ -1,0 +1,400 @@
+{
+   "results": [
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "the", 
+                     0.35, 
+                     0.43
+                  ], 
+                  [
+                     "night", 
+                     0.43, 
+                     0.72
+                  ], 
+                  [
+                     "was", 
+                     0.72, 
+                     0.88
+                  ], 
+                  [
+                     "filled", 
+                     0.88, 
+                     1.26
+                  ], 
+                  [
+                     "with", 
+                     1.26, 
+                     1.43
+                  ], 
+                  [
+                     "sharp", 
+                     1.43, 
+                     1.76
+                  ], 
+                  [
+                     "gusts", 
+                     1.79, 
+                     2.35
+                  ], 
+                  [
+                     "from", 
+                     2.41, 
+                     2.63
+                  ], 
+                  [
+                     "the", 
+                     2.63, 
+                     2.73
+                  ], 
+                  [
+                     "north", 
+                     2.73, 
+                     3.15
+                  ]
+               ], 
+               "confidence": 0.795, 
+               "transcript": "the night was filled with sharp gusts from the north "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "the", 
+                     3.7, 
+                     3.78
+                  ], 
+                  [
+                     "morning", 
+                     3.78, 
+                     4.11
+                  ], 
+                  [
+                     "came", 
+                     4.11, 
+                     4.5
+                  ], 
+                  [
+                     "with", 
+                     4.5, 
+                     4.68
+                  ], 
+                  [
+                     "a", 
+                     4.68, 
+                     4.75
+                  ], 
+                  [
+                     "slack", 
+                     4.75, 
+                     5.2
+                  ], 
+                  [
+                     "wind", 
+                     5.2, 
+                     5.67
+                  ]
+               ], 
+               "confidence": 0.913, 
+               "transcript": "the morning came with a slack wind "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "well", 
+                     6.2, 
+                     6.68
+                  ], 
+                  [
+                     "tell", 
+                     6.71, 
+                     6.98
+                  ], 
+                  [
+                     "the", 
+                     6.98, 
+                     7.11
+                  ], 
+                  [
+                     "Duke", 
+                     7.11, 
+                     7.39
+                  ], 
+                  [
+                     "to", 
+                     7.39, 
+                     7.51
+                  ], 
+                  [
+                     "take", 
+                     7.51, 
+                     7.78
+                  ], 
+                  [
+                     "it", 
+                     7.78, 
+                     7.91
+                  ], 
+                  [
+                     "for", 
+                     7.91, 
+                     8.16
+                  ], 
+                  [
+                     "you", 
+                     8.16, 
+                     8.5
+                  ], 
+                  [
+                     "he", 
+                     8.87, 
+                     9.04
+                  ], 
+                  [
+                     "would", 
+                     9.04, 
+                     9.2
+                  ], 
+                  [
+                     "do", 
+                     9.2, 
+                     9.4
+                  ], 
+                  [
+                     "so", 
+                     9.4, 
+                     9.71
+                  ]
+               ], 
+               "confidence": 0.926, 
+               "transcript": "well tell the Duke to take it for you he would do so "
+            }
+         ], 
+         "final": true
+      }
+   ], 
+   "result_index": 0, 
+   "speaker_labels": [
+      {
+         "from": 0.35, 
+         "to": 0.43, 
+         "speaker": 0, 
+         "confidence": 0.496, 
+         "final": false
+      }, 
+      {
+         "from": 0.43, 
+         "to": 0.72, 
+         "speaker": 0, 
+         "confidence": 0.496, 
+         "final": false
+      }, 
+      {
+         "from": 0.72, 
+         "to": 0.88, 
+         "speaker": 0, 
+         "confidence": 0.496, 
+         "final": false
+      }, 
+      {
+         "from": 0.88, 
+         "to": 1.26, 
+         "speaker": 0, 
+         "confidence": 0.496, 
+         "final": false
+      }, 
+      {
+         "from": 1.26, 
+         "to": 1.43, 
+         "speaker": 0, 
+         "confidence": 0.496, 
+         "final": false
+      }, 
+      {
+         "from": 1.43, 
+         "to": 1.76, 
+         "speaker": 0, 
+         "confidence": 0.496, 
+         "final": false
+      }, 
+      {
+         "from": 1.79, 
+         "to": 2.35, 
+         "speaker": 0, 
+         "confidence": 0.556, 
+         "final": false
+      }, 
+      {
+         "from": 2.41, 
+         "to": 2.63, 
+         "speaker": 0, 
+         "confidence": 0.529, 
+         "final": false
+      }, 
+      {
+         "from": 2.63, 
+         "to": 2.73, 
+         "speaker": 0, 
+         "confidence": 0.529, 
+         "final": false
+      }, 
+      {
+         "from": 2.73, 
+         "to": 3.15, 
+         "speaker": 0, 
+         "confidence": 0.529, 
+         "final": false
+      }, 
+      {
+         "from": 3.7, 
+         "to": 3.78, 
+         "speaker": 0, 
+         "confidence": 0.446, 
+         "final": false
+      }, 
+      {
+         "from": 3.78, 
+         "to": 4.11, 
+         "speaker": 0, 
+         "confidence": 0.446, 
+         "final": false
+      }, 
+      {
+         "from": 4.11, 
+         "to": 4.5, 
+         "speaker": 0, 
+         "confidence": 0.446, 
+         "final": false
+      }, 
+      {
+         "from": 4.5, 
+         "to": 4.68, 
+         "speaker": 0, 
+         "confidence": 0.446, 
+         "final": false
+      }, 
+      {
+         "from": 4.68, 
+         "to": 4.75, 
+         "speaker": 0, 
+         "confidence": 0.446, 
+         "final": false
+      }, 
+      {
+         "from": 4.75, 
+         "to": 5.2, 
+         "speaker": 0, 
+         "confidence": 0.446, 
+         "final": false
+      }, 
+      {
+         "from": 5.2, 
+         "to": 5.67, 
+         "speaker": 0, 
+         "confidence": 0.446, 
+         "final": false
+      }, 
+      {
+         "from": 6.2, 
+         "to": 6.68, 
+         "speaker": 1, 
+         "confidence": 0.549, 
+         "final": false
+      }, 
+      {
+         "from": 6.71, 
+         "to": 6.98, 
+         "speaker": 1, 
+         "confidence": 0.535, 
+         "final": false
+      }, 
+      {
+         "from": 6.98, 
+         "to": 7.11, 
+         "speaker": 1, 
+         "confidence": 0.535, 
+         "final": false
+      }, 
+      {
+         "from": 7.11, 
+         "to": 7.39, 
+         "speaker": 1, 
+         "confidence": 0.535, 
+         "final": false
+      }, 
+      {
+         "from": 7.39, 
+         "to": 7.51, 
+         "speaker": 1, 
+         "confidence": 0.535, 
+         "final": false
+      }, 
+      {
+         "from": 7.51, 
+         "to": 7.78, 
+         "speaker": 1, 
+         "confidence": 0.535, 
+         "final": false
+      }, 
+      {
+         "from": 7.78, 
+         "to": 7.91, 
+         "speaker": 1, 
+         "confidence": 0.535, 
+         "final": false
+      }, 
+      {
+         "from": 7.91, 
+         "to": 8.16, 
+         "speaker": 1, 
+         "confidence": 0.535, 
+         "final": false
+      }, 
+      {
+         "from": 8.16, 
+         "to": 8.5, 
+         "speaker": 1, 
+         "confidence": 0.535, 
+         "final": false
+      }, 
+      {
+         "from": 8.87, 
+         "to": 9.04, 
+         "speaker": 1, 
+         "confidence": 0.543, 
+         "final": false
+      }, 
+      {
+         "from": 9.04, 
+         "to": 9.2, 
+         "speaker": 1, 
+         "confidence": 0.543, 
+         "final": false
+      }, 
+      {
+         "from": 9.2, 
+         "to": 9.4, 
+         "speaker": 1, 
+         "confidence": 0.543, 
+         "final": false
+      }, 
+      {
+         "from": 9.4, 
+         "to": 9.71, 
+         "speaker": 1, 
+         "confidence": 0.543, 
+         "final": true
+      }
+   ]
+}

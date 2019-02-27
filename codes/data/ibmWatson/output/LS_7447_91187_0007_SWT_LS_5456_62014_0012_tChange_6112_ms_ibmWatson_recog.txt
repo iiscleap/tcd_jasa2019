@@ -1,0 +1,351 @@
+{
+   "results": [
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "of", 
+                     1.56, 
+                     1.77
+                  ], 
+                  [
+                     "and", 
+                     2.22, 
+                     2.49
+                  ], 
+                  [
+                     "with", 
+                     2.49, 
+                     2.69
+                  ], 
+                  [
+                     "his", 
+                     2.69, 
+                     2.97
+                  ]
+               ], 
+               "confidence": 0.909, 
+               "transcript": "of and with his "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "home", 
+                     3.41, 
+                     3.58
+                  ], 
+                  [
+                     "sickness", 
+                     3.58, 
+                     4.31
+                  ], 
+                  [
+                     "when", 
+                     4.53, 
+                     4.74
+                  ], 
+                  [
+                     "I", 
+                     4.74, 
+                     4.78
+                  ]
+               ], 
+               "confidence": 0.804, 
+               "transcript": "home sickness when I "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "are", 
+                     5.13, 
+                     5.3
+                  ], 
+                  [
+                     "from", 
+                     5.3, 
+                     5.55
+                  ]
+               ], 
+               "confidence": 0.957, 
+               "transcript": "are from "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "here", 
+                     6.04, 
+                     6.24
+                  ], 
+                  [
+                     "the", 
+                     6.24, 
+                     6.34
+                  ], 
+                  [
+                     "old", 
+                     6.34, 
+                     6.55
+                  ], 
+                  [
+                     "woman", 
+                     6.55, 
+                     6.76
+                  ], 
+                  [
+                     "Rosen", 
+                     6.76, 
+                     7.28
+                  ], 
+                  [
+                     "through", 
+                     7.28, 
+                     7.48
+                  ], 
+                  [
+                     "on", 
+                     7.48, 
+                     7.65
+                  ], 
+                  [
+                     "a", 
+                     7.65, 
+                     7.7
+                  ], 
+                  [
+                     "handful", 
+                     7.7, 
+                     8.13
+                  ], 
+                  [
+                     "of", 
+                     8.13, 
+                     8.23
+                  ], 
+                  [
+                     "light", 
+                     8.23, 
+                     8.54
+                  ], 
+                  [
+                     "would", 
+                     8.54, 
+                     8.79
+                  ], 
+                  [
+                     "which", 
+                     9.04, 
+                     9.22
+                  ], 
+                  [
+                     "blazed", 
+                     9.22, 
+                     9.61
+                  ], 
+                  [
+                     "a", 
+                     9.61, 
+                     9.71
+                  ]
+               ], 
+               "confidence": 0.722, 
+               "transcript": "here the old woman Rosen through on a handful of light would which blazed a "
+            }
+         ], 
+         "final": true
+      }
+   ], 
+   "result_index": 0, 
+   "speaker_labels": [
+      {
+         "from": 1.56, 
+         "to": 1.77, 
+         "speaker": 0, 
+         "confidence": 0.667, 
+         "final": false
+      }, 
+      {
+         "from": 2.22, 
+         "to": 2.49, 
+         "speaker": 0, 
+         "confidence": 0.429, 
+         "final": false
+      }, 
+      {
+         "from": 2.49, 
+         "to": 2.69, 
+         "speaker": 0, 
+         "confidence": 0.429, 
+         "final": false
+      }, 
+      {
+         "from": 2.69, 
+         "to": 2.97, 
+         "speaker": 0, 
+         "confidence": 0.429, 
+         "final": false
+      }, 
+      {
+         "from": 3.41, 
+         "to": 3.58, 
+         "speaker": 0, 
+         "confidence": 0.492, 
+         "final": false
+      }, 
+      {
+         "from": 3.58, 
+         "to": 4.31, 
+         "speaker": 0, 
+         "confidence": 0.492, 
+         "final": false
+      }, 
+      {
+         "from": 4.53, 
+         "to": 4.74, 
+         "speaker": 0, 
+         "confidence": 0.558, 
+         "final": false
+      }, 
+      {
+         "from": 4.74, 
+         "to": 4.78, 
+         "speaker": 0, 
+         "confidence": 0.558, 
+         "final": false
+      }, 
+      {
+         "from": 5.13, 
+         "to": 5.3, 
+         "speaker": 0, 
+         "confidence": 0.457, 
+         "final": false
+      }, 
+      {
+         "from": 5.3, 
+         "to": 5.55, 
+         "speaker": 0, 
+         "confidence": 0.457, 
+         "final": false
+      }, 
+      {
+         "from": 6.04, 
+         "to": 6.24, 
+         "speaker": 2, 
+         "confidence": 0.635, 
+         "final": false
+      }, 
+      {
+         "from": 6.24, 
+         "to": 6.34, 
+         "speaker": 2, 
+         "confidence": 0.635, 
+         "final": false
+      }, 
+      {
+         "from": 6.34, 
+         "to": 6.55, 
+         "speaker": 2, 
+         "confidence": 0.635, 
+         "final": false
+      }, 
+      {
+         "from": 6.55, 
+         "to": 6.76, 
+         "speaker": 2, 
+         "confidence": 0.635, 
+         "final": false
+      }, 
+      {
+         "from": 6.76, 
+         "to": 7.28, 
+         "speaker": 2, 
+         "confidence": 0.635, 
+         "final": false
+      }, 
+      {
+         "from": 7.28, 
+         "to": 7.48, 
+         "speaker": 2, 
+         "confidence": 0.635, 
+         "final": false
+      }, 
+      {
+         "from": 7.48, 
+         "to": 7.65, 
+         "speaker": 2, 
+         "confidence": 0.635, 
+         "final": false
+      }, 
+      {
+         "from": 7.65, 
+         "to": 7.7, 
+         "speaker": 2, 
+         "confidence": 0.635, 
+         "final": false
+      }, 
+      {
+         "from": 7.7, 
+         "to": 8.13, 
+         "speaker": 2, 
+         "confidence": 0.635, 
+         "final": false
+      }, 
+      {
+         "from": 8.13, 
+         "to": 8.23, 
+         "speaker": 2, 
+         "confidence": 0.635, 
+         "final": false
+      }, 
+      {
+         "from": 8.23, 
+         "to": 8.54, 
+         "speaker": 2, 
+         "confidence": 0.635, 
+         "final": false
+      }, 
+      {
+         "from": 8.54, 
+         "to": 8.79, 
+         "speaker": 2, 
+         "confidence": 0.635, 
+         "final": false
+      }, 
+      {
+         "from": 9.04, 
+         "to": 9.22, 
+         "speaker": 2, 
+         "confidence": 0.633, 
+         "final": false
+      }, 
+      {
+         "from": 9.22, 
+         "to": 9.61, 
+         "speaker": 2, 
+         "confidence": 0.633, 
+         "final": false
+      }, 
+      {
+         "from": 9.61, 
+         "to": 9.71, 
+         "speaker": 2, 
+         "confidence": 0.633, 
+         "final": true
+      }
+   ]
+}

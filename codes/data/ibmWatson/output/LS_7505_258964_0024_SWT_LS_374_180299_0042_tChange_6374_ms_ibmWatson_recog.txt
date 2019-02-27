@@ -1,0 +1,270 @@
+{
+   "results": [
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "when", 
+                     0.42, 
+                     0.61
+                  ], 
+                  [
+                     "improvements", 
+                     0.61, 
+                     1.46
+                  ], 
+                  [
+                     "in", 
+                     1.52, 
+                     1.79
+                  ], 
+                  [
+                     "agriculture", 
+                     1.82, 
+                     2.67
+                  ], 
+                  [
+                     "that", 
+                     2.67, 
+                     2.91
+                  ], 
+                  [
+                     "are", 
+                     2.94, 
+                     3.23
+                  ], 
+                  [
+                     "applicable", 
+                     3.26, 
+                     4.02
+                  ], 
+                  [
+                     "to", 
+                     4.02, 
+                     4.3
+                  ], 
+                  [
+                     "a", 
+                     4.33, 
+                     4.55
+                  ], 
+                  [
+                     "considerable", 
+                     4.58, 
+                     5.8
+                  ], 
+                  [
+                     "the", 
+                     6.32, 
+                     6.47
+                  ], 
+                  [
+                     "Duke", 
+                     6.47, 
+                     6.76
+                  ], 
+                  [
+                     "wrote", 
+                     6.76, 
+                     7.02
+                  ], 
+                  [
+                     "to", 
+                     7.02, 
+                     7.19
+                  ], 
+                  [
+                     "her", 
+                     7.19, 
+                     7.45
+                  ], 
+                  [
+                     "two", 
+                     7.45, 
+                     7.72
+                  ], 
+                  [
+                     "or", 
+                     7.72, 
+                     7.85
+                  ], 
+                  [
+                     "three", 
+                     7.85, 
+                     8.13
+                  ], 
+                  [
+                     "times", 
+                     8.13, 
+                     8.88
+                  ], 
+                  [
+                     "she", 
+                     9.21, 
+                     9.43
+                  ], 
+                  [
+                     "wrecked", 
+                     9.43, 
+                     9.7
+                  ]
+               ], 
+               "confidence": 0.89, 
+               "transcript": "when improvements in agriculture that are applicable to a considerable the Duke wrote to her two or three times she wrecked "
+            }
+         ], 
+         "final": true
+      }
+   ], 
+   "result_index": 0, 
+   "speaker_labels": [
+      {
+         "from": 0.42, 
+         "to": 0.61, 
+         "speaker": 0, 
+         "confidence": 0.443, 
+         "final": false
+      }, 
+      {
+         "from": 0.61, 
+         "to": 1.46, 
+         "speaker": 0, 
+         "confidence": 0.443, 
+         "final": false
+      }, 
+      {
+         "from": 1.52, 
+         "to": 1.79, 
+         "speaker": 0, 
+         "confidence": 0.441, 
+         "final": false
+      }, 
+      {
+         "from": 1.82, 
+         "to": 2.67, 
+         "speaker": 1, 
+         "confidence": 0.441, 
+         "final": false
+      }, 
+      {
+         "from": 2.67, 
+         "to": 2.91, 
+         "speaker": 1, 
+         "confidence": 0.441, 
+         "final": false
+      }, 
+      {
+         "from": 2.94, 
+         "to": 3.23, 
+         "speaker": 1, 
+         "confidence": 0.423, 
+         "final": false
+      }, 
+      {
+         "from": 3.26, 
+         "to": 4.02, 
+         "speaker": 1, 
+         "confidence": 0.426, 
+         "final": false
+      }, 
+      {
+         "from": 4.02, 
+         "to": 4.3, 
+         "speaker": 1, 
+         "confidence": 0.426, 
+         "final": false
+      }, 
+      {
+         "from": 4.33, 
+         "to": 4.55, 
+         "speaker": 0, 
+         "confidence": 0.428, 
+         "final": false
+      }, 
+      {
+         "from": 4.58, 
+         "to": 5.8, 
+         "speaker": 1, 
+         "confidence": 0.375, 
+         "final": false
+      }, 
+      {
+         "from": 6.32, 
+         "to": 6.47, 
+         "speaker": 2, 
+         "confidence": 0.455, 
+         "final": false
+      }, 
+      {
+         "from": 6.47, 
+         "to": 6.76, 
+         "speaker": 2, 
+         "confidence": 0.455, 
+         "final": false
+      }, 
+      {
+         "from": 6.76, 
+         "to": 7.02, 
+         "speaker": 2, 
+         "confidence": 0.455, 
+         "final": false
+      }, 
+      {
+         "from": 7.02, 
+         "to": 7.19, 
+         "speaker": 2, 
+         "confidence": 0.455, 
+         "final": false
+      }, 
+      {
+         "from": 7.19, 
+         "to": 7.45, 
+         "speaker": 2, 
+         "confidence": 0.455, 
+         "final": false
+      }, 
+      {
+         "from": 7.45, 
+         "to": 7.72, 
+         "speaker": 2, 
+         "confidence": 0.455, 
+         "final": false
+      }, 
+      {
+         "from": 7.72, 
+         "to": 7.85, 
+         "speaker": 2, 
+         "confidence": 0.455, 
+         "final": false
+      }, 
+      {
+         "from": 7.85, 
+         "to": 8.13, 
+         "speaker": 2, 
+         "confidence": 0.455, 
+         "final": false
+      }, 
+      {
+         "from": 8.13, 
+         "to": 8.88, 
+         "speaker": 2, 
+         "confidence": 0.455, 
+         "final": false
+      }, 
+      {
+         "from": 9.21, 
+         "to": 9.43, 
+         "speaker": 2, 
+         "confidence": 0.472, 
+         "final": false
+      }, 
+      {
+         "from": 9.43, 
+         "to": 9.7, 
+         "speaker": 2, 
+         "confidence": 0.472, 
+         "final": true
+      }
+   ]
+}

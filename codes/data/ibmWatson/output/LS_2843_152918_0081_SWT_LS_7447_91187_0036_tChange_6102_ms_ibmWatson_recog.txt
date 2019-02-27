@@ -1,0 +1,342 @@
+{
+   "results": [
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "to", 
+                     0.11, 
+                     0.24
+                  ], 
+                  [
+                     "have", 
+                     0.24, 
+                     0.39
+                  ], 
+                  [
+                     "to", 
+                     0.39, 
+                     0.5
+                  ], 
+                  [
+                     "cross", 
+                     0.5, 
+                     0.84
+                  ], 
+                  [
+                     "such", 
+                     0.84, 
+                     1.06
+                  ], 
+                  [
+                     "a", 
+                     1.06, 
+                     1.13
+                  ], 
+                  [
+                     "surface", 
+                     1.13, 
+                     1.78
+                  ], 
+                  [
+                     "as", 
+                     2.14, 
+                     2.31
+                  ], 
+                  [
+                     "the", 
+                     2.31, 
+                     2.42
+                  ], 
+                  [
+                     "effect", 
+                     2.42, 
+                     2.8
+                  ], 
+                  [
+                     "of", 
+                     2.8, 
+                     2.91
+                  ], 
+                  [
+                     "light", 
+                     2.91, 
+                     3.28
+                  ], 
+                  [
+                     "and", 
+                     3.31, 
+                     3.58
+                  ], 
+                  [
+                     "shade", 
+                     3.58, 
+                     4.16
+                  ], 
+                  [
+                     "is", 
+                     4.32, 
+                     4.5
+                  ], 
+                  [
+                     "usually", 
+                     4.5, 
+                     4.9
+                  ], 
+                  [
+                     "to", 
+                     4.9, 
+                     5.04
+                  ], 
+                  [
+                     "show", 
+                     5.04, 
+                     5.29
+                  ], 
+                  [
+                     "up", 
+                     5.29, 
+                     5.53
+                  ], 
+                  [
+                     "the", 
+                     6.05, 
+                     6.19
+                  ], 
+                  [
+                     "basis", 
+                     6.19, 
+                     6.67
+                  ], 
+                  [
+                     "of", 
+                     6.7, 
+                     6.98
+                  ], 
+                  [
+                     "this", 
+                     6.98, 
+                     7.26
+                  ], 
+                  [
+                     "method", 
+                     7.29, 
+                     7.82
+                  ], 
+                  [
+                     "consisted", 
+                     7.82, 
+                     8.55
+                  ], 
+                  [
+                     "in", 
+                     8.55, 
+                     8.74
+                  ], 
+                  [
+                     "refined", 
+                     8.74, 
+                     9.26
+                  ]
+               ], 
+               "confidence": 0.892, 
+               "transcript": "to have to cross such a surface as the effect of light and shade is usually to show up the basis of this method consisted in refined "
+            }
+         ], 
+         "final": true
+      }
+   ], 
+   "result_index": 0, 
+   "speaker_labels": [
+      {
+         "from": 0.11, 
+         "to": 0.24, 
+         "speaker": 0, 
+         "confidence": 0.549, 
+         "final": false
+      }, 
+      {
+         "from": 0.24, 
+         "to": 0.39, 
+         "speaker": 0, 
+         "confidence": 0.549, 
+         "final": false
+      }, 
+      {
+         "from": 0.39, 
+         "to": 0.5, 
+         "speaker": 0, 
+         "confidence": 0.549, 
+         "final": false
+      }, 
+      {
+         "from": 0.5, 
+         "to": 0.84, 
+         "speaker": 0, 
+         "confidence": 0.549, 
+         "final": false
+      }, 
+      {
+         "from": 0.84, 
+         "to": 1.06, 
+         "speaker": 0, 
+         "confidence": 0.549, 
+         "final": false
+      }, 
+      {
+         "from": 1.06, 
+         "to": 1.13, 
+         "speaker": 0, 
+         "confidence": 0.549, 
+         "final": false
+      }, 
+      {
+         "from": 1.13, 
+         "to": 1.78, 
+         "speaker": 0, 
+         "confidence": 0.549, 
+         "final": false
+      }, 
+      {
+         "from": 2.14, 
+         "to": 2.31, 
+         "speaker": 0, 
+         "confidence": 0.593, 
+         "final": false
+      }, 
+      {
+         "from": 2.31, 
+         "to": 2.42, 
+         "speaker": 0, 
+         "confidence": 0.593, 
+         "final": false
+      }, 
+      {
+         "from": 2.42, 
+         "to": 2.8, 
+         "speaker": 0, 
+         "confidence": 0.593, 
+         "final": false
+      }, 
+      {
+         "from": 2.8, 
+         "to": 2.91, 
+         "speaker": 0, 
+         "confidence": 0.593, 
+         "final": false
+      }, 
+      {
+         "from": 2.91, 
+         "to": 3.28, 
+         "speaker": 0, 
+         "confidence": 0.593, 
+         "final": false
+      }, 
+      {
+         "from": 3.31, 
+         "to": 3.58, 
+         "speaker": 0, 
+         "confidence": 0.558, 
+         "final": false
+      }, 
+      {
+         "from": 3.58, 
+         "to": 4.16, 
+         "speaker": 0, 
+         "confidence": 0.558, 
+         "final": false
+      }, 
+      {
+         "from": 4.32, 
+         "to": 4.5, 
+         "speaker": 0, 
+         "confidence": 0.499, 
+         "final": false
+      }, 
+      {
+         "from": 4.5, 
+         "to": 4.9, 
+         "speaker": 0, 
+         "confidence": 0.499, 
+         "final": false
+      }, 
+      {
+         "from": 4.9, 
+         "to": 5.04, 
+         "speaker": 0, 
+         "confidence": 0.499, 
+         "final": false
+      }, 
+      {
+         "from": 5.04, 
+         "to": 5.29, 
+         "speaker": 0, 
+         "confidence": 0.499, 
+         "final": false
+      }, 
+      {
+         "from": 5.29, 
+         "to": 5.53, 
+         "speaker": 0, 
+         "confidence": 0.499, 
+         "final": false
+      }, 
+      {
+         "from": 6.05, 
+         "to": 6.19, 
+         "speaker": 1, 
+         "confidence": 0.635, 
+         "final": false
+      }, 
+      {
+         "from": 6.19, 
+         "to": 6.67, 
+         "speaker": 1, 
+         "confidence": 0.635, 
+         "final": false
+      }, 
+      {
+         "from": 6.7, 
+         "to": 6.98, 
+         "speaker": 1, 
+         "confidence": 0.622, 
+         "final": false
+      }, 
+      {
+         "from": 6.98, 
+         "to": 7.26, 
+         "speaker": 1, 
+         "confidence": 0.622, 
+         "final": false
+      }, 
+      {
+         "from": 7.29, 
+         "to": 7.82, 
+         "speaker": 1, 
+         "confidence": 0.623, 
+         "final": false
+      }, 
+      {
+         "from": 7.82, 
+         "to": 8.55, 
+         "speaker": 1, 
+         "confidence": 0.623, 
+         "final": false
+      }, 
+      {
+         "from": 8.55, 
+         "to": 8.74, 
+         "speaker": 1, 
+         "confidence": 0.623, 
+         "final": false
+      }, 
+      {
+         "from": 8.74, 
+         "to": 9.26, 
+         "speaker": 1, 
+         "confidence": 0.623, 
+         "final": true
+      }
+   ]
+}

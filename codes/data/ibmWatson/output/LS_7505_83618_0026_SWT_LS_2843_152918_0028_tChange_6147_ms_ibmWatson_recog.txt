@@ -1,0 +1,361 @@
+{
+   "results": [
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "and", 
+                     0.1, 
+                     0.35
+                  ], 
+                  [
+                     "when", 
+                     0.35, 
+                     0.52
+                  ], 
+                  [
+                     "he", 
+                     0.52, 
+                     0.76
+                  ], 
+                  [
+                     "laid", 
+                     0.76, 
+                     1.09
+                  ], 
+                  [
+                     "his", 
+                     1.09, 
+                     1.32
+                  ], 
+                  [
+                     "hands", 
+                     1.32, 
+                     1.64
+                  ], 
+                  [
+                     "on", 
+                     1.67, 
+                     2.09
+                  ], 
+                  [
+                     "the", 
+                     2.12, 
+                     2.3
+                  ], 
+                  [
+                     "rocks", 
+                     2.36, 
+                     2.9
+                  ], 
+                  [
+                     "the", 
+                     2.93, 
+                     3.06
+                  ]
+               ], 
+               "confidence": 0.956, 
+               "transcript": "and when he laid his hands on the rocks the "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "mark", 
+                     3.14, 
+                     3.53
+                  ], 
+                  [
+                     "was", 
+                     3.56, 
+                     3.84
+                  ], 
+                  [
+                     "indelible", 
+                     3.87, 
+                     4.78
+                  ]
+               ], 
+               "confidence": 0.999, 
+               "transcript": "mark was indelible "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "yet", 
+                     5.4, 
+                     5.75
+                  ]
+               ], 
+               "confidence": 0.452, 
+               "transcript": "yet "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "one", 
+                     6.09, 
+                     6.27
+                  ], 
+                  [
+                     "has", 
+                     6.27, 
+                     6.49
+                  ], 
+                  [
+                     "to", 
+                     6.49, 
+                     6.63
+                  ], 
+                  [
+                     "seize", 
+                     6.63, 
+                     6.89
+                  ], 
+                  [
+                     "every", 
+                     6.89, 
+                     7.25
+                  ], 
+                  [
+                     "opportunity", 
+                     7.25, 
+                     8.0
+                  ], 
+                  [
+                     "in", 
+                     8.0, 
+                     8.11
+                  ]
+               ], 
+               "confidence": 0.972, 
+               "transcript": "one has to seize every opportunity in "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "as", 
+                     8.26, 
+                     8.32
+                  ], 
+                  [
+                     "regions", 
+                     8.32, 
+                     8.97
+                  ]
+               ], 
+               "confidence": 0.924, 
+               "transcript": "as regions "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "if", 
+                     9.49, 
+                     9.66
+                  ]
+               ], 
+               "confidence": 1.0, 
+               "transcript": "if "
+            }
+         ], 
+         "final": true
+      }
+   ], 
+   "result_index": 0, 
+   "speaker_labels": [
+      {
+         "from": 0.1, 
+         "to": 0.35, 
+         "speaker": 3, 
+         "confidence": 0.358, 
+         "final": false
+      }, 
+      {
+         "from": 0.35, 
+         "to": 0.52, 
+         "speaker": 3, 
+         "confidence": 0.358, 
+         "final": false
+      }, 
+      {
+         "from": 0.52, 
+         "to": 0.76, 
+         "speaker": 3, 
+         "confidence": 0.358, 
+         "final": false
+      }, 
+      {
+         "from": 0.76, 
+         "to": 1.09, 
+         "speaker": 3, 
+         "confidence": 0.358, 
+         "final": false
+      }, 
+      {
+         "from": 1.09, 
+         "to": 1.32, 
+         "speaker": 3, 
+         "confidence": 0.358, 
+         "final": false
+      }, 
+      {
+         "from": 1.32, 
+         "to": 1.64, 
+         "speaker": 3, 
+         "confidence": 0.358, 
+         "final": false
+      }, 
+      {
+         "from": 1.67, 
+         "to": 2.09, 
+         "speaker": 0, 
+         "confidence": 0.419, 
+         "final": false
+      }, 
+      {
+         "from": 2.12, 
+         "to": 2.3, 
+         "speaker": 0, 
+         "confidence": 0.398, 
+         "final": false
+      }, 
+      {
+         "from": 2.36, 
+         "to": 2.9, 
+         "speaker": 2, 
+         "confidence": 0.478, 
+         "final": false
+      }, 
+      {
+         "from": 2.93, 
+         "to": 3.06, 
+         "speaker": 0, 
+         "confidence": 0.415, 
+         "final": false
+      }, 
+      {
+         "from": 3.14, 
+         "to": 3.53, 
+         "speaker": 2, 
+         "confidence": 0.452, 
+         "final": false
+      }, 
+      {
+         "from": 3.56, 
+         "to": 3.84, 
+         "speaker": 0, 
+         "confidence": 0.381, 
+         "final": false
+      }, 
+      {
+         "from": 3.87, 
+         "to": 4.78, 
+         "speaker": 0, 
+         "confidence": 0.38, 
+         "final": false
+      }, 
+      {
+         "from": 5.4, 
+         "to": 5.75, 
+         "speaker": 0, 
+         "confidence": 0.372, 
+         "final": false
+      }, 
+      {
+         "from": 6.09, 
+         "to": 6.27, 
+         "speaker": 3, 
+         "confidence": 0.375, 
+         "final": false
+      }, 
+      {
+         "from": 6.27, 
+         "to": 6.49, 
+         "speaker": 3, 
+         "confidence": 0.375, 
+         "final": false
+      }, 
+      {
+         "from": 6.49, 
+         "to": 6.63, 
+         "speaker": 3, 
+         "confidence": 0.375, 
+         "final": false
+      }, 
+      {
+         "from": 6.63, 
+         "to": 6.89, 
+         "speaker": 3, 
+         "confidence": 0.375, 
+         "final": false
+      }, 
+      {
+         "from": 6.89, 
+         "to": 7.25, 
+         "speaker": 3, 
+         "confidence": 0.375, 
+         "final": false
+      }, 
+      {
+         "from": 7.25, 
+         "to": 8.0, 
+         "speaker": 3, 
+         "confidence": 0.375, 
+         "final": false
+      }, 
+      {
+         "from": 8.0, 
+         "to": 8.11, 
+         "speaker": 3, 
+         "confidence": 0.375, 
+         "final": false
+      }, 
+      {
+         "from": 8.26, 
+         "to": 8.32, 
+         "speaker": 3, 
+         "confidence": 0.404, 
+         "final": false
+      }, 
+      {
+         "from": 8.32, 
+         "to": 8.97, 
+         "speaker": 3, 
+         "confidence": 0.404, 
+         "final": false
+      }, 
+      {
+         "from": 9.49, 
+         "to": 9.66, 
+         "speaker": 3, 
+         "confidence": 0.489, 
+         "final": true
+      }
+   ]
+}

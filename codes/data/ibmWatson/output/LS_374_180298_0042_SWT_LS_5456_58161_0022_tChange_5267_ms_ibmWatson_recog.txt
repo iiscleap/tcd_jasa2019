@@ -1,0 +1,339 @@
+{
+   "results": [
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "Armand", 
+                     0.16, 
+                     0.86
+                  ], 
+                  [
+                     "order", 
+                     0.95, 
+                     1.33
+                  ], 
+                  [
+                     "an", 
+                     1.33, 
+                     1.44
+                  ], 
+                  [
+                     "open", 
+                     1.44, 
+                     1.75
+                  ], 
+                  [
+                     "Kerridge", 
+                     1.75, 
+                     2.52
+                  ]
+               ], 
+               "confidence": 0.849, 
+               "transcript": "Armand order an open Kerridge "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "an", 
+                     3.47, 
+                     3.64
+                  ], 
+                  [
+                     "hour", 
+                     3.64, 
+                     4.02
+                  ], 
+                  [
+                     "and", 
+                     4.02, 
+                     4.17
+                  ], 
+                  [
+                     "a", 
+                     4.17, 
+                     4.22
+                  ], 
+                  [
+                     "half", 
+                     4.22, 
+                     4.54
+                  ], 
+                  [
+                     "later", 
+                     4.54, 
+                     5.07
+                  ], 
+                  [
+                     "a", 
+                     5.22, 
+                     5.31
+                  ], 
+                  [
+                     "not", 
+                     5.31, 
+                     5.63
+                  ], 
+                  [
+                     "the", 
+                     5.63, 
+                     5.75
+                  ], 
+                  [
+                     "gold", 
+                     5.75, 
+                     6.11
+                  ], 
+                  [
+                     "and", 
+                     6.11, 
+                     6.24
+                  ], 
+                  [
+                     "silver", 
+                     6.24, 
+                     6.57
+                  ]
+               ], 
+               "confidence": 0.905, 
+               "transcript": "an hour and a half later a not the gold and silver "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "five", 
+                     6.82, 
+                     7.24
+                  ], 
+                  [
+                     "gold", 
+                     7.35, 
+                     7.77
+                  ], 
+                  [
+                     "and", 
+                     7.77, 
+                     7.91
+                  ], 
+                  [
+                     "silver", 
+                     7.91, 
+                     8.28
+                  ]
+               ], 
+               "confidence": 0.694, 
+               "transcript": "five gold and silver "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "yet", 
+                     8.4, 
+                     8.69
+                  ], 
+                  [
+                     "on", 
+                     8.69, 
+                     8.84
+                  ], 
+                  [
+                     "top", 
+                     8.84, 
+                     9.07
+                  ]
+               ], 
+               "confidence": 0.819, 
+               "transcript": "yet on top "
+            }
+         ], 
+         "final": true
+      }
+   ], 
+   "result_index": 0, 
+   "speaker_labels": [
+      {
+         "from": 0.16, 
+         "to": 0.86, 
+         "speaker": 0, 
+         "confidence": 0.667, 
+         "final": false
+      }, 
+      {
+         "from": 0.95, 
+         "to": 1.33, 
+         "speaker": 0, 
+         "confidence": 0.563, 
+         "final": false
+      }, 
+      {
+         "from": 1.33, 
+         "to": 1.44, 
+         "speaker": 0, 
+         "confidence": 0.563, 
+         "final": false
+      }, 
+      {
+         "from": 1.44, 
+         "to": 1.75, 
+         "speaker": 0, 
+         "confidence": 0.563, 
+         "final": false
+      }, 
+      {
+         "from": 1.75, 
+         "to": 2.52, 
+         "speaker": 0, 
+         "confidence": 0.563, 
+         "final": false
+      }, 
+      {
+         "from": 3.47, 
+         "to": 3.64, 
+         "speaker": 0, 
+         "confidence": 0.548, 
+         "final": false
+      }, 
+      {
+         "from": 3.64, 
+         "to": 4.02, 
+         "speaker": 0, 
+         "confidence": 0.548, 
+         "final": false
+      }, 
+      {
+         "from": 4.02, 
+         "to": 4.17, 
+         "speaker": 0, 
+         "confidence": 0.548, 
+         "final": false
+      }, 
+      {
+         "from": 4.17, 
+         "to": 4.22, 
+         "speaker": 0, 
+         "confidence": 0.548, 
+         "final": false
+      }, 
+      {
+         "from": 4.22, 
+         "to": 4.54, 
+         "speaker": 0, 
+         "confidence": 0.548, 
+         "final": false
+      }, 
+      {
+         "from": 4.54, 
+         "to": 5.07, 
+         "speaker": 0, 
+         "confidence": 0.548, 
+         "final": false
+      }, 
+      {
+         "from": 5.22, 
+         "to": 5.31, 
+         "speaker": 3, 
+         "confidence": 0.416, 
+         "final": false
+      }, 
+      {
+         "from": 5.31, 
+         "to": 5.63, 
+         "speaker": 3, 
+         "confidence": 0.416, 
+         "final": false
+      }, 
+      {
+         "from": 5.63, 
+         "to": 5.75, 
+         "speaker": 3, 
+         "confidence": 0.416, 
+         "final": false
+      }, 
+      {
+         "from": 5.75, 
+         "to": 6.11, 
+         "speaker": 3, 
+         "confidence": 0.416, 
+         "final": false
+      }, 
+      {
+         "from": 6.11, 
+         "to": 6.24, 
+         "speaker": 3, 
+         "confidence": 0.416, 
+         "final": false
+      }, 
+      {
+         "from": 6.24, 
+         "to": 6.57, 
+         "speaker": 3, 
+         "confidence": 0.416, 
+         "final": false
+      }, 
+      {
+         "from": 6.82, 
+         "to": 7.24, 
+         "speaker": 3, 
+         "confidence": 0.578, 
+         "final": false
+      }, 
+      {
+         "from": 7.35, 
+         "to": 7.77, 
+         "speaker": 3, 
+         "confidence": 0.606, 
+         "final": false
+      }, 
+      {
+         "from": 7.77, 
+         "to": 7.91, 
+         "speaker": 3, 
+         "confidence": 0.606, 
+         "final": false
+      }, 
+      {
+         "from": 7.91, 
+         "to": 8.28, 
+         "speaker": 3, 
+         "confidence": 0.606, 
+         "final": false
+      }, 
+      {
+         "from": 8.4, 
+         "to": 8.69, 
+         "speaker": 3, 
+         "confidence": 0.574, 
+         "final": false
+      }, 
+      {
+         "from": 8.69, 
+         "to": 8.84, 
+         "speaker": 3, 
+         "confidence": 0.574, 
+         "final": false
+      }, 
+      {
+         "from": 8.84, 
+         "to": 9.07, 
+         "speaker": 3, 
+         "confidence": 0.574, 
+         "final": true
+      }
+   ]
+}

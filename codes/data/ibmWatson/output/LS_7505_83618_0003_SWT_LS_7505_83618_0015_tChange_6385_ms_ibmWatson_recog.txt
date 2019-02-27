@@ -1,0 +1,353 @@
+{
+   "results": [
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "yet", 
+                     0.35, 
+                     0.69
+                  ], 
+                  [
+                     "I", 
+                     0.74, 
+                     0.88
+                  ], 
+                  [
+                     "do", 
+                     0.88, 
+                     1.09
+                  ], 
+                  [
+                     "not", 
+                     1.09, 
+                     1.37
+                  ], 
+                  [
+                     "imagine", 
+                     1.37, 
+                     1.95
+                  ], 
+                  [
+                     "that", 
+                     1.98, 
+                     2.17
+                  ], 
+                  [
+                     "the", 
+                     2.17, 
+                     2.27
+                  ], 
+                  [
+                     "one", 
+                     2.27, 
+                     2.67
+                  ], 
+                  [
+                     "was", 
+                     2.67, 
+                     2.85
+                  ], 
+                  [
+                     "copied", 
+                     2.85, 
+                     3.28
+                  ], 
+                  [
+                     "or", 
+                     3.28, 
+                     3.36
+                  ], 
+                  [
+                     "borrowed", 
+                     3.36, 
+                     3.86
+                  ], 
+                  [
+                     "from", 
+                     3.86, 
+                     4.04
+                  ], 
+                  [
+                     "the", 
+                     4.04, 
+                     4.15
+                  ], 
+                  [
+                     "other", 
+                     4.15, 
+                     4.52
+                  ], 
+                  [
+                     "we", 
+                     4.86, 
+                     5.11
+                  ], 
+                  [
+                     "cannot", 
+                     5.11, 
+                     5.64
+                  ], 
+                  [
+                     "be", 
+                     5.64, 
+                     6.02
+                  ], 
+                  [
+                     "they", 
+                     6.32, 
+                     6.48
+                  ], 
+                  [
+                     "recognize", 
+                     6.48, 
+                     7.13
+                  ], 
+                  [
+                     "their", 
+                     7.13, 
+                     7.28
+                  ], 
+                  [
+                     "maker", 
+                     7.28, 
+                     7.73
+                  ]
+               ], 
+               "confidence": 0.834, 
+               "transcript": "yet I do not imagine that the one was copied or borrowed from the other we cannot be they recognize their maker "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "and", 
+                     8.26, 
+                     8.44
+                  ], 
+                  [
+                     "humbled", 
+                     8.44, 
+                     8.89
+                  ], 
+                  [
+                     "themselves", 
+                     8.89, 
+                     9.39
+                  ], 
+                  [
+                     "before", 
+                     9.39, 
+                     9.84
+                  ], 
+                  [
+                     "him", 
+                     9.84, 
+                     9.99
+                  ]
+               ], 
+               "confidence": 0.883, 
+               "transcript": "and humbled themselves before him "
+            }
+         ], 
+         "final": true
+      }
+   ], 
+   "result_index": 0, 
+   "speaker_labels": [
+      {
+         "from": 0.35, 
+         "to": 0.69, 
+         "speaker": 0, 
+         "confidence": 0.409, 
+         "final": false
+      }, 
+      {
+         "from": 0.74, 
+         "to": 0.88, 
+         "speaker": 1, 
+         "confidence": 0.355, 
+         "final": false
+      }, 
+      {
+         "from": 0.88, 
+         "to": 1.09, 
+         "speaker": 1, 
+         "confidence": 0.355, 
+         "final": false
+      }, 
+      {
+         "from": 1.09, 
+         "to": 1.37, 
+         "speaker": 1, 
+         "confidence": 0.355, 
+         "final": false
+      }, 
+      {
+         "from": 1.37, 
+         "to": 1.95, 
+         "speaker": 1, 
+         "confidence": 0.355, 
+         "final": false
+      }, 
+      {
+         "from": 1.98, 
+         "to": 2.17, 
+         "speaker": 2, 
+         "confidence": 0.388, 
+         "final": false
+      }, 
+      {
+         "from": 2.17, 
+         "to": 2.27, 
+         "speaker": 2, 
+         "confidence": 0.388, 
+         "final": false
+      }, 
+      {
+         "from": 2.27, 
+         "to": 2.67, 
+         "speaker": 2, 
+         "confidence": 0.388, 
+         "final": false
+      }, 
+      {
+         "from": 2.67, 
+         "to": 2.85, 
+         "speaker": 2, 
+         "confidence": 0.388, 
+         "final": false
+      }, 
+      {
+         "from": 2.85, 
+         "to": 3.28, 
+         "speaker": 2, 
+         "confidence": 0.388, 
+         "final": false
+      }, 
+      {
+         "from": 3.28, 
+         "to": 3.36, 
+         "speaker": 2, 
+         "confidence": 0.388, 
+         "final": false
+      }, 
+      {
+         "from": 3.36, 
+         "to": 3.86, 
+         "speaker": 2, 
+         "confidence": 0.388, 
+         "final": false
+      }, 
+      {
+         "from": 3.86, 
+         "to": 4.04, 
+         "speaker": 2, 
+         "confidence": 0.388, 
+         "final": false
+      }, 
+      {
+         "from": 4.04, 
+         "to": 4.15, 
+         "speaker": 2, 
+         "confidence": 0.388, 
+         "final": false
+      }, 
+      {
+         "from": 4.15, 
+         "to": 4.52, 
+         "speaker": 2, 
+         "confidence": 0.388, 
+         "final": false
+      }, 
+      {
+         "from": 4.86, 
+         "to": 5.11, 
+         "speaker": 3, 
+         "confidence": 0.389, 
+         "final": false
+      }, 
+      {
+         "from": 5.11, 
+         "to": 5.64, 
+         "speaker": 3, 
+         "confidence": 0.389, 
+         "final": false
+      }, 
+      {
+         "from": 5.64, 
+         "to": 6.02, 
+         "speaker": 3, 
+         "confidence": 0.389, 
+         "final": false
+      }, 
+      {
+         "from": 6.32, 
+         "to": 6.48, 
+         "speaker": 1, 
+         "confidence": 0.364, 
+         "final": false
+      }, 
+      {
+         "from": 6.48, 
+         "to": 7.13, 
+         "speaker": 1, 
+         "confidence": 0.364, 
+         "final": false
+      }, 
+      {
+         "from": 7.13, 
+         "to": 7.28, 
+         "speaker": 1, 
+         "confidence": 0.364, 
+         "final": false
+      }, 
+      {
+         "from": 7.28, 
+         "to": 7.73, 
+         "speaker": 1, 
+         "confidence": 0.364, 
+         "final": false
+      }, 
+      {
+         "from": 8.26, 
+         "to": 8.44, 
+         "speaker": 2, 
+         "confidence": 0.382, 
+         "final": false
+      }, 
+      {
+         "from": 8.44, 
+         "to": 8.89, 
+         "speaker": 2, 
+         "confidence": 0.382, 
+         "final": false
+      }, 
+      {
+         "from": 8.89, 
+         "to": 9.39, 
+         "speaker": 2, 
+         "confidence": 0.382, 
+         "final": false
+      }, 
+      {
+         "from": 9.39, 
+         "to": 9.84, 
+         "speaker": 2, 
+         "confidence": 0.382, 
+         "final": false
+      }, 
+      {
+         "from": 9.84, 
+         "to": 9.99, 
+         "speaker": 2, 
+         "confidence": 0.382, 
+         "final": true
+      }
+   ]
+}

@@ -1,0 +1,378 @@
+{
+   "results": [
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "you", 
+                     0.48, 
+                     0.67
+                  ], 
+                  [
+                     "Chillin", 
+                     0.67, 
+                     1.08
+                  ], 
+                  [
+                     "is", 
+                     1.08, 
+                     1.23
+                  ], 
+                  [
+                     "was", 
+                     1.23, 
+                     1.46
+                  ], 
+                  [
+                     "it", 
+                     1.46, 
+                     1.6
+                  ], 
+                  [
+                     "a", 
+                     1.6, 
+                     1.65
+                  ], 
+                  [
+                     "night", 
+                     1.65, 
+                     1.98
+                  ], 
+                  [
+                     "else", 
+                     1.98, 
+                     2.43
+                  ], 
+                  [
+                     "said", 
+                     2.46, 
+                     2.76
+                  ], 
+                  [
+                     "the", 
+                     2.76, 
+                     2.87
+                  ], 
+                  [
+                     "old", 
+                     2.87, 
+                     3.11
+                  ], 
+                  [
+                     "woman", 
+                     3.11, 
+                     3.46
+                  ], 
+                  [
+                     "if", 
+                     3.88, 
+                     4.05
+                  ], 
+                  [
+                     "you", 
+                     4.05, 
+                     4.17
+                  ], 
+                  [
+                     "keep", 
+                     4.17, 
+                     4.39
+                  ], 
+                  [
+                     "someone", 
+                     4.39, 
+                     4.78
+                  ], 
+                  [
+                     "just", 
+                     4.78, 
+                     5.01
+                  ], 
+                  [
+                     "sitting", 
+                     5.01, 
+                     5.24
+                  ], 
+                  [
+                     "up", 
+                     5.24, 
+                     5.39
+                  ], 
+                  [
+                     "the", 
+                     5.89, 
+                     6.03
+                  ], 
+                  [
+                     "Duke", 
+                     6.03, 
+                     6.33
+                  ], 
+                  [
+                     "wrote", 
+                     6.33, 
+                     6.59
+                  ], 
+                  [
+                     "to", 
+                     6.59, 
+                     6.76
+                  ], 
+                  [
+                     "her", 
+                     6.76, 
+                     7.01
+                  ], 
+                  [
+                     "two", 
+                     7.01, 
+                     7.29
+                  ], 
+                  [
+                     "or", 
+                     7.29, 
+                     7.42
+                  ], 
+                  [
+                     "three", 
+                     7.42, 
+                     7.7
+                  ], 
+                  [
+                     "times", 
+                     7.7, 
+                     8.46
+                  ], 
+                  [
+                     "she", 
+                     8.78, 
+                     9.0
+                  ], 
+                  [
+                     "wrecked", 
+                     9.0, 
+                     9.27
+                  ]
+               ], 
+               "confidence": 0.739, 
+               "transcript": "you Chillin is was it a night else said the old woman if you keep someone just sitting up the Duke wrote to her two or three times she wrecked "
+            }
+         ], 
+         "final": true
+      }
+   ], 
+   "result_index": 0, 
+   "speaker_labels": [
+      {
+         "from": 0.48, 
+         "to": 0.67, 
+         "speaker": 0, 
+         "confidence": 0.599, 
+         "final": false
+      }, 
+      {
+         "from": 0.67, 
+         "to": 1.08, 
+         "speaker": 0, 
+         "confidence": 0.599, 
+         "final": false
+      }, 
+      {
+         "from": 1.08, 
+         "to": 1.23, 
+         "speaker": 0, 
+         "confidence": 0.599, 
+         "final": false
+      }, 
+      {
+         "from": 1.23, 
+         "to": 1.46, 
+         "speaker": 0, 
+         "confidence": 0.599, 
+         "final": false
+      }, 
+      {
+         "from": 1.46, 
+         "to": 1.6, 
+         "speaker": 0, 
+         "confidence": 0.599, 
+         "final": false
+      }, 
+      {
+         "from": 1.6, 
+         "to": 1.65, 
+         "speaker": 0, 
+         "confidence": 0.599, 
+         "final": false
+      }, 
+      {
+         "from": 1.65, 
+         "to": 1.98, 
+         "speaker": 0, 
+         "confidence": 0.599, 
+         "final": false
+      }, 
+      {
+         "from": 1.98, 
+         "to": 2.43, 
+         "speaker": 0, 
+         "confidence": 0.599, 
+         "final": false
+      }, 
+      {
+         "from": 2.46, 
+         "to": 2.76, 
+         "speaker": 0, 
+         "confidence": 0.571, 
+         "final": false
+      }, 
+      {
+         "from": 2.76, 
+         "to": 2.87, 
+         "speaker": 0, 
+         "confidence": 0.571, 
+         "final": false
+      }, 
+      {
+         "from": 2.87, 
+         "to": 3.11, 
+         "speaker": 0, 
+         "confidence": 0.571, 
+         "final": false
+      }, 
+      {
+         "from": 3.11, 
+         "to": 3.46, 
+         "speaker": 0, 
+         "confidence": 0.571, 
+         "final": false
+      }, 
+      {
+         "from": 3.88, 
+         "to": 4.05, 
+         "speaker": 0, 
+         "confidence": 0.577, 
+         "final": false
+      }, 
+      {
+         "from": 4.05, 
+         "to": 4.17, 
+         "speaker": 0, 
+         "confidence": 0.577, 
+         "final": false
+      }, 
+      {
+         "from": 4.17, 
+         "to": 4.39, 
+         "speaker": 0, 
+         "confidence": 0.577, 
+         "final": false
+      }, 
+      {
+         "from": 4.39, 
+         "to": 4.78, 
+         "speaker": 0, 
+         "confidence": 0.577, 
+         "final": false
+      }, 
+      {
+         "from": 4.78, 
+         "to": 5.01, 
+         "speaker": 0, 
+         "confidence": 0.577, 
+         "final": false
+      }, 
+      {
+         "from": 5.01, 
+         "to": 5.24, 
+         "speaker": 0, 
+         "confidence": 0.577, 
+         "final": false
+      }, 
+      {
+         "from": 5.24, 
+         "to": 5.39, 
+         "speaker": 0, 
+         "confidence": 0.577, 
+         "final": false
+      }, 
+      {
+         "from": 5.89, 
+         "to": 6.03, 
+         "speaker": 1, 
+         "confidence": 0.598, 
+         "final": false
+      }, 
+      {
+         "from": 6.03, 
+         "to": 6.33, 
+         "speaker": 1, 
+         "confidence": 0.598, 
+         "final": false
+      }, 
+      {
+         "from": 6.33, 
+         "to": 6.59, 
+         "speaker": 1, 
+         "confidence": 0.598, 
+         "final": false
+      }, 
+      {
+         "from": 6.59, 
+         "to": 6.76, 
+         "speaker": 1, 
+         "confidence": 0.598, 
+         "final": false
+      }, 
+      {
+         "from": 6.76, 
+         "to": 7.01, 
+         "speaker": 1, 
+         "confidence": 0.598, 
+         "final": false
+      }, 
+      {
+         "from": 7.01, 
+         "to": 7.29, 
+         "speaker": 1, 
+         "confidence": 0.598, 
+         "final": false
+      }, 
+      {
+         "from": 7.29, 
+         "to": 7.42, 
+         "speaker": 1, 
+         "confidence": 0.598, 
+         "final": false
+      }, 
+      {
+         "from": 7.42, 
+         "to": 7.7, 
+         "speaker": 1, 
+         "confidence": 0.598, 
+         "final": false
+      }, 
+      {
+         "from": 7.7, 
+         "to": 8.46, 
+         "speaker": 1, 
+         "confidence": 0.598, 
+         "final": false
+      }, 
+      {
+         "from": 8.78, 
+         "to": 9.0, 
+         "speaker": 1, 
+         "confidence": 0.622, 
+         "final": false
+      }, 
+      {
+         "from": 9.0, 
+         "to": 9.27, 
+         "speaker": 1, 
+         "confidence": 0.622, 
+         "final": true
+      }
+   ]
+}

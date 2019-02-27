@@ -1,0 +1,255 @@
+{
+   "results": [
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "and", 
+                     3.09, 
+                     3.21
+                  ], 
+                  [
+                     "the", 
+                     3.21, 
+                     3.27
+                  ], 
+                  [
+                     "secretive", 
+                     3.27, 
+                     3.78
+                  ], 
+                  [
+                     "calling", 
+                     3.78, 
+                     4.25
+                  ], 
+                  [
+                     "forth", 
+                     4.25, 
+                     4.68
+                  ], 
+                  [
+                     "its", 
+                     4.71, 
+                     5.06
+                  ]
+               ], 
+               "confidence": 0.808, 
+               "transcript": "and the secretive calling forth its "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "he", 
+                     5.39, 
+                     5.62
+                  ], 
+                  [
+                     "said", 
+                     5.65, 
+                     5.93
+                  ], 
+                  [
+                     "the", 
+                     5.93, 
+                     6.01
+                  ], 
+                  [
+                     "most", 
+                     6.01, 
+                     6.32
+                  ], 
+                  [
+                     "very", 
+                     6.32, 
+                     6.6
+                  ], 
+                  [
+                     "informed", 
+                     6.6, 
+                     7.09
+                  ]
+               ], 
+               "confidence": 0.705, 
+               "transcript": "he said the most very informed "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "rose", 
+                     7.21, 
+                     7.51
+                  ], 
+                  [
+                     "high", 
+                     7.51, 
+                     7.86
+                  ]
+               ], 
+               "confidence": 0.415, 
+               "transcript": "rose high "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "into", 
+                     8.13, 
+                     8.31
+                  ], 
+                  [
+                     "the", 
+                     8.31, 
+                     8.45
+                  ], 
+                  [
+                     "air", 
+                     8.45, 
+                     8.9
+                  ]
+               ], 
+               "confidence": 0.758, 
+               "transcript": "into the air "
+            }
+         ], 
+         "final": true
+      }
+   ], 
+   "result_index": 0, 
+   "speaker_labels": [
+      {
+         "from": 3.09, 
+         "to": 3.21, 
+         "speaker": 0, 
+         "confidence": 0.667, 
+         "final": false
+      }, 
+      {
+         "from": 3.21, 
+         "to": 3.27, 
+         "speaker": 0, 
+         "confidence": 0.667, 
+         "final": false
+      }, 
+      {
+         "from": 3.27, 
+         "to": 3.78, 
+         "speaker": 0, 
+         "confidence": 0.667, 
+         "final": false
+      }, 
+      {
+         "from": 3.78, 
+         "to": 4.25, 
+         "speaker": 0, 
+         "confidence": 0.667, 
+         "final": false
+      }, 
+      {
+         "from": 4.25, 
+         "to": 4.68, 
+         "speaker": 0, 
+         "confidence": 0.667, 
+         "final": false
+      }, 
+      {
+         "from": 4.71, 
+         "to": 5.06, 
+         "speaker": 0, 
+         "confidence": 0.465, 
+         "final": false
+      }, 
+      {
+         "from": 5.39, 
+         "to": 5.62, 
+         "speaker": 1, 
+         "confidence": 0.481, 
+         "final": false
+      }, 
+      {
+         "from": 5.65, 
+         "to": 5.93, 
+         "speaker": 2, 
+         "confidence": 0.482, 
+         "final": false
+      }, 
+      {
+         "from": 5.93, 
+         "to": 6.01, 
+         "speaker": 2, 
+         "confidence": 0.482, 
+         "final": false
+      }, 
+      {
+         "from": 6.01, 
+         "to": 6.32, 
+         "speaker": 2, 
+         "confidence": 0.482, 
+         "final": false
+      }, 
+      {
+         "from": 6.32, 
+         "to": 6.6, 
+         "speaker": 2, 
+         "confidence": 0.482, 
+         "final": false
+      }, 
+      {
+         "from": 6.6, 
+         "to": 7.09, 
+         "speaker": 2, 
+         "confidence": 0.482, 
+         "final": false
+      }, 
+      {
+         "from": 7.21, 
+         "to": 7.51, 
+         "speaker": 2, 
+         "confidence": 0.463, 
+         "final": false
+      }, 
+      {
+         "from": 7.51, 
+         "to": 7.86, 
+         "speaker": 2, 
+         "confidence": 0.463, 
+         "final": false
+      }, 
+      {
+         "from": 8.13, 
+         "to": 8.31, 
+         "speaker": 2, 
+         "confidence": 0.4, 
+         "final": false
+      }, 
+      {
+         "from": 8.31, 
+         "to": 8.45, 
+         "speaker": 2, 
+         "confidence": 0.4, 
+         "final": false
+      }, 
+      {
+         "from": 8.45, 
+         "to": 8.9, 
+         "speaker": 2, 
+         "confidence": 0.4, 
+         "final": true
+      }
+   ]
+}

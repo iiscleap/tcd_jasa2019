@@ -1,0 +1,294 @@
+{
+   "results": [
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "less", 
+                     0.16, 
+                     0.43
+                  ], 
+                  [
+                     "efficient", 
+                     0.43, 
+                     0.97
+                  ], 
+                  [
+                     "types", 
+                     0.97, 
+                     1.44
+                  ], 
+                  [
+                     "which", 
+                     1.7, 
+                     1.93
+                  ], 
+                  [
+                     "therefore", 
+                     1.93, 
+                     2.65
+                  ], 
+                  [
+                     "more", 
+                     2.65, 
+                     3.04
+                  ], 
+                  [
+                     "or", 
+                     3.04, 
+                     3.1
+                  ], 
+                  [
+                     "less", 
+                     3.1, 
+                     3.38
+                  ], 
+                  [
+                     "completely", 
+                     3.38, 
+                     4.12
+                  ], 
+                  [
+                     "lose", 
+                     4.45, 
+                     5.03
+                  ], 
+                  [
+                     "their", 
+                     5.03, 
+                     5.22
+                  ], 
+                  [
+                     "rent", 
+                     5.22, 
+                     5.54
+                  ], 
+                  [
+                     "Bering", 
+                     5.54, 
+                     5.94
+                  ], 
+                  [
+                     "and", 
+                     6.29, 
+                     6.47
+                  ], 
+                  [
+                     "did", 
+                     6.47, 
+                     6.61
+                  ], 
+                  [
+                     "he", 
+                     6.61, 
+                     6.77
+                  ], 
+                  [
+                     "ever", 
+                     6.77, 
+                     6.96
+                  ], 
+                  [
+                     "come", 
+                     6.96, 
+                     7.16
+                  ], 
+                  [
+                     "back", 
+                     7.16, 
+                     7.46
+                  ], 
+                  [
+                     "said", 
+                     7.6, 
+                     7.97
+                  ], 
+                  [
+                     "Ned", 
+                     7.97, 
+                     8.35
+                  ], 
+                  [
+                     "Nossa", 
+                     8.76, 
+                     9.47
+                  ], 
+                  [
+                     "Daddy", 
+                     9.63, 
+                     9.92
+                  ]
+               ], 
+               "confidence": 0.718, 
+               "transcript": "less efficient types which therefore more or less completely lose their rent Bering and did he ever come back said Ned Nossa Daddy "
+            }
+         ], 
+         "final": true
+      }
+   ], 
+   "result_index": 0, 
+   "speaker_labels": [
+      {
+         "from": 0.16, 
+         "to": 0.43, 
+         "speaker": 0, 
+         "confidence": 0.555, 
+         "final": false
+      }, 
+      {
+         "from": 0.43, 
+         "to": 0.97, 
+         "speaker": 0, 
+         "confidence": 0.555, 
+         "final": false
+      }, 
+      {
+         "from": 0.97, 
+         "to": 1.44, 
+         "speaker": 0, 
+         "confidence": 0.555, 
+         "final": false
+      }, 
+      {
+         "from": 1.7, 
+         "to": 1.93, 
+         "speaker": 0, 
+         "confidence": 0.616, 
+         "final": false
+      }, 
+      {
+         "from": 1.93, 
+         "to": 2.65, 
+         "speaker": 0, 
+         "confidence": 0.616, 
+         "final": false
+      }, 
+      {
+         "from": 2.65, 
+         "to": 3.04, 
+         "speaker": 0, 
+         "confidence": 0.616, 
+         "final": false
+      }, 
+      {
+         "from": 3.04, 
+         "to": 3.1, 
+         "speaker": 0, 
+         "confidence": 0.616, 
+         "final": false
+      }, 
+      {
+         "from": 3.1, 
+         "to": 3.38, 
+         "speaker": 0, 
+         "confidence": 0.616, 
+         "final": false
+      }, 
+      {
+         "from": 3.38, 
+         "to": 4.12, 
+         "speaker": 0, 
+         "confidence": 0.616, 
+         "final": false
+      }, 
+      {
+         "from": 4.45, 
+         "to": 5.03, 
+         "speaker": 0, 
+         "confidence": 0.538, 
+         "final": false
+      }, 
+      {
+         "from": 5.03, 
+         "to": 5.22, 
+         "speaker": 0, 
+         "confidence": 0.538, 
+         "final": false
+      }, 
+      {
+         "from": 5.22, 
+         "to": 5.54, 
+         "speaker": 0, 
+         "confidence": 0.538, 
+         "final": false
+      }, 
+      {
+         "from": 5.54, 
+         "to": 5.94, 
+         "speaker": 0, 
+         "confidence": 0.538, 
+         "final": false
+      }, 
+      {
+         "from": 6.29, 
+         "to": 6.47, 
+         "speaker": 1, 
+         "confidence": 0.53, 
+         "final": false
+      }, 
+      {
+         "from": 6.47, 
+         "to": 6.61, 
+         "speaker": 1, 
+         "confidence": 0.53, 
+         "final": false
+      }, 
+      {
+         "from": 6.61, 
+         "to": 6.77, 
+         "speaker": 1, 
+         "confidence": 0.53, 
+         "final": false
+      }, 
+      {
+         "from": 6.77, 
+         "to": 6.96, 
+         "speaker": 1, 
+         "confidence": 0.53, 
+         "final": false
+      }, 
+      {
+         "from": 6.96, 
+         "to": 7.16, 
+         "speaker": 1, 
+         "confidence": 0.53, 
+         "final": false
+      }, 
+      {
+         "from": 7.16, 
+         "to": 7.46, 
+         "speaker": 1, 
+         "confidence": 0.53, 
+         "final": false
+      }, 
+      {
+         "from": 7.6, 
+         "to": 7.97, 
+         "speaker": 1, 
+         "confidence": 0.495, 
+         "final": false
+      }, 
+      {
+         "from": 7.97, 
+         "to": 8.35, 
+         "speaker": 1, 
+         "confidence": 0.495, 
+         "final": false
+      }, 
+      {
+         "from": 8.76, 
+         "to": 9.47, 
+         "speaker": 1, 
+         "confidence": 0.488, 
+         "final": false
+      }, 
+      {
+         "from": 9.63, 
+         "to": 9.92, 
+         "speaker": 1, 
+         "confidence": 0.521, 
+         "final": true
+      }
+   ]
+}

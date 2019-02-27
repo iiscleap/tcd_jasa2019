@@ -1,0 +1,282 @@
+{
+   "results": [
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "voice", 
+                     0.36, 
+                     0.7
+                  ], 
+                  [
+                     "from", 
+                     0.7, 
+                     0.85
+                  ], 
+                  [
+                     "New", 
+                     0.85, 
+                     0.99
+                  ], 
+                  [
+                     "Orleans", 
+                     0.99, 
+                     1.36
+                  ], 
+                  [
+                     "to", 
+                     1.36, 
+                     1.46
+                  ], 
+                  [
+                     "Vicksburg", 
+                     1.46, 
+                     2.02
+                  ], 
+                  [
+                     "in", 
+                     2.02, 
+                     2.11
+                  ], 
+                  [
+                     "back", 
+                     2.11, 
+                     2.56
+                  ], 
+                  [
+                     "including", 
+                     2.86, 
+                     3.39
+                  ], 
+                  [
+                     "stoppages", 
+                     3.39, 
+                     4.18
+                  ], 
+                  [
+                     "generally", 
+                     4.48, 
+                     5.03
+                  ], 
+                  [
+                     "and", 
+                     5.2, 
+                     5.34
+                  ], 
+                  [
+                     "the", 
+                     5.34, 
+                     5.43
+                  ], 
+                  [
+                     "rapid", 
+                     5.43, 
+                     5.88
+                  ], 
+                  [
+                     "pace", 
+                     5.88, 
+                     6.18
+                  ], 
+                  [
+                     "afterwards", 
+                     6.18, 
+                     7.04
+                  ], 
+                  [
+                     "and", 
+                     7.4, 
+                     7.6
+                  ], 
+                  [
+                     "made", 
+                     7.6, 
+                     7.81
+                  ], 
+                  [
+                     "it", 
+                     7.81, 
+                     7.91
+                  ], 
+                  [
+                     "impossible", 
+                     7.91, 
+                     8.65
+                  ], 
+                  [
+                     "to", 
+                     8.65, 
+                     8.82
+                  ], 
+                  [
+                     "walk", 
+                     8.82, 
+                     9.03
+                  ]
+               ], 
+               "confidence": 0.938, 
+               "transcript": "voice from New Orleans to Vicksburg in back including stoppages generally and the rapid pace afterwards and made it impossible to walk "
+            }
+         ], 
+         "final": true
+      }
+   ], 
+   "result_index": 0, 
+   "speaker_labels": [
+      {
+         "from": 0.36, 
+         "to": 0.7, 
+         "speaker": 0, 
+         "confidence": 0.427, 
+         "final": false
+      }, 
+      {
+         "from": 0.7, 
+         "to": 0.85, 
+         "speaker": 0, 
+         "confidence": 0.427, 
+         "final": false
+      }, 
+      {
+         "from": 0.85, 
+         "to": 0.99, 
+         "speaker": 0, 
+         "confidence": 0.427, 
+         "final": false
+      }, 
+      {
+         "from": 0.99, 
+         "to": 1.36, 
+         "speaker": 0, 
+         "confidence": 0.427, 
+         "final": false
+      }, 
+      {
+         "from": 1.36, 
+         "to": 1.46, 
+         "speaker": 0, 
+         "confidence": 0.427, 
+         "final": false
+      }, 
+      {
+         "from": 1.46, 
+         "to": 2.02, 
+         "speaker": 0, 
+         "confidence": 0.427, 
+         "final": false
+      }, 
+      {
+         "from": 2.02, 
+         "to": 2.11, 
+         "speaker": 0, 
+         "confidence": 0.427, 
+         "final": false
+      }, 
+      {
+         "from": 2.11, 
+         "to": 2.56, 
+         "speaker": 0, 
+         "confidence": 0.427, 
+         "final": false
+      }, 
+      {
+         "from": 2.86, 
+         "to": 3.39, 
+         "speaker": 0, 
+         "confidence": 0.438, 
+         "final": false
+      }, 
+      {
+         "from": 3.39, 
+         "to": 4.18, 
+         "speaker": 0, 
+         "confidence": 0.438, 
+         "final": false
+      }, 
+      {
+         "from": 4.48, 
+         "to": 5.03, 
+         "speaker": 1, 
+         "confidence": 0.47, 
+         "final": false
+      }, 
+      {
+         "from": 5.2, 
+         "to": 5.34, 
+         "speaker": 2, 
+         "confidence": 0.474, 
+         "final": false
+      }, 
+      {
+         "from": 5.34, 
+         "to": 5.43, 
+         "speaker": 2, 
+         "confidence": 0.474, 
+         "final": false
+      }, 
+      {
+         "from": 5.43, 
+         "to": 5.88, 
+         "speaker": 2, 
+         "confidence": 0.474, 
+         "final": false
+      }, 
+      {
+         "from": 5.88, 
+         "to": 6.18, 
+         "speaker": 2, 
+         "confidence": 0.474, 
+         "final": false
+      }, 
+      {
+         "from": 6.18, 
+         "to": 7.04, 
+         "speaker": 2, 
+         "confidence": 0.474, 
+         "final": false
+      }, 
+      {
+         "from": 7.4, 
+         "to": 7.6, 
+         "speaker": 2, 
+         "confidence": 0.477, 
+         "final": false
+      }, 
+      {
+         "from": 7.6, 
+         "to": 7.81, 
+         "speaker": 2, 
+         "confidence": 0.477, 
+         "final": false
+      }, 
+      {
+         "from": 7.81, 
+         "to": 7.91, 
+         "speaker": 2, 
+         "confidence": 0.477, 
+         "final": false
+      }, 
+      {
+         "from": 7.91, 
+         "to": 8.65, 
+         "speaker": 2, 
+         "confidence": 0.477, 
+         "final": false
+      }, 
+      {
+         "from": 8.65, 
+         "to": 8.82, 
+         "speaker": 2, 
+         "confidence": 0.477, 
+         "final": false
+      }, 
+      {
+         "from": 8.82, 
+         "to": 9.03, 
+         "speaker": 2, 
+         "confidence": 0.477, 
+         "final": true
+      }
+   ]
+}

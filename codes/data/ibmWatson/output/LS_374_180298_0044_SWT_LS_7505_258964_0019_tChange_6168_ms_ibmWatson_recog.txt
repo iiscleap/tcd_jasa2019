@@ -1,0 +1,282 @@
+{
+   "results": [
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "beyond", 
+                     0.33, 
+                     1.06
+                  ], 
+                  [
+                     "distinct", 
+                     1.09, 
+                     1.72
+                  ], 
+                  [
+                     "in", 
+                     1.72, 
+                     1.8
+                  ], 
+                  [
+                     "the", 
+                     1.8, 
+                     1.9
+                  ], 
+                  [
+                     "sunlight", 
+                     1.9, 
+                     2.61
+                  ], 
+                  [
+                     "rise", 
+                     2.87, 
+                     3.24
+                  ], 
+                  [
+                     "little", 
+                     3.24, 
+                     3.53
+                  ], 
+                  [
+                     "white", 
+                     3.53, 
+                     3.82
+                  ], 
+                  [
+                     "houses", 
+                     3.82, 
+                     4.52
+                  ], 
+                  [
+                     "with", 
+                     4.66, 
+                     4.91
+                  ], 
+                  [
+                     "red", 
+                     4.91, 
+                     5.25
+                  ], 
+                  [
+                     "roofs", 
+                     5.25, 
+                     5.75
+                  ], 
+                  [
+                     "but", 
+                     6.03, 
+                     6.28
+                  ], 
+                  [
+                     "in", 
+                     6.28, 
+                     6.41
+                  ], 
+                  [
+                     "doing", 
+                     6.41, 
+                     6.74
+                  ], 
+                  [
+                     "that", 
+                     6.74, 
+                     7.04
+                  ], 
+                  [
+                     "he", 
+                     7.04, 
+                     7.27
+                  ], 
+                  [
+                     "affects", 
+                     7.27, 
+                     7.68
+                  ], 
+                  [
+                     "the", 
+                     7.68, 
+                     7.88
+                  ], 
+                  [
+                     "agents", 
+                     7.91, 
+                     8.54
+                  ], 
+                  [
+                     "owned", 
+                     8.57, 
+                     9.12
+                  ], 
+                  [
+                     "into", 
+                     9.32, 
+                     9.67
+                  ]
+               ], 
+               "confidence": 0.862, 
+               "transcript": "beyond distinct in the sunlight rise little white houses with red roofs but in doing that he affects the agents owned into "
+            }
+         ], 
+         "final": true
+      }
+   ], 
+   "result_index": 0, 
+   "speaker_labels": [
+      {
+         "from": 0.33, 
+         "to": 1.06, 
+         "speaker": 0, 
+         "confidence": 0.573, 
+         "final": false
+      }, 
+      {
+         "from": 1.09, 
+         "to": 1.72, 
+         "speaker": 0, 
+         "confidence": 0.582, 
+         "final": false
+      }, 
+      {
+         "from": 1.72, 
+         "to": 1.8, 
+         "speaker": 0, 
+         "confidence": 0.582, 
+         "final": false
+      }, 
+      {
+         "from": 1.8, 
+         "to": 1.9, 
+         "speaker": 0, 
+         "confidence": 0.582, 
+         "final": false
+      }, 
+      {
+         "from": 1.9, 
+         "to": 2.61, 
+         "speaker": 0, 
+         "confidence": 0.582, 
+         "final": false
+      }, 
+      {
+         "from": 2.87, 
+         "to": 3.24, 
+         "speaker": 0, 
+         "confidence": 0.553, 
+         "final": false
+      }, 
+      {
+         "from": 3.24, 
+         "to": 3.53, 
+         "speaker": 0, 
+         "confidence": 0.553, 
+         "final": false
+      }, 
+      {
+         "from": 3.53, 
+         "to": 3.82, 
+         "speaker": 0, 
+         "confidence": 0.553, 
+         "final": false
+      }, 
+      {
+         "from": 3.82, 
+         "to": 4.52, 
+         "speaker": 0, 
+         "confidence": 0.553, 
+         "final": false
+      }, 
+      {
+         "from": 4.66, 
+         "to": 4.91, 
+         "speaker": 0, 
+         "confidence": 0.594, 
+         "final": false
+      }, 
+      {
+         "from": 4.91, 
+         "to": 5.25, 
+         "speaker": 0, 
+         "confidence": 0.594, 
+         "final": false
+      }, 
+      {
+         "from": 5.25, 
+         "to": 5.75, 
+         "speaker": 0, 
+         "confidence": 0.594, 
+         "final": false
+      }, 
+      {
+         "from": 6.03, 
+         "to": 6.28, 
+         "speaker": 1, 
+         "confidence": 0.573, 
+         "final": false
+      }, 
+      {
+         "from": 6.28, 
+         "to": 6.41, 
+         "speaker": 1, 
+         "confidence": 0.573, 
+         "final": false
+      }, 
+      {
+         "from": 6.41, 
+         "to": 6.74, 
+         "speaker": 1, 
+         "confidence": 0.573, 
+         "final": false
+      }, 
+      {
+         "from": 6.74, 
+         "to": 7.04, 
+         "speaker": 1, 
+         "confidence": 0.573, 
+         "final": false
+      }, 
+      {
+         "from": 7.04, 
+         "to": 7.27, 
+         "speaker": 1, 
+         "confidence": 0.573, 
+         "final": false
+      }, 
+      {
+         "from": 7.27, 
+         "to": 7.68, 
+         "speaker": 1, 
+         "confidence": 0.573, 
+         "final": false
+      }, 
+      {
+         "from": 7.68, 
+         "to": 7.88, 
+         "speaker": 1, 
+         "confidence": 0.573, 
+         "final": false
+      }, 
+      {
+         "from": 7.91, 
+         "to": 8.54, 
+         "speaker": 1, 
+         "confidence": 0.623, 
+         "final": false
+      }, 
+      {
+         "from": 8.57, 
+         "to": 9.12, 
+         "speaker": 1, 
+         "confidence": 0.519, 
+         "final": false
+      }, 
+      {
+         "from": 9.32, 
+         "to": 9.67, 
+         "speaker": 1, 
+         "confidence": 0.542, 
+         "final": true
+      }
+   ]
+}

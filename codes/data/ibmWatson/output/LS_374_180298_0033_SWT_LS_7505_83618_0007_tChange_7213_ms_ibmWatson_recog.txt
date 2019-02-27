@@ -1,0 +1,304 @@
+{
+   "results": [
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "and", 
+                     0.23, 
+                     0.41
+                  ], 
+                  [
+                     "almost", 
+                     0.41, 
+                     0.92
+                  ], 
+                  [
+                     "completely", 
+                     0.92, 
+                     1.57
+                  ], 
+                  [
+                     "disappeared", 
+                     1.57, 
+                     2.43
+                  ]
+               ], 
+               "confidence": 0.975, 
+               "transcript": "and almost completely disappeared "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "at", 
+                     3.46, 
+                     3.6
+                  ], 
+                  [
+                     "the", 
+                     3.6, 
+                     3.7
+                  ], 
+                  [
+                     "end", 
+                     3.7, 
+                     3.94
+                  ], 
+                  [
+                     "of", 
+                     3.94, 
+                     4.05
+                  ], 
+                  [
+                     "six", 
+                     4.05, 
+                     4.39
+                  ], 
+                  [
+                     "weeks", 
+                     4.39, 
+                     4.92
+                  ], 
+                  [
+                     "the", 
+                     4.95, 
+                     5.08
+                  ], 
+                  [
+                     "count", 
+                     5.08, 
+                     5.43
+                  ], 
+                  [
+                     "was", 
+                     5.43, 
+                     5.59
+                  ], 
+                  [
+                     "entirely", 
+                     5.59, 
+                     6.24
+                  ], 
+                  [
+                     "given", 
+                     6.24, 
+                     6.53
+                  ], 
+                  [
+                     "up", 
+                     6.53, 
+                     6.93
+                  ], 
+                  [
+                     "but", 
+                     7.13, 
+                     7.32
+                  ], 
+                  [
+                     "in", 
+                     7.32, 
+                     7.45
+                  ], 
+                  [
+                     "psychology", 
+                     7.45, 
+                     8.56
+                  ]
+               ], 
+               "confidence": 0.954, 
+               "transcript": "at the end of six weeks the count was entirely given up but in psychology "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "man", 
+                     9.23, 
+                     9.83
+                  ], 
+                  [
+                     "chiefly", 
+                     10.0, 
+                     10.39
+                  ], 
+                  [
+                     "cognizant", 
+                     10.39, 
+                     10.94
+                  ]
+               ], 
+               "confidence": 0.852, 
+               "transcript": "man chiefly cognizant "
+            }
+         ], 
+         "final": true
+      }
+   ], 
+   "result_index": 0, 
+   "speaker_labels": [
+      {
+         "from": 0.23, 
+         "to": 0.41, 
+         "speaker": 0, 
+         "confidence": 0.5, 
+         "final": false
+      }, 
+      {
+         "from": 0.41, 
+         "to": 0.92, 
+         "speaker": 0, 
+         "confidence": 0.5, 
+         "final": false
+      }, 
+      {
+         "from": 0.92, 
+         "to": 1.57, 
+         "speaker": 0, 
+         "confidence": 0.5, 
+         "final": false
+      }, 
+      {
+         "from": 1.57, 
+         "to": 2.43, 
+         "speaker": 0, 
+         "confidence": 0.5, 
+         "final": false
+      }, 
+      {
+         "from": 3.46, 
+         "to": 3.6, 
+         "speaker": 0, 
+         "confidence": 0.549, 
+         "final": false
+      }, 
+      {
+         "from": 3.6, 
+         "to": 3.7, 
+         "speaker": 0, 
+         "confidence": 0.549, 
+         "final": false
+      }, 
+      {
+         "from": 3.7, 
+         "to": 3.94, 
+         "speaker": 0, 
+         "confidence": 0.549, 
+         "final": false
+      }, 
+      {
+         "from": 3.94, 
+         "to": 4.05, 
+         "speaker": 0, 
+         "confidence": 0.549, 
+         "final": false
+      }, 
+      {
+         "from": 4.05, 
+         "to": 4.39, 
+         "speaker": 0, 
+         "confidence": 0.549, 
+         "final": false
+      }, 
+      {
+         "from": 4.39, 
+         "to": 4.92, 
+         "speaker": 0, 
+         "confidence": 0.549, 
+         "final": false
+      }, 
+      {
+         "from": 4.95, 
+         "to": 5.08, 
+         "speaker": 0, 
+         "confidence": 0.556, 
+         "final": false
+      }, 
+      {
+         "from": 5.08, 
+         "to": 5.43, 
+         "speaker": 0, 
+         "confidence": 0.556, 
+         "final": false
+      }, 
+      {
+         "from": 5.43, 
+         "to": 5.59, 
+         "speaker": 0, 
+         "confidence": 0.556, 
+         "final": false
+      }, 
+      {
+         "from": 5.59, 
+         "to": 6.24, 
+         "speaker": 0, 
+         "confidence": 0.556, 
+         "final": false
+      }, 
+      {
+         "from": 6.24, 
+         "to": 6.53, 
+         "speaker": 0, 
+         "confidence": 0.556, 
+         "final": false
+      }, 
+      {
+         "from": 6.53, 
+         "to": 6.93, 
+         "speaker": 0, 
+         "confidence": 0.556, 
+         "final": false
+      }, 
+      {
+         "from": 7.13, 
+         "to": 7.32, 
+         "speaker": 3, 
+         "confidence": 0.424, 
+         "final": false
+      }, 
+      {
+         "from": 7.32, 
+         "to": 7.45, 
+         "speaker": 3, 
+         "confidence": 0.424, 
+         "final": false
+      }, 
+      {
+         "from": 7.45, 
+         "to": 8.56, 
+         "speaker": 3, 
+         "confidence": 0.424, 
+         "final": false
+      }, 
+      {
+         "from": 9.23, 
+         "to": 9.83, 
+         "speaker": 3, 
+         "confidence": 0.496, 
+         "final": false
+      }, 
+      {
+         "from": 10.0, 
+         "to": 10.39, 
+         "speaker": 3, 
+         "confidence": 0.605, 
+         "final": false
+      }, 
+      {
+         "from": 10.39, 
+         "to": 10.94, 
+         "speaker": 3, 
+         "confidence": 0.605, 
+         "final": true
+      }
+   ]
+}

@@ -1,0 +1,352 @@
+{
+   "results": [
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "struck", 
+                     0.36, 
+                     0.81
+                  ], 
+                  [
+                     "his", 
+                     0.81, 
+                     1.02
+                  ], 
+                  [
+                     "ski", 
+                     1.02, 
+                     1.41
+                  ], 
+                  [
+                     "into", 
+                     1.41, 
+                     1.73
+                  ], 
+                  [
+                     "it", 
+                     1.73, 
+                     1.96
+                  ], 
+                  [
+                     "to", 
+                     1.99, 
+                     2.11
+                  ], 
+                  [
+                     "try", 
+                     2.11, 
+                     2.4
+                  ], 
+                  [
+                     "the", 
+                     2.4, 
+                     2.57
+                  ], 
+                  [
+                     "strength", 
+                     2.57, 
+                     3.02
+                  ], 
+                  [
+                     "of", 
+                     3.02, 
+                     3.1
+                  ], 
+                  [
+                     "the", 
+                     3.1, 
+                     3.19
+                  ], 
+                  [
+                     "support", 
+                     3.19, 
+                     3.82
+                  ]
+               ], 
+               "confidence": 0.915, 
+               "transcript": "struck his ski into it to try the strength of the support "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "close", 
+                     4.72, 
+                     5.08
+                  ]
+               ], 
+               "confidence": 0.572, 
+               "transcript": "close "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "we", 
+                     5.58, 
+                     5.7
+                  ], 
+                  [
+                     "traveled", 
+                     5.7, 
+                     6.13
+                  ], 
+                  [
+                     "down", 
+                     6.13, 
+                     6.34
+                  ], 
+                  [
+                     "a", 
+                     6.34, 
+                     6.4
+                  ], 
+                  [
+                     "place", 
+                     6.4, 
+                     6.74
+                  ], 
+                  [
+                     "for", 
+                     6.74, 
+                     6.89
+                  ], 
+                  [
+                     "the", 
+                     6.89, 
+                     7.0
+                  ], 
+                  [
+                     "tent", 
+                     7.0, 
+                     7.43
+                  ], 
+                  [
+                     "in", 
+                     7.43, 
+                     7.52
+                  ], 
+                  [
+                     "the", 
+                     7.52, 
+                     7.61
+                  ], 
+                  [
+                     "loose", 
+                     7.61, 
+                     7.98
+                  ], 
+                  [
+                     "now", 
+                     7.98, 
+                     8.43
+                  ], 
+                  [
+                     "and", 
+                     8.8, 
+                     9.06
+                  ]
+               ], 
+               "confidence": 0.693, 
+               "transcript": "we traveled down a place for the tent in the loose now and "
+            }
+         ], 
+         "final": true
+      }
+   ], 
+   "result_index": 0, 
+   "speaker_labels": [
+      {
+         "from": 0.36, 
+         "to": 0.81, 
+         "speaker": 0, 
+         "confidence": 0.667, 
+         "final": false
+      }, 
+      {
+         "from": 0.81, 
+         "to": 1.02, 
+         "speaker": 0, 
+         "confidence": 0.667, 
+         "final": false
+      }, 
+      {
+         "from": 1.02, 
+         "to": 1.41, 
+         "speaker": 0, 
+         "confidence": 0.667, 
+         "final": false
+      }, 
+      {
+         "from": 1.41, 
+         "to": 1.73, 
+         "speaker": 0, 
+         "confidence": 0.667, 
+         "final": false
+      }, 
+      {
+         "from": 1.73, 
+         "to": 1.96, 
+         "speaker": 0, 
+         "confidence": 0.667, 
+         "final": false
+      }, 
+      {
+         "from": 1.99, 
+         "to": 2.11, 
+         "speaker": 1, 
+         "confidence": 0.667, 
+         "final": false
+      }, 
+      {
+         "from": 2.11, 
+         "to": 2.4, 
+         "speaker": 1, 
+         "confidence": 0.667, 
+         "final": false
+      }, 
+      {
+         "from": 2.4, 
+         "to": 2.57, 
+         "speaker": 1, 
+         "confidence": 0.667, 
+         "final": false
+      }, 
+      {
+         "from": 2.57, 
+         "to": 3.02, 
+         "speaker": 1, 
+         "confidence": 0.667, 
+         "final": false
+      }, 
+      {
+         "from": 3.02, 
+         "to": 3.1, 
+         "speaker": 1, 
+         "confidence": 0.667, 
+         "final": false
+      }, 
+      {
+         "from": 3.1, 
+         "to": 3.19, 
+         "speaker": 1, 
+         "confidence": 0.667, 
+         "final": false
+      }, 
+      {
+         "from": 3.19, 
+         "to": 3.82, 
+         "speaker": 1, 
+         "confidence": 0.667, 
+         "final": false
+      }, 
+      {
+         "from": 4.72, 
+         "to": 5.08, 
+         "speaker": 2, 
+         "confidence": 0.518, 
+         "final": false
+      }, 
+      {
+         "from": 5.58, 
+         "to": 5.7, 
+         "speaker": 1, 
+         "confidence": 0.331, 
+         "final": false
+      }, 
+      {
+         "from": 5.7, 
+         "to": 6.13, 
+         "speaker": 1, 
+         "confidence": 0.331, 
+         "final": false
+      }, 
+      {
+         "from": 6.13, 
+         "to": 6.34, 
+         "speaker": 1, 
+         "confidence": 0.331, 
+         "final": false
+      }, 
+      {
+         "from": 6.34, 
+         "to": 6.4, 
+         "speaker": 1, 
+         "confidence": 0.331, 
+         "final": false
+      }, 
+      {
+         "from": 6.4, 
+         "to": 6.74, 
+         "speaker": 1, 
+         "confidence": 0.331, 
+         "final": false
+      }, 
+      {
+         "from": 6.74, 
+         "to": 6.89, 
+         "speaker": 1, 
+         "confidence": 0.331, 
+         "final": false
+      }, 
+      {
+         "from": 6.89, 
+         "to": 7.0, 
+         "speaker": 1, 
+         "confidence": 0.331, 
+         "final": false
+      }, 
+      {
+         "from": 7.0, 
+         "to": 7.43, 
+         "speaker": 1, 
+         "confidence": 0.331, 
+         "final": false
+      }, 
+      {
+         "from": 7.43, 
+         "to": 7.52, 
+         "speaker": 1, 
+         "confidence": 0.331, 
+         "final": false
+      }, 
+      {
+         "from": 7.52, 
+         "to": 7.61, 
+         "speaker": 1, 
+         "confidence": 0.331, 
+         "final": false
+      }, 
+      {
+         "from": 7.61, 
+         "to": 7.98, 
+         "speaker": 1, 
+         "confidence": 0.331, 
+         "final": false
+      }, 
+      {
+         "from": 7.98, 
+         "to": 8.43, 
+         "speaker": 1, 
+         "confidence": 0.331, 
+         "final": false
+      }, 
+      {
+         "from": 8.8, 
+         "to": 9.06, 
+         "speaker": 3, 
+         "confidence": 0.409, 
+         "final": true
+      }
+   ]
+}

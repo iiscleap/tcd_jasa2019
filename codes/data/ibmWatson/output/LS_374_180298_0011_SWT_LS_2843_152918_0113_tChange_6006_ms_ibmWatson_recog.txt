@@ -1,0 +1,400 @@
+{
+   "results": [
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "forgive", 
+                     0.52, 
+                     1.01
+                  ], 
+                  [
+                     "me", 
+                     1.01, 
+                     1.18
+                  ], 
+                  [
+                     "if", 
+                     1.18, 
+                     1.34
+                  ], 
+                  [
+                     "I", 
+                     1.34, 
+                     1.44
+                  ], 
+                  [
+                     "give", 
+                     1.44, 
+                     1.69
+                  ], 
+                  [
+                     "you", 
+                     1.69, 
+                     1.86
+                  ], 
+                  [
+                     "all", 
+                     1.86, 
+                     2.05
+                  ], 
+                  [
+                     "these", 
+                     2.05, 
+                     2.39
+                  ], 
+                  [
+                     "details", 
+                     2.42, 
+                     3.2
+                  ], 
+                  [
+                     "but", 
+                     3.24, 
+                     3.45
+                  ], 
+                  [
+                     "you'll", 
+                     3.45, 
+                     3.75
+                  ], 
+                  [
+                     "see", 
+                     3.75, 
+                     4.14
+                  ], 
+                  [
+                     "that", 
+                     4.14, 
+                     4.37
+                  ], 
+                  [
+                     "they", 
+                     4.37, 
+                     4.57
+                  ], 
+                  [
+                     "were", 
+                     4.57, 
+                     4.74
+                  ], 
+                  [
+                     "the", 
+                     4.74, 
+                     4.85
+                  ], 
+                  [
+                     "cause", 
+                     4.85, 
+                     5.26
+                  ], 
+                  [
+                     "of", 
+                     5.26, 
+                     5.39
+                  ], 
+                  [
+                     "what", 
+                     5.39, 
+                     5.62
+                  ], 
+                  [
+                     "peaks", 
+                     5.92, 
+                     6.34
+                  ], 
+                  [
+                     "of", 
+                     6.34, 
+                     6.45
+                  ], 
+                  [
+                     "the", 
+                     6.45, 
+                     6.54
+                  ], 
+                  [
+                     "most", 
+                     6.54, 
+                     6.85
+                  ], 
+                  [
+                     "very", 
+                     6.85, 
+                     7.18
+                  ], 
+                  [
+                     "form", 
+                     7.18, 
+                     7.62
+                  ]
+               ], 
+               "confidence": 0.892, 
+               "transcript": "forgive me if I give you all these details but you'll see that they were the cause of what peaks of the most very form "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "rose", 
+                     7.74, 
+                     8.04
+                  ], 
+                  [
+                     "high", 
+                     8.04, 
+                     8.39
+                  ]
+               ], 
+               "confidence": 0.491, 
+               "transcript": "rose high "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "into", 
+                     8.66, 
+                     8.84
+                  ], 
+                  [
+                     "the", 
+                     8.84, 
+                     8.98
+                  ], 
+                  [
+                     "air", 
+                     8.98, 
+                     9.43
+                  ]
+               ], 
+               "confidence": 0.849, 
+               "transcript": "into the air "
+            }
+         ], 
+         "final": true
+      }
+   ], 
+   "result_index": 0, 
+   "speaker_labels": [
+      {
+         "from": 0.52, 
+         "to": 1.01, 
+         "speaker": 0, 
+         "confidence": 0.422, 
+         "final": false
+      }, 
+      {
+         "from": 1.01, 
+         "to": 1.18, 
+         "speaker": 0, 
+         "confidence": 0.422, 
+         "final": false
+      }, 
+      {
+         "from": 1.18, 
+         "to": 1.34, 
+         "speaker": 0, 
+         "confidence": 0.422, 
+         "final": false
+      }, 
+      {
+         "from": 1.34, 
+         "to": 1.44, 
+         "speaker": 0, 
+         "confidence": 0.422, 
+         "final": false
+      }, 
+      {
+         "from": 1.44, 
+         "to": 1.69, 
+         "speaker": 0, 
+         "confidence": 0.422, 
+         "final": false
+      }, 
+      {
+         "from": 1.69, 
+         "to": 1.86, 
+         "speaker": 0, 
+         "confidence": 0.422, 
+         "final": false
+      }, 
+      {
+         "from": 1.86, 
+         "to": 2.05, 
+         "speaker": 0, 
+         "confidence": 0.422, 
+         "final": false
+      }, 
+      {
+         "from": 2.05, 
+         "to": 2.39, 
+         "speaker": 0, 
+         "confidence": 0.422, 
+         "final": false
+      }, 
+      {
+         "from": 2.42, 
+         "to": 3.2, 
+         "speaker": 0, 
+         "confidence": 0.532, 
+         "final": false
+      }, 
+      {
+         "from": 3.24, 
+         "to": 3.45, 
+         "speaker": 0, 
+         "confidence": 0.425, 
+         "final": false
+      }, 
+      {
+         "from": 3.45, 
+         "to": 3.75, 
+         "speaker": 0, 
+         "confidence": 0.425, 
+         "final": false
+      }, 
+      {
+         "from": 3.75, 
+         "to": 4.14, 
+         "speaker": 0, 
+         "confidence": 0.425, 
+         "final": false
+      }, 
+      {
+         "from": 4.14, 
+         "to": 4.37, 
+         "speaker": 0, 
+         "confidence": 0.425, 
+         "final": false
+      }, 
+      {
+         "from": 4.37, 
+         "to": 4.57, 
+         "speaker": 0, 
+         "confidence": 0.425, 
+         "final": false
+      }, 
+      {
+         "from": 4.57, 
+         "to": 4.74, 
+         "speaker": 0, 
+         "confidence": 0.425, 
+         "final": false
+      }, 
+      {
+         "from": 4.74, 
+         "to": 4.85, 
+         "speaker": 0, 
+         "confidence": 0.425, 
+         "final": false
+      }, 
+      {
+         "from": 4.85, 
+         "to": 5.26, 
+         "speaker": 0, 
+         "confidence": 0.425, 
+         "final": false
+      }, 
+      {
+         "from": 5.26, 
+         "to": 5.39, 
+         "speaker": 0, 
+         "confidence": 0.425, 
+         "final": false
+      }, 
+      {
+         "from": 5.39, 
+         "to": 5.62, 
+         "speaker": 0, 
+         "confidence": 0.425, 
+         "final": false
+      }, 
+      {
+         "from": 5.92, 
+         "to": 6.34, 
+         "speaker": 2, 
+         "confidence": 0.521, 
+         "final": false
+      }, 
+      {
+         "from": 6.34, 
+         "to": 6.45, 
+         "speaker": 2, 
+         "confidence": 0.521, 
+         "final": false
+      }, 
+      {
+         "from": 6.45, 
+         "to": 6.54, 
+         "speaker": 2, 
+         "confidence": 0.521, 
+         "final": false
+      }, 
+      {
+         "from": 6.54, 
+         "to": 6.85, 
+         "speaker": 2, 
+         "confidence": 0.521, 
+         "final": false
+      }, 
+      {
+         "from": 6.85, 
+         "to": 7.18, 
+         "speaker": 2, 
+         "confidence": 0.521, 
+         "final": false
+      }, 
+      {
+         "from": 7.18, 
+         "to": 7.62, 
+         "speaker": 2, 
+         "confidence": 0.521, 
+         "final": false
+      }, 
+      {
+         "from": 7.74, 
+         "to": 8.04, 
+         "speaker": 2, 
+         "confidence": 0.601, 
+         "final": false
+      }, 
+      {
+         "from": 8.04, 
+         "to": 8.39, 
+         "speaker": 2, 
+         "confidence": 0.601, 
+         "final": false
+      }, 
+      {
+         "from": 8.66, 
+         "to": 8.84, 
+         "speaker": 2, 
+         "confidence": 0.561, 
+         "final": false
+      }, 
+      {
+         "from": 8.84, 
+         "to": 8.98, 
+         "speaker": 2, 
+         "confidence": 0.561, 
+         "final": false
+      }, 
+      {
+         "from": 8.98, 
+         "to": 9.43, 
+         "speaker": 2, 
+         "confidence": 0.561, 
+         "final": true
+      }
+   ]
+}

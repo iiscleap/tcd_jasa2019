@@ -1,0 +1,364 @@
+{
+   "results": [
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "to", 
+                     0.23, 
+                     0.35
+                  ], 
+                  [
+                     "whatever", 
+                     0.35, 
+                     0.8
+                  ], 
+                  [
+                     "age", 
+                     0.8, 
+                     1.17
+                  ], 
+                  [
+                     "I", 
+                     1.17, 
+                     1.28
+                  ], 
+                  [
+                     "may", 
+                     1.28, 
+                     1.51
+                  ], 
+                  [
+                     "live", 
+                     1.51, 
+                     1.96
+                  ]
+               ], 
+               "confidence": 0.811, 
+               "transcript": "to whatever age I may live "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "in", 
+                     3.16, 
+                     3.25
+                  ], 
+                  [
+                     "the", 
+                     3.25, 
+                     3.32
+                  ], 
+                  [
+                     "course", 
+                     3.32, 
+                     3.6
+                  ], 
+                  [
+                     "of", 
+                     3.6, 
+                     3.7
+                  ], 
+                  [
+                     "the", 
+                     3.7, 
+                     3.79
+                  ], 
+                  [
+                     "night", 
+                     3.79, 
+                     4.19
+                  ], 
+                  [
+                     "the", 
+                     4.22, 
+                     4.32
+                  ], 
+                  [
+                     "wind", 
+                     4.32, 
+                     4.57
+                  ], 
+                  [
+                     "had", 
+                     4.57, 
+                     4.74
+                  ], 
+                  [
+                     "gone", 
+                     4.74, 
+                     5.01
+                  ], 
+                  [
+                     "he", 
+                     5.09, 
+                     5.31
+                  ], 
+                  [
+                     "was", 
+                     5.31, 
+                     5.48
+                  ], 
+                  [
+                     "figuratively", 
+                     5.48, 
+                     6.51
+                  ], 
+                  [
+                     "said", 
+                     6.51, 
+                     6.91
+                  ], 
+                  [
+                     "to", 
+                     6.91, 
+                     7.07
+                  ], 
+                  [
+                     "sweep", 
+                     7.07, 
+                     7.43
+                  ], 
+                  [
+                     "the", 
+                     7.43, 
+                     7.54
+                  ], 
+                  [
+                     "road", 
+                     7.54, 
+                     7.83
+                  ], 
+                  [
+                     "for", 
+                     7.83, 
+                     8.09
+                  ], 
+                  [
+                     "him", 
+                     8.09, 
+                     8.28
+                  ]
+               ], 
+               "confidence": 0.957, 
+               "transcript": "in the course of the night the wind had gone he was figuratively said to sweep the road for him "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "since", 
+                     8.69, 
+                     8.99
+                  ]
+               ], 
+               "confidence": 0.366, 
+               "transcript": "since "
+            }
+         ], 
+         "final": true
+      }
+   ], 
+   "result_index": 0, 
+   "speaker_labels": [
+      {
+         "from": 0.23, 
+         "to": 0.35, 
+         "speaker": 0, 
+         "confidence": 0.5, 
+         "final": false
+      }, 
+      {
+         "from": 0.35, 
+         "to": 0.8, 
+         "speaker": 0, 
+         "confidence": 0.5, 
+         "final": false
+      }, 
+      {
+         "from": 0.8, 
+         "to": 1.17, 
+         "speaker": 0, 
+         "confidence": 0.5, 
+         "final": false
+      }, 
+      {
+         "from": 1.17, 
+         "to": 1.28, 
+         "speaker": 0, 
+         "confidence": 0.5, 
+         "final": false
+      }, 
+      {
+         "from": 1.28, 
+         "to": 1.51, 
+         "speaker": 0, 
+         "confidence": 0.5, 
+         "final": false
+      }, 
+      {
+         "from": 1.51, 
+         "to": 1.96, 
+         "speaker": 0, 
+         "confidence": 0.5, 
+         "final": false
+      }, 
+      {
+         "from": 3.16, 
+         "to": 3.25, 
+         "speaker": 0, 
+         "confidence": 0.43, 
+         "final": false
+      }, 
+      {
+         "from": 3.25, 
+         "to": 3.32, 
+         "speaker": 0, 
+         "confidence": 0.43, 
+         "final": false
+      }, 
+      {
+         "from": 3.32, 
+         "to": 3.6, 
+         "speaker": 0, 
+         "confidence": 0.43, 
+         "final": false
+      }, 
+      {
+         "from": 3.6, 
+         "to": 3.7, 
+         "speaker": 0, 
+         "confidence": 0.43, 
+         "final": false
+      }, 
+      {
+         "from": 3.7, 
+         "to": 3.79, 
+         "speaker": 0, 
+         "confidence": 0.43, 
+         "final": false
+      }, 
+      {
+         "from": 3.79, 
+         "to": 4.19, 
+         "speaker": 0, 
+         "confidence": 0.43, 
+         "final": false
+      }, 
+      {
+         "from": 4.22, 
+         "to": 4.32, 
+         "speaker": 0, 
+         "confidence": 0.513, 
+         "final": false
+      }, 
+      {
+         "from": 4.32, 
+         "to": 4.57, 
+         "speaker": 0, 
+         "confidence": 0.513, 
+         "final": false
+      }, 
+      {
+         "from": 4.57, 
+         "to": 4.74, 
+         "speaker": 0, 
+         "confidence": 0.513, 
+         "final": false
+      }, 
+      {
+         "from": 4.74, 
+         "to": 5.01, 
+         "speaker": 0, 
+         "confidence": 0.513, 
+         "final": false
+      }, 
+      {
+         "from": 5.09, 
+         "to": 5.31, 
+         "speaker": 2, 
+         "confidence": 0.524, 
+         "final": false
+      }, 
+      {
+         "from": 5.31, 
+         "to": 5.48, 
+         "speaker": 2, 
+         "confidence": 0.524, 
+         "final": false
+      }, 
+      {
+         "from": 5.48, 
+         "to": 6.51, 
+         "speaker": 2, 
+         "confidence": 0.524, 
+         "final": false
+      }, 
+      {
+         "from": 6.51, 
+         "to": 6.91, 
+         "speaker": 2, 
+         "confidence": 0.524, 
+         "final": false
+      }, 
+      {
+         "from": 6.91, 
+         "to": 7.07, 
+         "speaker": 2, 
+         "confidence": 0.524, 
+         "final": false
+      }, 
+      {
+         "from": 7.07, 
+         "to": 7.43, 
+         "speaker": 2, 
+         "confidence": 0.524, 
+         "final": false
+      }, 
+      {
+         "from": 7.43, 
+         "to": 7.54, 
+         "speaker": 2, 
+         "confidence": 0.524, 
+         "final": false
+      }, 
+      {
+         "from": 7.54, 
+         "to": 7.83, 
+         "speaker": 2, 
+         "confidence": 0.524, 
+         "final": false
+      }, 
+      {
+         "from": 7.83, 
+         "to": 8.09, 
+         "speaker": 2, 
+         "confidence": 0.524, 
+         "final": false
+      }, 
+      {
+         "from": 8.09, 
+         "to": 8.28, 
+         "speaker": 2, 
+         "confidence": 0.524, 
+         "final": false
+      }, 
+      {
+         "from": 8.69, 
+         "to": 8.99, 
+         "speaker": 2, 
+         "confidence": 0.604, 
+         "final": true
+      }
+   ]
+}

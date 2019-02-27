@@ -1,0 +1,233 @@
+{
+   "results": [
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "water", 
+                     0.12, 
+                     0.47
+                  ], 
+                  [
+                     "works", 
+                     0.47, 
+                     1.11
+                  ]
+               ], 
+               "confidence": 0.985, 
+               "transcript": "water works "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "gasworks", 
+                     1.39, 
+                     2.35
+                  ], 
+                  [
+                     "street", 
+                     2.58, 
+                     3.04
+                  ], 
+                  [
+                     "roadways", 
+                     3.04, 
+                     3.84
+                  ], 
+                  [
+                     "ferries", 
+                     4.03, 
+                     4.85
+                  ], 
+                  [
+                     "of", 
+                     5.13, 
+                     5.3
+                  ], 
+                  [
+                     "the", 
+                     5.3, 
+                     5.43
+                  ], 
+                  [
+                     "present", 
+                     5.43, 
+                     5.95
+                  ], 
+                  [
+                     "moment", 
+                     5.98, 
+                     6.44
+                  ], 
+                  [
+                     "as", 
+                     6.44, 
+                     6.56
+                  ], 
+                  [
+                     "compared", 
+                     6.56, 
+                     7.33
+                  ], 
+                  [
+                     "with", 
+                     7.33, 
+                     7.47
+                  ], 
+                  [
+                     "the", 
+                     7.47, 
+                     7.58
+                  ], 
+                  [
+                     "gratification", 
+                     7.58, 
+                     8.56
+                  ], 
+                  [
+                     "of", 
+                     8.59, 
+                     8.73
+                  ], 
+                  [
+                     "a", 
+                     8.73, 
+                     8.98
+                  ]
+               ], 
+               "confidence": 0.805, 
+               "transcript": "gasworks street roadways ferries of the present moment as compared with the gratification of a "
+            }
+         ], 
+         "final": true
+      }
+   ], 
+   "result_index": 0, 
+   "speaker_labels": [
+      {
+         "from": 0.12, 
+         "to": 0.47, 
+         "speaker": 0, 
+         "confidence": 0.5, 
+         "final": false
+      }, 
+      {
+         "from": 0.47, 
+         "to": 1.11, 
+         "speaker": 0, 
+         "confidence": 0.5, 
+         "final": false
+      }, 
+      {
+         "from": 1.39, 
+         "to": 2.35, 
+         "speaker": 0, 
+         "confidence": 0.532, 
+         "final": false
+      }, 
+      {
+         "from": 2.58, 
+         "to": 3.04, 
+         "speaker": 0, 
+         "confidence": 0.597, 
+         "final": false
+      }, 
+      {
+         "from": 3.04, 
+         "to": 3.84, 
+         "speaker": 0, 
+         "confidence": 0.597, 
+         "final": false
+      }, 
+      {
+         "from": 4.03, 
+         "to": 4.85, 
+         "speaker": 0, 
+         "confidence": 0.54, 
+         "final": false
+      }, 
+      {
+         "from": 5.13, 
+         "to": 5.3, 
+         "speaker": 1, 
+         "confidence": 0.596, 
+         "final": false
+      }, 
+      {
+         "from": 5.3, 
+         "to": 5.43, 
+         "speaker": 1, 
+         "confidence": 0.596, 
+         "final": false
+      }, 
+      {
+         "from": 5.43, 
+         "to": 5.95, 
+         "speaker": 1, 
+         "confidence": 0.596, 
+         "final": false
+      }, 
+      {
+         "from": 5.98, 
+         "to": 6.44, 
+         "speaker": 1, 
+         "confidence": 0.538, 
+         "final": false
+      }, 
+      {
+         "from": 6.44, 
+         "to": 6.56, 
+         "speaker": 1, 
+         "confidence": 0.538, 
+         "final": false
+      }, 
+      {
+         "from": 6.56, 
+         "to": 7.33, 
+         "speaker": 1, 
+         "confidence": 0.538, 
+         "final": false
+      }, 
+      {
+         "from": 7.33, 
+         "to": 7.47, 
+         "speaker": 1, 
+         "confidence": 0.538, 
+         "final": false
+      }, 
+      {
+         "from": 7.47, 
+         "to": 7.58, 
+         "speaker": 1, 
+         "confidence": 0.538, 
+         "final": false
+      }, 
+      {
+         "from": 7.58, 
+         "to": 8.56, 
+         "speaker": 1, 
+         "confidence": 0.538, 
+         "final": false
+      }, 
+      {
+         "from": 8.59, 
+         "to": 8.73, 
+         "speaker": 1, 
+         "confidence": 0.614, 
+         "final": false
+      }, 
+      {
+         "from": 8.73, 
+         "to": 8.98, 
+         "speaker": 1, 
+         "confidence": 0.614, 
+         "final": true
+      }
+   ]
+}

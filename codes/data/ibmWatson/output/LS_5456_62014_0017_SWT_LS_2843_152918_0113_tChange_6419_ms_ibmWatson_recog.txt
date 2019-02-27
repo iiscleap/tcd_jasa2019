@@ -1,0 +1,352 @@
+ {
+   "results": [
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "and", 
+                     0.35, 
+                     0.53
+                  ], 
+                  [
+                     "did", 
+                     0.53, 
+                     0.68
+                  ], 
+                  [
+                     "he", 
+                     0.68, 
+                     0.83
+                  ], 
+                  [
+                     "ever", 
+                     0.83, 
+                     1.02
+                  ], 
+                  [
+                     "come", 
+                     1.02, 
+                     1.23
+                  ], 
+                  [
+                     "back", 
+                     1.23, 
+                     1.52
+                  ], 
+                  [
+                     "said", 
+                     1.66, 
+                     2.03
+                  ], 
+                  [
+                     "Ned", 
+                     2.03, 
+                     2.4
+                  ], 
+                  [
+                     "Nossa", 
+                     2.82, 
+                     3.53
+                  ], 
+                  [
+                     "Daddy", 
+                     3.69, 
+                     4.04
+                  ], 
+                  [
+                     "didn't", 
+                     4.04, 
+                     4.49
+                  ], 
+                  [
+                     "he", 
+                     4.72, 
+                     4.87
+                  ], 
+                  [
+                     "was", 
+                     4.87, 
+                     5.03
+                  ], 
+                  [
+                     "to", 
+                     5.03, 
+                     5.22
+                  ], 
+                  [
+                     "shame", 
+                     5.22, 
+                     5.6
+                  ], 
+                  [
+                     "to", 
+                     5.6, 
+                     5.7
+                  ], 
+                  [
+                     "calm", 
+                     5.7, 
+                     6.04
+                  ], 
+                  [
+                     "peaks", 
+                     6.31, 
+                     6.75
+                  ], 
+                  [
+                     "of", 
+                     6.75, 
+                     6.86
+                  ], 
+                  [
+                     "the", 
+                     6.86, 
+                     6.95
+                  ], 
+                  [
+                     "most", 
+                     6.95, 
+                     7.27
+                  ], 
+                  [
+                     "very", 
+                     7.27, 
+                     7.6
+                  ], 
+                  [
+                     "form", 
+                     7.6, 
+                     8.03
+                  ]
+               ], 
+               "confidence": 0.784, 
+               "transcript": "and did he ever come back said Ned Nossa Daddy didn't he was to shame to calm peaks of the most very form "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "rose", 
+                     8.2, 
+                     8.45
+                  ], 
+                  [
+                     "high", 
+                     8.45, 
+                     8.84
+                  ]
+               ], 
+               "confidence": 0.62, 
+               "transcript": "rose high "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "there", 
+                     9.53, 
+                     9.86
+                  ]
+               ], 
+               "confidence": 0.191, 
+               "transcript": "there "
+            }
+         ], 
+         "final": true
+      }
+   ], 
+   "result_index": 0, 
+   "speaker_labels": [
+      {
+         "from": 0.35, 
+         "to": 0.53, 
+         "speaker": 0, 
+         "confidence": 0.362, 
+         "final": false
+      }, 
+      {
+         "from": 0.53, 
+         "to": 0.68, 
+         "speaker": 0, 
+         "confidence": 0.362, 
+         "final": false
+      }, 
+      {
+         "from": 0.68, 
+         "to": 0.83, 
+         "speaker": 0, 
+         "confidence": 0.362, 
+         "final": false
+      }, 
+      {
+         "from": 0.83, 
+         "to": 1.02, 
+         "speaker": 0, 
+         "confidence": 0.362, 
+         "final": false
+      }, 
+      {
+         "from": 1.02, 
+         "to": 1.23, 
+         "speaker": 0, 
+         "confidence": 0.362, 
+         "final": false
+      }, 
+      {
+         "from": 1.23, 
+         "to": 1.52, 
+         "speaker": 0, 
+         "confidence": 0.362, 
+         "final": false
+      }, 
+      {
+         "from": 1.66, 
+         "to": 2.03, 
+         "speaker": 0, 
+         "confidence": 0.481, 
+         "final": false
+      }, 
+      {
+         "from": 2.03, 
+         "to": 2.4, 
+         "speaker": 0, 
+         "confidence": 0.481, 
+         "final": false
+      }, 
+      {
+         "from": 2.82, 
+         "to": 3.53, 
+         "speaker": 0, 
+         "confidence": 0.353, 
+         "final": false
+      }, 
+      {
+         "from": 3.69, 
+         "to": 4.04, 
+         "speaker": 0, 
+         "confidence": 0.358, 
+         "final": false
+      }, 
+      {
+         "from": 4.04, 
+         "to": 4.49, 
+         "speaker": 0, 
+         "confidence": 0.358, 
+         "final": false
+      }, 
+      {
+         "from": 4.72, 
+         "to": 4.87, 
+         "speaker": 0, 
+         "confidence": 0.428, 
+         "final": false
+      }, 
+      {
+         "from": 4.87, 
+         "to": 5.03, 
+         "speaker": 0, 
+         "confidence": 0.428, 
+         "final": false
+      }, 
+      {
+         "from": 5.03, 
+         "to": 5.22, 
+         "speaker": 0, 
+         "confidence": 0.428, 
+         "final": false
+      }, 
+      {
+         "from": 5.22, 
+         "to": 5.6, 
+         "speaker": 0, 
+         "confidence": 0.428, 
+         "final": false
+      }, 
+      {
+         "from": 5.6, 
+         "to": 5.7, 
+         "speaker": 0, 
+         "confidence": 0.428, 
+         "final": false
+      }, 
+      {
+         "from": 5.7, 
+         "to": 6.04, 
+         "speaker": 0, 
+         "confidence": 0.428, 
+         "final": false
+      }, 
+      {
+         "from": 6.31, 
+         "to": 6.75, 
+         "speaker": 3, 
+         "confidence": 0.407, 
+         "final": false
+      }, 
+      {
+         "from": 6.75, 
+         "to": 6.86, 
+         "speaker": 3, 
+         "confidence": 0.407, 
+         "final": false
+      }, 
+      {
+         "from": 6.86, 
+         "to": 6.95, 
+         "speaker": 3, 
+         "confidence": 0.407, 
+         "final": false
+      }, 
+      {
+         "from": 6.95, 
+         "to": 7.27, 
+         "speaker": 3, 
+         "confidence": 0.407, 
+         "final": false
+      }, 
+      {
+         "from": 7.27, 
+         "to": 7.6, 
+         "speaker": 3, 
+         "confidence": 0.407, 
+         "final": false
+      }, 
+      {
+         "from": 7.6, 
+         "to": 8.03, 
+         "speaker": 3, 
+         "confidence": 0.407, 
+         "final": false
+      }, 
+      {
+         "from": 8.2, 
+         "to": 8.45, 
+         "speaker": 3, 
+         "confidence": 0.489, 
+         "final": false
+      }, 
+      {
+         "from": 8.45, 
+         "to": 8.84, 
+         "speaker": 3, 
+         "confidence": 0.489, 
+         "final": false
+      }, 
+      {
+         "from": 9.53, 
+         "to": 9.86, 
+         "speaker": 3, 
+         "confidence": 0.568, 
+         "final": true
+      }
+   ]
+}

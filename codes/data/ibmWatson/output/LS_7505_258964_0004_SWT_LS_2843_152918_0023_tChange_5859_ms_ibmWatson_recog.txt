@@ -1,0 +1,257 @@
+{
+   "results": [
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "somewhere", 
+                     0.48, 
+                     1.14
+                  ], 
+                  [
+                     "however", 
+                     1.14, 
+                     1.78
+                  ], 
+                  [
+                     "the", 
+                     1.78, 
+                     2.01
+                  ], 
+                  [
+                     "desire", 
+                     2.01, 
+                     2.67
+                  ], 
+                  [
+                     "for", 
+                     2.67, 
+                     2.86
+                  ], 
+                  [
+                     "these", 
+                     2.86, 
+                     3.16
+                  ], 
+                  [
+                     "changes", 
+                     3.16, 
+                     3.92
+                  ], 
+                  [
+                     "must", 
+                     4.18, 
+                     4.77
+                  ], 
+                  [
+                     "arise", 
+                     4.81, 
+                     5.59
+                  ]
+               ], 
+               "confidence": 0.876, 
+               "transcript": "somewhere however the desire for these changes must arise "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "the", 
+                     5.92, 
+                     6.02
+                  ], 
+                  [
+                     "rapid", 
+                     6.02, 
+                     6.46
+                  ], 
+                  [
+                     "pace", 
+                     6.46, 
+                     6.76
+                  ], 
+                  [
+                     "afterwards", 
+                     6.76, 
+                     7.62
+                  ], 
+                  [
+                     "had", 
+                     7.98, 
+                     8.2
+                  ], 
+                  [
+                     "made", 
+                     8.2, 
+                     8.4
+                  ], 
+                  [
+                     "it", 
+                     8.4, 
+                     8.49
+                  ], 
+                  [
+                     "impossible", 
+                     8.49, 
+                     9.23
+                  ], 
+                  [
+                     "to", 
+                     9.23, 
+                     9.4
+                  ], 
+                  [
+                     "walk", 
+                     9.4, 
+                     9.62
+                  ]
+               ], 
+               "confidence": 0.967, 
+               "transcript": "the rapid pace afterwards had made it impossible to walk "
+            }
+         ], 
+         "final": true
+      }
+   ], 
+   "result_index": 0, 
+   "speaker_labels": [
+      {
+         "from": 0.48, 
+         "to": 1.14, 
+         "speaker": 0, 
+         "confidence": 0.502, 
+         "final": false
+      }, 
+      {
+         "from": 1.14, 
+         "to": 1.78, 
+         "speaker": 0, 
+         "confidence": 0.502, 
+         "final": false
+      }, 
+      {
+         "from": 1.78, 
+         "to": 2.01, 
+         "speaker": 0, 
+         "confidence": 0.502, 
+         "final": false
+      }, 
+      {
+         "from": 2.01, 
+         "to": 2.67, 
+         "speaker": 0, 
+         "confidence": 0.502, 
+         "final": false
+      }, 
+      {
+         "from": 2.67, 
+         "to": 2.86, 
+         "speaker": 0, 
+         "confidence": 0.502, 
+         "final": false
+      }, 
+      {
+         "from": 2.86, 
+         "to": 3.16, 
+         "speaker": 0, 
+         "confidence": 0.502, 
+         "final": false
+      }, 
+      {
+         "from": 3.16, 
+         "to": 3.92, 
+         "speaker": 0, 
+         "confidence": 0.502, 
+         "final": false
+      }, 
+      {
+         "from": 4.18, 
+         "to": 4.77, 
+         "speaker": 1, 
+         "confidence": 0.501, 
+         "final": false
+      }, 
+      {
+         "from": 4.81, 
+         "to": 5.59, 
+         "speaker": 2, 
+         "confidence": 0.497, 
+         "final": false
+      }, 
+      {
+         "from": 5.92, 
+         "to": 6.02, 
+         "speaker": 3, 
+         "confidence": 0.397, 
+         "final": false
+      }, 
+      {
+         "from": 6.02, 
+         "to": 6.46, 
+         "speaker": 3, 
+         "confidence": 0.397, 
+         "final": false
+      }, 
+      {
+         "from": 6.46, 
+         "to": 6.76, 
+         "speaker": 3, 
+         "confidence": 0.397, 
+         "final": false
+      }, 
+      {
+         "from": 6.76, 
+         "to": 7.62, 
+         "speaker": 3, 
+         "confidence": 0.397, 
+         "final": false
+      }, 
+      {
+         "from": 7.98, 
+         "to": 8.2, 
+         "speaker": 3, 
+         "confidence": 0.389, 
+         "final": false
+      }, 
+      {
+         "from": 8.2, 
+         "to": 8.4, 
+         "speaker": 3, 
+         "confidence": 0.389, 
+         "final": false
+      }, 
+      {
+         "from": 8.4, 
+         "to": 8.49, 
+         "speaker": 3, 
+         "confidence": 0.389, 
+         "final": false
+      }, 
+      {
+         "from": 8.49, 
+         "to": 9.23, 
+         "speaker": 3, 
+         "confidence": 0.389, 
+         "final": false
+      }, 
+      {
+         "from": 9.23, 
+         "to": 9.4, 
+         "speaker": 3, 
+         "confidence": 0.389, 
+         "final": false
+      }, 
+      {
+         "from": 9.4, 
+         "to": 9.62, 
+         "speaker": 3, 
+         "confidence": 0.389, 
+         "final": true
+      }
+   ]
+}

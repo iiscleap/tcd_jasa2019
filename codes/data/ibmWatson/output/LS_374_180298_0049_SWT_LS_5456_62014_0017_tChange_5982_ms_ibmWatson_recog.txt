@@ -1,0 +1,328 @@
+{
+   "results": [
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "end", 
+                     0.18, 
+                     0.5
+                  ], 
+                  [
+                     "of", 
+                     0.5, 
+                     0.64
+                  ], 
+                  [
+                     "her", 
+                     0.64, 
+                     0.79
+                  ], 
+                  [
+                     "unity", 
+                     0.79, 
+                     1.38
+                  ], 
+                  [
+                     "at", 
+                     1.38, 
+                     1.63
+                  ], 
+                  [
+                     "the", 
+                     1.63, 
+                     1.72
+                  ], 
+                  [
+                     "contact", 
+                     1.72, 
+                     2.4
+                  ], 
+                  [
+                     "of", 
+                     2.4, 
+                     2.56
+                  ], 
+                  [
+                     "men", 
+                     2.56, 
+                     2.83
+                  ], 
+                  [
+                     "and", 
+                     2.83, 
+                     3.03
+                  ], 
+                  [
+                     "things", 
+                     3.03, 
+                     3.69
+                  ]
+               ], 
+               "confidence": 0.907, 
+               "transcript": "end of her unity at the contact of men and things "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "as", 
+                     4.51, 
+                     4.76
+                  ], 
+                  [
+                     "for", 
+                     4.76, 
+                     4.93
+                  ], 
+                  [
+                     "me", 
+                     4.93, 
+                     5.43
+                  ]
+               ], 
+               "confidence": 0.988, 
+               "transcript": "as for me "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "and", 
+                     5.93, 
+                     6.11
+                  ], 
+                  [
+                     "did", 
+                     6.11, 
+                     6.26
+                  ], 
+                  [
+                     "he", 
+                     6.26, 
+                     6.41
+                  ], 
+                  [
+                     "ever", 
+                     6.41, 
+                     6.6
+                  ], 
+                  [
+                     "come", 
+                     6.6, 
+                     6.81
+                  ], 
+                  [
+                     "back", 
+                     6.81, 
+                     7.1
+                  ], 
+                  [
+                     "said", 
+                     7.24, 
+                     7.61
+                  ], 
+                  [
+                     "Ned", 
+                     7.61, 
+                     7.98
+                  ], 
+                  [
+                     "Nasir", 
+                     8.4, 
+                     8.93
+                  ], 
+                  [
+                     "Daddy", 
+                     9.27, 
+                     9.56
+                  ]
+               ], 
+               "confidence": 0.656, 
+               "transcript": "and did he ever come back said Ned Nasir Daddy "
+            }
+         ], 
+         "final": true
+      }
+   ], 
+   "result_index": 0, 
+   "speaker_labels": [
+      {
+         "from": 0.18, 
+         "to": 0.5, 
+         "speaker": 0, 
+         "confidence": 0.5, 
+         "final": false
+      }, 
+      {
+         "from": 0.5, 
+         "to": 0.64, 
+         "speaker": 0, 
+         "confidence": 0.5, 
+         "final": false
+      }, 
+      {
+         "from": 0.64, 
+         "to": 0.79, 
+         "speaker": 0, 
+         "confidence": 0.5, 
+         "final": false
+      }, 
+      {
+         "from": 0.79, 
+         "to": 1.38, 
+         "speaker": 0, 
+         "confidence": 0.5, 
+         "final": false
+      }, 
+      {
+         "from": 1.38, 
+         "to": 1.63, 
+         "speaker": 0, 
+         "confidence": 0.5, 
+         "final": false
+      }, 
+      {
+         "from": 1.63, 
+         "to": 1.72, 
+         "speaker": 0, 
+         "confidence": 0.5, 
+         "final": false
+      }, 
+      {
+         "from": 1.72, 
+         "to": 2.4, 
+         "speaker": 0, 
+         "confidence": 0.5, 
+         "final": false
+      }, 
+      {
+         "from": 2.4, 
+         "to": 2.56, 
+         "speaker": 0, 
+         "confidence": 0.5, 
+         "final": false
+      }, 
+      {
+         "from": 2.56, 
+         "to": 2.83, 
+         "speaker": 0, 
+         "confidence": 0.5, 
+         "final": false
+      }, 
+      {
+         "from": 2.83, 
+         "to": 3.03, 
+         "speaker": 0, 
+         "confidence": 0.5, 
+         "final": false
+      }, 
+      {
+         "from": 3.03, 
+         "to": 3.69, 
+         "speaker": 0, 
+         "confidence": 0.5, 
+         "final": false
+      }, 
+      {
+         "from": 4.51, 
+         "to": 4.76, 
+         "speaker": 0, 
+         "confidence": 0.488, 
+         "final": false
+      }, 
+      {
+         "from": 4.76, 
+         "to": 4.93, 
+         "speaker": 0, 
+         "confidence": 0.488, 
+         "final": false
+      }, 
+      {
+         "from": 4.93, 
+         "to": 5.43, 
+         "speaker": 0, 
+         "confidence": 0.488, 
+         "final": false
+      }, 
+      {
+         "from": 5.93, 
+         "to": 6.11, 
+         "speaker": 1, 
+         "confidence": 0.398, 
+         "final": false
+      }, 
+      {
+         "from": 6.11, 
+         "to": 6.26, 
+         "speaker": 1, 
+         "confidence": 0.398, 
+         "final": false
+      }, 
+      {
+         "from": 6.26, 
+         "to": 6.41, 
+         "speaker": 1, 
+         "confidence": 0.398, 
+         "final": false
+      }, 
+      {
+         "from": 6.41, 
+         "to": 6.6, 
+         "speaker": 1, 
+         "confidence": 0.398, 
+         "final": false
+      }, 
+      {
+         "from": 6.6, 
+         "to": 6.81, 
+         "speaker": 1, 
+         "confidence": 0.398, 
+         "final": false
+      }, 
+      {
+         "from": 6.81, 
+         "to": 7.1, 
+         "speaker": 1, 
+         "confidence": 0.398, 
+         "final": false
+      }, 
+      {
+         "from": 7.24, 
+         "to": 7.61, 
+         "speaker": 1, 
+         "confidence": 0.383, 
+         "final": false
+      }, 
+      {
+         "from": 7.61, 
+         "to": 7.98, 
+         "speaker": 1, 
+         "confidence": 0.383, 
+         "final": false
+      }, 
+      {
+         "from": 8.4, 
+         "to": 8.93, 
+         "speaker": 1, 
+         "confidence": 0.442, 
+         "final": false
+      }, 
+      {
+         "from": 9.27, 
+         "to": 9.56, 
+         "speaker": 2, 
+         "confidence": 0.448, 
+         "final": true
+      }
+   ]
+}

@@ -1,0 +1,352 @@
+{
+   "results": [
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "my", 
+                     0.21, 
+                     0.41
+                  ], 
+                  [
+                     "father", 
+                     0.41, 
+                     0.8
+                  ], 
+                  [
+                     "was", 
+                     0.8, 
+                     1.39
+                  ], 
+                  [
+                     "and", 
+                     1.42, 
+                     1.64
+                  ], 
+                  [
+                     "still", 
+                     1.64, 
+                     1.99
+                  ], 
+                  [
+                     "is", 
+                     1.99, 
+                     2.47
+                  ], 
+                  [
+                     "receiver", 
+                     2.53, 
+                     3.05
+                  ], 
+                  [
+                     "general", 
+                     3.05, 
+                     3.53
+                  ], 
+                  [
+                     "at", 
+                     3.53, 
+                     3.73
+                  ], 
+                  [
+                     "sea", 
+                     3.73, 
+                     4.19
+                  ]
+               ], 
+               "confidence": 0.965, 
+               "transcript": "my father was and still is receiver general at sea "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "he", 
+                     4.87, 
+                     5.02
+                  ], 
+                  [
+                     "has", 
+                     5.02, 
+                     5.19
+                  ], 
+                  [
+                     "a", 
+                     5.19, 
+                     5.27
+                  ], 
+                  [
+                     "great", 
+                     5.27, 
+                     5.61
+                  ]
+               ], 
+               "confidence": 0.853, 
+               "transcript": "he has a great "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "scholars", 
+                     5.94, 
+                     6.53
+                  ], 
+                  [
+                     "like", 
+                     6.53, 
+                     6.75
+                  ], 
+                  [
+                     "why", 
+                     6.75, 
+                     6.95
+                  ], 
+                  [
+                     "seven", 
+                     6.95, 
+                     7.26
+                  ], 
+                  [
+                     "term", 
+                     7.26, 
+                     7.45
+                  ], 
+                  [
+                     "for", 
+                     7.48, 
+                     7.58
+                  ], 
+                  [
+                     "the", 
+                     7.58, 
+                     7.82
+                  ], 
+                  [
+                     "mother", 
+                     7.82, 
+                     8.22
+                  ], 
+                  [
+                     "to", 
+                     8.22, 
+                     8.38
+                  ], 
+                  [
+                     "mean", 
+                     8.38, 
+                     8.85
+                  ], 
+                  [
+                     "the", 
+                     8.91, 
+                     9.13
+                  ], 
+                  [
+                     "dawn", 
+                     9.13, 
+                     9.56
+                  ]
+               ], 
+               "confidence": 0.809, 
+               "transcript": "scholars like why seven term for the mother to mean the dawn "
+            }
+         ], 
+         "final": true
+      }
+   ], 
+   "result_index": 0, 
+   "speaker_labels": [
+      {
+         "from": 0.21, 
+         "to": 0.41, 
+         "speaker": 0, 
+         "confidence": 0.547, 
+         "final": false
+      }, 
+      {
+         "from": 0.41, 
+         "to": 0.8, 
+         "speaker": 0, 
+         "confidence": 0.547, 
+         "final": false
+      }, 
+      {
+         "from": 0.8, 
+         "to": 1.39, 
+         "speaker": 0, 
+         "confidence": 0.547, 
+         "final": false
+      }, 
+      {
+         "from": 1.42, 
+         "to": 1.64, 
+         "speaker": 0, 
+         "confidence": 0.503, 
+         "final": false
+      }, 
+      {
+         "from": 1.64, 
+         "to": 1.99, 
+         "speaker": 0, 
+         "confidence": 0.503, 
+         "final": false
+      }, 
+      {
+         "from": 1.99, 
+         "to": 2.47, 
+         "speaker": 0, 
+         "confidence": 0.503, 
+         "final": false
+      }, 
+      {
+         "from": 2.53, 
+         "to": 3.05, 
+         "speaker": 0, 
+         "confidence": 0.568, 
+         "final": false
+      }, 
+      {
+         "from": 3.05, 
+         "to": 3.53, 
+         "speaker": 0, 
+         "confidence": 0.568, 
+         "final": false
+      }, 
+      {
+         "from": 3.53, 
+         "to": 3.73, 
+         "speaker": 0, 
+         "confidence": 0.568, 
+         "final": false
+      }, 
+      {
+         "from": 3.73, 
+         "to": 4.19, 
+         "speaker": 0, 
+         "confidence": 0.568, 
+         "final": false
+      }, 
+      {
+         "from": 4.87, 
+         "to": 5.02, 
+         "speaker": 0, 
+         "confidence": 0.521, 
+         "final": false
+      }, 
+      {
+         "from": 5.02, 
+         "to": 5.19, 
+         "speaker": 0, 
+         "confidence": 0.521, 
+         "final": false
+      }, 
+      {
+         "from": 5.19, 
+         "to": 5.27, 
+         "speaker": 0, 
+         "confidence": 0.521, 
+         "final": false
+      }, 
+      {
+         "from": 5.27, 
+         "to": 5.61, 
+         "speaker": 0, 
+         "confidence": 0.521, 
+         "final": false
+      }, 
+      {
+         "from": 5.94, 
+         "to": 6.53, 
+         "speaker": 1, 
+         "confidence": 0.557, 
+         "final": false
+      }, 
+      {
+         "from": 6.53, 
+         "to": 6.75, 
+         "speaker": 1, 
+         "confidence": 0.557, 
+         "final": false
+      }, 
+      {
+         "from": 6.75, 
+         "to": 6.95, 
+         "speaker": 1, 
+         "confidence": 0.557, 
+         "final": false
+      }, 
+      {
+         "from": 6.95, 
+         "to": 7.26, 
+         "speaker": 1, 
+         "confidence": 0.557, 
+         "final": false
+      }, 
+      {
+         "from": 7.26, 
+         "to": 7.45, 
+         "speaker": 1, 
+         "confidence": 0.557, 
+         "final": false
+      }, 
+      {
+         "from": 7.48, 
+         "to": 7.58, 
+         "speaker": 1, 
+         "confidence": 0.608, 
+         "final": false
+      }, 
+      {
+         "from": 7.58, 
+         "to": 7.82, 
+         "speaker": 1, 
+         "confidence": 0.608, 
+         "final": false
+      }, 
+      {
+         "from": 7.82, 
+         "to": 8.22, 
+         "speaker": 1, 
+         "confidence": 0.608, 
+         "final": false
+      }, 
+      {
+         "from": 8.22, 
+         "to": 8.38, 
+         "speaker": 1, 
+         "confidence": 0.608, 
+         "final": false
+      }, 
+      {
+         "from": 8.38, 
+         "to": 8.85, 
+         "speaker": 1, 
+         "confidence": 0.608, 
+         "final": false
+      }, 
+      {
+         "from": 8.91, 
+         "to": 9.13, 
+         "speaker": 1, 
+         "confidence": 0.586, 
+         "final": false
+      }, 
+      {
+         "from": 9.13, 
+         "to": 9.56, 
+         "speaker": 1, 
+         "confidence": 0.586, 
+         "final": true
+      }
+   ]
+}

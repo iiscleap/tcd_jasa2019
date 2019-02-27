@@ -1,0 +1,353 @@
+{
+   "results": [
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "I", 
+                     0.31, 
+                     0.42
+                  ], 
+                  [
+                     "wished", 
+                     0.42, 
+                     0.76
+                  ], 
+                  [
+                     "above", 
+                     0.76, 
+                     1.07
+                  ], 
+                  [
+                     "all", 
+                     1.07, 
+                     1.31
+                  ], 
+                  [
+                     "not", 
+                     1.31, 
+                     1.59
+                  ], 
+                  [
+                     "to", 
+                     1.59, 
+                     1.74
+                  ], 
+                  [
+                     "leave", 
+                     1.74, 
+                     1.96
+                  ], 
+                  [
+                     "myself", 
+                     1.96, 
+                     2.43
+                  ], 
+                  [
+                     "time", 
+                     2.43, 
+                     2.77
+                  ], 
+                  [
+                     "to", 
+                     2.77, 
+                     2.88
+                  ], 
+                  [
+                     "think", 
+                     2.88, 
+                     3.2
+                  ], 
+                  [
+                     "over", 
+                     3.2, 
+                     3.44
+                  ], 
+                  [
+                     "the", 
+                     3.44, 
+                     3.54
+                  ], 
+                  [
+                     "position", 
+                     3.54, 
+                     4.09
+                  ], 
+                  [
+                     "I", 
+                     4.09, 
+                     4.2
+                  ], 
+                  [
+                     "had", 
+                     4.2, 
+                     4.39
+                  ], 
+                  [
+                     "accepted", 
+                     4.39, 
+                     5.08
+                  ]
+               ], 
+               "confidence": 0.894, 
+               "transcript": "I wished above all not to leave myself time to think over the position I had accepted "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "voice", 
+                     5.43, 
+                     5.79
+                  ], 
+                  [
+                     "from", 
+                     5.79, 
+                     5.94
+                  ], 
+                  [
+                     "New", 
+                     5.94, 
+                     6.08
+                  ], 
+                  [
+                     "Orleans", 
+                     6.08, 
+                     6.45
+                  ], 
+                  [
+                     "to", 
+                     6.45, 
+                     6.55
+                  ], 
+                  [
+                     "Vicksburg", 
+                     6.55, 
+                     7.11
+                  ], 
+                  [
+                     "in", 
+                     7.11, 
+                     7.2
+                  ], 
+                  [
+                     "back", 
+                     7.2, 
+                     7.64
+                  ], 
+                  [
+                     "including", 
+                     7.95, 
+                     8.47
+                  ], 
+                  [
+                     "stoppages", 
+                     8.47, 
+                     9.07
+                  ]
+               ], 
+               "confidence": 0.945, 
+               "transcript": "voice from New Orleans to Vicksburg in back including stoppages "
+            }
+         ], 
+         "final": true
+      }
+   ], 
+   "result_index": 0, 
+   "speaker_labels": [
+      {
+         "from": 0.31, 
+         "to": 0.42, 
+         "speaker": 0, 
+         "confidence": 0.5, 
+         "final": false
+      }, 
+      {
+         "from": 0.42, 
+         "to": 0.76, 
+         "speaker": 0, 
+         "confidence": 0.5, 
+         "final": false
+      }, 
+      {
+         "from": 0.76, 
+         "to": 1.07, 
+         "speaker": 0, 
+         "confidence": 0.5, 
+         "final": false
+      }, 
+      {
+         "from": 1.07, 
+         "to": 1.31, 
+         "speaker": 0, 
+         "confidence": 0.5, 
+         "final": false
+      }, 
+      {
+         "from": 1.31, 
+         "to": 1.59, 
+         "speaker": 0, 
+         "confidence": 0.5, 
+         "final": false
+      }, 
+      {
+         "from": 1.59, 
+         "to": 1.74, 
+         "speaker": 0, 
+         "confidence": 0.5, 
+         "final": false
+      }, 
+      {
+         "from": 1.74, 
+         "to": 1.96, 
+         "speaker": 0, 
+         "confidence": 0.5, 
+         "final": false
+      }, 
+      {
+         "from": 1.96, 
+         "to": 2.43, 
+         "speaker": 0, 
+         "confidence": 0.5, 
+         "final": false
+      }, 
+      {
+         "from": 2.43, 
+         "to": 2.77, 
+         "speaker": 0, 
+         "confidence": 0.5, 
+         "final": false
+      }, 
+      {
+         "from": 2.77, 
+         "to": 2.88, 
+         "speaker": 0, 
+         "confidence": 0.5, 
+         "final": false
+      }, 
+      {
+         "from": 2.88, 
+         "to": 3.2, 
+         "speaker": 0, 
+         "confidence": 0.5, 
+         "final": false
+      }, 
+      {
+         "from": 3.2, 
+         "to": 3.44, 
+         "speaker": 0, 
+         "confidence": 0.5, 
+         "final": false
+      }, 
+      {
+         "from": 3.44, 
+         "to": 3.54, 
+         "speaker": 0, 
+         "confidence": 0.5, 
+         "final": false
+      }, 
+      {
+         "from": 3.54, 
+         "to": 4.09, 
+         "speaker": 0, 
+         "confidence": 0.5, 
+         "final": false
+      }, 
+      {
+         "from": 4.09, 
+         "to": 4.2, 
+         "speaker": 0, 
+         "confidence": 0.5, 
+         "final": false
+      }, 
+      {
+         "from": 4.2, 
+         "to": 4.39, 
+         "speaker": 0, 
+         "confidence": 0.5, 
+         "final": false
+      }, 
+      {
+         "from": 4.39, 
+         "to": 5.08, 
+         "speaker": 0, 
+         "confidence": 0.5, 
+         "final": false
+      }, 
+      {
+         "from": 5.43, 
+         "to": 5.79, 
+         "speaker": 1, 
+         "confidence": 0.479, 
+         "final": false
+      }, 
+      {
+         "from": 5.79, 
+         "to": 5.94, 
+         "speaker": 1, 
+         "confidence": 0.479, 
+         "final": false
+      }, 
+      {
+         "from": 5.94, 
+         "to": 6.08, 
+         "speaker": 1, 
+         "confidence": 0.479, 
+         "final": false
+      }, 
+      {
+         "from": 6.08, 
+         "to": 6.45, 
+         "speaker": 1, 
+         "confidence": 0.479, 
+         "final": false
+      }, 
+      {
+         "from": 6.45, 
+         "to": 6.55, 
+         "speaker": 1, 
+         "confidence": 0.479, 
+         "final": false
+      }, 
+      {
+         "from": 6.55, 
+         "to": 7.11, 
+         "speaker": 1, 
+         "confidence": 0.479, 
+         "final": false
+      }, 
+      {
+         "from": 7.11, 
+         "to": 7.2, 
+         "speaker": 1, 
+         "confidence": 0.479, 
+         "final": false
+      }, 
+      {
+         "from": 7.2, 
+         "to": 7.64, 
+         "speaker": 1, 
+         "confidence": 0.479, 
+         "final": false
+      }, 
+      {
+         "from": 7.95, 
+         "to": 8.47, 
+         "speaker": 2, 
+         "confidence": 0.471, 
+         "final": false
+      }, 
+      {
+         "from": 8.47, 
+         "to": 9.07, 
+         "speaker": 2, 
+         "confidence": 0.471, 
+         "final": true
+      }
+   ]
+}

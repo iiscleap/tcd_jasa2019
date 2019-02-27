@@ -1,0 +1,363 @@
+{
+   "results": [
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "scholars", 
+                     0.32, 
+                     0.91
+                  ], 
+                  [
+                     "like", 
+                     0.91, 
+                     1.14
+                  ], 
+                  [
+                     "why", 
+                     1.14, 
+                     1.32
+                  ], 
+                  [
+                     "seven", 
+                     1.32, 
+                     1.67
+                  ], 
+                  [
+                     "separate", 
+                     1.67, 
+                     2.13
+                  ], 
+                  [
+                     "the", 
+                     2.13, 
+                     2.21
+                  ], 
+                  [
+                     "mother", 
+                     2.21, 
+                     2.6
+                  ], 
+                  [
+                     "to", 
+                     2.6, 
+                     2.77
+                  ], 
+                  [
+                     "mean", 
+                     2.77, 
+                     3.24
+                  ], 
+                  [
+                     "the", 
+                     3.32, 
+                     3.51
+                  ], 
+                  [
+                     "dawn", 
+                     3.51, 
+                     4.08
+                  ], 
+                  [
+                     "the", 
+                     4.33, 
+                     4.46
+                  ], 
+                  [
+                     "twins", 
+                     4.46, 
+                     5.11
+                  ], 
+                  [
+                     "either", 
+                     5.14, 
+                     5.51
+                  ], 
+                  [
+                     "light", 
+                     5.51, 
+                     5.96
+                  ], 
+                  [
+                     "the", 
+                     6.14, 
+                     6.24
+                  ], 
+                  [
+                     "most", 
+                     6.24, 
+                     6.65
+                  ], 
+                  [
+                     "on", 
+                     6.76, 
+                     6.92
+                  ], 
+                  [
+                     "a", 
+                     6.92, 
+                     6.98
+                  ], 
+                  [
+                     "custom", 
+                     6.98, 
+                     7.47
+                  ]
+               ], 
+               "confidence": 0.855, 
+               "transcript": "scholars like why seven separate the mother to mean the dawn the twins either light the most on a custom "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "and", 
+                     7.54, 
+                     7.78
+                  ], 
+                  [
+                     "of", 
+                     7.9, 
+                     8.1
+                  ], 
+                  [
+                     "his", 
+                     8.1, 
+                     8.27
+                  ]
+               ], 
+               "confidence": 0.908, 
+               "transcript": "and of his "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "complicate", 
+                     8.45, 
+                     8.93
+                  ]
+               ], 
+               "confidence": 1.0, 
+               "transcript": "complicate "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "matic", 
+                     9.27, 
+                     9.58
+                  ], 
+                  [
+                     "much", 
+                     9.58, 
+                     9.8
+                  ]
+               ], 
+               "confidence": 0.459, 
+               "transcript": "matic much "
+            }
+         ], 
+         "final": true
+      }
+   ], 
+   "result_index": 0, 
+   "speaker_labels": [
+      {
+         "from": 0.32, 
+         "to": 0.91, 
+         "speaker": 0, 
+         "confidence": 0.353, 
+         "final": false
+      }, 
+      {
+         "from": 0.91, 
+         "to": 1.14, 
+         "speaker": 0, 
+         "confidence": 0.353, 
+         "final": false
+      }, 
+      {
+         "from": 1.14, 
+         "to": 1.32, 
+         "speaker": 0, 
+         "confidence": 0.353, 
+         "final": false
+      }, 
+      {
+         "from": 1.32, 
+         "to": 1.67, 
+         "speaker": 0, 
+         "confidence": 0.353, 
+         "final": false
+      }, 
+      {
+         "from": 1.67, 
+         "to": 2.13, 
+         "speaker": 0, 
+         "confidence": 0.353, 
+         "final": false
+      }, 
+      {
+         "from": 2.13, 
+         "to": 2.21, 
+         "speaker": 0, 
+         "confidence": 0.353, 
+         "final": false
+      }, 
+      {
+         "from": 2.21, 
+         "to": 2.6, 
+         "speaker": 0, 
+         "confidence": 0.353, 
+         "final": false
+      }, 
+      {
+         "from": 2.6, 
+         "to": 2.77, 
+         "speaker": 0, 
+         "confidence": 0.353, 
+         "final": false
+      }, 
+      {
+         "from": 2.77, 
+         "to": 3.24, 
+         "speaker": 0, 
+         "confidence": 0.353, 
+         "final": false
+      }, 
+      {
+         "from": 3.32, 
+         "to": 3.51, 
+         "speaker": 0, 
+         "confidence": 0.364, 
+         "final": false
+      }, 
+      {
+         "from": 3.51, 
+         "to": 4.08, 
+         "speaker": 0, 
+         "confidence": 0.364, 
+         "final": false
+      }, 
+      {
+         "from": 4.33, 
+         "to": 4.46, 
+         "speaker": 0, 
+         "confidence": 0.485, 
+         "final": false
+      }, 
+      {
+         "from": 4.46, 
+         "to": 5.11, 
+         "speaker": 0, 
+         "confidence": 0.485, 
+         "final": false
+      }, 
+      {
+         "from": 5.14, 
+         "to": 5.51, 
+         "speaker": 0, 
+         "confidence": 0.521, 
+         "final": false
+      }, 
+      {
+         "from": 5.51, 
+         "to": 5.96, 
+         "speaker": 0, 
+         "confidence": 0.521, 
+         "final": false
+      }, 
+      {
+         "from": 6.14, 
+         "to": 6.24, 
+         "speaker": 3, 
+         "confidence": 0.417, 
+         "final": false
+      }, 
+      {
+         "from": 6.24, 
+         "to": 6.65, 
+         "speaker": 3, 
+         "confidence": 0.417, 
+         "final": false
+      }, 
+      {
+         "from": 6.76, 
+         "to": 6.92, 
+         "speaker": 3, 
+         "confidence": 0.406, 
+         "final": false
+      }, 
+      {
+         "from": 6.92, 
+         "to": 6.98, 
+         "speaker": 3, 
+         "confidence": 0.406, 
+         "final": false
+      }, 
+      {
+         "from": 6.98, 
+         "to": 7.47, 
+         "speaker": 3, 
+         "confidence": 0.406, 
+         "final": false
+      }, 
+      {
+         "from": 7.54, 
+         "to": 7.78, 
+         "speaker": 3, 
+         "confidence": 0.585, 
+         "final": false
+      }, 
+      {
+         "from": 7.9, 
+         "to": 8.1, 
+         "speaker": 3, 
+         "confidence": 0.559, 
+         "final": false
+      }, 
+      {
+         "from": 8.1, 
+         "to": 8.27, 
+         "speaker": 3, 
+         "confidence": 0.559, 
+         "final": false
+      }, 
+      {
+         "from": 8.45, 
+         "to": 8.93, 
+         "speaker": 3, 
+         "confidence": 0.545, 
+         "final": false
+      }, 
+      {
+         "from": 9.27, 
+         "to": 9.58, 
+         "speaker": 3, 
+         "confidence": 0.567, 
+         "final": false
+      }, 
+      {
+         "from": 9.58, 
+         "to": 9.8, 
+         "speaker": 3, 
+         "confidence": 0.567, 
+         "final": true
+      }
+   ]
+}

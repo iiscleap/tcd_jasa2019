@@ -1,0 +1,373 @@
+{
+   "results": [
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "the", 
+                     0.14, 
+                     0.27
+                  ], 
+                  [
+                     "Kerr", 
+                     0.27, 
+                     0.5
+                  ], 
+                  [
+                     "van", 
+                     0.5, 
+                     0.76
+                  ], 
+                  [
+                     "again", 
+                     0.76, 
+                     1.08
+                  ], 
+                  [
+                     "took", 
+                     1.08, 
+                     1.24
+                  ], 
+                  [
+                     "her", 
+                     1.24, 
+                     1.34
+                  ], 
+                  [
+                     "place", 
+                     1.34, 
+                     1.73
+                  ], 
+                  [
+                     "in", 
+                     1.73, 
+                     1.83
+                  ], 
+                  [
+                     "the", 
+                     1.83, 
+                     1.91
+                  ], 
+                  [
+                     "middle", 
+                     1.91, 
+                     2.11
+                  ], 
+                  [
+                     "of", 
+                     2.11, 
+                     2.2
+                  ], 
+                  [
+                     "the", 
+                     2.2, 
+                     2.3
+                  ], 
+                  [
+                     "stream", 
+                     2.3, 
+                     2.82
+                  ]
+               ], 
+               "confidence": 0.86, 
+               "transcript": "the Kerr van again took her place in the middle of the stream "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "paddling", 
+                     3.22, 
+                     3.66
+                  ]
+               ], 
+               "confidence": 0.443, 
+               "transcript": "paddling "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "usual", 
+                     4.05, 
+                     4.62
+                  ]
+               ], 
+               "confidence": 0.998, 
+               "transcript": "usual "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "the", 
+                     5.67, 
+                     5.76
+                  ], 
+                  [
+                     "last", 
+                     5.76, 
+                     6.02
+                  ], 
+                  [
+                     "of", 
+                     6.02, 
+                     6.11
+                  ], 
+                  [
+                     "the", 
+                     6.11, 
+                     6.19
+                  ], 
+                  [
+                     "most", 
+                     6.19, 
+                     6.53
+                  ], 
+                  [
+                     "captivating", 
+                     6.53, 
+                     7.16
+                  ]
+               ], 
+               "confidence": 0.882, 
+               "transcript": "the last of the most captivating "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "race", 
+                     7.39, 
+                     7.74
+                  ], 
+                  [
+                     "and", 
+                     7.74, 
+                     7.97
+                  ], 
+                  [
+                     "the", 
+                     7.97, 
+                     8.15
+                  ]
+               ], 
+               "confidence": 1.0, 
+               "transcript": "race and the "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "there", 
+                     8.83, 
+                     9.14
+                  ]
+               ], 
+               "confidence": 0.675, 
+               "transcript": "there "
+            }
+         ], 
+         "final": true
+      }
+   ], 
+   "result_index": 0, 
+   "speaker_labels": [
+      {
+         "from": 0.14, 
+         "to": 0.27, 
+         "speaker": 0, 
+         "confidence": 0.5, 
+         "final": false
+      }, 
+      {
+         "from": 0.27, 
+         "to": 0.5, 
+         "speaker": 0, 
+         "confidence": 0.5, 
+         "final": false
+      }, 
+      {
+         "from": 0.5, 
+         "to": 0.76, 
+         "speaker": 0, 
+         "confidence": 0.5, 
+         "final": false
+      }, 
+      {
+         "from": 0.76, 
+         "to": 1.08, 
+         "speaker": 0, 
+         "confidence": 0.5, 
+         "final": false
+      }, 
+      {
+         "from": 1.08, 
+         "to": 1.24, 
+         "speaker": 0, 
+         "confidence": 0.5, 
+         "final": false
+      }, 
+      {
+         "from": 1.24, 
+         "to": 1.34, 
+         "speaker": 0, 
+         "confidence": 0.5, 
+         "final": false
+      }, 
+      {
+         "from": 1.34, 
+         "to": 1.73, 
+         "speaker": 0, 
+         "confidence": 0.5, 
+         "final": false
+      }, 
+      {
+         "from": 1.73, 
+         "to": 1.83, 
+         "speaker": 0, 
+         "confidence": 0.5, 
+         "final": false
+      }, 
+      {
+         "from": 1.83, 
+         "to": 1.91, 
+         "speaker": 0, 
+         "confidence": 0.5, 
+         "final": false
+      }, 
+      {
+         "from": 1.91, 
+         "to": 2.11, 
+         "speaker": 0, 
+         "confidence": 0.5, 
+         "final": false
+      }, 
+      {
+         "from": 2.11, 
+         "to": 2.2, 
+         "speaker": 0, 
+         "confidence": 0.5, 
+         "final": false
+      }, 
+      {
+         "from": 2.2, 
+         "to": 2.3, 
+         "speaker": 0, 
+         "confidence": 0.5, 
+         "final": false
+      }, 
+      {
+         "from": 2.3, 
+         "to": 2.82, 
+         "speaker": 0, 
+         "confidence": 0.5, 
+         "final": false
+      }, 
+      {
+         "from": 3.22, 
+         "to": 3.66, 
+         "speaker": 1, 
+         "confidence": 0.667, 
+         "final": false
+      }, 
+      {
+         "from": 4.05, 
+         "to": 4.62, 
+         "speaker": 0, 
+         "confidence": 0.479, 
+         "final": false
+      }, 
+      {
+         "from": 5.67, 
+         "to": 5.76, 
+         "speaker": 2, 
+         "confidence": 0.485, 
+         "final": false
+      }, 
+      {
+         "from": 5.76, 
+         "to": 6.02, 
+         "speaker": 2, 
+         "confidence": 0.485, 
+         "final": false
+      }, 
+      {
+         "from": 6.02, 
+         "to": 6.11, 
+         "speaker": 2, 
+         "confidence": 0.485, 
+         "final": false
+      }, 
+      {
+         "from": 6.11, 
+         "to": 6.19, 
+         "speaker": 2, 
+         "confidence": 0.485, 
+         "final": false
+      }, 
+      {
+         "from": 6.19, 
+         "to": 6.53, 
+         "speaker": 2, 
+         "confidence": 0.485, 
+         "final": false
+      }, 
+      {
+         "from": 6.53, 
+         "to": 7.16, 
+         "speaker": 2, 
+         "confidence": 0.485, 
+         "final": false
+      }, 
+      {
+         "from": 7.39, 
+         "to": 7.74, 
+         "speaker": 2, 
+         "confidence": 0.48, 
+         "final": false
+      }, 
+      {
+         "from": 7.74, 
+         "to": 7.97, 
+         "speaker": 2, 
+         "confidence": 0.48, 
+         "final": false
+      }, 
+      {
+         "from": 7.97, 
+         "to": 8.15, 
+         "speaker": 2, 
+         "confidence": 0.48, 
+         "final": false
+      }, 
+      {
+         "from": 8.83, 
+         "to": 9.14, 
+         "speaker": 2, 
+         "confidence": 0.41, 
+         "final": true
+      }
+   ]
+}

@@ -1,0 +1,339 @@
+{
+   "results": [
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "I", 
+                     0.27, 
+                     0.42
+                  ], 
+                  [
+                     "took", 
+                     0.42, 
+                     0.73
+                  ], 
+                  [
+                     "it", 
+                     0.73, 
+                     1.06
+                  ]
+               ], 
+               "confidence": 0.853, 
+               "transcript": "I took it "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "was", 
+                     1.62, 
+                     1.86
+                  ], 
+                  [
+                     "I", 
+                     1.86, 
+                     1.97
+                  ], 
+                  [
+                     "right", 
+                     1.97, 
+                     2.54
+                  ]
+               ], 
+               "confidence": 0.958, 
+               "transcript": "was I right "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "I", 
+                     3.33, 
+                     3.45
+                  ], 
+                  [
+                     "flung", 
+                     3.45, 
+                     3.83
+                  ], 
+                  [
+                     "my", 
+                     3.83, 
+                     4.01
+                  ], 
+                  [
+                     "arms", 
+                     4.01, 
+                     4.37
+                  ], 
+                  [
+                     "around", 
+                     4.37, 
+                     4.75
+                  ], 
+                  [
+                     "her", 
+                     4.75, 
+                     4.89
+                  ], 
+                  [
+                     "neck", 
+                     4.89, 
+                     5.19
+                  ], 
+                  [
+                     "as", 
+                     5.45, 
+                     5.62
+                  ], 
+                  [
+                     "we", 
+                     5.62, 
+                     5.75
+                  ], 
+                  [
+                     "had", 
+                     5.75, 
+                     5.93
+                  ], 
+                  [
+                     "nothing", 
+                     5.93, 
+                     6.26
+                  ], 
+                  [
+                     "to", 
+                     6.26, 
+                     6.4
+                  ], 
+                  [
+                     "lean", 
+                     6.4, 
+                     6.59
+                  ], 
+                  [
+                     "against", 
+                     6.59, 
+                     7.26
+                  ]
+               ], 
+               "confidence": 0.94, 
+               "transcript": "I flung my arms around her neck as we had nothing to lean against "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "went", 
+                     7.9, 
+                     8.16
+                  ], 
+                  [
+                     "on", 
+                     8.16, 
+                     8.38
+                  ], 
+                  [
+                     "like", 
+                     8.38, 
+                     8.67
+                  ], 
+                  [
+                     "this", 
+                     8.67, 
+                     9.21
+                  ]
+               ], 
+               "confidence": 0.957, 
+               "transcript": "went on like this "
+            }
+         ], 
+         "final": true
+      }
+   ], 
+   "result_index": 0, 
+   "speaker_labels": [
+      {
+         "from": 0.27, 
+         "to": 0.42, 
+         "speaker": 0, 
+         "confidence": 0.5, 
+         "final": false
+      }, 
+      {
+         "from": 0.42, 
+         "to": 0.73, 
+         "speaker": 0, 
+         "confidence": 0.5, 
+         "final": false
+      }, 
+      {
+         "from": 0.73, 
+         "to": 1.06, 
+         "speaker": 0, 
+         "confidence": 0.5, 
+         "final": false
+      }, 
+      {
+         "from": 1.62, 
+         "to": 1.86, 
+         "speaker": 0, 
+         "confidence": 0.434, 
+         "final": false
+      }, 
+      {
+         "from": 1.86, 
+         "to": 1.97, 
+         "speaker": 0, 
+         "confidence": 0.434, 
+         "final": false
+      }, 
+      {
+         "from": 1.97, 
+         "to": 2.54, 
+         "speaker": 0, 
+         "confidence": 0.434, 
+         "final": false
+      }, 
+      {
+         "from": 3.33, 
+         "to": 3.45, 
+         "speaker": 1, 
+         "confidence": 0.48, 
+         "final": false
+      }, 
+      {
+         "from": 3.45, 
+         "to": 3.83, 
+         "speaker": 1, 
+         "confidence": 0.48, 
+         "final": false
+      }, 
+      {
+         "from": 3.83, 
+         "to": 4.01, 
+         "speaker": 1, 
+         "confidence": 0.48, 
+         "final": false
+      }, 
+      {
+         "from": 4.01, 
+         "to": 4.37, 
+         "speaker": 1, 
+         "confidence": 0.48, 
+         "final": false
+      }, 
+      {
+         "from": 4.37, 
+         "to": 4.75, 
+         "speaker": 1, 
+         "confidence": 0.48, 
+         "final": false
+      }, 
+      {
+         "from": 4.75, 
+         "to": 4.89, 
+         "speaker": 1, 
+         "confidence": 0.48, 
+         "final": false
+      }, 
+      {
+         "from": 4.89, 
+         "to": 5.19, 
+         "speaker": 1, 
+         "confidence": 0.48, 
+         "final": false
+      }, 
+      {
+         "from": 5.45, 
+         "to": 5.62, 
+         "speaker": 2, 
+         "confidence": 0.494, 
+         "final": false
+      }, 
+      {
+         "from": 5.62, 
+         "to": 5.75, 
+         "speaker": 2, 
+         "confidence": 0.494, 
+         "final": false
+      }, 
+      {
+         "from": 5.75, 
+         "to": 5.93, 
+         "speaker": 2, 
+         "confidence": 0.494, 
+         "final": false
+      }, 
+      {
+         "from": 5.93, 
+         "to": 6.26, 
+         "speaker": 2, 
+         "confidence": 0.494, 
+         "final": false
+      }, 
+      {
+         "from": 6.26, 
+         "to": 6.4, 
+         "speaker": 2, 
+         "confidence": 0.494, 
+         "final": false
+      }, 
+      {
+         "from": 6.4, 
+         "to": 6.59, 
+         "speaker": 2, 
+         "confidence": 0.494, 
+         "final": false
+      }, 
+      {
+         "from": 6.59, 
+         "to": 7.26, 
+         "speaker": 2, 
+         "confidence": 0.494, 
+         "final": false
+      }, 
+      {
+         "from": 7.9, 
+         "to": 8.16, 
+         "speaker": 2, 
+         "confidence": 0.51, 
+         "final": false
+      }, 
+      {
+         "from": 8.16, 
+         "to": 8.38, 
+         "speaker": 2, 
+         "confidence": 0.51, 
+         "final": false
+      }, 
+      {
+         "from": 8.38, 
+         "to": 8.67, 
+         "speaker": 2, 
+         "confidence": 0.51, 
+         "final": false
+      }, 
+      {
+         "from": 8.67, 
+         "to": 9.21, 
+         "speaker": 2, 
+         "confidence": 0.51, 
+         "final": true
+      }
+   ]
+}

@@ -1,0 +1,306 @@
+ {
+   "results": [
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "and", 
+                     0.14, 
+                     0.43
+                  ], 
+                  [
+                     "that", 
+                     0.43, 
+                     0.72
+                  ], 
+                  [
+                     "of", 
+                     0.72, 
+                     0.99
+                  ], 
+                  [
+                     "the", 
+                     1.03, 
+                     1.2
+                  ], 
+                  [
+                     "Kabul", 
+                     1.2, 
+                     1.83
+                  ], 
+                  [
+                     "both", 
+                     2.03, 
+                     2.52
+                  ], 
+                  [
+                     "proceeding", 
+                     2.52, 
+                     3.15
+                  ], 
+                  [
+                     "create", 
+                     3.15, 
+                     3.64
+                  ], 
+                  [
+                     "the", 
+                     3.64, 
+                     3.74
+                  ], 
+                  [
+                     "sun", 
+                     3.74, 
+                     4.16
+                  ], 
+                  [
+                     "both", 
+                     4.43, 
+                     4.82
+                  ], 
+                  [
+                     "journey", 
+                     4.85, 
+                     5.31
+                  ], 
+                  [
+                     "to", 
+                     5.31, 
+                     5.47
+                  ], 
+                  [
+                     "the", 
+                     5.47, 
+                     5.57
+                  ], 
+                  [
+                     "west", 
+                     5.57, 
+                     5.97
+                  ], 
+                  [
+                     "teacher", 
+                     6.15, 
+                     6.57
+                  ], 
+                  [
+                     "of", 
+                     6.57, 
+                     6.76
+                  ], 
+                  [
+                     "all", 
+                     6.79, 
+                     7.13
+                  ], 
+                  [
+                     "things", 
+                     7.13, 
+                     7.81
+                  ], 
+                  [
+                     "at", 
+                     8.34, 
+                     8.51
+                  ], 
+                  [
+                     "last", 
+                     8.51, 
+                     8.92
+                  ], 
+                  [
+                     "he", 
+                     8.92, 
+                     9.02
+                  ], 
+                  [
+                     "disappeared", 
+                     9.02, 
+                     9.81
+                  ], 
+                  [
+                     "in", 
+                     9.84, 
+                     9.96
+                  ]
+               ], 
+               "confidence": 0.811, 
+               "transcript": "and that of the Kabul both proceeding create the sun both journey to the west teacher of all things at last he disappeared in "
+            }
+         ], 
+         "final": true
+      }
+   ], 
+   "result_index": 0, 
+   "speaker_labels": [
+      {
+         "from": 0.14, 
+         "to": 0.43, 
+         "speaker": 0, 
+         "confidence": 0.382, 
+         "final": false
+      }, 
+      {
+         "from": 0.43, 
+         "to": 0.72, 
+         "speaker": 0, 
+         "confidence": 0.382, 
+         "final": false
+      }, 
+      {
+         "from": 0.72, 
+         "to": 0.99, 
+         "speaker": 0, 
+         "confidence": 0.382, 
+         "final": false
+      }, 
+      {
+         "from": 1.03, 
+         "to": 1.2, 
+         "speaker": 1, 
+         "confidence": 0.375, 
+         "final": false
+      }, 
+      {
+         "from": 1.2, 
+         "to": 1.83, 
+         "speaker": 1, 
+         "confidence": 0.375, 
+         "final": false
+      }, 
+      {
+         "from": 2.03, 
+         "to": 2.52, 
+         "speaker": 2, 
+         "confidence": 0.322, 
+         "final": false
+      }, 
+      {
+         "from": 2.52, 
+         "to": 3.15, 
+         "speaker": 2, 
+         "confidence": 0.322, 
+         "final": false
+      }, 
+      {
+         "from": 3.15, 
+         "to": 3.64, 
+         "speaker": 2, 
+         "confidence": 0.322, 
+         "final": false
+      }, 
+      {
+         "from": 3.64, 
+         "to": 3.74, 
+         "speaker": 2, 
+         "confidence": 0.322, 
+         "final": false
+      }, 
+      {
+         "from": 3.74, 
+         "to": 4.16, 
+         "speaker": 2, 
+         "confidence": 0.322, 
+         "final": false
+      }, 
+      {
+         "from": 4.43, 
+         "to": 4.82, 
+         "speaker": 1, 
+         "confidence": 0.334, 
+         "final": false
+      }, 
+      {
+         "from": 4.85, 
+         "to": 5.31, 
+         "speaker": 2, 
+         "confidence": 0.354, 
+         "final": false
+      }, 
+      {
+         "from": 5.31, 
+         "to": 5.47, 
+         "speaker": 2, 
+         "confidence": 0.354, 
+         "final": false
+      }, 
+      {
+         "from": 5.47, 
+         "to": 5.57, 
+         "speaker": 2, 
+         "confidence": 0.354, 
+         "final": false
+      }, 
+      {
+         "from": 5.57, 
+         "to": 5.97, 
+         "speaker": 2, 
+         "confidence": 0.354, 
+         "final": false
+      }, 
+      {
+         "from": 6.15, 
+         "to": 6.57, 
+         "speaker": 2, 
+         "confidence": 0.324, 
+         "final": false
+      }, 
+      {
+         "from": 6.57, 
+         "to": 6.76, 
+         "speaker": 2, 
+         "confidence": 0.324, 
+         "final": false
+      }, 
+      {
+         "from": 6.79, 
+         "to": 7.13, 
+         "speaker": 3, 
+         "confidence": 0.38, 
+         "final": false
+      }, 
+      {
+         "from": 7.13, 
+         "to": 7.81, 
+         "speaker": 3, 
+         "confidence": 0.38, 
+         "final": false
+      }, 
+      {
+         "from": 8.34, 
+         "to": 8.51, 
+         "speaker": 2, 
+         "confidence": 0.351, 
+         "final": false
+      }, 
+      {
+         "from": 8.51, 
+         "to": 8.92, 
+         "speaker": 2, 
+         "confidence": 0.351, 
+         "final": false
+      }, 
+      {
+         "from": 8.92, 
+         "to": 9.02, 
+         "speaker": 2, 
+         "confidence": 0.351, 
+         "final": false
+      }, 
+      {
+         "from": 9.02, 
+         "to": 9.81, 
+         "speaker": 2, 
+         "confidence": 0.351, 
+         "final": false
+      }, 
+      {
+         "from": 9.84, 
+         "to": 9.96, 
+         "speaker": 0, 
+         "confidence": 0.362, 
+         "final": true
+      }
+   ]
+}

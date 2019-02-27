@@ -1,0 +1,305 @@
+{
+   "results": [
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "word", 
+                     0.07, 
+                     0.49
+                  ], 
+                  [
+                     "is", 
+                     0.49, 
+                     0.61
+                  ], 
+                  [
+                     "ready", 
+                     0.61, 
+                     0.95
+                  ], 
+                  [
+                     "for", 
+                     0.95, 
+                     1.12
+                  ], 
+                  [
+                     "the", 
+                     1.12, 
+                     1.35
+                  ], 
+                  [
+                     "assembling", 
+                     1.38, 
+                     2.16
+                  ], 
+                  [
+                     "of", 
+                     2.16, 
+                     2.28
+                  ], 
+                  [
+                     "the", 
+                     2.28, 
+                     2.38
+                  ], 
+                  [
+                     "watch", 
+                     2.38, 
+                     2.99
+                  ]
+               ], 
+               "confidence": 0.809, 
+               "transcript": "word is ready for the assembling of the watch "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "that's", 
+                     3.73, 
+                     3.93
+                  ], 
+                  [
+                     "the", 
+                     3.93, 
+                     4.05
+                  ], 
+                  [
+                     "machinery", 
+                     4.05, 
+                     4.69
+                  ], 
+                  [
+                     "improves", 
+                     4.69, 
+                     5.67
+                  ], 
+                  [
+                     "but", 
+                     6.07, 
+                     6.2
+                  ], 
+                  [
+                     "today", 
+                     6.2, 
+                     6.54
+                  ], 
+                  [
+                     "did", 
+                     6.54, 
+                     6.7
+                  ], 
+                  [
+                     "not", 
+                     6.7, 
+                     6.95
+                  ], 
+                  [
+                     "turn", 
+                     6.95, 
+                     7.18
+                  ], 
+                  [
+                     "out", 
+                     7.18, 
+                     7.4
+                  ], 
+                  [
+                     "so", 
+                     7.4, 
+                     7.55
+                  ], 
+                  [
+                     "badly", 
+                     7.55, 
+                     8.02
+                  ], 
+                  [
+                     "after", 
+                     8.02, 
+                     8.36
+                  ], 
+                  [
+                     "all", 
+                     8.36, 
+                     8.85
+                  ]
+               ], 
+               "confidence": 0.825, 
+               "transcript": "that's the machinery improves but today did not turn out so badly after all "
+            }
+         ], 
+         "final": true
+      }
+   ], 
+   "result_index": 0, 
+   "speaker_labels": [
+      {
+         "from": 0.07, 
+         "to": 0.49, 
+         "speaker": 0, 
+         "confidence": 0.667, 
+         "final": false
+      }, 
+      {
+         "from": 0.49, 
+         "to": 0.61, 
+         "speaker": 0, 
+         "confidence": 0.667, 
+         "final": false
+      }, 
+      {
+         "from": 0.61, 
+         "to": 0.95, 
+         "speaker": 0, 
+         "confidence": 0.667, 
+         "final": false
+      }, 
+      {
+         "from": 0.95, 
+         "to": 1.12, 
+         "speaker": 0, 
+         "confidence": 0.667, 
+         "final": false
+      }, 
+      {
+         "from": 1.12, 
+         "to": 1.35, 
+         "speaker": 0, 
+         "confidence": 0.667, 
+         "final": false
+      }, 
+      {
+         "from": 1.38, 
+         "to": 2.16, 
+         "speaker": 1, 
+         "confidence": 0.667, 
+         "final": false
+      }, 
+      {
+         "from": 2.16, 
+         "to": 2.28, 
+         "speaker": 1, 
+         "confidence": 0.667, 
+         "final": false
+      }, 
+      {
+         "from": 2.28, 
+         "to": 2.38, 
+         "speaker": 1, 
+         "confidence": 0.667, 
+         "final": false
+      }, 
+      {
+         "from": 2.38, 
+         "to": 2.99, 
+         "speaker": 1, 
+         "confidence": 0.667, 
+         "final": false
+      }, 
+      {
+         "from": 3.73, 
+         "to": 3.93, 
+         "speaker": 2, 
+         "confidence": 0.395, 
+         "final": false
+      }, 
+      {
+         "from": 3.93, 
+         "to": 4.05, 
+         "speaker": 2, 
+         "confidence": 0.395, 
+         "final": false
+      }, 
+      {
+         "from": 4.05, 
+         "to": 4.69, 
+         "speaker": 2, 
+         "confidence": 0.395, 
+         "final": false
+      }, 
+      {
+         "from": 4.69, 
+         "to": 5.67, 
+         "speaker": 2, 
+         "confidence": 0.395, 
+         "final": false
+      }, 
+      {
+         "from": 6.07, 
+         "to": 6.2, 
+         "speaker": 3, 
+         "confidence": 0.421, 
+         "final": false
+      }, 
+      {
+         "from": 6.2, 
+         "to": 6.54, 
+         "speaker": 3, 
+         "confidence": 0.421, 
+         "final": false
+      }, 
+      {
+         "from": 6.54, 
+         "to": 6.7, 
+         "speaker": 3, 
+         "confidence": 0.421, 
+         "final": false
+      }, 
+      {
+         "from": 6.7, 
+         "to": 6.95, 
+         "speaker": 3, 
+         "confidence": 0.421, 
+         "final": false
+      }, 
+      {
+         "from": 6.95, 
+         "to": 7.18, 
+         "speaker": 3, 
+         "confidence": 0.421, 
+         "final": false
+      }, 
+      {
+         "from": 7.18, 
+         "to": 7.4, 
+         "speaker": 3, 
+         "confidence": 0.421, 
+         "final": false
+      }, 
+      {
+         "from": 7.4, 
+         "to": 7.55, 
+         "speaker": 3, 
+         "confidence": 0.421, 
+         "final": false
+      }, 
+      {
+         "from": 7.55, 
+         "to": 8.02, 
+         "speaker": 3, 
+         "confidence": 0.421, 
+         "final": false
+      }, 
+      {
+         "from": 8.02, 
+         "to": 8.36, 
+         "speaker": 3, 
+         "confidence": 0.421, 
+         "final": false
+      }, 
+      {
+         "from": 8.36, 
+         "to": 8.85, 
+         "speaker": 3, 
+         "confidence": 0.421, 
+         "final": true
+      }
+   ]
+}

@@ -1,0 +1,306 @@
+{
+   "results": [
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "again", 
+                     0.31, 
+                     0.67
+                  ], 
+                  [
+                     "in", 
+                     0.67, 
+                     0.8
+                  ], 
+                  [
+                     "fire", 
+                     0.8, 
+                     1.23
+                  ], 
+                  [
+                     "twelve", 
+                     1.23, 
+                     1.73
+                  ], 
+                  [
+                     "times", 
+                     1.73, 
+                     2.39
+                  ], 
+                  [
+                     "and", 
+                     2.39, 
+                     2.65
+                  ], 
+                  [
+                     "killed", 
+                     2.65, 
+                     3.06
+                  ], 
+                  [
+                     "five", 
+                     3.06, 
+                     3.5
+                  ], 
+                  [
+                     "pheasants", 
+                     3.5, 
+                     4.22
+                  ], 
+                  [
+                     "but", 
+                     4.42, 
+                     4.6
+                  ], 
+                  [
+                     "clambering", 
+                     4.6, 
+                     5.21
+                  ], 
+                  [
+                     "out", 
+                     5.21, 
+                     5.43
+                  ], 
+                  [
+                     "that", 
+                     5.57, 
+                     5.77
+                  ], 
+                  [
+                     "led", 
+                     5.83, 
+                     6.24
+                  ], 
+                  [
+                     "neat", 
+                     6.24, 
+                     6.56
+                  ], 
+                  [
+                     "then", 
+                     6.56, 
+                     6.73
+                  ], 
+                  [
+                     "started", 
+                     6.73, 
+                     7.39
+                  ], 
+                  [
+                     "to", 
+                     7.62, 
+                     7.75
+                  ], 
+                  [
+                     "keep", 
+                     7.75, 
+                     8.01
+                  ], 
+                  [
+                     "secret", 
+                     8.01, 
+                     8.58
+                  ], 
+                  [
+                     "but", 
+                     8.67, 
+                     8.84
+                  ], 
+                  [
+                     "he", 
+                     8.84, 
+                     8.99
+                  ], 
+                  [
+                     "had", 
+                     8.99, 
+                     9.14
+                  ], 
+                  [
+                     "with", 
+                     9.14, 
+                     9.37
+                  ]
+               ], 
+               "confidence": 0.771, 
+               "transcript": "again in fire twelve times and killed five pheasants but clambering out that led neat then started to keep secret but he had with "
+            }
+         ], 
+         "final": true
+      }
+   ], 
+   "result_index": 0, 
+   "speaker_labels": [
+      {
+         "from": 0.31, 
+         "to": 0.67, 
+         "speaker": 0, 
+         "confidence": 0.606, 
+         "final": false
+      }, 
+      {
+         "from": 0.67, 
+         "to": 0.8, 
+         "speaker": 0, 
+         "confidence": 0.606, 
+         "final": false
+      }, 
+      {
+         "from": 0.8, 
+         "to": 1.23, 
+         "speaker": 0, 
+         "confidence": 0.606, 
+         "final": false
+      }, 
+      {
+         "from": 1.23, 
+         "to": 1.73, 
+         "speaker": 0, 
+         "confidence": 0.606, 
+         "final": false
+      }, 
+      {
+         "from": 1.73, 
+         "to": 2.39, 
+         "speaker": 0, 
+         "confidence": 0.606, 
+         "final": false
+      }, 
+      {
+         "from": 2.39, 
+         "to": 2.65, 
+         "speaker": 0, 
+         "confidence": 0.606, 
+         "final": false
+      }, 
+      {
+         "from": 2.65, 
+         "to": 3.06, 
+         "speaker": 0, 
+         "confidence": 0.606, 
+         "final": false
+      }, 
+      {
+         "from": 3.06, 
+         "to": 3.5, 
+         "speaker": 0, 
+         "confidence": 0.606, 
+         "final": false
+      }, 
+      {
+         "from": 3.5, 
+         "to": 4.22, 
+         "speaker": 0, 
+         "confidence": 0.606, 
+         "final": false
+      }, 
+      {
+         "from": 4.42, 
+         "to": 4.6, 
+         "speaker": 0, 
+         "confidence": 0.618, 
+         "final": false
+      }, 
+      {
+         "from": 4.6, 
+         "to": 5.21, 
+         "speaker": 0, 
+         "confidence": 0.618, 
+         "final": false
+      }, 
+      {
+         "from": 5.21, 
+         "to": 5.43, 
+         "speaker": 0, 
+         "confidence": 0.618, 
+         "final": false
+      }, 
+      {
+         "from": 5.57, 
+         "to": 5.77, 
+         "speaker": 1, 
+         "confidence": 0.507, 
+         "final": false
+      }, 
+      {
+         "from": 5.83, 
+         "to": 6.24, 
+         "speaker": 1, 
+         "confidence": 0.554, 
+         "final": false
+      }, 
+      {
+         "from": 6.24, 
+         "to": 6.56, 
+         "speaker": 1, 
+         "confidence": 0.554, 
+         "final": false
+      }, 
+      {
+         "from": 6.56, 
+         "to": 6.73, 
+         "speaker": 1, 
+         "confidence": 0.554, 
+         "final": false
+      }, 
+      {
+         "from": 6.73, 
+         "to": 7.39, 
+         "speaker": 1, 
+         "confidence": 0.554, 
+         "final": false
+      }, 
+      {
+         "from": 7.62, 
+         "to": 7.75, 
+         "speaker": 1, 
+         "confidence": 0.518, 
+         "final": false
+      }, 
+      {
+         "from": 7.75, 
+         "to": 8.01, 
+         "speaker": 1, 
+         "confidence": 0.518, 
+         "final": false
+      }, 
+      {
+         "from": 8.01, 
+         "to": 8.58, 
+         "speaker": 1, 
+         "confidence": 0.518, 
+         "final": false
+      }, 
+      {
+         "from": 8.67, 
+         "to": 8.84, 
+         "speaker": 1, 
+         "confidence": 0.611, 
+         "final": false
+      }, 
+      {
+         "from": 8.84, 
+         "to": 8.99, 
+         "speaker": 1, 
+         "confidence": 0.611, 
+         "final": false
+      }, 
+      {
+         "from": 8.99, 
+         "to": 9.14, 
+         "speaker": 1, 
+         "confidence": 0.611, 
+         "final": false
+      }, 
+      {
+         "from": 9.14, 
+         "to": 9.37, 
+         "speaker": 1, 
+         "confidence": 0.611, 
+         "final": true
+      }
+   ]
+}

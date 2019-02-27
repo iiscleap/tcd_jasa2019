@@ -1,0 +1,305 @@
+{
+   "results": [
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "he", 
+                     0.3, 
+                     0.53
+                  ], 
+                  [
+                     "said", 
+                     0.56, 
+                     0.84
+                  ], 
+                  [
+                     "the", 
+                     0.84, 
+                     0.91
+                  ], 
+                  [
+                     "most", 
+                     0.91, 
+                     1.23
+                  ], 
+                  [
+                     "very", 
+                     1.23, 
+                     1.56
+                  ], 
+                  [
+                     "forms", 
+                     1.56, 
+                     2.11
+                  ], 
+                  [
+                     "rose", 
+                     2.11, 
+                     2.41
+                  ], 
+                  [
+                     "high", 
+                     2.41, 
+                     2.88
+                  ], 
+                  [
+                     "into", 
+                     2.88, 
+                     3.21
+                  ], 
+                  [
+                     "the", 
+                     3.21, 
+                     3.36
+                  ], 
+                  [
+                     "air", 
+                     3.36, 
+                     3.81
+                  ]
+               ], 
+               "confidence": 0.831, 
+               "transcript": "he said the most very forms rose high into the air "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "partly", 
+                     4.3, 
+                     4.63
+                  ], 
+                  [
+                     "covered", 
+                     4.63, 
+                     5.0
+                  ], 
+                  [
+                     "with", 
+                     5.0, 
+                     5.15
+                  ], 
+                  [
+                     "ended", 
+                     5.51, 
+                     5.83
+                  ], 
+                  [
+                     "me", 
+                     5.83, 
+                     5.99
+                  ], 
+                  [
+                     "ever", 
+                     5.99, 
+                     6.18
+                  ], 
+                  [
+                     "come", 
+                     6.18, 
+                     6.39
+                  ], 
+                  [
+                     "back", 
+                     6.39, 
+                     6.68
+                  ], 
+                  [
+                     "said", 
+                     6.82, 
+                     7.19
+                  ], 
+                  [
+                     "Ned", 
+                     7.19, 
+                     7.57
+                  ], 
+                  [
+                     "Nossa", 
+                     7.98, 
+                     8.69
+                  ], 
+                  [
+                     "Daddy", 
+                     8.85, 
+                     9.14
+                  ]
+               ], 
+               "confidence": 0.7, 
+               "transcript": "partly covered with ended me ever come back said Ned Nossa Daddy "
+            }
+         ], 
+         "final": true
+      }
+   ], 
+   "result_index": 0, 
+   "speaker_labels": [
+      {
+         "from": 0.3, 
+         "to": 0.53, 
+         "speaker": 0, 
+         "confidence": 0.667, 
+         "final": false
+      }, 
+      {
+         "from": 0.56, 
+         "to": 0.84, 
+         "speaker": 1, 
+         "confidence": 0.667, 
+         "final": false
+      }, 
+      {
+         "from": 0.84, 
+         "to": 0.91, 
+         "speaker": 1, 
+         "confidence": 0.667, 
+         "final": false
+      }, 
+      {
+         "from": 0.91, 
+         "to": 1.23, 
+         "speaker": 1, 
+         "confidence": 0.667, 
+         "final": false
+      }, 
+      {
+         "from": 1.23, 
+         "to": 1.56, 
+         "speaker": 1, 
+         "confidence": 0.667, 
+         "final": false
+      }, 
+      {
+         "from": 1.56, 
+         "to": 2.11, 
+         "speaker": 1, 
+         "confidence": 0.667, 
+         "final": false
+      }, 
+      {
+         "from": 2.11, 
+         "to": 2.41, 
+         "speaker": 1, 
+         "confidence": 0.667, 
+         "final": false
+      }, 
+      {
+         "from": 2.41, 
+         "to": 2.88, 
+         "speaker": 1, 
+         "confidence": 0.667, 
+         "final": false
+      }, 
+      {
+         "from": 2.88, 
+         "to": 3.21, 
+         "speaker": 1, 
+         "confidence": 0.667, 
+         "final": false
+      }, 
+      {
+         "from": 3.21, 
+         "to": 3.36, 
+         "speaker": 1, 
+         "confidence": 0.667, 
+         "final": false
+      }, 
+      {
+         "from": 3.36, 
+         "to": 3.81, 
+         "speaker": 1, 
+         "confidence": 0.667, 
+         "final": false
+      }, 
+      {
+         "from": 4.3, 
+         "to": 4.63, 
+         "speaker": 1, 
+         "confidence": 0.476, 
+         "final": false
+      }, 
+      {
+         "from": 4.63, 
+         "to": 5.0, 
+         "speaker": 1, 
+         "confidence": 0.476, 
+         "final": false
+      }, 
+      {
+         "from": 5.0, 
+         "to": 5.15, 
+         "speaker": 1, 
+         "confidence": 0.476, 
+         "final": false
+      }, 
+      {
+         "from": 5.51, 
+         "to": 5.83, 
+         "speaker": 2, 
+         "confidence": 0.437, 
+         "final": false
+      }, 
+      {
+         "from": 5.83, 
+         "to": 5.99, 
+         "speaker": 2, 
+         "confidence": 0.437, 
+         "final": false
+      }, 
+      {
+         "from": 5.99, 
+         "to": 6.18, 
+         "speaker": 2, 
+         "confidence": 0.437, 
+         "final": false
+      }, 
+      {
+         "from": 6.18, 
+         "to": 6.39, 
+         "speaker": 2, 
+         "confidence": 0.437, 
+         "final": false
+      }, 
+      {
+         "from": 6.39, 
+         "to": 6.68, 
+         "speaker": 2, 
+         "confidence": 0.437, 
+         "final": false
+      }, 
+      {
+         "from": 6.82, 
+         "to": 7.19, 
+         "speaker": 2, 
+         "confidence": 0.426, 
+         "final": false
+      }, 
+      {
+         "from": 7.19, 
+         "to": 7.57, 
+         "speaker": 2, 
+         "confidence": 0.426, 
+         "final": false
+      }, 
+      {
+         "from": 7.98, 
+         "to": 8.69, 
+         "speaker": 2, 
+         "confidence": 0.434, 
+         "final": false
+      }, 
+      {
+         "from": 8.85, 
+         "to": 9.14, 
+         "speaker": 0, 
+         "confidence": 0.43, 
+         "final": true
+      }
+   ]
+}

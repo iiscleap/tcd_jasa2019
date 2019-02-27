@@ -1,0 +1,426 @@
+{
+   "results": [
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "and", 
+                     0.1, 
+                     0.29
+                  ], 
+                  [
+                     "who", 
+                     0.29, 
+                     0.42
+                  ], 
+                  [
+                     "had", 
+                     0.42, 
+                     0.58
+                  ], 
+                  [
+                     "no", 
+                     0.58, 
+                     0.72
+                  ], 
+                  [
+                     "concern", 
+                     0.72, 
+                     1.28
+                  ], 
+                  [
+                     "with", 
+                     1.28, 
+                     1.48
+                  ], 
+                  [
+                     "us", 
+                     1.48, 
+                     1.86
+                  ], 
+                  [
+                     "alone", 
+                     2.21, 
+                     2.66
+                  ], 
+                  [
+                     "with", 
+                     2.66, 
+                     2.86
+                  ], 
+                  [
+                     "nature", 
+                     2.86, 
+                     3.34
+                  ], 
+                  [
+                     "in", 
+                     3.34, 
+                     3.45
+                  ], 
+                  [
+                     "the", 
+                     3.45, 
+                     3.54
+                  ], 
+                  [
+                     "spring", 
+                     3.54, 
+                     3.94
+                  ], 
+                  [
+                     "time", 
+                     3.94, 
+                     4.25
+                  ], 
+                  [
+                     "of", 
+                     4.25, 
+                     4.38
+                  ], 
+                  [
+                     "the", 
+                     4.38, 
+                     4.51
+                  ], 
+                  [
+                     "year", 
+                     4.51, 
+                     4.99
+                  ], 
+                  [
+                     "with", 
+                     5.2, 
+                     5.46
+                  ], 
+                  [
+                     "me", 
+                     5.46, 
+                     5.58
+                  ], 
+                  [
+                     "get", 
+                     5.58, 
+                     5.74
+                  ], 
+                  [
+                     "so", 
+                     5.74, 
+                     5.87
+                  ], 
+                  [
+                     "tired", 
+                     5.87, 
+                     6.3
+                  ], 
+                  [
+                     "and", 
+                     6.47, 
+                     6.63
+                  ], 
+                  [
+                     "all", 
+                     6.63, 
+                     6.79
+                  ], 
+                  [
+                     "day", 
+                     6.79, 
+                     7.19
+                  ], 
+                  [
+                     "no", 
+                     7.26, 
+                     7.44
+                  ], 
+                  [
+                     "one", 
+                     7.44, 
+                     7.71
+                  ], 
+                  [
+                     "he", 
+                     7.71, 
+                     7.9
+                  ], 
+                  [
+                     "had", 
+                     7.9, 
+                     8.1
+                  ], 
+                  [
+                     "to", 
+                     8.1, 
+                     8.18
+                  ], 
+                  [
+                     "blink", 
+                     8.18, 
+                     8.45
+                  ], 
+                  [
+                     "his", 
+                     8.45, 
+                     8.62
+                  ], 
+                  [
+                     "eyes", 
+                     8.62, 
+                     8.9
+                  ], 
+                  [
+                     "to", 
+                     8.9, 
+                     9.01
+                  ]
+               ], 
+               "confidence": 0.809, 
+               "transcript": "and who had no concern with us alone with nature in the spring time of the year with me get so tired and all day no one he had to blink his eyes to "
+            }
+         ], 
+         "final": true
+      }
+   ], 
+   "result_index": 0, 
+   "speaker_labels": [
+      {
+         "from": 0.1, 
+         "to": 0.29, 
+         "speaker": 0, 
+         "confidence": 0.626, 
+         "final": false
+      }, 
+      {
+         "from": 0.29, 
+         "to": 0.42, 
+         "speaker": 0, 
+         "confidence": 0.626, 
+         "final": false
+      }, 
+      {
+         "from": 0.42, 
+         "to": 0.58, 
+         "speaker": 0, 
+         "confidence": 0.626, 
+         "final": false
+      }, 
+      {
+         "from": 0.58, 
+         "to": 0.72, 
+         "speaker": 0, 
+         "confidence": 0.626, 
+         "final": false
+      }, 
+      {
+         "from": 0.72, 
+         "to": 1.28, 
+         "speaker": 0, 
+         "confidence": 0.626, 
+         "final": false
+      }, 
+      {
+         "from": 1.28, 
+         "to": 1.48, 
+         "speaker": 0, 
+         "confidence": 0.626, 
+         "final": false
+      }, 
+      {
+         "from": 1.48, 
+         "to": 1.86, 
+         "speaker": 0, 
+         "confidence": 0.626, 
+         "final": false
+      }, 
+      {
+         "from": 2.21, 
+         "to": 2.66, 
+         "speaker": 0, 
+         "confidence": 0.627, 
+         "final": false
+      }, 
+      {
+         "from": 2.66, 
+         "to": 2.86, 
+         "speaker": 0, 
+         "confidence": 0.627, 
+         "final": false
+      }, 
+      {
+         "from": 2.86, 
+         "to": 3.34, 
+         "speaker": 0, 
+         "confidence": 0.627, 
+         "final": false
+      }, 
+      {
+         "from": 3.34, 
+         "to": 3.45, 
+         "speaker": 0, 
+         "confidence": 0.627, 
+         "final": false
+      }, 
+      {
+         "from": 3.45, 
+         "to": 3.54, 
+         "speaker": 0, 
+         "confidence": 0.627, 
+         "final": false
+      }, 
+      {
+         "from": 3.54, 
+         "to": 3.94, 
+         "speaker": 0, 
+         "confidence": 0.627, 
+         "final": false
+      }, 
+      {
+         "from": 3.94, 
+         "to": 4.25, 
+         "speaker": 0, 
+         "confidence": 0.627, 
+         "final": false
+      }, 
+      {
+         "from": 4.25, 
+         "to": 4.38, 
+         "speaker": 0, 
+         "confidence": 0.627, 
+         "final": false
+      }, 
+      {
+         "from": 4.38, 
+         "to": 4.51, 
+         "speaker": 0, 
+         "confidence": 0.627, 
+         "final": false
+      }, 
+      {
+         "from": 4.51, 
+         "to": 4.99, 
+         "speaker": 0, 
+         "confidence": 0.627, 
+         "final": false
+      }, 
+      {
+         "from": 5.2, 
+         "to": 5.46, 
+         "speaker": 1, 
+         "confidence": 0.547, 
+         "final": false
+      }, 
+      {
+         "from": 5.46, 
+         "to": 5.58, 
+         "speaker": 1, 
+         "confidence": 0.547, 
+         "final": false
+      }, 
+      {
+         "from": 5.58, 
+         "to": 5.74, 
+         "speaker": 1, 
+         "confidence": 0.547, 
+         "final": false
+      }, 
+      {
+         "from": 5.74, 
+         "to": 5.87, 
+         "speaker": 1, 
+         "confidence": 0.547, 
+         "final": false
+      }, 
+      {
+         "from": 5.87, 
+         "to": 6.3, 
+         "speaker": 1, 
+         "confidence": 0.547, 
+         "final": false
+      }, 
+      {
+         "from": 6.47, 
+         "to": 6.63, 
+         "speaker": 1, 
+         "confidence": 0.557, 
+         "final": false
+      }, 
+      {
+         "from": 6.63, 
+         "to": 6.79, 
+         "speaker": 1, 
+         "confidence": 0.557, 
+         "final": false
+      }, 
+      {
+         "from": 6.79, 
+         "to": 7.19, 
+         "speaker": 1, 
+         "confidence": 0.557, 
+         "final": false
+      }, 
+      {
+         "from": 7.26, 
+         "to": 7.44, 
+         "speaker": 1, 
+         "confidence": 0.565, 
+         "final": false
+      }, 
+      {
+         "from": 7.44, 
+         "to": 7.71, 
+         "speaker": 1, 
+         "confidence": 0.565, 
+         "final": false
+      }, 
+      {
+         "from": 7.71, 
+         "to": 7.9, 
+         "speaker": 1, 
+         "confidence": 0.565, 
+         "final": false
+      }, 
+      {
+         "from": 7.9, 
+         "to": 8.1, 
+         "speaker": 1, 
+         "confidence": 0.565, 
+         "final": false
+      }, 
+      {
+         "from": 8.1, 
+         "to": 8.18, 
+         "speaker": 1, 
+         "confidence": 0.565, 
+         "final": false
+      }, 
+      {
+         "from": 8.18, 
+         "to": 8.45, 
+         "speaker": 1, 
+         "confidence": 0.565, 
+         "final": false
+      }, 
+      {
+         "from": 8.45, 
+         "to": 8.62, 
+         "speaker": 1, 
+         "confidence": 0.565, 
+         "final": false
+      }, 
+      {
+         "from": 8.62, 
+         "to": 8.9, 
+         "speaker": 1, 
+         "confidence": 0.565, 
+         "final": false
+      }, 
+      {
+         "from": 8.9, 
+         "to": 9.01, 
+         "speaker": 1, 
+         "confidence": 0.565, 
+         "final": true
+      }
+   ]
+}

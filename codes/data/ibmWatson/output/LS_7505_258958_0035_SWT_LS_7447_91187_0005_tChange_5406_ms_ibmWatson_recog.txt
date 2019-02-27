@@ -1,0 +1,292 @@
+{
+   "results": [
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "of", 
+                     0.13, 
+                     0.3
+                  ], 
+                  [
+                     "the", 
+                     0.3, 
+                     0.43
+                  ], 
+                  [
+                     "present", 
+                     0.43, 
+                     0.95
+                  ], 
+                  [
+                     "moment", 
+                     0.98, 
+                     1.44
+                  ], 
+                  [
+                     "as", 
+                     1.44, 
+                     1.56
+                  ], 
+                  [
+                     "compared", 
+                     1.56, 
+                     2.33
+                  ], 
+                  [
+                     "with", 
+                     2.33, 
+                     2.47
+                  ], 
+                  [
+                     "the", 
+                     2.47, 
+                     2.58
+                  ], 
+                  [
+                     "gratification", 
+                     2.58, 
+                     3.56
+                  ], 
+                  [
+                     "of", 
+                     3.59, 
+                     3.73
+                  ], 
+                  [
+                     "a", 
+                     3.73, 
+                     3.96
+                  ], 
+                  [
+                     "very", 
+                     3.99, 
+                     4.65
+                  ], 
+                  [
+                     "different", 
+                     4.71, 
+                     5.16
+                  ], 
+                  [
+                     "possessed", 
+                     5.32, 
+                     5.84
+                  ], 
+                  [
+                     "of", 
+                     5.84, 
+                     5.93
+                  ], 
+                  [
+                     "the", 
+                     5.93, 
+                     6.01
+                  ], 
+                  [
+                     "most", 
+                     6.01, 
+                     6.35
+                  ], 
+                  [
+                     "captivity", 
+                     6.35, 
+                     6.92
+                  ]
+               ], 
+               "confidence": 0.973, 
+               "transcript": "of the present moment as compared with the gratification of a very different possessed of the most captivity "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "grace", 
+                     7.11, 
+                     7.56
+                  ], 
+                  [
+                     "and", 
+                     7.56, 
+                     7.81
+                  ]
+               ], 
+               "confidence": 0.86, 
+               "transcript": "grace and "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "there", 
+                     8.64, 
+                     8.96
+                  ]
+               ], 
+               "confidence": 0.887, 
+               "transcript": "there "
+            }
+         ], 
+         "final": true
+      }
+   ], 
+   "result_index": 0, 
+   "speaker_labels": [
+      {
+         "from": 0.13, 
+         "to": 0.3, 
+         "speaker": 0, 
+         "confidence": 0.375, 
+         "final": false
+      }, 
+      {
+         "from": 0.3, 
+         "to": 0.43, 
+         "speaker": 0, 
+         "confidence": 0.375, 
+         "final": false
+      }, 
+      {
+         "from": 0.43, 
+         "to": 0.95, 
+         "speaker": 0, 
+         "confidence": 0.375, 
+         "final": false
+      }, 
+      {
+         "from": 0.98, 
+         "to": 1.44, 
+         "speaker": 0, 
+         "confidence": 0.478, 
+         "final": false
+      }, 
+      {
+         "from": 1.44, 
+         "to": 1.56, 
+         "speaker": 0, 
+         "confidence": 0.478, 
+         "final": false
+      }, 
+      {
+         "from": 1.56, 
+         "to": 2.33, 
+         "speaker": 0, 
+         "confidence": 0.478, 
+         "final": false
+      }, 
+      {
+         "from": 2.33, 
+         "to": 2.47, 
+         "speaker": 0, 
+         "confidence": 0.478, 
+         "final": false
+      }, 
+      {
+         "from": 2.47, 
+         "to": 2.58, 
+         "speaker": 0, 
+         "confidence": 0.478, 
+         "final": false
+      }, 
+      {
+         "from": 2.58, 
+         "to": 3.56, 
+         "speaker": 0, 
+         "confidence": 0.478, 
+         "final": false
+      }, 
+      {
+         "from": 3.59, 
+         "to": 3.73, 
+         "speaker": 0, 
+         "confidence": 0.41, 
+         "final": false
+      }, 
+      {
+         "from": 3.73, 
+         "to": 3.96, 
+         "speaker": 0, 
+         "confidence": 0.41, 
+         "final": false
+      }, 
+      {
+         "from": 3.99, 
+         "to": 4.65, 
+         "speaker": 0, 
+         "confidence": 0.466, 
+         "final": false
+      }, 
+      {
+         "from": 4.71, 
+         "to": 5.16, 
+         "speaker": 0, 
+         "confidence": 0.383, 
+         "final": false
+      }, 
+      {
+         "from": 5.32, 
+         "to": 5.84, 
+         "speaker": 3, 
+         "confidence": 0.407, 
+         "final": false
+      }, 
+      {
+         "from": 5.84, 
+         "to": 5.93, 
+         "speaker": 3, 
+         "confidence": 0.407, 
+         "final": false
+      }, 
+      {
+         "from": 5.93, 
+         "to": 6.01, 
+         "speaker": 3, 
+         "confidence": 0.407, 
+         "final": false
+      }, 
+      {
+         "from": 6.01, 
+         "to": 6.35, 
+         "speaker": 3, 
+         "confidence": 0.407, 
+         "final": false
+      }, 
+      {
+         "from": 6.35, 
+         "to": 6.92, 
+         "speaker": 3, 
+         "confidence": 0.407, 
+         "final": false
+      }, 
+      {
+         "from": 7.11, 
+         "to": 7.56, 
+         "speaker": 3, 
+         "confidence": 0.634, 
+         "final": false
+      }, 
+      {
+         "from": 7.56, 
+         "to": 7.81, 
+         "speaker": 3, 
+         "confidence": 0.634, 
+         "final": false
+      }, 
+      {
+         "from": 8.64, 
+         "to": 8.96, 
+         "speaker": 3, 
+         "confidence": 0.533, 
+         "final": true
+      }
+   ]
+}

@@ -1,0 +1,401 @@
+{
+   "results": [
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "and", 
+                     0.47, 
+                     0.66
+                  ], 
+                  [
+                     "thus", 
+                     0.66, 
+                     0.91
+                  ], 
+                  [
+                     "is", 
+                     0.91, 
+                     1.02
+                  ], 
+                  [
+                     "brought", 
+                     1.02, 
+                     1.28
+                  ], 
+                  [
+                     "about", 
+                     1.28, 
+                     1.58
+                  ], 
+                  [
+                     "an", 
+                     1.58, 
+                     1.74
+                  ], 
+                  [
+                     "increase", 
+                     1.77, 
+                     2.36
+                  ], 
+                  [
+                     "of", 
+                     2.36, 
+                     2.5
+                  ], 
+                  [
+                     "the", 
+                     2.5, 
+                     2.68
+                  ], 
+                  [
+                     "stock", 
+                     2.68, 
+                     3.2
+                  ], 
+                  [
+                     "of", 
+                     3.2, 
+                     3.36
+                  ], 
+                  [
+                     "wealth", 
+                     3.36, 
+                     3.73
+                  ]
+               ], 
+               "confidence": 0.87, 
+               "transcript": "and thus is brought about an increase of the stock of wealth "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "in", 
+                     4.9, 
+                     5.07
+                  ], 
+                  [
+                     "some", 
+                     5.07, 
+                     5.48
+                  ], 
+                  [
+                     "she", 
+                     5.64, 
+                     5.84
+                  ], 
+                  [
+                     "would", 
+                     5.84, 
+                     5.99
+                  ], 
+                  [
+                     "write", 
+                     5.99, 
+                     6.25
+                  ], 
+                  [
+                     "to", 
+                     6.25, 
+                     6.37
+                  ], 
+                  [
+                     "me", 
+                     6.37, 
+                     6.51
+                  ], 
+                  [
+                     "in", 
+                     6.51, 
+                     6.62
+                  ], 
+                  [
+                     "the", 
+                     6.62, 
+                     6.71
+                  ], 
+                  [
+                     "morning", 
+                     6.71, 
+                     7.13
+                  ], 
+                  [
+                     "that", 
+                     7.13, 
+                     7.28
+                  ], 
+                  [
+                     "she", 
+                     7.28, 
+                     7.43
+                  ], 
+                  [
+                     "would", 
+                     7.43, 
+                     7.59
+                  ], 
+                  [
+                     "dine", 
+                     7.59, 
+                     7.89
+                  ], 
+                  [
+                     "with", 
+                     7.89, 
+                     8.11
+                  ], 
+                  [
+                     "me", 
+                     8.11, 
+                     8.45
+                  ], 
+                  [
+                     "not", 
+                     8.7, 
+                     8.96
+                  ], 
+                  [
+                     "at", 
+                     8.96, 
+                     9.05
+                  ], 
+                  [
+                     "home", 
+                     9.08, 
+                     9.44
+                  ]
+               ], 
+               "confidence": 0.955, 
+               "transcript": "in some she would write to me in the morning that she would dine with me not at home "
+            }
+         ], 
+         "final": true
+      }
+   ], 
+   "result_index": 0, 
+   "speaker_labels": [
+      {
+         "from": 0.47, 
+         "to": 0.66, 
+         "speaker": 0, 
+         "confidence": 0.667, 
+         "final": false
+      }, 
+      {
+         "from": 0.66, 
+         "to": 0.91, 
+         "speaker": 0, 
+         "confidence": 0.667, 
+         "final": false
+      }, 
+      {
+         "from": 0.91, 
+         "to": 1.02, 
+         "speaker": 0, 
+         "confidence": 0.667, 
+         "final": false
+      }, 
+      {
+         "from": 1.02, 
+         "to": 1.28, 
+         "speaker": 0, 
+         "confidence": 0.667, 
+         "final": false
+      }, 
+      {
+         "from": 1.28, 
+         "to": 1.58, 
+         "speaker": 0, 
+         "confidence": 0.667, 
+         "final": false
+      }, 
+      {
+         "from": 1.58, 
+         "to": 1.74, 
+         "speaker": 0, 
+         "confidence": 0.667, 
+         "final": false
+      }, 
+      {
+         "from": 1.77, 
+         "to": 2.36, 
+         "speaker": 0, 
+         "confidence": 0.603, 
+         "final": false
+      }, 
+      {
+         "from": 2.36, 
+         "to": 2.5, 
+         "speaker": 0, 
+         "confidence": 0.603, 
+         "final": false
+      }, 
+      {
+         "from": 2.5, 
+         "to": 2.68, 
+         "speaker": 0, 
+         "confidence": 0.603, 
+         "final": false
+      }, 
+      {
+         "from": 2.68, 
+         "to": 3.2, 
+         "speaker": 0, 
+         "confidence": 0.603, 
+         "final": false
+      }, 
+      {
+         "from": 3.2, 
+         "to": 3.36, 
+         "speaker": 0, 
+         "confidence": 0.603, 
+         "final": false
+      }, 
+      {
+         "from": 3.36, 
+         "to": 3.73, 
+         "speaker": 0, 
+         "confidence": 0.603, 
+         "final": false
+      }, 
+      {
+         "from": 4.9, 
+         "to": 5.07, 
+         "speaker": 0, 
+         "confidence": 0.475, 
+         "final": false
+      }, 
+      {
+         "from": 5.07, 
+         "to": 5.48, 
+         "speaker": 0, 
+         "confidence": 0.475, 
+         "final": false
+      }, 
+      {
+         "from": 5.64, 
+         "to": 5.84, 
+         "speaker": 1, 
+         "confidence": 0.585, 
+         "final": false
+      }, 
+      {
+         "from": 5.84, 
+         "to": 5.99, 
+         "speaker": 1, 
+         "confidence": 0.585, 
+         "final": false
+      }, 
+      {
+         "from": 5.99, 
+         "to": 6.25, 
+         "speaker": 1, 
+         "confidence": 0.585, 
+         "final": false
+      }, 
+      {
+         "from": 6.25, 
+         "to": 6.37, 
+         "speaker": 1, 
+         "confidence": 0.585, 
+         "final": false
+      }, 
+      {
+         "from": 6.37, 
+         "to": 6.51, 
+         "speaker": 1, 
+         "confidence": 0.585, 
+         "final": false
+      }, 
+      {
+         "from": 6.51, 
+         "to": 6.62, 
+         "speaker": 1, 
+         "confidence": 0.585, 
+         "final": false
+      }, 
+      {
+         "from": 6.62, 
+         "to": 6.71, 
+         "speaker": 1, 
+         "confidence": 0.585, 
+         "final": false
+      }, 
+      {
+         "from": 6.71, 
+         "to": 7.13, 
+         "speaker": 1, 
+         "confidence": 0.585, 
+         "final": false
+      }, 
+      {
+         "from": 7.13, 
+         "to": 7.28, 
+         "speaker": 1, 
+         "confidence": 0.585, 
+         "final": false
+      }, 
+      {
+         "from": 7.28, 
+         "to": 7.43, 
+         "speaker": 1, 
+         "confidence": 0.585, 
+         "final": false
+      }, 
+      {
+         "from": 7.43, 
+         "to": 7.59, 
+         "speaker": 1, 
+         "confidence": 0.585, 
+         "final": false
+      }, 
+      {
+         "from": 7.59, 
+         "to": 7.89, 
+         "speaker": 1, 
+         "confidence": 0.585, 
+         "final": false
+      }, 
+      {
+         "from": 7.89, 
+         "to": 8.11, 
+         "speaker": 1, 
+         "confidence": 0.585, 
+         "final": false
+      }, 
+      {
+         "from": 8.11, 
+         "to": 8.45, 
+         "speaker": 1, 
+         "confidence": 0.585, 
+         "final": false
+      }, 
+      {
+         "from": 8.7, 
+         "to": 8.96, 
+         "speaker": 1, 
+         "confidence": 0.515, 
+         "final": false
+      }, 
+      {
+         "from": 8.96, 
+         "to": 9.05, 
+         "speaker": 1, 
+         "confidence": 0.515, 
+         "final": false
+      }, 
+      {
+         "from": 9.08, 
+         "to": 9.44, 
+         "speaker": 1, 
+         "confidence": 0.619, 
+         "final": true
+      }
+   ]
+}

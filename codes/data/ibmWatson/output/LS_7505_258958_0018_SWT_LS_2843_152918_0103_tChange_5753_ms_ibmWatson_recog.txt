@@ -1,0 +1,305 @@
+{
+   "results": [
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "between", 
+                     0.17, 
+                     0.58
+                  ], 
+                  [
+                     "present", 
+                     0.58, 
+                     1.14
+                  ], 
+                  [
+                     "and", 
+                     1.23, 
+                     1.49
+                  ], 
+                  [
+                     "future", 
+                     1.58, 
+                     2.0
+                  ], 
+                  [
+                     "income", 
+                     2.0, 
+                     2.58
+                  ]
+               ], 
+               "confidence": 0.883, 
+               "transcript": "between present and future income "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "the", 
+                     3.63, 
+                     3.8
+                  ], 
+                  [
+                     "value", 
+                     3.8, 
+                     4.34
+                  ], 
+                  [
+                     "of", 
+                     4.34, 
+                     4.5
+                  ], 
+                  [
+                     "the", 
+                     4.5, 
+                     4.61
+                  ], 
+                  [
+                     "mass", 
+                     4.61, 
+                     5.08
+                  ], 
+                  [
+                     "of", 
+                     5.08, 
+                     5.24
+                  ], 
+                  [
+                     "wealth", 
+                     5.24, 
+                     5.59
+                  ], 
+                  [
+                     "of", 
+                     5.69, 
+                     5.85
+                  ], 
+                  [
+                     "group", 
+                     5.85, 
+                     6.17
+                  ], 
+                  [
+                     "by", 
+                     6.2, 
+                     6.39
+                  ], 
+                  [
+                     "themselves", 
+                     6.39, 
+                     7.25
+                  ], 
+                  [
+                     "and", 
+                     7.61, 
+                     7.78
+                  ], 
+                  [
+                     "lay", 
+                     7.78, 
+                     7.91
+                  ], 
+                  [
+                     "separated", 
+                     7.91, 
+                     8.6
+                  ], 
+                  [
+                     "from", 
+                     8.6, 
+                     8.79
+                  ], 
+                  [
+                     "the", 
+                     8.79, 
+                     8.87
+                  ], 
+                  [
+                     "main", 
+                     8.87, 
+                     9.15
+                  ], 
+                  [
+                     "ridge", 
+                     9.15, 
+                     9.58
+                  ]
+               ], 
+               "confidence": 0.854, 
+               "transcript": "the value of the mass of wealth of group by themselves and lay separated from the main ridge "
+            }
+         ], 
+         "final": true
+      }
+   ], 
+   "result_index": 0, 
+   "speaker_labels": [
+      {
+         "from": 0.17, 
+         "to": 0.58, 
+         "speaker": 0, 
+         "confidence": 0.482, 
+         "final": false
+      }, 
+      {
+         "from": 0.58, 
+         "to": 1.14, 
+         "speaker": 0, 
+         "confidence": 0.482, 
+         "final": false
+      }, 
+      {
+         "from": 1.23, 
+         "to": 1.49, 
+         "speaker": 0, 
+         "confidence": 0.415, 
+         "final": false
+      }, 
+      {
+         "from": 1.58, 
+         "to": 2.0, 
+         "speaker": 0, 
+         "confidence": 0.419, 
+         "final": false
+      }, 
+      {
+         "from": 2.0, 
+         "to": 2.58, 
+         "speaker": 0, 
+         "confidence": 0.419, 
+         "final": false
+      }, 
+      {
+         "from": 3.63, 
+         "to": 3.8, 
+         "speaker": 0, 
+         "confidence": 0.367, 
+         "final": false
+      }, 
+      {
+         "from": 3.8, 
+         "to": 4.34, 
+         "speaker": 0, 
+         "confidence": 0.367, 
+         "final": false
+      }, 
+      {
+         "from": 4.34, 
+         "to": 4.5, 
+         "speaker": 0, 
+         "confidence": 0.367, 
+         "final": false
+      }, 
+      {
+         "from": 4.5, 
+         "to": 4.61, 
+         "speaker": 0, 
+         "confidence": 0.367, 
+         "final": false
+      }, 
+      {
+         "from": 4.61, 
+         "to": 5.08, 
+         "speaker": 0, 
+         "confidence": 0.367, 
+         "final": false
+      }, 
+      {
+         "from": 5.08, 
+         "to": 5.24, 
+         "speaker": 0, 
+         "confidence": 0.367, 
+         "final": false
+      }, 
+      {
+         "from": 5.24, 
+         "to": 5.59, 
+         "speaker": 0, 
+         "confidence": 0.367, 
+         "final": false
+      }, 
+      {
+         "from": 5.69, 
+         "to": 5.85, 
+         "speaker": 1, 
+         "confidence": 0.447, 
+         "final": false
+      }, 
+      {
+         "from": 5.85, 
+         "to": 6.17, 
+         "speaker": 1, 
+         "confidence": 0.447, 
+         "final": false
+      }, 
+      {
+         "from": 6.2, 
+         "to": 6.39, 
+         "speaker": 2, 
+         "confidence": 0.482, 
+         "final": false
+      }, 
+      {
+         "from": 6.39, 
+         "to": 7.25, 
+         "speaker": 2, 
+         "confidence": 0.482, 
+         "final": false
+      }, 
+      {
+         "from": 7.61, 
+         "to": 7.78, 
+         "speaker": 2, 
+         "confidence": 0.473, 
+         "final": false
+      }, 
+      {
+         "from": 7.78, 
+         "to": 7.91, 
+         "speaker": 2, 
+         "confidence": 0.473, 
+         "final": false
+      }, 
+      {
+         "from": 7.91, 
+         "to": 8.6, 
+         "speaker": 2, 
+         "confidence": 0.473, 
+         "final": false
+      }, 
+      {
+         "from": 8.6, 
+         "to": 8.79, 
+         "speaker": 2, 
+         "confidence": 0.473, 
+         "final": false
+      }, 
+      {
+         "from": 8.79, 
+         "to": 8.87, 
+         "speaker": 2, 
+         "confidence": 0.473, 
+         "final": false
+      }, 
+      {
+         "from": 8.87, 
+         "to": 9.15, 
+         "speaker": 2, 
+         "confidence": 0.473, 
+         "final": false
+      }, 
+      {
+         "from": 9.15, 
+         "to": 9.58, 
+         "speaker": 2, 
+         "confidence": 0.473, 
+         "final": true
+      }
+   ]
+}

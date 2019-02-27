@@ -1,0 +1,303 @@
+{
+   "results": [
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "which", 
+                     0.16, 
+                     0.36
+                  ], 
+                  [
+                     "is", 
+                     0.36, 
+                     0.49
+                  ], 
+                  [
+                     "very", 
+                     0.49, 
+                     0.83
+                  ], 
+                  [
+                     "disagreeable", 
+                     0.83, 
+                     1.82
+                  ]
+               ], 
+               "confidence": 0.999, 
+               "transcript": "which is very disagreeable "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "that's", 
+                     2.25, 
+                     2.66
+                  ], 
+                  [
+                     "our", 
+                     2.66, 
+                     2.78
+                  ], 
+                  [
+                     "contracted", 
+                     2.78, 
+                     3.69
+                  ], 
+                  [
+                     "acquaintances", 
+                     3.95, 
+                     4.69
+                  ], 
+                  [
+                     "be", 
+                     4.69, 
+                     4.85
+                  ], 
+                  [
+                     "gone", 
+                     4.85, 
+                     5.07
+                  ], 
+                  [
+                     "about", 
+                     5.07, 
+                     5.43
+                  ], 
+                  [
+                     "a", 
+                     5.43, 
+                     5.53
+                  ], 
+                  [
+                     "possessed", 
+                     5.65, 
+                     6.16
+                  ], 
+                  [
+                     "of", 
+                     6.16, 
+                     6.26
+                  ], 
+                  [
+                     "the", 
+                     6.26, 
+                     6.34
+                  ], 
+                  [
+                     "most", 
+                     6.34, 
+                     6.67
+                  ], 
+                  [
+                     "captivity", 
+                     6.67, 
+                     7.31
+                  ]
+               ], 
+               "confidence": 0.822, 
+               "transcript": "that's our contracted acquaintances be gone about a possessed of the most captivity "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "grace", 
+                     7.43, 
+                     7.89
+                  ], 
+                  [
+                     "and", 
+                     7.89, 
+                     8.11
+                  ], 
+                  [
+                     "the", 
+                     8.11, 
+                     8.29
+                  ]
+               ], 
+               "confidence": 0.843, 
+               "transcript": "grace and the "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "there", 
+                     8.97, 
+                     9.28
+                  ]
+               ], 
+               "confidence": 0.626, 
+               "transcript": "there "
+            }
+         ], 
+         "final": true
+      }
+   ], 
+   "result_index": 0, 
+   "speaker_labels": [
+      {
+         "from": 0.16, 
+         "to": 0.36, 
+         "speaker": 1, 
+         "confidence": 0.543, 
+         "final": false
+      }, 
+      {
+         "from": 0.36, 
+         "to": 0.49, 
+         "speaker": 1, 
+         "confidence": 0.543, 
+         "final": false
+      }, 
+      {
+         "from": 0.49, 
+         "to": 0.83, 
+         "speaker": 1, 
+         "confidence": 0.543, 
+         "final": false
+      }, 
+      {
+         "from": 0.83, 
+         "to": 1.82, 
+         "speaker": 1, 
+         "confidence": 0.543, 
+         "final": false
+      }, 
+      {
+         "from": 2.25, 
+         "to": 2.66, 
+         "speaker": 1, 
+         "confidence": 0.418, 
+         "final": false
+      }, 
+      {
+         "from": 2.66, 
+         "to": 2.78, 
+         "speaker": 1, 
+         "confidence": 0.418, 
+         "final": false
+      }, 
+      {
+         "from": 2.78, 
+         "to": 3.69, 
+         "speaker": 1, 
+         "confidence": 0.418, 
+         "final": false
+      }, 
+      {
+         "from": 3.95, 
+         "to": 4.69, 
+         "speaker": 1, 
+         "confidence": 0.431, 
+         "final": false
+      }, 
+      {
+         "from": 4.69, 
+         "to": 4.85, 
+         "speaker": 1, 
+         "confidence": 0.431, 
+         "final": false
+      }, 
+      {
+         "from": 4.85, 
+         "to": 5.07, 
+         "speaker": 1, 
+         "confidence": 0.431, 
+         "final": false
+      }, 
+      {
+         "from": 5.07, 
+         "to": 5.43, 
+         "speaker": 1, 
+         "confidence": 0.431, 
+         "final": false
+      }, 
+      {
+         "from": 5.43, 
+         "to": 5.53, 
+         "speaker": 1, 
+         "confidence": 0.431, 
+         "final": false
+      }, 
+      {
+         "from": 5.65, 
+         "to": 6.16, 
+         "speaker": 2, 
+         "confidence": 0.533, 
+         "final": false
+      }, 
+      {
+         "from": 6.16, 
+         "to": 6.26, 
+         "speaker": 2, 
+         "confidence": 0.533, 
+         "final": false
+      }, 
+      {
+         "from": 6.26, 
+         "to": 6.34, 
+         "speaker": 2, 
+         "confidence": 0.533, 
+         "final": false
+      }, 
+      {
+         "from": 6.34, 
+         "to": 6.67, 
+         "speaker": 2, 
+         "confidence": 0.533, 
+         "final": false
+      }, 
+      {
+         "from": 6.67, 
+         "to": 7.31, 
+         "speaker": 2, 
+         "confidence": 0.533, 
+         "final": false
+      }, 
+      {
+         "from": 7.43, 
+         "to": 7.89, 
+         "speaker": 2, 
+         "confidence": 0.613, 
+         "final": false
+      }, 
+      {
+         "from": 7.89, 
+         "to": 8.11, 
+         "speaker": 2, 
+         "confidence": 0.613, 
+         "final": false
+      }, 
+      {
+         "from": 8.11, 
+         "to": 8.29, 
+         "speaker": 2, 
+         "confidence": 0.613, 
+         "final": false
+      }, 
+      {
+         "from": 8.97, 
+         "to": 9.28, 
+         "speaker": 0, 
+         "confidence": 0.449, 
+         "final": true
+      }
+   ]
+}

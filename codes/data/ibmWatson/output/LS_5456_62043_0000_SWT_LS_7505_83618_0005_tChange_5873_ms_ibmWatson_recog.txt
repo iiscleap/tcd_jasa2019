@@ -1,0 +1,316 @@
+{
+   "results": [
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "%HESITATION", 
+                     0.25, 
+                     0.35
+                  ], 
+                  [
+                     "Balibo", 
+                     0.35, 
+                     1.02
+                  ], 
+                  [
+                     "interbred", 
+                     1.25, 
+                     1.85
+                  ], 
+                  [
+                     "captain", 
+                     1.85, 
+                     2.46
+                  ]
+               ], 
+               "confidence": 0.455, 
+               "transcript": "%HESITATION Balibo interbred captain "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "the", 
+                     2.98, 
+                     3.08
+                  ], 
+                  [
+                     "story", 
+                     3.08, 
+                     3.51
+                  ], 
+                  [
+                     "of", 
+                     3.51, 
+                     3.6
+                  ], 
+                  [
+                     "steamboat", 
+                     3.6, 
+                     4.13
+                  ], 
+                  [
+                     "life", 
+                     4.13, 
+                     4.42
+                  ], 
+                  [
+                     "on", 
+                     4.42, 
+                     4.52
+                  ], 
+                  [
+                     "the", 
+                     4.52, 
+                     4.59
+                  ], 
+                  [
+                     "Mississippi", 
+                     4.59, 
+                     5.35
+                  ]
+               ], 
+               "confidence": 0.801, 
+               "transcript": "the story of steamboat life on the Mississippi "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "scholars", 
+                     5.78, 
+                     6.37
+                  ], 
+                  [
+                     "like", 
+                     6.37, 
+                     6.6
+                  ], 
+                  [
+                     "why", 
+                     6.6, 
+                     6.78
+                  ], 
+                  [
+                     "seven", 
+                     6.78, 
+                     7.12
+                  ], 
+                  [
+                     "separate", 
+                     7.12, 
+                     7.59
+                  ], 
+                  [
+                     "the", 
+                     7.59, 
+                     7.67
+                  ], 
+                  [
+                     "mother", 
+                     7.67, 
+                     8.06
+                  ], 
+                  [
+                     "to", 
+                     8.06, 
+                     8.23
+                  ], 
+                  [
+                     "mean", 
+                     8.23, 
+                     8.7
+                  ], 
+                  [
+                     "the", 
+                     8.75, 
+                     8.97
+                  ], 
+                  [
+                     "dawn", 
+                     8.97, 
+                     9.44
+                  ]
+               ], 
+               "confidence": 0.799, 
+               "transcript": "scholars like why seven separate the mother to mean the dawn "
+            }
+         ], 
+         "final": true
+      }
+   ], 
+   "result_index": 0, 
+   "speaker_labels": [
+      {
+         "from": 0.25, 
+         "to": 0.35, 
+         "speaker": 0, 
+         "confidence": 0.667, 
+         "final": false
+      }, 
+      {
+         "from": 0.35, 
+         "to": 1.02, 
+         "speaker": 0, 
+         "confidence": 0.667, 
+         "final": false
+      }, 
+      {
+         "from": 1.25, 
+         "to": 1.85, 
+         "speaker": 1, 
+         "confidence": 0.667, 
+         "final": false
+      }, 
+      {
+         "from": 1.85, 
+         "to": 2.46, 
+         "speaker": 1, 
+         "confidence": 0.667, 
+         "final": false
+      }, 
+      {
+         "from": 2.98, 
+         "to": 3.08, 
+         "speaker": 1, 
+         "confidence": 0.419, 
+         "final": false
+      }, 
+      {
+         "from": 3.08, 
+         "to": 3.51, 
+         "speaker": 1, 
+         "confidence": 0.419, 
+         "final": false
+      }, 
+      {
+         "from": 3.51, 
+         "to": 3.6, 
+         "speaker": 1, 
+         "confidence": 0.419, 
+         "final": false
+      }, 
+      {
+         "from": 3.6, 
+         "to": 4.13, 
+         "speaker": 1, 
+         "confidence": 0.419, 
+         "final": false
+      }, 
+      {
+         "from": 4.13, 
+         "to": 4.42, 
+         "speaker": 1, 
+         "confidence": 0.419, 
+         "final": false
+      }, 
+      {
+         "from": 4.42, 
+         "to": 4.52, 
+         "speaker": 1, 
+         "confidence": 0.419, 
+         "final": false
+      }, 
+      {
+         "from": 4.52, 
+         "to": 4.59, 
+         "speaker": 1, 
+         "confidence": 0.419, 
+         "final": false
+      }, 
+      {
+         "from": 4.59, 
+         "to": 5.35, 
+         "speaker": 1, 
+         "confidence": 0.419, 
+         "final": false
+      }, 
+      {
+         "from": 5.78, 
+         "to": 6.37, 
+         "speaker": 2, 
+         "confidence": 0.422, 
+         "final": false
+      }, 
+      {
+         "from": 6.37, 
+         "to": 6.6, 
+         "speaker": 2, 
+         "confidence": 0.422, 
+         "final": false
+      }, 
+      {
+         "from": 6.6, 
+         "to": 6.78, 
+         "speaker": 2, 
+         "confidence": 0.422, 
+         "final": false
+      }, 
+      {
+         "from": 6.78, 
+         "to": 7.12, 
+         "speaker": 2, 
+         "confidence": 0.422, 
+         "final": false
+      }, 
+      {
+         "from": 7.12, 
+         "to": 7.59, 
+         "speaker": 2, 
+         "confidence": 0.422, 
+         "final": false
+      }, 
+      {
+         "from": 7.59, 
+         "to": 7.67, 
+         "speaker": 2, 
+         "confidence": 0.422, 
+         "final": false
+      }, 
+      {
+         "from": 7.67, 
+         "to": 8.06, 
+         "speaker": 2, 
+         "confidence": 0.422, 
+         "final": false
+      }, 
+      {
+         "from": 8.06, 
+         "to": 8.23, 
+         "speaker": 2, 
+         "confidence": 0.422, 
+         "final": false
+      }, 
+      {
+         "from": 8.23, 
+         "to": 8.7, 
+         "speaker": 2, 
+         "confidence": 0.422, 
+         "final": false
+      }, 
+      {
+         "from": 8.75, 
+         "to": 8.97, 
+         "speaker": 2, 
+         "confidence": 0.452, 
+         "final": false
+      }, 
+      {
+         "from": 8.97, 
+         "to": 9.44, 
+         "speaker": 2, 
+         "confidence": 0.452, 
+         "final": true
+      }
+   ]
+}

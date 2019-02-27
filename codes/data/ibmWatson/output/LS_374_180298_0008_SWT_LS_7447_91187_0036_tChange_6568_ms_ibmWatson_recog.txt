@@ -1,0 +1,317 @@
+{
+   "results": [
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "for", 
+                     0.31, 
+                     0.48
+                  ], 
+                  [
+                     "the", 
+                     0.48, 
+                     0.61
+                  ], 
+                  [
+                     "rest", 
+                     0.61, 
+                     1.18
+                  ], 
+                  [
+                     "not", 
+                     1.22, 
+                     1.48
+                  ], 
+                  [
+                     "a", 
+                     1.48, 
+                     1.54
+                  ], 
+                  [
+                     "penny", 
+                     1.54, 
+                     1.87
+                  ], 
+                  [
+                     "of", 
+                     1.87, 
+                     2.01
+                  ], 
+                  [
+                     "that", 
+                     2.01, 
+                     2.48
+                  ]
+               ], 
+               "confidence": 0.866, 
+               "transcript": "for the rest not a penny of that "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "this", 
+                     3.36, 
+                     3.88
+                  ], 
+                  [
+                     "then", 
+                     3.91, 
+                     4.41
+                  ], 
+                  [
+                     "was", 
+                     4.44, 
+                     4.64
+                  ], 
+                  [
+                     "my", 
+                     4.64, 
+                     4.81
+                  ], 
+                  [
+                     "position", 
+                     4.81, 
+                     5.43
+                  ], 
+                  [
+                     "when", 
+                     5.43, 
+                     5.57
+                  ], 
+                  [
+                     "I", 
+                     5.57, 
+                     5.66
+                  ], 
+                  [
+                     "made", 
+                     5.66, 
+                     5.97
+                  ], 
+                  [
+                     "the", 
+                     6.52, 
+                     6.65
+                  ], 
+                  [
+                     "basis", 
+                     6.65, 
+                     7.14
+                  ], 
+                  [
+                     "of", 
+                     7.17, 
+                     7.45
+                  ], 
+                  [
+                     "this", 
+                     7.45, 
+                     7.73
+                  ], 
+                  [
+                     "method", 
+                     7.76, 
+                     8.25
+                  ], 
+                  [
+                     "consisted", 
+                     8.28, 
+                     9.02
+                  ], 
+                  [
+                     "in", 
+                     9.02, 
+                     9.2
+                  ], 
+                  [
+                     "refined", 
+                     9.2, 
+                     9.73
+                  ]
+               ], 
+               "confidence": 0.961, 
+               "transcript": "this then was my position when I made the basis of this method consisted in refined "
+            }
+         ], 
+         "final": true
+      }
+   ], 
+   "result_index": 0, 
+   "speaker_labels": [
+      {
+         "from": 0.31, 
+         "to": 0.48, 
+         "speaker": 0, 
+         "confidence": 0.667, 
+         "final": false
+      }, 
+      {
+         "from": 0.48, 
+         "to": 0.61, 
+         "speaker": 0, 
+         "confidence": 0.667, 
+         "final": false
+      }, 
+      {
+         "from": 0.61, 
+         "to": 1.18, 
+         "speaker": 0, 
+         "confidence": 0.667, 
+         "final": false
+      }, 
+      {
+         "from": 1.22, 
+         "to": 1.48, 
+         "speaker": 0, 
+         "confidence": 0.576, 
+         "final": false
+      }, 
+      {
+         "from": 1.48, 
+         "to": 1.54, 
+         "speaker": 0, 
+         "confidence": 0.576, 
+         "final": false
+      }, 
+      {
+         "from": 1.54, 
+         "to": 1.87, 
+         "speaker": 0, 
+         "confidence": 0.576, 
+         "final": false
+      }, 
+      {
+         "from": 1.87, 
+         "to": 2.01, 
+         "speaker": 0, 
+         "confidence": 0.576, 
+         "final": false
+      }, 
+      {
+         "from": 2.01, 
+         "to": 2.48, 
+         "speaker": 0, 
+         "confidence": 0.576, 
+         "final": false
+      }, 
+      {
+         "from": 3.36, 
+         "to": 3.88, 
+         "speaker": 0, 
+         "confidence": 0.552, 
+         "final": false
+      }, 
+      {
+         "from": 3.91, 
+         "to": 4.41, 
+         "speaker": 0, 
+         "confidence": 0.466, 
+         "final": false
+      }, 
+      {
+         "from": 4.44, 
+         "to": 4.64, 
+         "speaker": 0, 
+         "confidence": 0.549, 
+         "final": false
+      }, 
+      {
+         "from": 4.64, 
+         "to": 4.81, 
+         "speaker": 0, 
+         "confidence": 0.549, 
+         "final": false
+      }, 
+      {
+         "from": 4.81, 
+         "to": 5.43, 
+         "speaker": 0, 
+         "confidence": 0.549, 
+         "final": false
+      }, 
+      {
+         "from": 5.43, 
+         "to": 5.57, 
+         "speaker": 0, 
+         "confidence": 0.549, 
+         "final": false
+      }, 
+      {
+         "from": 5.57, 
+         "to": 5.66, 
+         "speaker": 0, 
+         "confidence": 0.549, 
+         "final": false
+      }, 
+      {
+         "from": 5.66, 
+         "to": 5.97, 
+         "speaker": 0, 
+         "confidence": 0.549, 
+         "final": false
+      }, 
+      {
+         "from": 6.52, 
+         "to": 6.65, 
+         "speaker": 1, 
+         "confidence": 0.622, 
+         "final": false
+      }, 
+      {
+         "from": 6.65, 
+         "to": 7.14, 
+         "speaker": 1, 
+         "confidence": 0.622, 
+         "final": false
+      }, 
+      {
+         "from": 7.17, 
+         "to": 7.45, 
+         "speaker": 1, 
+         "confidence": 0.619, 
+         "final": false
+      }, 
+      {
+         "from": 7.45, 
+         "to": 7.73, 
+         "speaker": 1, 
+         "confidence": 0.619, 
+         "final": false
+      }, 
+      {
+         "from": 7.76, 
+         "to": 8.25, 
+         "speaker": 1, 
+         "confidence": 0.612, 
+         "final": false
+      }, 
+      {
+         "from": 8.28, 
+         "to": 9.02, 
+         "speaker": 1, 
+         "confidence": 0.61, 
+         "final": false
+      }, 
+      {
+         "from": 9.02, 
+         "to": 9.2, 
+         "speaker": 1, 
+         "confidence": 0.61, 
+         "final": false
+      }, 
+      {
+         "from": 9.2, 
+         "to": 9.73, 
+         "speaker": 1, 
+         "confidence": 0.61, 
+         "final": true
+      }
+   ]
+}

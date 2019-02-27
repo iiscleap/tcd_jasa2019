@@ -1,0 +1,340 @@
+{
+   "results": [
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "%HESITATION", 
+                     1.07, 
+                     1.1
+                  ], 
+                  [
+                     "have", 
+                     1.1, 
+                     1.29
+                  ], 
+                  [
+                     "come", 
+                     1.29, 
+                     1.54
+                  ], 
+                  [
+                     "into", 
+                     1.54, 
+                     1.75
+                  ], 
+                  [
+                     "touch", 
+                     1.75, 
+                     2.13
+                  ], 
+                  [
+                     "with", 
+                     2.13, 
+                     2.31
+                  ], 
+                  [
+                     "his", 
+                     2.31, 
+                     2.57
+                  ]
+               ], 
+               "confidence": 0.76, 
+               "transcript": "%HESITATION have come into touch with his "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "but", 
+                     3.77, 
+                     3.97
+                  ], 
+                  [
+                     "it", 
+                     3.97, 
+                     4.06
+                  ], 
+                  [
+                     "has", 
+                     4.06, 
+                     4.31
+                  ], 
+                  [
+                     "been", 
+                     4.31, 
+                     4.48
+                  ]
+               ], 
+               "confidence": 0.998, 
+               "transcript": "but it has been "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "Ursula", 
+                     4.65, 
+                     5.13
+                  ], 
+                  [
+                     "for", 
+                     5.67, 
+                     5.91
+                  ], 
+                  [
+                     "two", 
+                     5.91, 
+                     6.13
+                  ], 
+                  [
+                     "months", 
+                     6.13, 
+                     6.57
+                  ], 
+                  [
+                     "we", 
+                     6.57, 
+                     6.75
+                  ], 
+                  [
+                     "had", 
+                     6.75, 
+                     6.88
+                  ], 
+                  [
+                     "not", 
+                     6.88, 
+                     7.09
+                  ], 
+                  [
+                     "even", 
+                     7.09, 
+                     7.34
+                  ], 
+                  [
+                     "been", 
+                     7.34, 
+                     7.57
+                  ], 
+                  [
+                     "to", 
+                     7.57, 
+                     7.67
+                  ], 
+                  [
+                     "Paris", 
+                     7.67, 
+                     8.32
+                  ], 
+                  [
+                     "no", 
+                     8.64, 
+                     8.84
+                  ], 
+                  [
+                     "one", 
+                     8.84, 
+                     9.0
+                  ], 
+                  [
+                     "can", 
+                     9.0, 
+                     9.18
+                  ]
+               ], 
+               "confidence": 0.739, 
+               "transcript": "Ursula for two months we had not even been to Paris no one can "
+            }
+         ], 
+         "final": true
+      }
+   ], 
+   "result_index": 0, 
+   "speaker_labels": [
+      {
+         "from": 1.07, 
+         "to": 1.1, 
+         "speaker": 0, 
+         "confidence": 0.5, 
+         "final": false
+      }, 
+      {
+         "from": 1.1, 
+         "to": 1.29, 
+         "speaker": 0, 
+         "confidence": 0.5, 
+         "final": false
+      }, 
+      {
+         "from": 1.29, 
+         "to": 1.54, 
+         "speaker": 0, 
+         "confidence": 0.5, 
+         "final": false
+      }, 
+      {
+         "from": 1.54, 
+         "to": 1.75, 
+         "speaker": 0, 
+         "confidence": 0.5, 
+         "final": false
+      }, 
+      {
+         "from": 1.75, 
+         "to": 2.13, 
+         "speaker": 0, 
+         "confidence": 0.5, 
+         "final": false
+      }, 
+      {
+         "from": 2.13, 
+         "to": 2.31, 
+         "speaker": 0, 
+         "confidence": 0.5, 
+         "final": false
+      }, 
+      {
+         "from": 2.31, 
+         "to": 2.57, 
+         "speaker": 0, 
+         "confidence": 0.5, 
+         "final": false
+      }, 
+      {
+         "from": 3.77, 
+         "to": 3.97, 
+         "speaker": 0, 
+         "confidence": 0.556, 
+         "final": false
+      }, 
+      {
+         "from": 3.97, 
+         "to": 4.06, 
+         "speaker": 0, 
+         "confidence": 0.556, 
+         "final": false
+      }, 
+      {
+         "from": 4.06, 
+         "to": 4.31, 
+         "speaker": 0, 
+         "confidence": 0.556, 
+         "final": false
+      }, 
+      {
+         "from": 4.31, 
+         "to": 4.48, 
+         "speaker": 0, 
+         "confidence": 0.556, 
+         "final": false
+      }, 
+      {
+         "from": 4.65, 
+         "to": 5.13, 
+         "speaker": 0, 
+         "confidence": 0.557, 
+         "final": false
+      }, 
+      {
+         "from": 5.67, 
+         "to": 5.91, 
+         "speaker": 1, 
+         "confidence": 0.606, 
+         "final": false
+      }, 
+      {
+         "from": 5.91, 
+         "to": 6.13, 
+         "speaker": 1, 
+         "confidence": 0.606, 
+         "final": false
+      }, 
+      {
+         "from": 6.13, 
+         "to": 6.57, 
+         "speaker": 1, 
+         "confidence": 0.606, 
+         "final": false
+      }, 
+      {
+         "from": 6.57, 
+         "to": 6.75, 
+         "speaker": 1, 
+         "confidence": 0.606, 
+         "final": false
+      }, 
+      {
+         "from": 6.75, 
+         "to": 6.88, 
+         "speaker": 1, 
+         "confidence": 0.606, 
+         "final": false
+      }, 
+      {
+         "from": 6.88, 
+         "to": 7.09, 
+         "speaker": 1, 
+         "confidence": 0.606, 
+         "final": false
+      }, 
+      {
+         "from": 7.09, 
+         "to": 7.34, 
+         "speaker": 1, 
+         "confidence": 0.606, 
+         "final": false
+      }, 
+      {
+         "from": 7.34, 
+         "to": 7.57, 
+         "speaker": 1, 
+         "confidence": 0.606, 
+         "final": false
+      }, 
+      {
+         "from": 7.57, 
+         "to": 7.67, 
+         "speaker": 1, 
+         "confidence": 0.606, 
+         "final": false
+      }, 
+      {
+         "from": 7.67, 
+         "to": 8.32, 
+         "speaker": 1, 
+         "confidence": 0.606, 
+         "final": false
+      }, 
+      {
+         "from": 8.64, 
+         "to": 8.84, 
+         "speaker": 1, 
+         "confidence": 0.601, 
+         "final": false
+      }, 
+      {
+         "from": 8.84, 
+         "to": 9.0, 
+         "speaker": 1, 
+         "confidence": 0.601, 
+         "final": false
+      }, 
+      {
+         "from": 9.0, 
+         "to": 9.18, 
+         "speaker": 1, 
+         "confidence": 0.601, 
+         "final": true
+      }
+   ]
+}

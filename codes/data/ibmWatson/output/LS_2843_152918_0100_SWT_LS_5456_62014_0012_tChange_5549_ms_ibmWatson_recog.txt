@@ -1,0 +1,389 @@
+{
+   "results": [
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "and", 
+                     0.25, 
+                     0.38
+                  ], 
+                  [
+                     "for", 
+                     0.38, 
+                     0.64
+                  ], 
+                  [
+                     "our", 
+                     0.64, 
+                     0.88
+                  ], 
+                  [
+                     "final", 
+                     0.88, 
+                     1.24
+                  ], 
+                  [
+                     "success", 
+                     1.24, 
+                     1.93
+                  ], 
+                  [
+                     "we", 
+                     1.93, 
+                     2.14
+                  ], 
+                  [
+                     "owe", 
+                     2.14, 
+                     2.29
+                  ], 
+                  [
+                     "a", 
+                     2.29, 
+                     2.38
+                  ], 
+                  [
+                     "deep", 
+                     2.38, 
+                     2.75
+                  ], 
+                  [
+                     "debt", 
+                     2.78, 
+                     3.06
+                  ], 
+                  [
+                     "of", 
+                     3.06, 
+                     3.2
+                  ], 
+                  [
+                     "gratitude", 
+                     3.2, 
+                     4.01
+                  ], 
+                  [
+                     "to", 
+                     4.06, 
+                     4.18
+                  ], 
+                  [
+                     "our", 
+                     4.18, 
+                     4.37
+                  ], 
+                  [
+                     "prudence", 
+                     4.37, 
+                     5.03
+                  ]
+               ], 
+               "confidence": 0.944, 
+               "transcript": "and for our final success we owe a deep debt of gratitude to our prudence "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "here", 
+                     5.48, 
+                     5.68
+                  ], 
+                  [
+                     "the", 
+                     5.68, 
+                     5.78
+                  ], 
+                  [
+                     "old", 
+                     5.78, 
+                     5.99
+                  ], 
+                  [
+                     "woman", 
+                     5.99, 
+                     6.2
+                  ], 
+                  [
+                     "Rosen", 
+                     6.2, 
+                     6.71
+                  ], 
+                  [
+                     "through", 
+                     6.71, 
+                     6.92
+                  ], 
+                  [
+                     "on", 
+                     6.92, 
+                     7.09
+                  ], 
+                  [
+                     "a", 
+                     7.09, 
+                     7.13
+                  ], 
+                  [
+                     "handful", 
+                     7.13, 
+                     7.57
+                  ], 
+                  [
+                     "of", 
+                     7.57, 
+                     7.67
+                  ], 
+                  [
+                     "light", 
+                     7.67, 
+                     7.97
+                  ], 
+                  [
+                     "would", 
+                     7.97, 
+                     8.23
+                  ], 
+                  [
+                     "which", 
+                     8.47, 
+                     8.66
+                  ], 
+                  [
+                     "blazed", 
+                     8.66, 
+                     9.05
+                  ], 
+                  [
+                     "a", 
+                     9.05, 
+                     9.15
+                  ]
+               ], 
+               "confidence": 0.707, 
+               "transcript": "here the old woman Rosen through on a handful of light would which blazed a "
+            }
+         ], 
+         "final": true
+      }
+   ], 
+   "result_index": 0, 
+   "speaker_labels": [
+      {
+         "from": 0.25, 
+         "to": 0.38, 
+         "speaker": 0, 
+         "confidence": 0.552, 
+         "final": false
+      }, 
+      {
+         "from": 0.38, 
+         "to": 0.64, 
+         "speaker": 0, 
+         "confidence": 0.552, 
+         "final": false
+      }, 
+      {
+         "from": 0.64, 
+         "to": 0.88, 
+         "speaker": 0, 
+         "confidence": 0.552, 
+         "final": false
+      }, 
+      {
+         "from": 0.88, 
+         "to": 1.24, 
+         "speaker": 0, 
+         "confidence": 0.552, 
+         "final": false
+      }, 
+      {
+         "from": 1.24, 
+         "to": 1.93, 
+         "speaker": 0, 
+         "confidence": 0.552, 
+         "final": false
+      }, 
+      {
+         "from": 1.93, 
+         "to": 2.14, 
+         "speaker": 0, 
+         "confidence": 0.552, 
+         "final": false
+      }, 
+      {
+         "from": 2.14, 
+         "to": 2.29, 
+         "speaker": 0, 
+         "confidence": 0.552, 
+         "final": false
+      }, 
+      {
+         "from": 2.29, 
+         "to": 2.38, 
+         "speaker": 0, 
+         "confidence": 0.552, 
+         "final": false
+      }, 
+      {
+         "from": 2.38, 
+         "to": 2.75, 
+         "speaker": 0, 
+         "confidence": 0.552, 
+         "final": false
+      }, 
+      {
+         "from": 2.78, 
+         "to": 3.06, 
+         "speaker": 0, 
+         "confidence": 0.539, 
+         "final": false
+      }, 
+      {
+         "from": 3.06, 
+         "to": 3.2, 
+         "speaker": 0, 
+         "confidence": 0.539, 
+         "final": false
+      }, 
+      {
+         "from": 3.2, 
+         "to": 4.01, 
+         "speaker": 0, 
+         "confidence": 0.539, 
+         "final": false
+      }, 
+      {
+         "from": 4.06, 
+         "to": 4.18, 
+         "speaker": 0, 
+         "confidence": 0.573, 
+         "final": false
+      }, 
+      {
+         "from": 4.18, 
+         "to": 4.37, 
+         "speaker": 0, 
+         "confidence": 0.573, 
+         "final": false
+      }, 
+      {
+         "from": 4.37, 
+         "to": 5.03, 
+         "speaker": 0, 
+         "confidence": 0.573, 
+         "final": false
+      }, 
+      {
+         "from": 5.48, 
+         "to": 5.68, 
+         "speaker": 1, 
+         "confidence": 0.626, 
+         "final": false
+      }, 
+      {
+         "from": 5.68, 
+         "to": 5.78, 
+         "speaker": 1, 
+         "confidence": 0.626, 
+         "final": false
+      }, 
+      {
+         "from": 5.78, 
+         "to": 5.99, 
+         "speaker": 1, 
+         "confidence": 0.626, 
+         "final": false
+      }, 
+      {
+         "from": 5.99, 
+         "to": 6.2, 
+         "speaker": 1, 
+         "confidence": 0.626, 
+         "final": false
+      }, 
+      {
+         "from": 6.2, 
+         "to": 6.71, 
+         "speaker": 1, 
+         "confidence": 0.626, 
+         "final": false
+      }, 
+      {
+         "from": 6.71, 
+         "to": 6.92, 
+         "speaker": 1, 
+         "confidence": 0.626, 
+         "final": false
+      }, 
+      {
+         "from": 6.92, 
+         "to": 7.09, 
+         "speaker": 1, 
+         "confidence": 0.626, 
+         "final": false
+      }, 
+      {
+         "from": 7.09, 
+         "to": 7.13, 
+         "speaker": 1, 
+         "confidence": 0.626, 
+         "final": false
+      }, 
+      {
+         "from": 7.13, 
+         "to": 7.57, 
+         "speaker": 1, 
+         "confidence": 0.626, 
+         "final": false
+      }, 
+      {
+         "from": 7.57, 
+         "to": 7.67, 
+         "speaker": 1, 
+         "confidence": 0.626, 
+         "final": false
+      }, 
+      {
+         "from": 7.67, 
+         "to": 7.97, 
+         "speaker": 1, 
+         "confidence": 0.626, 
+         "final": false
+      }, 
+      {
+         "from": 7.97, 
+         "to": 8.23, 
+         "speaker": 1, 
+         "confidence": 0.626, 
+         "final": false
+      }, 
+      {
+         "from": 8.47, 
+         "to": 8.66, 
+         "speaker": 1, 
+         "confidence": 0.62, 
+         "final": false
+      }, 
+      {
+         "from": 8.66, 
+         "to": 9.05, 
+         "speaker": 1, 
+         "confidence": 0.62, 
+         "final": false
+      }, 
+      {
+         "from": 9.05, 
+         "to": 9.15, 
+         "speaker": 1, 
+         "confidence": 0.62, 
+         "final": true
+      }
+   ]
+}

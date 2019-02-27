@@ -1,0 +1,354 @@
+{
+   "results": [
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "that", 
+                     0.2, 
+                     0.4
+                  ], 
+                  [
+                     "the", 
+                     0.4, 
+                     0.5
+                  ], 
+                  [
+                     "less", 
+                     0.5, 
+                     1.07
+                  ], 
+                  [
+                     "efficient", 
+                     1.12, 
+                     1.79
+                  ], 
+                  [
+                     "rented", 
+                     1.86, 
+                     2.51
+                  ], 
+                  [
+                     "agents", 
+                     2.54, 
+                     3.13
+                  ], 
+                  [
+                     "are", 
+                     3.16, 
+                     3.31
+                  ], 
+                  [
+                     "thrown", 
+                     3.31, 
+                     3.68
+                  ], 
+                  [
+                     "out", 
+                     3.68, 
+                     3.8
+                  ], 
+                  [
+                     "of", 
+                     3.8, 
+                     3.89
+                  ], 
+                  [
+                     "use", 
+                     3.89, 
+                     4.41
+                  ], 
+                  [
+                     "in", 
+                     4.83, 
+                     4.98
+                  ], 
+                  [
+                     "the", 
+                     4.98, 
+                     5.06
+                  ], 
+                  [
+                     "margin", 
+                     5.06, 
+                     5.54
+                  ], 
+                  [
+                     "of", 
+                     5.54, 
+                     5.64
+                  ], 
+                  [
+                     "utilization", 
+                     5.64, 
+                     6.49
+                  ], 
+                  [
+                     "for", 
+                     6.76, 
+                     6.92
+                  ], 
+                  [
+                     "love", 
+                     6.92, 
+                     7.2
+                  ], 
+                  [
+                     "was", 
+                     7.2, 
+                     7.4
+                  ], 
+                  [
+                     "love", 
+                     7.4, 
+                     7.85
+                  ], 
+                  [
+                     "and", 
+                     7.85, 
+                     8.04
+                  ], 
+                  [
+                     "better", 
+                     8.04, 
+                     8.36
+                  ], 
+                  [
+                     "than", 
+                     8.36, 
+                     8.56
+                  ], 
+                  [
+                     "money", 
+                     8.56, 
+                     9.05
+                  ], 
+                  [
+                     "this", 
+                     9.13, 
+                     9.3
+                  ], 
+                  [
+                     "flyer", 
+                     9.3, 
+                     9.6
+                  ], 
+                  [
+                     "the", 
+                     9.6, 
+                     9.74
+                  ], 
+                  [
+                     "fastest", 
+                     9.74, 
+                     10.5
+                  ]
+               ], 
+               "confidence": 0.754, 
+               "transcript": "that the less efficient rented agents are thrown out of use in the margin of utilization for love was love and better than money this flyer the fastest "
+            }
+         ], 
+         "final": true
+      }
+   ], 
+   "result_index": 0, 
+   "speaker_labels": [
+      {
+         "from": 0.2, 
+         "to": 0.4, 
+         "speaker": 0, 
+         "confidence": 0.434, 
+         "final": false
+      }, 
+      {
+         "from": 0.4, 
+         "to": 0.5, 
+         "speaker": 0, 
+         "confidence": 0.434, 
+         "final": false
+      }, 
+      {
+         "from": 0.5, 
+         "to": 1.07, 
+         "speaker": 0, 
+         "confidence": 0.434, 
+         "final": false
+      }, 
+      {
+         "from": 1.12, 
+         "to": 1.79, 
+         "speaker": 1, 
+         "confidence": 0.49, 
+         "final": false
+      }, 
+      {
+         "from": 1.86, 
+         "to": 2.51, 
+         "speaker": 0, 
+         "confidence": 0.411, 
+         "final": false
+      }, 
+      {
+         "from": 2.54, 
+         "to": 3.13, 
+         "speaker": 1, 
+         "confidence": 0.437, 
+         "final": false
+      }, 
+      {
+         "from": 3.16, 
+         "to": 3.31, 
+         "speaker": 2, 
+         "confidence": 0.38, 
+         "final": false
+      }, 
+      {
+         "from": 3.31, 
+         "to": 3.68, 
+         "speaker": 2, 
+         "confidence": 0.38, 
+         "final": false
+      }, 
+      {
+         "from": 3.68, 
+         "to": 3.8, 
+         "speaker": 2, 
+         "confidence": 0.38, 
+         "final": false
+      }, 
+      {
+         "from": 3.8, 
+         "to": 3.89, 
+         "speaker": 2, 
+         "confidence": 0.38, 
+         "final": false
+      }, 
+      {
+         "from": 3.89, 
+         "to": 4.41, 
+         "speaker": 2, 
+         "confidence": 0.38, 
+         "final": false
+      }, 
+      {
+         "from": 4.83, 
+         "to": 4.98, 
+         "speaker": 1, 
+         "confidence": 0.378, 
+         "final": false
+      }, 
+      {
+         "from": 4.98, 
+         "to": 5.06, 
+         "speaker": 1, 
+         "confidence": 0.378, 
+         "final": false
+      }, 
+      {
+         "from": 5.06, 
+         "to": 5.54, 
+         "speaker": 1, 
+         "confidence": 0.378, 
+         "final": false
+      }, 
+      {
+         "from": 5.54, 
+         "to": 5.64, 
+         "speaker": 1, 
+         "confidence": 0.378, 
+         "final": false
+      }, 
+      {
+         "from": 5.64, 
+         "to": 6.49, 
+         "speaker": 1, 
+         "confidence": 0.378, 
+         "final": false
+      }, 
+      {
+         "from": 6.76, 
+         "to": 6.92, 
+         "speaker": 2, 
+         "confidence": 0.459, 
+         "final": false
+      }, 
+      {
+         "from": 6.92, 
+         "to": 7.2, 
+         "speaker": 2, 
+         "confidence": 0.459, 
+         "final": false
+      }, 
+      {
+         "from": 7.2, 
+         "to": 7.4, 
+         "speaker": 2, 
+         "confidence": 0.459, 
+         "final": false
+      }, 
+      {
+         "from": 7.4, 
+         "to": 7.85, 
+         "speaker": 2, 
+         "confidence": 0.459, 
+         "final": false
+      }, 
+      {
+         "from": 7.85, 
+         "to": 8.04, 
+         "speaker": 2, 
+         "confidence": 0.459, 
+         "final": false
+      }, 
+      {
+         "from": 8.04, 
+         "to": 8.36, 
+         "speaker": 2, 
+         "confidence": 0.459, 
+         "final": false
+      }, 
+      {
+         "from": 8.36, 
+         "to": 8.56, 
+         "speaker": 2, 
+         "confidence": 0.459, 
+         "final": false
+      }, 
+      {
+         "from": 8.56, 
+         "to": 9.05, 
+         "speaker": 2, 
+         "confidence": 0.459, 
+         "final": false
+      }, 
+      {
+         "from": 9.13, 
+         "to": 9.3, 
+         "speaker": 2, 
+         "confidence": 0.461, 
+         "final": false
+      }, 
+      {
+         "from": 9.3, 
+         "to": 9.6, 
+         "speaker": 2, 
+         "confidence": 0.461, 
+         "final": false
+      }, 
+      {
+         "from": 9.6, 
+         "to": 9.74, 
+         "speaker": 2, 
+         "confidence": 0.461, 
+         "final": false
+      }, 
+      {
+         "from": 9.74, 
+         "to": 10.5, 
+         "speaker": 2, 
+         "confidence": 0.461, 
+         "final": true
+      }
+   ]
+}

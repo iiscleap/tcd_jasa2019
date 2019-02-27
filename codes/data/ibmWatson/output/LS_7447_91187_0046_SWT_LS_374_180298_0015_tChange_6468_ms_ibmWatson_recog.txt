@@ -1,0 +1,373 @@
+{
+   "results": [
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "by", 
+                     0.55, 
+                     0.71
+                  ]
+               ], 
+               "confidence": 0.695, 
+               "transcript": "by "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "sept", 
+                     0.97, 
+                     1.5
+                  ], 
+                  [
+                     "and", 
+                     1.53, 
+                     1.72
+                  ], 
+                  [
+                     "eggs", 
+                     1.72, 
+                     1.9
+                  ]
+               ], 
+               "confidence": 0.929, 
+               "transcript": "sept and eggs "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "he", 
+                     2.39, 
+                     2.45
+                  ], 
+                  [
+                     "advocated", 
+                     2.45, 
+                     3.11
+                  ], 
+                  [
+                     "frequent", 
+                     3.11, 
+                     3.66
+                  ], 
+                  [
+                     "play", 
+                     3.66, 
+                     3.89
+                  ]
+               ], 
+               "confidence": 0.908, 
+               "transcript": "he advocated frequent play "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "of", 
+                     4.07, 
+                     4.17
+                  ], 
+                  [
+                     "the", 
+                     4.17, 
+                     4.28
+                  ], 
+                  [
+                     "prelude", 
+                     4.28, 
+                     4.75
+                  ]
+               ], 
+               "confidence": 0.872, 
+               "transcript": "of the prelude "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "since", 
+                     4.79, 
+                     5.11
+                  ], 
+                  [
+                     "you", 
+                     5.11, 
+                     5.32
+                  ]
+               ], 
+               "confidence": 0.46, 
+               "transcript": "since you "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "formerly", 
+                     6.29, 
+                     7.02
+                  ], 
+                  [
+                     "when", 
+                     7.05, 
+                     7.23
+                  ], 
+                  [
+                     "one", 
+                     7.23, 
+                     7.44
+                  ], 
+                  [
+                     "went", 
+                     7.44, 
+                     7.65
+                  ], 
+                  [
+                     "to", 
+                     7.65, 
+                     7.75
+                  ], 
+                  [
+                     "for", 
+                     7.75, 
+                     7.92
+                  ], 
+                  [
+                     "Scotty", 
+                     7.92, 
+                     8.57
+                  ], 
+                  [
+                     "one", 
+                     8.89, 
+                     9.11
+                  ], 
+                  [
+                     "had", 
+                     9.11, 
+                     9.39
+                  ], 
+                  [
+                     "the", 
+                     9.39, 
+                     9.48
+                  ], 
+                  [
+                     "chance", 
+                     9.48, 
+                     9.89
+                  ], 
+                  [
+                     "of", 
+                     9.89, 
+                     10.02
+                  ]
+               ], 
+               "confidence": 0.879, 
+               "transcript": "formerly when one went to for Scotty one had the chance of "
+            }
+         ], 
+         "final": true
+      }
+   ], 
+   "result_index": 0, 
+   "speaker_labels": [
+      {
+         "from": 0.55, 
+         "to": 0.71, 
+         "speaker": 0, 
+         "confidence": 0.5, 
+         "final": false
+      }, 
+      {
+         "from": 0.97, 
+         "to": 1.5, 
+         "speaker": 0, 
+         "confidence": 0.485, 
+         "final": false
+      }, 
+      {
+         "from": 1.53, 
+         "to": 1.72, 
+         "speaker": 0, 
+         "confidence": 0.507, 
+         "final": false
+      }, 
+      {
+         "from": 1.72, 
+         "to": 1.9, 
+         "speaker": 0, 
+         "confidence": 0.507, 
+         "final": false
+      }, 
+      {
+         "from": 2.39, 
+         "to": 2.45, 
+         "speaker": 0, 
+         "confidence": 0.397, 
+         "final": false
+      }, 
+      {
+         "from": 2.45, 
+         "to": 3.11, 
+         "speaker": 0, 
+         "confidence": 0.397, 
+         "final": false
+      }, 
+      {
+         "from": 3.11, 
+         "to": 3.66, 
+         "speaker": 0, 
+         "confidence": 0.397, 
+         "final": false
+      }, 
+      {
+         "from": 3.66, 
+         "to": 3.89, 
+         "speaker": 0, 
+         "confidence": 0.397, 
+         "final": false
+      }, 
+      {
+         "from": 4.07, 
+         "to": 4.17, 
+         "speaker": 0, 
+         "confidence": 0.515, 
+         "final": false
+      }, 
+      {
+         "from": 4.17, 
+         "to": 4.28, 
+         "speaker": 0, 
+         "confidence": 0.515, 
+         "final": false
+      }, 
+      {
+         "from": 4.28, 
+         "to": 4.75, 
+         "speaker": 0, 
+         "confidence": 0.515, 
+         "final": false
+      }, 
+      {
+         "from": 4.79, 
+         "to": 5.11, 
+         "speaker": 0, 
+         "confidence": 0.485, 
+         "final": false
+      }, 
+      {
+         "from": 5.11, 
+         "to": 5.32, 
+         "speaker": 0, 
+         "confidence": 0.485, 
+         "final": false
+      }, 
+      {
+         "from": 6.29, 
+         "to": 7.02, 
+         "speaker": 1, 
+         "confidence": 0.571, 
+         "final": false
+      }, 
+      {
+         "from": 7.05, 
+         "to": 7.23, 
+         "speaker": 1, 
+         "confidence": 0.639, 
+         "final": false
+      }, 
+      {
+         "from": 7.23, 
+         "to": 7.44, 
+         "speaker": 1, 
+         "confidence": 0.639, 
+         "final": false
+      }, 
+      {
+         "from": 7.44, 
+         "to": 7.65, 
+         "speaker": 1, 
+         "confidence": 0.639, 
+         "final": false
+      }, 
+      {
+         "from": 7.65, 
+         "to": 7.75, 
+         "speaker": 1, 
+         "confidence": 0.639, 
+         "final": false
+      }, 
+      {
+         "from": 7.75, 
+         "to": 7.92, 
+         "speaker": 1, 
+         "confidence": 0.639, 
+         "final": false
+      }, 
+      {
+         "from": 7.92, 
+         "to": 8.57, 
+         "speaker": 1, 
+         "confidence": 0.639, 
+         "final": false
+      }, 
+      {
+         "from": 8.89, 
+         "to": 9.11, 
+         "speaker": 1, 
+         "confidence": 0.596, 
+         "final": false
+      }, 
+      {
+         "from": 9.11, 
+         "to": 9.39, 
+         "speaker": 1, 
+         "confidence": 0.596, 
+         "final": false
+      }, 
+      {
+         "from": 9.39, 
+         "to": 9.48, 
+         "speaker": 1, 
+         "confidence": 0.596, 
+         "final": false
+      }, 
+      {
+         "from": 9.48, 
+         "to": 9.89, 
+         "speaker": 1, 
+         "confidence": 0.596, 
+         "final": false
+      }, 
+      {
+         "from": 9.89, 
+         "to": 10.02, 
+         "speaker": 1, 
+         "confidence": 0.596, 
+         "final": true
+      }
+   ]
+}

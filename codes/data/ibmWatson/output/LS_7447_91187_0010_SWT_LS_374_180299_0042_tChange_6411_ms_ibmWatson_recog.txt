@@ -1,0 +1,255 @@
+{
+   "results": [
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "strong", 
+                     0.43, 
+                     1.07
+                  ]
+               ], 
+               "confidence": 0.995, 
+               "transcript": "strong "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "conviction", 
+                     1.2, 
+                     1.83
+                  ]
+               ], 
+               "confidence": 0.488, 
+               "transcript": "conviction "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "clear", 
+                     4.1, 
+                     4.44
+                  ], 
+                  [
+                     "perception", 
+                     4.44, 
+                     5.19
+                  ], 
+                  [
+                     "of", 
+                     5.22, 
+                     5.37
+                  ], 
+                  [
+                     "the", 
+                     5.37, 
+                     5.54
+                  ]
+               ], 
+               "confidence": 0.996, 
+               "transcript": "clear perception of the "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "the", 
+                     6.36, 
+                     6.51
+                  ], 
+                  [
+                     "Duke", 
+                     6.51, 
+                     6.79
+                  ], 
+                  [
+                     "wrote", 
+                     6.79, 
+                     7.06
+                  ], 
+                  [
+                     "to", 
+                     7.06, 
+                     7.23
+                  ], 
+                  [
+                     "her", 
+                     7.23, 
+                     7.48
+                  ], 
+                  [
+                     "two", 
+                     7.48, 
+                     7.75
+                  ], 
+                  [
+                     "or", 
+                     7.75, 
+                     7.88
+                  ], 
+                  [
+                     "three", 
+                     7.88, 
+                     8.17
+                  ], 
+                  [
+                     "times", 
+                     8.17, 
+                     8.92
+                  ], 
+                  [
+                     "she", 
+                     9.25, 
+                     9.47
+                  ], 
+                  [
+                     "wrecked", 
+                     9.47, 
+                     9.74
+                  ]
+               ], 
+               "confidence": 0.846, 
+               "transcript": "the Duke wrote to her two or three times she wrecked "
+            }
+         ], 
+         "final": true
+      }
+   ], 
+   "result_index": 0, 
+   "speaker_labels": [
+      {
+         "from": 0.43, 
+         "to": 1.07, 
+         "speaker": 1, 
+         "confidence": 0.541, 
+         "final": false
+      }, 
+      {
+         "from": 1.2, 
+         "to": 1.83, 
+         "speaker": 1, 
+         "confidence": 0.667, 
+         "final": false
+      }, 
+      {
+         "from": 4.1, 
+         "to": 4.44, 
+         "speaker": 1, 
+         "confidence": 0.429, 
+         "final": false
+      }, 
+      {
+         "from": 4.44, 
+         "to": 5.19, 
+         "speaker": 1, 
+         "confidence": 0.429, 
+         "final": false
+      }, 
+      {
+         "from": 5.22, 
+         "to": 5.37, 
+         "speaker": 1, 
+         "confidence": 0.527, 
+         "final": false
+      }, 
+      {
+         "from": 5.37, 
+         "to": 5.54, 
+         "speaker": 1, 
+         "confidence": 0.527, 
+         "final": false
+      }, 
+      {
+         "from": 6.36, 
+         "to": 6.51, 
+         "speaker": 0, 
+         "confidence": 0.596, 
+         "final": false
+      }, 
+      {
+         "from": 6.51, 
+         "to": 6.79, 
+         "speaker": 0, 
+         "confidence": 0.596, 
+         "final": false
+      }, 
+      {
+         "from": 6.79, 
+         "to": 7.06, 
+         "speaker": 0, 
+         "confidence": 0.596, 
+         "final": false
+      }, 
+      {
+         "from": 7.06, 
+         "to": 7.23, 
+         "speaker": 0, 
+         "confidence": 0.596, 
+         "final": false
+      }, 
+      {
+         "from": 7.23, 
+         "to": 7.48, 
+         "speaker": 0, 
+         "confidence": 0.596, 
+         "final": false
+      }, 
+      {
+         "from": 7.48, 
+         "to": 7.75, 
+         "speaker": 0, 
+         "confidence": 0.596, 
+         "final": false
+      }, 
+      {
+         "from": 7.75, 
+         "to": 7.88, 
+         "speaker": 0, 
+         "confidence": 0.596, 
+         "final": false
+      }, 
+      {
+         "from": 7.88, 
+         "to": 8.17, 
+         "speaker": 0, 
+         "confidence": 0.596, 
+         "final": false
+      }, 
+      {
+         "from": 8.17, 
+         "to": 8.92, 
+         "speaker": 0, 
+         "confidence": 0.596, 
+         "final": false
+      }, 
+      {
+         "from": 9.25, 
+         "to": 9.47, 
+         "speaker": 0, 
+         "confidence": 0.627, 
+         "final": false
+      }, 
+      {
+         "from": 9.47, 
+         "to": 9.74, 
+         "speaker": 0, 
+         "confidence": 0.627, 
+         "final": true
+      }
+   ]
+}

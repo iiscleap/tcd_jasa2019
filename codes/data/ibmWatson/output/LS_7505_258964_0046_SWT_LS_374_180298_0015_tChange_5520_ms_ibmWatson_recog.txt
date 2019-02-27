@@ -1,0 +1,305 @@
+{
+   "results": [
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "there", 
+                     0.22, 
+                     0.51
+                  ], 
+                  [
+                     "are", 
+                     0.51, 
+                     0.57
+                  ], 
+                  [
+                     "high", 
+                     0.57, 
+                     0.83
+                  ], 
+                  [
+                     "value", 
+                     0.83, 
+                     1.33
+                  ], 
+                  [
+                     "is", 
+                     1.33, 
+                     1.53
+                  ], 
+                  [
+                     "due", 
+                     1.53, 
+                     1.82
+                  ], 
+                  [
+                     "to", 
+                     1.82, 
+                     1.99
+                  ], 
+                  [
+                     "the", 
+                     1.99, 
+                     2.28
+                  ], 
+                  [
+                     "impossibility", 
+                     2.31, 
+                     3.37
+                  ], 
+                  [
+                     "of", 
+                     3.37, 
+                     3.48
+                  ], 
+                  [
+                     "competition", 
+                     3.48, 
+                     4.24
+                  ]
+               ], 
+               "confidence": 0.959, 
+               "transcript": "there are high value is due to the impossibility of competition "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "formerly", 
+                     5.34, 
+                     6.07
+                  ], 
+                  [
+                     "when", 
+                     6.1, 
+                     6.28
+                  ], 
+                  [
+                     "one", 
+                     6.28, 
+                     6.49
+                  ], 
+                  [
+                     "went", 
+                     6.49, 
+                     6.7
+                  ], 
+                  [
+                     "to", 
+                     6.7, 
+                     6.8
+                  ], 
+                  [
+                     "for", 
+                     6.8, 
+                     6.97
+                  ], 
+                  [
+                     "Scotty", 
+                     6.97, 
+                     7.62
+                  ], 
+                  [
+                     "one", 
+                     7.94, 
+                     8.16
+                  ], 
+                  [
+                     "had", 
+                     8.16, 
+                     8.44
+                  ], 
+                  [
+                     "the", 
+                     8.44, 
+                     8.53
+                  ], 
+                  [
+                     "chance", 
+                     8.53, 
+                     8.94
+                  ], 
+                  [
+                     "of", 
+                     8.94, 
+                     9.07
+                  ]
+               ], 
+               "confidence": 0.876, 
+               "transcript": "formerly when one went to for Scotty one had the chance of "
+            }
+         ], 
+         "final": true
+      }
+   ], 
+   "result_index": 0, 
+   "speaker_labels": [
+      {
+         "from": 0.22, 
+         "to": 0.51, 
+         "speaker": 0, 
+         "confidence": 0.667, 
+         "final": false
+      }, 
+      {
+         "from": 0.51, 
+         "to": 0.57, 
+         "speaker": 0, 
+         "confidence": 0.667, 
+         "final": false
+      }, 
+      {
+         "from": 0.57, 
+         "to": 0.83, 
+         "speaker": 0, 
+         "confidence": 0.667, 
+         "final": false
+      }, 
+      {
+         "from": 0.83, 
+         "to": 1.33, 
+         "speaker": 0, 
+         "confidence": 0.667, 
+         "final": false
+      }, 
+      {
+         "from": 1.33, 
+         "to": 1.53, 
+         "speaker": 0, 
+         "confidence": 0.667, 
+         "final": false
+      }, 
+      {
+         "from": 1.53, 
+         "to": 1.82, 
+         "speaker": 0, 
+         "confidence": 0.667, 
+         "final": false
+      }, 
+      {
+         "from": 1.82, 
+         "to": 1.99, 
+         "speaker": 0, 
+         "confidence": 0.667, 
+         "final": false
+      }, 
+      {
+         "from": 1.99, 
+         "to": 2.28, 
+         "speaker": 0, 
+         "confidence": 0.667, 
+         "final": false
+      }, 
+      {
+         "from": 2.31, 
+         "to": 3.37, 
+         "speaker": 0, 
+         "confidence": 0.47, 
+         "final": false
+      }, 
+      {
+         "from": 3.37, 
+         "to": 3.48, 
+         "speaker": 0, 
+         "confidence": 0.47, 
+         "final": false
+      }, 
+      {
+         "from": 3.48, 
+         "to": 4.24, 
+         "speaker": 0, 
+         "confidence": 0.47, 
+         "final": false
+      }, 
+      {
+         "from": 5.34, 
+         "to": 6.07, 
+         "speaker": 1, 
+         "confidence": 0.461, 
+         "final": false
+      }, 
+      {
+         "from": 6.1, 
+         "to": 6.28, 
+         "speaker": 2, 
+         "confidence": 0.46, 
+         "final": false
+      }, 
+      {
+         "from": 6.28, 
+         "to": 6.49, 
+         "speaker": 2, 
+         "confidence": 0.46, 
+         "final": false
+      }, 
+      {
+         "from": 6.49, 
+         "to": 6.7, 
+         "speaker": 2, 
+         "confidence": 0.46, 
+         "final": false
+      }, 
+      {
+         "from": 6.7, 
+         "to": 6.8, 
+         "speaker": 2, 
+         "confidence": 0.46, 
+         "final": false
+      }, 
+      {
+         "from": 6.8, 
+         "to": 6.97, 
+         "speaker": 2, 
+         "confidence": 0.46, 
+         "final": false
+      }, 
+      {
+         "from": 6.97, 
+         "to": 7.62, 
+         "speaker": 2, 
+         "confidence": 0.46, 
+         "final": false
+      }, 
+      {
+         "from": 7.94, 
+         "to": 8.16, 
+         "speaker": 2, 
+         "confidence": 0.48, 
+         "final": false
+      }, 
+      {
+         "from": 8.16, 
+         "to": 8.44, 
+         "speaker": 2, 
+         "confidence": 0.48, 
+         "final": false
+      }, 
+      {
+         "from": 8.44, 
+         "to": 8.53, 
+         "speaker": 2, 
+         "confidence": 0.48, 
+         "final": false
+      }, 
+      {
+         "from": 8.53, 
+         "to": 8.94, 
+         "speaker": 2, 
+         "confidence": 0.48, 
+         "final": false
+      }, 
+      {
+         "from": 8.94, 
+         "to": 9.07, 
+         "speaker": 2, 
+         "confidence": 0.48, 
+         "final": true
+      }
+   ]
+}

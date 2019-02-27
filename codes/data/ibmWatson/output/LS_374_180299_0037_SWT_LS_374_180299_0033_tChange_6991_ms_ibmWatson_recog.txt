@@ -1,0 +1,390 @@
+{
+   "results": [
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "for", 
+                     0.48, 
+                     0.71
+                  ], 
+                  [
+                     "two", 
+                     0.71, 
+                     0.93
+                  ], 
+                  [
+                     "months", 
+                     0.93, 
+                     1.37
+                  ], 
+                  [
+                     "we", 
+                     1.37, 
+                     1.55
+                  ], 
+                  [
+                     "had", 
+                     1.55, 
+                     1.68
+                  ], 
+                  [
+                     "not", 
+                     1.68, 
+                     1.89
+                  ], 
+                  [
+                     "even", 
+                     1.89, 
+                     2.14
+                  ], 
+                  [
+                     "been", 
+                     2.14, 
+                     2.37
+                  ], 
+                  [
+                     "to", 
+                     2.37, 
+                     2.47
+                  ], 
+                  [
+                     "Paris", 
+                     2.47, 
+                     3.11
+                  ], 
+                  [
+                     "no", 
+                     3.44, 
+                     3.64
+                  ], 
+                  [
+                     "one", 
+                     3.64, 
+                     3.81
+                  ], 
+                  [
+                     "came", 
+                     3.81, 
+                     4.09
+                  ], 
+                  [
+                     "to", 
+                     4.09, 
+                     4.2
+                  ], 
+                  [
+                     "CS", 
+                     4.2, 
+                     4.83
+                  ], 
+                  [
+                     "except", 
+                     4.86, 
+                     5.33
+                  ], 
+                  [
+                     "prudence", 
+                     5.33, 
+                     5.94
+                  ], 
+                  [
+                     "and", 
+                     5.94, 
+                     6.23
+                  ], 
+                  [
+                     "Julie", 
+                     6.23, 
+                     6.53
+                  ], 
+                  [
+                     "to", 
+                     6.53, 
+                     6.69
+                  ], 
+                  [
+                     "said", 
+                     6.84, 
+                     7.22
+                  ], 
+                  [
+                     "she", 
+                     7.22, 
+                     7.65
+                  ], 
+                  [
+                     "turning", 
+                     7.77, 
+                     8.15
+                  ], 
+                  [
+                     "to", 
+                     8.15, 
+                     8.27
+                  ], 
+                  [
+                     "prudence", 
+                     8.27, 
+                     8.98
+                  ], 
+                  [
+                     "and", 
+                     9.12, 
+                     9.32
+                  ], 
+                  [
+                     "speaking", 
+                     9.32, 
+                     9.77
+                  ], 
+                  [
+                     "in", 
+                     9.77, 
+                     9.9
+                  ], 
+                  [
+                     "a", 
+                     9.9, 
+                     9.95
+                  ], 
+                  [
+                     "broken", 
+                     9.95, 
+                     10.34
+                  ], 
+                  [
+                     "voice", 
+                     10.34, 
+                     10.68
+                  ]
+               ], 
+               "confidence": 0.873, 
+               "transcript": "for two months we had not even been to Paris no one came to CS except prudence and Julie to said she turning to prudence and speaking in a broken voice "
+            }
+         ], 
+         "final": true
+      }
+   ], 
+   "result_index": 0, 
+   "speaker_labels": [
+      {
+         "from": 0.48, 
+         "to": 0.71, 
+         "speaker": 0, 
+         "confidence": 0.396, 
+         "final": false
+      }, 
+      {
+         "from": 0.71, 
+         "to": 0.93, 
+         "speaker": 0, 
+         "confidence": 0.396, 
+         "final": false
+      }, 
+      {
+         "from": 0.93, 
+         "to": 1.37, 
+         "speaker": 0, 
+         "confidence": 0.396, 
+         "final": false
+      }, 
+      {
+         "from": 1.37, 
+         "to": 1.55, 
+         "speaker": 0, 
+         "confidence": 0.396, 
+         "final": false
+      }, 
+      {
+         "from": 1.55, 
+         "to": 1.68, 
+         "speaker": 0, 
+         "confidence": 0.396, 
+         "final": false
+      }, 
+      {
+         "from": 1.68, 
+         "to": 1.89, 
+         "speaker": 0, 
+         "confidence": 0.396, 
+         "final": false
+      }, 
+      {
+         "from": 1.89, 
+         "to": 2.14, 
+         "speaker": 0, 
+         "confidence": 0.396, 
+         "final": false
+      }, 
+      {
+         "from": 2.14, 
+         "to": 2.37, 
+         "speaker": 0, 
+         "confidence": 0.396, 
+         "final": false
+      }, 
+      {
+         "from": 2.37, 
+         "to": 2.47, 
+         "speaker": 0, 
+         "confidence": 0.396, 
+         "final": false
+      }, 
+      {
+         "from": 2.47, 
+         "to": 3.11, 
+         "speaker": 0, 
+         "confidence": 0.396, 
+         "final": false
+      }, 
+      {
+         "from": 3.44, 
+         "to": 3.64, 
+         "speaker": 0, 
+         "confidence": 0.396, 
+         "final": false
+      }, 
+      {
+         "from": 3.64, 
+         "to": 3.81, 
+         "speaker": 0, 
+         "confidence": 0.396, 
+         "final": false
+      }, 
+      {
+         "from": 3.81, 
+         "to": 4.09, 
+         "speaker": 0, 
+         "confidence": 0.396, 
+         "final": false
+      }, 
+      {
+         "from": 4.09, 
+         "to": 4.2, 
+         "speaker": 0, 
+         "confidence": 0.396, 
+         "final": false
+      }, 
+      {
+         "from": 4.2, 
+         "to": 4.83, 
+         "speaker": 0, 
+         "confidence": 0.396, 
+         "final": false
+      }, 
+      {
+         "from": 4.86, 
+         "to": 5.33, 
+         "speaker": 0, 
+         "confidence": 0.414, 
+         "final": false
+      }, 
+      {
+         "from": 5.33, 
+         "to": 5.94, 
+         "speaker": 0, 
+         "confidence": 0.414, 
+         "final": false
+      }, 
+      {
+         "from": 5.94, 
+         "to": 6.23, 
+         "speaker": 0, 
+         "confidence": 0.414, 
+         "final": false
+      }, 
+      {
+         "from": 6.23, 
+         "to": 6.53, 
+         "speaker": 0, 
+         "confidence": 0.414, 
+         "final": false
+      }, 
+      {
+         "from": 6.53, 
+         "to": 6.69, 
+         "speaker": 0, 
+         "confidence": 0.414, 
+         "final": false
+      }, 
+      {
+         "from": 6.84, 
+         "to": 7.22, 
+         "speaker": 1, 
+         "confidence": 0.48, 
+         "final": false
+      }, 
+      {
+         "from": 7.22, 
+         "to": 7.65, 
+         "speaker": 1, 
+         "confidence": 0.48, 
+         "final": false
+      }, 
+      {
+         "from": 7.77, 
+         "to": 8.15, 
+         "speaker": 2, 
+         "confidence": 0.477, 
+         "final": false
+      }, 
+      {
+         "from": 8.15, 
+         "to": 8.27, 
+         "speaker": 2, 
+         "confidence": 0.477, 
+         "final": false
+      }, 
+      {
+         "from": 8.27, 
+         "to": 8.98, 
+         "speaker": 2, 
+         "confidence": 0.477, 
+         "final": false
+      }, 
+      {
+         "from": 9.12, 
+         "to": 9.32, 
+         "speaker": 2, 
+         "confidence": 0.442, 
+         "final": false
+      }, 
+      {
+         "from": 9.32, 
+         "to": 9.77, 
+         "speaker": 2, 
+         "confidence": 0.442, 
+         "final": false
+      }, 
+      {
+         "from": 9.77, 
+         "to": 9.9, 
+         "speaker": 2, 
+         "confidence": 0.442, 
+         "final": false
+      }, 
+      {
+         "from": 9.9, 
+         "to": 9.95, 
+         "speaker": 2, 
+         "confidence": 0.442, 
+         "final": false
+      }, 
+      {
+         "from": 9.95, 
+         "to": 10.34, 
+         "speaker": 2, 
+         "confidence": 0.442, 
+         "final": false
+      }, 
+      {
+         "from": 10.34, 
+         "to": 10.68, 
+         "speaker": 2, 
+         "confidence": 0.442, 
+         "final": true
+      }
+   ]
+}

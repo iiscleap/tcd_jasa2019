@@ -1,0 +1,406 @@
+{
+   "results": [
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "I", 
+                     0.12, 
+                     0.21
+                  ], 
+                  [
+                     "agree", 
+                     0.21, 
+                     0.48
+                  ]
+               ], 
+               "confidence": 0.94, 
+               "transcript": "I agree "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "to", 
+                     0.79, 
+                     0.94
+                  ], 
+                  [
+                     "him", 
+                     0.94, 
+                     1.19
+                  ]
+               ], 
+               "confidence": 0.809, 
+               "transcript": "to him "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "to", 
+                     1.33, 
+                     1.49
+                  ], 
+                  [
+                     "gratify", 
+                     1.49, 
+                     2.18
+                  ], 
+                  [
+                     "the", 
+                     2.18, 
+                     2.32
+                  ], 
+                  [
+                     "home", 
+                     2.32, 
+                     2.57
+                  ]
+               ], 
+               "confidence": 0.881, 
+               "transcript": "to gratify the home "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "this", 
+                     3.44, 
+                     3.6
+                  ], 
+                  [
+                     "is", 
+                     3.63, 
+                     3.78
+                  ], 
+                  [
+                     "a", 
+                     3.78, 
+                     3.87
+                  ]
+               ], 
+               "confidence": 0.366, 
+               "transcript": "this is a "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "Eric", 
+                     3.94, 
+                     4.22
+                  ], 
+                  [
+                     "and", 
+                     4.22, 
+                     4.47
+                  ]
+               ], 
+               "confidence": 0.507, 
+               "transcript": "Eric and "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "is", 
+                     4.63, 
+                     4.99
+                  ]
+               ], 
+               "confidence": 0.495, 
+               "transcript": "is "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "I'm", 
+                     6.07, 
+                     6.29
+                  ], 
+                  [
+                     "of", 
+                     6.32, 
+                     6.58
+                  ]
+               ], 
+               "confidence": 0.67, 
+               "transcript": "I'm of "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "they", 
+                     7.64, 
+                     7.8
+                  ], 
+                  [
+                     "recognize", 
+                     7.8, 
+                     8.45
+                  ], 
+                  [
+                     "their", 
+                     8.45, 
+                     8.6
+                  ], 
+                  [
+                     "maker", 
+                     8.6, 
+                     9.04
+                  ]
+               ], 
+               "confidence": 0.599, 
+               "transcript": "they recognize their maker "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "and", 
+                     9.58, 
+                     9.76
+                  ], 
+                  [
+                     "humbled", 
+                     9.76, 
+                     10.21
+                  ], 
+                  [
+                     "themselves", 
+                     10.21, 
+                     10.71
+                  ], 
+                  [
+                     "before", 
+                     10.71, 
+                     11.16
+                  ], 
+                  [
+                     "him", 
+                     11.16, 
+                     11.3
+                  ]
+               ], 
+               "confidence": 0.876, 
+               "transcript": "and humbled themselves before him "
+            }
+         ], 
+         "final": true
+      }
+   ], 
+   "result_index": 0, 
+   "speaker_labels": [
+      {
+         "from": 0.12, 
+         "to": 0.21, 
+         "speaker": 0, 
+         "confidence": 0.5, 
+         "final": false
+      }, 
+      {
+         "from": 0.21, 
+         "to": 0.48, 
+         "speaker": 0, 
+         "confidence": 0.5, 
+         "final": false
+      }, 
+      {
+         "from": 0.79, 
+         "to": 0.94, 
+         "speaker": 0, 
+         "confidence": 0.332, 
+         "final": false
+      }, 
+      {
+         "from": 0.94, 
+         "to": 1.19, 
+         "speaker": 0, 
+         "confidence": 0.332, 
+         "final": false
+      }, 
+      {
+         "from": 1.33, 
+         "to": 1.49, 
+         "speaker": 0, 
+         "confidence": 0.344, 
+         "final": false
+      }, 
+      {
+         "from": 1.49, 
+         "to": 2.18, 
+         "speaker": 0, 
+         "confidence": 0.344, 
+         "final": false
+      }, 
+      {
+         "from": 2.18, 
+         "to": 2.32, 
+         "speaker": 0, 
+         "confidence": 0.344, 
+         "final": false
+      }, 
+      {
+         "from": 2.32, 
+         "to": 2.57, 
+         "speaker": 0, 
+         "confidence": 0.344, 
+         "final": false
+      }, 
+      {
+         "from": 3.44, 
+         "to": 3.6, 
+         "speaker": 2, 
+         "confidence": 0.464, 
+         "final": false
+      }, 
+      {
+         "from": 3.63, 
+         "to": 3.78, 
+         "speaker": 2, 
+         "confidence": 0.447, 
+         "final": false
+      }, 
+      {
+         "from": 3.78, 
+         "to": 3.87, 
+         "speaker": 2, 
+         "confidence": 0.447, 
+         "final": false
+      }, 
+      {
+         "from": 3.94, 
+         "to": 4.22, 
+         "speaker": 0, 
+         "confidence": 0.411, 
+         "final": false
+      }, 
+      {
+         "from": 4.22, 
+         "to": 4.47, 
+         "speaker": 0, 
+         "confidence": 0.411, 
+         "final": false
+      }, 
+      {
+         "from": 4.63, 
+         "to": 4.99, 
+         "speaker": 2, 
+         "confidence": 0.45, 
+         "final": false
+      }, 
+      {
+         "from": 6.07, 
+         "to": 6.29, 
+         "speaker": 0, 
+         "confidence": 0.431, 
+         "final": false
+      }, 
+      {
+         "from": 6.32, 
+         "to": 6.58, 
+         "speaker": 0, 
+         "confidence": 0.348, 
+         "final": false
+      }, 
+      {
+         "from": 7.64, 
+         "to": 7.8, 
+         "speaker": 3, 
+         "confidence": 0.377, 
+         "final": false
+      }, 
+      {
+         "from": 7.8, 
+         "to": 8.45, 
+         "speaker": 3, 
+         "confidence": 0.377, 
+         "final": false
+      }, 
+      {
+         "from": 8.45, 
+         "to": 8.6, 
+         "speaker": 3, 
+         "confidence": 0.377, 
+         "final": false
+      }, 
+      {
+         "from": 8.6, 
+         "to": 9.04, 
+         "speaker": 3, 
+         "confidence": 0.377, 
+         "final": false
+      }, 
+      {
+         "from": 9.58, 
+         "to": 9.76, 
+         "speaker": 3, 
+         "confidence": 0.473, 
+         "final": false
+      }, 
+      {
+         "from": 9.76, 
+         "to": 10.21, 
+         "speaker": 3, 
+         "confidence": 0.473, 
+         "final": false
+      }, 
+      {
+         "from": 10.21, 
+         "to": 10.71, 
+         "speaker": 3, 
+         "confidence": 0.473, 
+         "final": false
+      }, 
+      {
+         "from": 10.71, 
+         "to": 11.16, 
+         "speaker": 3, 
+         "confidence": 0.473, 
+         "final": false
+      }, 
+      {
+         "from": 11.16, 
+         "to": 11.3, 
+         "speaker": 3, 
+         "confidence": 0.473, 
+         "final": true
+      }
+   ]
+}

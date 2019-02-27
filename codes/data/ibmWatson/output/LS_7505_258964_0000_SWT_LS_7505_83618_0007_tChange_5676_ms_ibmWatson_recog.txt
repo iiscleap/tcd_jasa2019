@@ -1,0 +1,232 @@
+{
+   "results": [
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "he", 
+                     0.26, 
+                     0.47
+                  ], 
+                  [
+                     "multiplies", 
+                     0.47, 
+                     1.45
+                  ], 
+                  [
+                     "many", 
+                     1.49, 
+                     1.97
+                  ], 
+                  [
+                     "others", 
+                     1.97, 
+                     2.48
+                  ]
+               ], 
+               "confidence": 0.965, 
+               "transcript": "he multiplies many others "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "we", 
+                     3.77, 
+                     3.92
+                  ], 
+                  [
+                     "have", 
+                     3.92, 
+                     4.06
+                  ], 
+                  [
+                     "noted", 
+                     4.06, 
+                     4.47
+                  ], 
+                  [
+                     "many", 
+                     4.47, 
+                     4.76
+                  ], 
+                  [
+                     "kinds", 
+                     4.76, 
+                     5.25
+                  ], 
+                  [
+                     "of", 
+                     5.25, 
+                     5.39
+                  ], 
+                  [
+                     "but", 
+                     5.6, 
+                     5.78
+                  ], 
+                  [
+                     "in", 
+                     5.78, 
+                     5.91
+                  ], 
+                  [
+                     "psychology", 
+                     5.91, 
+                     7.02
+                  ]
+               ], 
+               "confidence": 0.918, 
+               "transcript": "we have noted many kinds of but in psychology "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "man", 
+                     7.7, 
+                     8.29
+                  ], 
+                  [
+                     "chiefly", 
+                     8.46, 
+                     8.85
+                  ], 
+                  [
+                     "cognizant", 
+                     8.85, 
+                     9.4
+                  ]
+               ], 
+               "confidence": 0.835, 
+               "transcript": "man chiefly cognizant "
+            }
+         ], 
+         "final": true
+      }
+   ], 
+   "result_index": 0, 
+   "speaker_labels": [
+      {
+         "from": 0.26, 
+         "to": 0.47, 
+         "speaker": 0, 
+         "confidence": 0.667, 
+         "final": false
+      }, 
+      {
+         "from": 0.47, 
+         "to": 1.45, 
+         "speaker": 0, 
+         "confidence": 0.667, 
+         "final": false
+      }, 
+      {
+         "from": 1.49, 
+         "to": 1.97, 
+         "speaker": 1, 
+         "confidence": 0.667, 
+         "final": false
+      }, 
+      {
+         "from": 1.97, 
+         "to": 2.48, 
+         "speaker": 1, 
+         "confidence": 0.667, 
+         "final": false
+      }, 
+      {
+         "from": 3.77, 
+         "to": 3.92, 
+         "speaker": 2, 
+         "confidence": 0.398, 
+         "final": false
+      }, 
+      {
+         "from": 3.92, 
+         "to": 4.06, 
+         "speaker": 2, 
+         "confidence": 0.398, 
+         "final": false
+      }, 
+      {
+         "from": 4.06, 
+         "to": 4.47, 
+         "speaker": 2, 
+         "confidence": 0.398, 
+         "final": false
+      }, 
+      {
+         "from": 4.47, 
+         "to": 4.76, 
+         "speaker": 2, 
+         "confidence": 0.398, 
+         "final": false
+      }, 
+      {
+         "from": 4.76, 
+         "to": 5.25, 
+         "speaker": 2, 
+         "confidence": 0.398, 
+         "final": false
+      }, 
+      {
+         "from": 5.25, 
+         "to": 5.39, 
+         "speaker": 2, 
+         "confidence": 0.398, 
+         "final": false
+      }, 
+      {
+         "from": 5.6, 
+         "to": 5.78, 
+         "speaker": 3, 
+         "confidence": 0.403, 
+         "final": false
+      }, 
+      {
+         "from": 5.78, 
+         "to": 5.91, 
+         "speaker": 3, 
+         "confidence": 0.403, 
+         "final": false
+      }, 
+      {
+         "from": 5.91, 
+         "to": 7.02, 
+         "speaker": 3, 
+         "confidence": 0.403, 
+         "final": false
+      }, 
+      {
+         "from": 7.7, 
+         "to": 8.29, 
+         "speaker": 1, 
+         "confidence": 0.364, 
+         "final": false
+      }, 
+      {
+         "from": 8.46, 
+         "to": 8.85, 
+         "speaker": 3, 
+         "confidence": 0.384, 
+         "final": false
+      }, 
+      {
+         "from": 8.85, 
+         "to": 9.4, 
+         "speaker": 3, 
+         "confidence": 0.384, 
+         "final": true
+      }
+   ]
+}

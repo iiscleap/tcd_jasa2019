@@ -1,0 +1,400 @@
+{
+   "results": [
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "that", 
+                     0.15, 
+                     0.33
+                  ], 
+                  [
+                     "she", 
+                     0.33, 
+                     0.45
+                  ], 
+                  [
+                     "had", 
+                     0.45, 
+                     0.62
+                  ], 
+                  [
+                     "something", 
+                     0.62, 
+                     1.04
+                  ], 
+                  [
+                     "very", 
+                     1.04, 
+                     1.38
+                  ], 
+                  [
+                     "important", 
+                     1.38, 
+                     1.96
+                  ], 
+                  [
+                     "to", 
+                     1.96, 
+                     2.07
+                  ], 
+                  [
+                     "tell", 
+                     2.07, 
+                     2.34
+                  ], 
+                  [
+                     "her", 
+                     2.34, 
+                     2.69
+                  ], 
+                  [
+                     "and", 
+                     2.95, 
+                     3.15
+                  ], 
+                  [
+                     "I", 
+                     3.15, 
+                     3.25
+                  ], 
+                  [
+                     "had", 
+                     3.25, 
+                     3.52
+                  ], 
+                  [
+                     "listened", 
+                     3.52, 
+                     3.91
+                  ], 
+                  [
+                     "at", 
+                     3.91, 
+                     4.0
+                  ], 
+                  [
+                     "the", 
+                     4.0, 
+                     4.09
+                  ], 
+                  [
+                     "door", 
+                     4.09, 
+                     4.39
+                  ], 
+                  [
+                     "of", 
+                     4.39, 
+                     4.52
+                  ], 
+                  [
+                     "the", 
+                     4.52, 
+                     4.65
+                  ], 
+                  [
+                     "room", 
+                     4.65, 
+                     4.97
+                  ], 
+                  [
+                     "and", 
+                     4.97, 
+                     5.21
+                  ], 
+                  [
+                     "one", 
+                     5.52, 
+                     5.69
+                  ], 
+                  [
+                     "has", 
+                     5.69, 
+                     5.92
+                  ], 
+                  [
+                     "to", 
+                     5.92, 
+                     6.06
+                  ], 
+                  [
+                     "seize", 
+                     6.06, 
+                     6.32
+                  ], 
+                  [
+                     "every", 
+                     6.32, 
+                     6.67
+                  ], 
+                  [
+                     "opportunity", 
+                     6.67, 
+                     7.43
+                  ], 
+                  [
+                     "in", 
+                     7.43, 
+                     7.54
+                  ]
+               ], 
+               "confidence": 0.934, 
+               "transcript": "that she had something very important to tell her and I had listened at the door of the room and one has to seize every opportunity in "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "as", 
+                     7.69, 
+                     7.75
+                  ], 
+                  [
+                     "regions", 
+                     7.75, 
+                     8.44
+                  ]
+               ], 
+               "confidence": 0.926, 
+               "transcript": "as regions "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "if", 
+                     8.92, 
+                     9.09
+                  ]
+               ], 
+               "confidence": 1.0, 
+               "transcript": "if "
+            }
+         ], 
+         "final": true
+      }
+   ], 
+   "result_index": 0, 
+   "speaker_labels": [
+      {
+         "from": 0.15, 
+         "to": 0.33, 
+         "speaker": 0, 
+         "confidence": 0.59, 
+         "final": false
+      }, 
+      {
+         "from": 0.33, 
+         "to": 0.45, 
+         "speaker": 0, 
+         "confidence": 0.59, 
+         "final": false
+      }, 
+      {
+         "from": 0.45, 
+         "to": 0.62, 
+         "speaker": 0, 
+         "confidence": 0.59, 
+         "final": false
+      }, 
+      {
+         "from": 0.62, 
+         "to": 1.04, 
+         "speaker": 0, 
+         "confidence": 0.59, 
+         "final": false
+      }, 
+      {
+         "from": 1.04, 
+         "to": 1.38, 
+         "speaker": 0, 
+         "confidence": 0.59, 
+         "final": false
+      }, 
+      {
+         "from": 1.38, 
+         "to": 1.96, 
+         "speaker": 0, 
+         "confidence": 0.59, 
+         "final": false
+      }, 
+      {
+         "from": 1.96, 
+         "to": 2.07, 
+         "speaker": 0, 
+         "confidence": 0.59, 
+         "final": false
+      }, 
+      {
+         "from": 2.07, 
+         "to": 2.34, 
+         "speaker": 0, 
+         "confidence": 0.59, 
+         "final": false
+      }, 
+      {
+         "from": 2.34, 
+         "to": 2.69, 
+         "speaker": 0, 
+         "confidence": 0.59, 
+         "final": false
+      }, 
+      {
+         "from": 2.95, 
+         "to": 3.15, 
+         "speaker": 0, 
+         "confidence": 0.54, 
+         "final": false
+      }, 
+      {
+         "from": 3.15, 
+         "to": 3.25, 
+         "speaker": 0, 
+         "confidence": 0.54, 
+         "final": false
+      }, 
+      {
+         "from": 3.25, 
+         "to": 3.52, 
+         "speaker": 0, 
+         "confidence": 0.54, 
+         "final": false
+      }, 
+      {
+         "from": 3.52, 
+         "to": 3.91, 
+         "speaker": 0, 
+         "confidence": 0.54, 
+         "final": false
+      }, 
+      {
+         "from": 3.91, 
+         "to": 4.0, 
+         "speaker": 0, 
+         "confidence": 0.54, 
+         "final": false
+      }, 
+      {
+         "from": 4.0, 
+         "to": 4.09, 
+         "speaker": 0, 
+         "confidence": 0.54, 
+         "final": false
+      }, 
+      {
+         "from": 4.09, 
+         "to": 4.39, 
+         "speaker": 0, 
+         "confidence": 0.54, 
+         "final": false
+      }, 
+      {
+         "from": 4.39, 
+         "to": 4.52, 
+         "speaker": 0, 
+         "confidence": 0.54, 
+         "final": false
+      }, 
+      {
+         "from": 4.52, 
+         "to": 4.65, 
+         "speaker": 0, 
+         "confidence": 0.54, 
+         "final": false
+      }, 
+      {
+         "from": 4.65, 
+         "to": 4.97, 
+         "speaker": 0, 
+         "confidence": 0.54, 
+         "final": false
+      }, 
+      {
+         "from": 4.97, 
+         "to": 5.21, 
+         "speaker": 0, 
+         "confidence": 0.54, 
+         "final": false
+      }, 
+      {
+         "from": 5.52, 
+         "to": 5.69, 
+         "speaker": 1, 
+         "confidence": 0.667, 
+         "final": false
+      }, 
+      {
+         "from": 5.69, 
+         "to": 5.92, 
+         "speaker": 1, 
+         "confidence": 0.667, 
+         "final": false
+      }, 
+      {
+         "from": 5.92, 
+         "to": 6.06, 
+         "speaker": 1, 
+         "confidence": 0.667, 
+         "final": false
+      }, 
+      {
+         "from": 6.06, 
+         "to": 6.32, 
+         "speaker": 1, 
+         "confidence": 0.667, 
+         "final": false
+      }, 
+      {
+         "from": 6.32, 
+         "to": 6.67, 
+         "speaker": 1, 
+         "confidence": 0.667, 
+         "final": false
+      }, 
+      {
+         "from": 6.67, 
+         "to": 7.43, 
+         "speaker": 1, 
+         "confidence": 0.667, 
+         "final": false
+      }, 
+      {
+         "from": 7.43, 
+         "to": 7.54, 
+         "speaker": 1, 
+         "confidence": 0.667, 
+         "final": false
+      }, 
+      {
+         "from": 7.69, 
+         "to": 7.75, 
+         "speaker": 1, 
+         "confidence": 0.602, 
+         "final": false
+      }, 
+      {
+         "from": 7.75, 
+         "to": 8.44, 
+         "speaker": 1, 
+         "confidence": 0.602, 
+         "final": false
+      }, 
+      {
+         "from": 8.92, 
+         "to": 9.09, 
+         "speaker": 1, 
+         "confidence": 0.543, 
+         "final": true
+      }
+   ]
+}

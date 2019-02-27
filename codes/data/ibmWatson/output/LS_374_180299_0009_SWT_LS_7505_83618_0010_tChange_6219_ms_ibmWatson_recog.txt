@@ -1,0 +1,351 @@
+{
+   "results": [
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "and", 
+                     0.53, 
+                     0.7
+                  ], 
+                  [
+                     "one", 
+                     0.7, 
+                     0.84
+                  ], 
+                  [
+                     "show", 
+                     0.84, 
+                     1.05
+                  ], 
+                  [
+                     "you", 
+                     1.05, 
+                     1.24
+                  ], 
+                  [
+                     "move", 
+                     1.24, 
+                     1.52
+                  ], 
+                  [
+                     "into", 
+                     1.52, 
+                     1.79
+                  ], 
+                  [
+                     "the", 
+                     1.79, 
+                     1.91
+                  ], 
+                  [
+                     "house", 
+                     1.91, 
+                     2.43
+                  ], 
+                  [
+                     "inquired", 
+                     2.46, 
+                     3.16
+                  ], 
+                  [
+                     "prudence", 
+                     3.16, 
+                     3.91
+                  ]
+               ], 
+               "confidence": 0.908, 
+               "transcript": "and one show you move into the house inquired prudence "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "as", 
+                     4.67, 
+                     4.85
+                  ], 
+                  [
+                     "soon", 
+                     4.85, 
+                     5.11
+                  ], 
+                  [
+                     "as", 
+                     5.11, 
+                     5.24
+                  ], 
+                  [
+                     "possible", 
+                     5.24, 
+                     5.73
+                  ]
+               ], 
+               "confidence": 1.0, 
+               "transcript": "as soon as possible "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "language", 
+                     6.16, 
+                     6.67
+                  ], 
+                  [
+                     "itself", 
+                     6.67, 
+                     7.13
+                  ], 
+                  [
+                     "is", 
+                     7.13, 
+                     7.24
+                  ], 
+                  [
+                     "proof", 
+                     7.24, 
+                     7.51
+                  ], 
+                  [
+                     "of", 
+                     7.51, 
+                     7.62
+                  ], 
+                  [
+                     "it", 
+                     7.62, 
+                     7.86
+                  ]
+               ], 
+               "confidence": 0.938, 
+               "transcript": "language itself is proof of it "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "many", 
+                     8.47, 
+                     8.77
+                  ], 
+                  [
+                     "all", 
+                     8.77, 
+                     8.91
+                  ], 
+                  [
+                     "gone", 
+                     8.91, 
+                     9.18
+                  ], 
+                  [
+                     "can", 
+                     9.18, 
+                     9.34
+                  ], 
+                  [
+                     "word", 
+                     9.34, 
+                     9.66
+                  ]
+               ], 
+               "confidence": 0.647, 
+               "transcript": "many all gone can word "
+            }
+         ], 
+         "final": true
+      }
+   ], 
+   "result_index": 0, 
+   "speaker_labels": [
+      {
+         "from": 0.53, 
+         "to": 0.7, 
+         "speaker": 0, 
+         "confidence": 0.667, 
+         "final": false
+      }, 
+      {
+         "from": 0.7, 
+         "to": 0.84, 
+         "speaker": 0, 
+         "confidence": 0.667, 
+         "final": false
+      }, 
+      {
+         "from": 0.84, 
+         "to": 1.05, 
+         "speaker": 0, 
+         "confidence": 0.667, 
+         "final": false
+      }, 
+      {
+         "from": 1.05, 
+         "to": 1.24, 
+         "speaker": 0, 
+         "confidence": 0.667, 
+         "final": false
+      }, 
+      {
+         "from": 1.24, 
+         "to": 1.52, 
+         "speaker": 0, 
+         "confidence": 0.667, 
+         "final": false
+      }, 
+      {
+         "from": 1.52, 
+         "to": 1.79, 
+         "speaker": 0, 
+         "confidence": 0.667, 
+         "final": false
+      }, 
+      {
+         "from": 1.79, 
+         "to": 1.91, 
+         "speaker": 0, 
+         "confidence": 0.667, 
+         "final": false
+      }, 
+      {
+         "from": 1.91, 
+         "to": 2.43, 
+         "speaker": 0, 
+         "confidence": 0.667, 
+         "final": false
+      }, 
+      {
+         "from": 2.46, 
+         "to": 3.16, 
+         "speaker": 0, 
+         "confidence": 0.571, 
+         "final": false
+      }, 
+      {
+         "from": 3.16, 
+         "to": 3.91, 
+         "speaker": 0, 
+         "confidence": 0.571, 
+         "final": false
+      }, 
+      {
+         "from": 4.67, 
+         "to": 4.85, 
+         "speaker": 1, 
+         "confidence": 0.667, 
+         "final": false
+      }, 
+      {
+         "from": 4.85, 
+         "to": 5.11, 
+         "speaker": 1, 
+         "confidence": 0.667, 
+         "final": false
+      }, 
+      {
+         "from": 5.11, 
+         "to": 5.24, 
+         "speaker": 1, 
+         "confidence": 0.667, 
+         "final": false
+      }, 
+      {
+         "from": 5.24, 
+         "to": 5.73, 
+         "speaker": 1, 
+         "confidence": 0.667, 
+         "final": false
+      }, 
+      {
+         "from": 6.16, 
+         "to": 6.67, 
+         "speaker": 2, 
+         "confidence": 0.5, 
+         "final": false
+      }, 
+      {
+         "from": 6.67, 
+         "to": 7.13, 
+         "speaker": 2, 
+         "confidence": 0.5, 
+         "final": false
+      }, 
+      {
+         "from": 7.13, 
+         "to": 7.24, 
+         "speaker": 2, 
+         "confidence": 0.5, 
+         "final": false
+      }, 
+      {
+         "from": 7.24, 
+         "to": 7.51, 
+         "speaker": 2, 
+         "confidence": 0.5, 
+         "final": false
+      }, 
+      {
+         "from": 7.51, 
+         "to": 7.62, 
+         "speaker": 2, 
+         "confidence": 0.5, 
+         "final": false
+      }, 
+      {
+         "from": 7.62, 
+         "to": 7.86, 
+         "speaker": 2, 
+         "confidence": 0.5, 
+         "final": false
+      }, 
+      {
+         "from": 8.47, 
+         "to": 8.77, 
+         "speaker": 2, 
+         "confidence": 0.447, 
+         "final": false
+      }, 
+      {
+         "from": 8.77, 
+         "to": 8.91, 
+         "speaker": 2, 
+         "confidence": 0.447, 
+         "final": false
+      }, 
+      {
+         "from": 8.91, 
+         "to": 9.18, 
+         "speaker": 2, 
+         "confidence": 0.447, 
+         "final": false
+      }, 
+      {
+         "from": 9.18, 
+         "to": 9.34, 
+         "speaker": 2, 
+         "confidence": 0.447, 
+         "final": false
+      }, 
+      {
+         "from": 9.34, 
+         "to": 9.66, 
+         "speaker": 2, 
+         "confidence": 0.447, 
+         "final": true
+      }
+   ]
+}

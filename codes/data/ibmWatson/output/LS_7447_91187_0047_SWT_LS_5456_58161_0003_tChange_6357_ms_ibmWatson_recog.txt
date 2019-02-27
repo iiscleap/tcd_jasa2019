@@ -1,0 +1,337 @@
+{
+   "results": [
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "for", 
+                     0.09, 
+                     0.3
+                  ], 
+                  [
+                     "they", 
+                     0.3, 
+                     0.51
+                  ]
+               ], 
+               "confidence": 0.859, 
+               "transcript": "for they "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "and", 
+                     1.29, 
+                     1.55
+                  ], 
+                  [
+                     "nature", 
+                     1.58, 
+                     2.16
+                  ], 
+                  [
+                     "strong", 
+                     2.54, 
+                     3.17
+                  ], 
+                  [
+                     "into", 
+                     3.21, 
+                     3.47
+                  ]
+               ], 
+               "confidence": 0.799, 
+               "transcript": "and nature strong into "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "and", 
+                     4.16, 
+                     4.45
+                  ]
+               ], 
+               "confidence": 0.552, 
+               "transcript": "and "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "%HESITATION", 
+                     4.66, 
+                     4.79
+                  ], 
+                  [
+                     "tree", 
+                     4.79, 
+                     5.23
+                  ]
+               ], 
+               "confidence": 0.6, 
+               "transcript": "%HESITATION tree "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "music", 
+                     5.38, 
+                     5.92
+                  ]
+               ], 
+               "confidence": 0.997, 
+               "transcript": "music "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "for", 
+                     6.27, 
+                     6.43
+                  ], 
+                  [
+                     "love", 
+                     6.43, 
+                     6.71
+                  ], 
+                  [
+                     "was", 
+                     6.71, 
+                     6.91
+                  ], 
+                  [
+                     "love", 
+                     6.91, 
+                     7.36
+                  ], 
+                  [
+                     "and", 
+                     7.36, 
+                     7.55
+                  ], 
+                  [
+                     "better", 
+                     7.55, 
+                     7.87
+                  ], 
+                  [
+                     "than", 
+                     7.87, 
+                     8.07
+                  ], 
+                  [
+                     "money", 
+                     8.07, 
+                     8.56
+                  ], 
+                  [
+                     "this", 
+                     8.64, 
+                     8.8
+                  ], 
+                  [
+                     "flyer", 
+                     8.8, 
+                     9.11
+                  ], 
+                  [
+                     "the", 
+                     9.11, 
+                     9.24
+                  ], 
+                  [
+                     "fastest", 
+                     9.24, 
+                     10.0
+                  ]
+               ], 
+               "confidence": 0.609, 
+               "transcript": "for love was love and better than money this flyer the fastest "
+            }
+         ], 
+         "final": true
+      }
+   ], 
+   "result_index": 0, 
+   "speaker_labels": [
+      {
+         "from": 0.09, 
+         "to": 0.3, 
+         "speaker": 0, 
+         "confidence": 0.5, 
+         "final": false
+      }, 
+      {
+         "from": 0.3, 
+         "to": 0.51, 
+         "speaker": 0, 
+         "confidence": 0.5, 
+         "final": false
+      }, 
+      {
+         "from": 1.29, 
+         "to": 1.55, 
+         "speaker": 1, 
+         "confidence": 0.348, 
+         "final": false
+      }, 
+      {
+         "from": 1.58, 
+         "to": 2.16, 
+         "speaker": 1, 
+         "confidence": 0.427, 
+         "final": false
+      }, 
+      {
+         "from": 2.54, 
+         "to": 3.17, 
+         "speaker": 2, 
+         "confidence": 0.319, 
+         "final": false
+      }, 
+      {
+         "from": 3.21, 
+         "to": 3.47, 
+         "speaker": 1, 
+         "confidence": 0.362, 
+         "final": false
+      }, 
+      {
+         "from": 4.16, 
+         "to": 4.45, 
+         "speaker": 1, 
+         "confidence": 0.456, 
+         "final": false
+      }, 
+      {
+         "from": 4.66, 
+         "to": 4.79, 
+         "speaker": 0, 
+         "confidence": 0.531, 
+         "final": false
+      }, 
+      {
+         "from": 4.79, 
+         "to": 5.23, 
+         "speaker": 0, 
+         "confidence": 0.531, 
+         "final": false
+      }, 
+      {
+         "from": 5.38, 
+         "to": 5.92, 
+         "speaker": 0, 
+         "confidence": 0.415, 
+         "final": false
+      }, 
+      {
+         "from": 6.27, 
+         "to": 6.43, 
+         "speaker": 2, 
+         "confidence": 0.461, 
+         "final": false
+      }, 
+      {
+         "from": 6.43, 
+         "to": 6.71, 
+         "speaker": 2, 
+         "confidence": 0.461, 
+         "final": false
+      }, 
+      {
+         "from": 6.71, 
+         "to": 6.91, 
+         "speaker": 2, 
+         "confidence": 0.461, 
+         "final": false
+      }, 
+      {
+         "from": 6.91, 
+         "to": 7.36, 
+         "speaker": 2, 
+         "confidence": 0.461, 
+         "final": false
+      }, 
+      {
+         "from": 7.36, 
+         "to": 7.55, 
+         "speaker": 2, 
+         "confidence": 0.461, 
+         "final": false
+      }, 
+      {
+         "from": 7.55, 
+         "to": 7.87, 
+         "speaker": 2, 
+         "confidence": 0.461, 
+         "final": false
+      }, 
+      {
+         "from": 7.87, 
+         "to": 8.07, 
+         "speaker": 2, 
+         "confidence": 0.461, 
+         "final": false
+      }, 
+      {
+         "from": 8.07, 
+         "to": 8.56, 
+         "speaker": 2, 
+         "confidence": 0.461, 
+         "final": false
+      }, 
+      {
+         "from": 8.64, 
+         "to": 8.8, 
+         "speaker": 2, 
+         "confidence": 0.472, 
+         "final": false
+      }, 
+      {
+         "from": 8.8, 
+         "to": 9.11, 
+         "speaker": 2, 
+         "confidence": 0.472, 
+         "final": false
+      }, 
+      {
+         "from": 9.11, 
+         "to": 9.24, 
+         "speaker": 2, 
+         "confidence": 0.472, 
+         "final": false
+      }, 
+      {
+         "from": 9.24, 
+         "to": 10.0, 
+         "speaker": 2, 
+         "confidence": 0.472, 
+         "final": true
+      }
+   ]
+}

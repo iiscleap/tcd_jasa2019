@@ -1,0 +1,363 @@
+{
+   "results": [
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "they", 
+                     0.35, 
+                     0.44
+                  ], 
+                  [
+                     "gave", 
+                     0.44, 
+                     0.74
+                  ], 
+                  [
+                     "us", 
+                     0.74, 
+                     0.92
+                  ], 
+                  [
+                     "the", 
+                     0.92, 
+                     1.04
+                  ], 
+                  [
+                     "impression", 
+                     1.04, 
+                     1.7
+                  ], 
+                  [
+                     "of", 
+                     1.7, 
+                     1.86
+                  ], 
+                  [
+                     "being", 
+                     1.86, 
+                     2.14
+                  ], 
+                  [
+                     "entirely", 
+                     2.14, 
+                     2.81
+                  ], 
+                  [
+                     "isolated", 
+                     2.84, 
+                     3.48
+                  ], 
+                  [
+                     "summits", 
+                     3.48, 
+                     4.13
+                  ]
+               ], 
+               "confidence": 0.969, 
+               "transcript": "they gave us the impression of being entirely isolated summits "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "as", 
+                     4.57, 
+                     4.76
+                  ], 
+                  [
+                     "we", 
+                     4.76, 
+                     4.88
+                  ], 
+                  [
+                     "could", 
+                     4.88, 
+                     5.06
+                  ], 
+                  [
+                     "not", 
+                     5.06, 
+                     5.34
+                  ], 
+                  [
+                     "make", 
+                     5.34, 
+                     5.55
+                  ], 
+                  [
+                     "peaks", 
+                     5.82, 
+                     6.24
+                  ], 
+                  [
+                     "of", 
+                     6.24, 
+                     6.35
+                  ], 
+                  [
+                     "the", 
+                     6.35, 
+                     6.43
+                  ], 
+                  [
+                     "most", 
+                     6.43, 
+                     6.75
+                  ], 
+                  [
+                     "very", 
+                     6.75, 
+                     7.03
+                  ], 
+                  [
+                     "informed", 
+                     7.03, 
+                     7.53
+                  ]
+               ], 
+               "confidence": 0.851, 
+               "transcript": "as we could not make peaks of the most very informed "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "rose", 
+                     7.61, 
+                     7.93
+                  ], 
+                  [
+                     "high", 
+                     7.93, 
+                     8.29
+                  ]
+               ], 
+               "confidence": 0.456, 
+               "transcript": "rose high "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "into", 
+                     8.56, 
+                     8.73
+                  ], 
+                  [
+                     "the", 
+                     8.73, 
+                     8.88
+                  ], 
+                  [
+                     "air", 
+                     8.88, 
+                     9.33
+                  ]
+               ], 
+               "confidence": 0.615, 
+               "transcript": "into the air "
+            }
+         ], 
+         "final": true
+      }
+   ], 
+   "result_index": 0, 
+   "speaker_labels": [
+      {
+         "from": 0.35, 
+         "to": 0.44, 
+         "speaker": 0, 
+         "confidence": 0.667, 
+         "final": false
+      }, 
+      {
+         "from": 0.44, 
+         "to": 0.74, 
+         "speaker": 0, 
+         "confidence": 0.667, 
+         "final": false
+      }, 
+      {
+         "from": 0.74, 
+         "to": 0.92, 
+         "speaker": 0, 
+         "confidence": 0.667, 
+         "final": false
+      }, 
+      {
+         "from": 0.92, 
+         "to": 1.04, 
+         "speaker": 0, 
+         "confidence": 0.667, 
+         "final": false
+      }, 
+      {
+         "from": 1.04, 
+         "to": 1.7, 
+         "speaker": 0, 
+         "confidence": 0.667, 
+         "final": false
+      }, 
+      {
+         "from": 1.7, 
+         "to": 1.86, 
+         "speaker": 0, 
+         "confidence": 0.667, 
+         "final": false
+      }, 
+      {
+         "from": 1.86, 
+         "to": 2.14, 
+         "speaker": 0, 
+         "confidence": 0.667, 
+         "final": false
+      }, 
+      {
+         "from": 2.14, 
+         "to": 2.81, 
+         "speaker": 0, 
+         "confidence": 0.667, 
+         "final": false
+      }, 
+      {
+         "from": 2.84, 
+         "to": 3.48, 
+         "speaker": 0, 
+         "confidence": 0.554, 
+         "final": false
+      }, 
+      {
+         "from": 3.48, 
+         "to": 4.13, 
+         "speaker": 0, 
+         "confidence": 0.554, 
+         "final": false
+      }, 
+      {
+         "from": 4.57, 
+         "to": 4.76, 
+         "speaker": 0, 
+         "confidence": 0.529, 
+         "final": false
+      }, 
+      {
+         "from": 4.76, 
+         "to": 4.88, 
+         "speaker": 0, 
+         "confidence": 0.529, 
+         "final": false
+      }, 
+      {
+         "from": 4.88, 
+         "to": 5.06, 
+         "speaker": 0, 
+         "confidence": 0.529, 
+         "final": false
+      }, 
+      {
+         "from": 5.06, 
+         "to": 5.34, 
+         "speaker": 0, 
+         "confidence": 0.529, 
+         "final": false
+      }, 
+      {
+         "from": 5.34, 
+         "to": 5.55, 
+         "speaker": 0, 
+         "confidence": 0.529, 
+         "final": false
+      }, 
+      {
+         "from": 5.82, 
+         "to": 6.24, 
+         "speaker": 3, 
+         "confidence": 0.412, 
+         "final": false
+      }, 
+      {
+         "from": 6.24, 
+         "to": 6.35, 
+         "speaker": 3, 
+         "confidence": 0.412, 
+         "final": false
+      }, 
+      {
+         "from": 6.35, 
+         "to": 6.43, 
+         "speaker": 3, 
+         "confidence": 0.412, 
+         "final": false
+      }, 
+      {
+         "from": 6.43, 
+         "to": 6.75, 
+         "speaker": 3, 
+         "confidence": 0.412, 
+         "final": false
+      }, 
+      {
+         "from": 6.75, 
+         "to": 7.03, 
+         "speaker": 3, 
+         "confidence": 0.412, 
+         "final": false
+      }, 
+      {
+         "from": 7.03, 
+         "to": 7.53, 
+         "speaker": 3, 
+         "confidence": 0.412, 
+         "final": false
+      }, 
+      {
+         "from": 7.61, 
+         "to": 7.93, 
+         "speaker": 3, 
+         "confidence": 0.613, 
+         "final": false
+      }, 
+      {
+         "from": 7.93, 
+         "to": 8.29, 
+         "speaker": 3, 
+         "confidence": 0.613, 
+         "final": false
+      }, 
+      {
+         "from": 8.56, 
+         "to": 8.73, 
+         "speaker": 1, 
+         "confidence": 0.448, 
+         "final": false
+      }, 
+      {
+         "from": 8.73, 
+         "to": 8.88, 
+         "speaker": 1, 
+         "confidence": 0.448, 
+         "final": false
+      }, 
+      {
+         "from": 8.88, 
+         "to": 9.33, 
+         "speaker": 1, 
+         "confidence": 0.448, 
+         "final": true
+      }
+   ]
+}

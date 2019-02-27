@@ -1,0 +1,350 @@
+{
+   "results": [
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "and", 
+                     0.21, 
+                     0.46
+                  ], 
+                  [
+                     "it", 
+                     0.46, 
+                     0.56
+                  ], 
+                  [
+                     "just", 
+                     0.56, 
+                     1.05
+                  ], 
+                  [
+                     "disposition", 
+                     1.08, 
+                     1.91
+                  ], 
+                  [
+                     "of", 
+                     1.91, 
+                     2.02
+                  ]
+               ], 
+               "confidence": 0.942, 
+               "transcript": "and it just disposition of "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "as", 
+                     2.45, 
+                     2.66
+                  ], 
+                  [
+                     "they", 
+                     3.04, 
+                     3.23
+                  ], 
+                  [
+                     "were", 
+                     3.23, 
+                     3.47
+                  ]
+               ], 
+               "confidence": 0.663, 
+               "transcript": "as they were "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "and", 
+                     3.87, 
+                     4.0
+                  ], 
+                  [
+                     "to", 
+                     4.0, 
+                     4.1
+                  ], 
+                  [
+                     "cultivate", 
+                     4.1, 
+                     4.65
+                  ], 
+                  [
+                     "the", 
+                     4.65, 
+                     4.76
+                  ], 
+                  [
+                     "elements", 
+                     4.76, 
+                     5.17
+                  ], 
+                  [
+                     "of", 
+                     5.17, 
+                     5.26
+                  ], 
+                  [
+                     "music", 
+                     5.26, 
+                     5.5
+                  ], 
+                  [
+                     "one", 
+                     5.85, 
+                     6.02
+                  ], 
+                  [
+                     "has", 
+                     6.02, 
+                     6.25
+                  ], 
+                  [
+                     "to", 
+                     6.25, 
+                     6.39
+                  ], 
+                  [
+                     "seize", 
+                     6.39, 
+                     6.65
+                  ], 
+                  [
+                     "every", 
+                     6.65, 
+                     7.0
+                  ], 
+                  [
+                     "opportunity", 
+                     7.0, 
+                     7.81
+                  ]
+               ], 
+               "confidence": 0.955, 
+               "transcript": "and to cultivate the elements of music one has to seize every opportunity "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "as", 
+                     8.02, 
+                     8.08
+                  ], 
+                  [
+                     "regions", 
+                     8.08, 
+                     8.74
+                  ]
+               ], 
+               "confidence": 0.835, 
+               "transcript": "as regions "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "if", 
+                     9.25, 
+                     9.42
+                  ]
+               ], 
+               "confidence": 0.999, 
+               "transcript": "if "
+            }
+         ], 
+         "final": true
+      }
+   ], 
+   "result_index": 0, 
+   "speaker_labels": [
+      {
+         "from": 0.21, 
+         "to": 0.46, 
+         "speaker": 0, 
+         "confidence": 0.667, 
+         "final": false
+      }, 
+      {
+         "from": 0.46, 
+         "to": 0.56, 
+         "speaker": 0, 
+         "confidence": 0.667, 
+         "final": false
+      }, 
+      {
+         "from": 0.56, 
+         "to": 1.05, 
+         "speaker": 0, 
+         "confidence": 0.667, 
+         "final": false
+      }, 
+      {
+         "from": 1.08, 
+         "to": 1.91, 
+         "speaker": 0, 
+         "confidence": 0.441, 
+         "final": false
+      }, 
+      {
+         "from": 1.91, 
+         "to": 2.02, 
+         "speaker": 0, 
+         "confidence": 0.441, 
+         "final": false
+      }, 
+      {
+         "from": 2.45, 
+         "to": 2.66, 
+         "speaker": 0, 
+         "confidence": 0.352, 
+         "final": false
+      }, 
+      {
+         "from": 3.04, 
+         "to": 3.23, 
+         "speaker": 0, 
+         "confidence": 0.484, 
+         "final": false
+      }, 
+      {
+         "from": 3.23, 
+         "to": 3.47, 
+         "speaker": 0, 
+         "confidence": 0.484, 
+         "final": false
+      }, 
+      {
+         "from": 3.87, 
+         "to": 4.0, 
+         "speaker": 0, 
+         "confidence": 0.537, 
+         "final": false
+      }, 
+      {
+         "from": 4.0, 
+         "to": 4.1, 
+         "speaker": 0, 
+         "confidence": 0.537, 
+         "final": false
+      }, 
+      {
+         "from": 4.1, 
+         "to": 4.65, 
+         "speaker": 0, 
+         "confidence": 0.537, 
+         "final": false
+      }, 
+      {
+         "from": 4.65, 
+         "to": 4.76, 
+         "speaker": 0, 
+         "confidence": 0.537, 
+         "final": false
+      }, 
+      {
+         "from": 4.76, 
+         "to": 5.17, 
+         "speaker": 0, 
+         "confidence": 0.537, 
+         "final": false
+      }, 
+      {
+         "from": 5.17, 
+         "to": 5.26, 
+         "speaker": 0, 
+         "confidence": 0.537, 
+         "final": false
+      }, 
+      {
+         "from": 5.26, 
+         "to": 5.5, 
+         "speaker": 0, 
+         "confidence": 0.537, 
+         "final": false
+      }, 
+      {
+         "from": 5.85, 
+         "to": 6.02, 
+         "speaker": 1, 
+         "confidence": 0.489, 
+         "final": false
+      }, 
+      {
+         "from": 6.02, 
+         "to": 6.25, 
+         "speaker": 1, 
+         "confidence": 0.489, 
+         "final": false
+      }, 
+      {
+         "from": 6.25, 
+         "to": 6.39, 
+         "speaker": 1, 
+         "confidence": 0.489, 
+         "final": false
+      }, 
+      {
+         "from": 6.39, 
+         "to": 6.65, 
+         "speaker": 1, 
+         "confidence": 0.489, 
+         "final": false
+      }, 
+      {
+         "from": 6.65, 
+         "to": 7.0, 
+         "speaker": 1, 
+         "confidence": 0.489, 
+         "final": false
+      }, 
+      {
+         "from": 7.0, 
+         "to": 7.81, 
+         "speaker": 1, 
+         "confidence": 0.489, 
+         "final": false
+      }, 
+      {
+         "from": 8.02, 
+         "to": 8.08, 
+         "speaker": 1, 
+         "confidence": 0.486, 
+         "final": false
+      }, 
+      {
+         "from": 8.08, 
+         "to": 8.74, 
+         "speaker": 1, 
+         "confidence": 0.486, 
+         "final": false
+      }, 
+      {
+         "from": 9.25, 
+         "to": 9.42, 
+         "speaker": 1, 
+         "confidence": 0.552, 
+         "final": true
+      }
+   ]
+}

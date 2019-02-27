@@ -1,0 +1,447 @@
+ {
+   "results": [
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "for", 
+                     0.25, 
+                     0.41
+                  ], 
+                  [
+                     "love", 
+                     0.41, 
+                     0.69
+                  ], 
+                  [
+                     "was", 
+                     0.69, 
+                     0.89
+                  ], 
+                  [
+                     "love", 
+                     0.89, 
+                     1.34
+                  ], 
+                  [
+                     "and", 
+                     1.34, 
+                     1.53
+                  ], 
+                  [
+                     "better", 
+                     1.53, 
+                     1.85
+                  ], 
+                  [
+                     "than", 
+                     1.85, 
+                     2.05
+                  ], 
+                  [
+                     "money", 
+                     2.05, 
+                     2.53
+                  ], 
+                  [
+                     "this", 
+                     2.62, 
+                     2.78
+                  ], 
+                  [
+                     "flyer", 
+                     2.78, 
+                     3.09
+                  ], 
+                  [
+                     "this", 
+                     3.09, 
+                     3.33
+                  ], 
+                  [
+                     "F.", 
+                     3.33, 
+                     3.66
+                  ], 
+                  [
+                     "sweeter", 
+                     3.72, 
+                     4.22
+                  ], 
+                  [
+                     "than", 
+                     4.22, 
+                     4.34
+                  ], 
+                  [
+                     "honey", 
+                     4.34, 
+                     4.79
+                  ], 
+                  [
+                     "and", 
+                     5.01, 
+                     5.19
+                  ], 
+                  [
+                     "Justin", 
+                     5.19, 
+                     5.5
+                  ], 
+                  [
+                     "was", 
+                     5.5, 
+                     5.66
+                  ], 
+                  [
+                     "clover", 
+                     5.66, 
+                     6.18
+                  ], 
+                  [
+                     "all", 
+                     6.21, 
+                     6.46
+                  ], 
+                  [
+                     "the", 
+                     6.46, 
+                     6.56
+                  ], 
+                  [
+                     "world", 
+                     6.56, 
+                     6.89
+                  ], 
+                  [
+                     "over", 
+                     6.89, 
+                     7.33
+                  ]
+               ], 
+               "confidence": 0.749, 
+               "transcript": "for love was love and better than money this flyer this F. sweeter than honey and Justin was clover all the world over "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "one", 
+                     7.73, 
+                     7.91
+                  ], 
+                  [
+                     "has", 
+                     7.91, 
+                     8.13
+                  ], 
+                  [
+                     "to", 
+                     8.13, 
+                     8.27
+                  ], 
+                  [
+                     "seize", 
+                     8.27, 
+                     8.53
+                  ], 
+                  [
+                     "every", 
+                     8.53, 
+                     8.88
+                  ], 
+                  [
+                     "opportunity", 
+                     8.88, 
+                     9.64
+                  ], 
+                  [
+                     "in", 
+                     9.64, 
+                     9.75
+                  ]
+               ], 
+               "confidence": 0.973, 
+               "transcript": "one has to seize every opportunity in "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "as", 
+                     9.9, 
+                     9.96
+                  ], 
+                  [
+                     "regions", 
+                     9.96, 
+                     10.68
+                  ]
+               ], 
+               "confidence": 0.93, 
+               "transcript": "as regions "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "if", 
+                     11.13, 
+                     11.3
+                  ]
+               ], 
+               "confidence": 1.0, 
+               "transcript": "if "
+            }
+         ], 
+         "final": true
+      }
+   ], 
+   "result_index": 0, 
+   "speaker_labels": [
+      {
+         "from": 0.25, 
+         "to": 0.41, 
+         "speaker": 0, 
+         "confidence": 0.364, 
+         "final": false
+      }, 
+      {
+         "from": 0.41, 
+         "to": 0.69, 
+         "speaker": 0, 
+         "confidence": 0.364, 
+         "final": false
+      }, 
+      {
+         "from": 0.69, 
+         "to": 0.89, 
+         "speaker": 0, 
+         "confidence": 0.364, 
+         "final": false
+      }, 
+      {
+         "from": 0.89, 
+         "to": 1.34, 
+         "speaker": 0, 
+         "confidence": 0.364, 
+         "final": false
+      }, 
+      {
+         "from": 1.34, 
+         "to": 1.53, 
+         "speaker": 0, 
+         "confidence": 0.364, 
+         "final": false
+      }, 
+      {
+         "from": 1.53, 
+         "to": 1.85, 
+         "speaker": 0, 
+         "confidence": 0.364, 
+         "final": false
+      }, 
+      {
+         "from": 1.85, 
+         "to": 2.05, 
+         "speaker": 0, 
+         "confidence": 0.364, 
+         "final": false
+      }, 
+      {
+         "from": 2.05, 
+         "to": 2.53, 
+         "speaker": 0, 
+         "confidence": 0.364, 
+         "final": false
+      }, 
+      {
+         "from": 2.62, 
+         "to": 2.78, 
+         "speaker": 2, 
+         "confidence": 0.434, 
+         "final": false
+      }, 
+      {
+         "from": 2.78, 
+         "to": 3.09, 
+         "speaker": 2, 
+         "confidence": 0.434, 
+         "final": false
+      }, 
+      {
+         "from": 3.09, 
+         "to": 3.33, 
+         "speaker": 2, 
+         "confidence": 0.434, 
+         "final": false
+      }, 
+      {
+         "from": 3.33, 
+         "to": 3.66, 
+         "speaker": 2, 
+         "confidence": 0.434, 
+         "final": false
+      }, 
+      {
+         "from": 3.72, 
+         "to": 4.22, 
+         "speaker": 0, 
+         "confidence": 0.382, 
+         "final": false
+      }, 
+      {
+         "from": 4.22, 
+         "to": 4.34, 
+         "speaker": 0, 
+         "confidence": 0.382, 
+         "final": false
+      }, 
+      {
+         "from": 4.34, 
+         "to": 4.79, 
+         "speaker": 0, 
+         "confidence": 0.382, 
+         "final": false
+      }, 
+      {
+         "from": 5.01, 
+         "to": 5.19, 
+         "speaker": 0, 
+         "confidence": 0.379, 
+         "final": false
+      }, 
+      {
+         "from": 5.19, 
+         "to": 5.5, 
+         "speaker": 0, 
+         "confidence": 0.379, 
+         "final": false
+      }, 
+      {
+         "from": 5.5, 
+         "to": 5.66, 
+         "speaker": 0, 
+         "confidence": 0.379, 
+         "final": false
+      }, 
+      {
+         "from": 5.66, 
+         "to": 6.18, 
+         "speaker": 0, 
+         "confidence": 0.379, 
+         "final": false
+      }, 
+      {
+         "from": 6.21, 
+         "to": 6.46, 
+         "speaker": 0, 
+         "confidence": 0.52, 
+         "final": false
+      }, 
+      {
+         "from": 6.46, 
+         "to": 6.56, 
+         "speaker": 0, 
+         "confidence": 0.52, 
+         "final": false
+      }, 
+      {
+         "from": 6.56, 
+         "to": 6.89, 
+         "speaker": 0, 
+         "confidence": 0.52, 
+         "final": false
+      }, 
+      {
+         "from": 6.89, 
+         "to": 7.33, 
+         "speaker": 0, 
+         "confidence": 0.52, 
+         "final": false
+      }, 
+      {
+         "from": 7.73, 
+         "to": 7.91, 
+         "speaker": 1, 
+         "confidence": 0.491, 
+         "final": false
+      }, 
+      {
+         "from": 7.91, 
+         "to": 8.13, 
+         "speaker": 1, 
+         "confidence": 0.491, 
+         "final": false
+      }, 
+      {
+         "from": 8.13, 
+         "to": 8.27, 
+         "speaker": 1, 
+         "confidence": 0.491, 
+         "final": false
+      }, 
+      {
+         "from": 8.27, 
+         "to": 8.53, 
+         "speaker": 1, 
+         "confidence": 0.491, 
+         "final": false
+      }, 
+      {
+         "from": 8.53, 
+         "to": 8.88, 
+         "speaker": 1, 
+         "confidence": 0.491, 
+         "final": false
+      }, 
+      {
+         "from": 8.88, 
+         "to": 9.64, 
+         "speaker": 1, 
+         "confidence": 0.491, 
+         "final": false
+      }, 
+      {
+         "from": 9.64, 
+         "to": 9.75, 
+         "speaker": 1, 
+         "confidence": 0.491, 
+         "final": false
+      }, 
+      {
+         "from": 9.9, 
+         "to": 9.96, 
+         "speaker": 1, 
+         "confidence": 0.592, 
+         "final": false
+      }, 
+      {
+         "from": 9.96, 
+         "to": 10.68, 
+         "speaker": 1, 
+         "confidence": 0.592, 
+         "final": false
+      }, 
+      {
+         "from": 11.13, 
+         "to": 11.3, 
+         "speaker": 1, 
+         "confidence": 0.492, 
+         "final": true
+      }
+   ]
+}

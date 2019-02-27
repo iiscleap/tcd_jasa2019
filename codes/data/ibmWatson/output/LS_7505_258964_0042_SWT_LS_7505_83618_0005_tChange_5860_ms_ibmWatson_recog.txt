@@ -1,0 +1,269 @@
+{
+   "results": [
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "and", 
+                     0.32, 
+                     0.53
+                  ], 
+                  [
+                     "favorably", 
+                     0.53, 
+                     1.28
+                  ], 
+                  [
+                     "located", 
+                     1.28, 
+                     1.93
+                  ], 
+                  [
+                     "building", 
+                     1.93, 
+                     2.29
+                  ], 
+                  [
+                     "sites", 
+                     2.29, 
+                     2.75
+                  ], 
+                  [
+                     "illustrate", 
+                     3.01, 
+                     3.57
+                  ], 
+                  [
+                     "the", 
+                     3.57, 
+                     3.68
+                  ], 
+                  [
+                     "same", 
+                     3.68, 
+                     4.01
+                  ], 
+                  [
+                     "principle", 
+                     4.01, 
+                     4.58
+                  ]
+               ], 
+               "confidence": 0.938, 
+               "transcript": "and favorably located building sites illustrate the same principle "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "scholars", 
+                     5.77, 
+                     6.36
+                  ], 
+                  [
+                     "like", 
+                     6.36, 
+                     6.58
+                  ], 
+                  [
+                     "why", 
+                     6.58, 
+                     6.77
+                  ], 
+                  [
+                     "seven", 
+                     6.77, 
+                     7.11
+                  ], 
+                  [
+                     "separate", 
+                     7.11, 
+                     7.58
+                  ], 
+                  [
+                     "the", 
+                     7.58, 
+                     7.66
+                  ], 
+                  [
+                     "mother", 
+                     7.66, 
+                     8.05
+                  ], 
+                  [
+                     "to", 
+                     8.05, 
+                     8.21
+                  ], 
+                  [
+                     "mean", 
+                     8.21, 
+                     8.69
+                  ], 
+                  [
+                     "the", 
+                     8.74, 
+                     8.96
+                  ], 
+                  [
+                     "dawn", 
+                     8.96, 
+                     9.43
+                  ]
+               ], 
+               "confidence": 0.779, 
+               "transcript": "scholars like why seven separate the mother to mean the dawn "
+            }
+         ], 
+         "final": true
+      }
+   ], 
+   "result_index": 0, 
+   "speaker_labels": [
+      {
+         "from": 0.32, 
+         "to": 0.53, 
+         "speaker": 0, 
+         "confidence": 0.667, 
+         "final": false
+      }, 
+      {
+         "from": 0.53, 
+         "to": 1.28, 
+         "speaker": 0, 
+         "confidence": 0.667, 
+         "final": false
+      }, 
+      {
+         "from": 1.28, 
+         "to": 1.93, 
+         "speaker": 0, 
+         "confidence": 0.667, 
+         "final": false
+      }, 
+      {
+         "from": 1.93, 
+         "to": 2.29, 
+         "speaker": 0, 
+         "confidence": 0.667, 
+         "final": false
+      }, 
+      {
+         "from": 2.29, 
+         "to": 2.75, 
+         "speaker": 0, 
+         "confidence": 0.667, 
+         "final": false
+      }, 
+      {
+         "from": 3.01, 
+         "to": 3.57, 
+         "speaker": 0, 
+         "confidence": 0.451, 
+         "final": false
+      }, 
+      {
+         "from": 3.57, 
+         "to": 3.68, 
+         "speaker": 0, 
+         "confidence": 0.451, 
+         "final": false
+      }, 
+      {
+         "from": 3.68, 
+         "to": 4.01, 
+         "speaker": 0, 
+         "confidence": 0.451, 
+         "final": false
+      }, 
+      {
+         "from": 4.01, 
+         "to": 4.58, 
+         "speaker": 0, 
+         "confidence": 0.451, 
+         "final": false
+      }, 
+      {
+         "from": 5.77, 
+         "to": 6.36, 
+         "speaker": 1, 
+         "confidence": 0.464, 
+         "final": false
+      }, 
+      {
+         "from": 6.36, 
+         "to": 6.58, 
+         "speaker": 1, 
+         "confidence": 0.464, 
+         "final": false
+      }, 
+      {
+         "from": 6.58, 
+         "to": 6.77, 
+         "speaker": 1, 
+         "confidence": 0.464, 
+         "final": false
+      }, 
+      {
+         "from": 6.77, 
+         "to": 7.11, 
+         "speaker": 1, 
+         "confidence": 0.464, 
+         "final": false
+      }, 
+      {
+         "from": 7.11, 
+         "to": 7.58, 
+         "speaker": 1, 
+         "confidence": 0.464, 
+         "final": false
+      }, 
+      {
+         "from": 7.58, 
+         "to": 7.66, 
+         "speaker": 1, 
+         "confidence": 0.464, 
+         "final": false
+      }, 
+      {
+         "from": 7.66, 
+         "to": 8.05, 
+         "speaker": 1, 
+         "confidence": 0.464, 
+         "final": false
+      }, 
+      {
+         "from": 8.05, 
+         "to": 8.21, 
+         "speaker": 1, 
+         "confidence": 0.464, 
+         "final": false
+      }, 
+      {
+         "from": 8.21, 
+         "to": 8.69, 
+         "speaker": 1, 
+         "confidence": 0.464, 
+         "final": false
+      }, 
+      {
+         "from": 8.74, 
+         "to": 8.96, 
+         "speaker": 2, 
+         "confidence": 0.488, 
+         "final": false
+      }, 
+      {
+         "from": 8.96, 
+         "to": 9.43, 
+         "speaker": 2, 
+         "confidence": 0.488, 
+         "final": true
+      }
+   ]
+}

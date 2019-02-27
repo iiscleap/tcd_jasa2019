@@ -1,0 +1,330 @@
+ {
+   "results": [
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "I", 
+                     0.48, 
+                     0.62
+                  ], 
+                  [
+                     "flung", 
+                     0.62, 
+                     1.0
+                  ], 
+                  [
+                     "myself", 
+                     1.0, 
+                     1.57
+                  ], 
+                  [
+                     "into", 
+                     1.57, 
+                     1.77
+                  ], 
+                  [
+                     "this", 
+                     1.77, 
+                     1.98
+                  ], 
+                  [
+                     "rapid", 
+                     1.98, 
+                     2.59
+                  ], 
+                  [
+                     "noisy", 
+                     2.71, 
+                     3.25
+                  ], 
+                  [
+                     "involved", 
+                     3.25, 
+                     3.63
+                  ], 
+                  [
+                     "panic", 
+                     3.63, 
+                     4.07
+                  ], 
+                  [
+                     "life", 
+                     4.07, 
+                     4.53
+                  ], 
+                  [
+                     "which", 
+                     4.84, 
+                     5.03
+                  ], 
+                  [
+                     "had", 
+                     5.03, 
+                     5.16
+                  ], 
+                  [
+                     "formerly", 
+                     5.16, 
+                     5.75
+                  ], 
+                  [
+                     "for", 
+                     6.01, 
+                     6.16
+                  ], 
+                  [
+                     "love", 
+                     6.16, 
+                     6.44
+                  ], 
+                  [
+                     "was", 
+                     6.44, 
+                     6.65
+                  ], 
+                  [
+                     "love", 
+                     6.65, 
+                     7.09
+                  ], 
+                  [
+                     "and", 
+                     7.09, 
+                     7.29
+                  ], 
+                  [
+                     "better", 
+                     7.29, 
+                     7.6
+                  ], 
+                  [
+                     "than", 
+                     7.6, 
+                     7.8
+                  ], 
+                  [
+                     "money", 
+                     7.8, 
+                     8.29
+                  ], 
+                  [
+                     "this", 
+                     8.37, 
+                     8.54
+                  ], 
+                  [
+                     "flyer", 
+                     8.54, 
+                     8.84
+                  ], 
+                  [
+                     "this", 
+                     8.84, 
+                     9.08
+                  ], 
+                  [
+                     "S.", 
+                     9.08, 
+                     9.43
+                  ], 
+                  [
+                     "this", 
+                     9.48, 
+                     9.71
+                  ]
+               ], 
+               "confidence": 0.701, 
+               "transcript": "I flung myself into this rapid noisy involved panic life which had formerly for love was love and better than money this flyer this S. this "
+            }
+         ], 
+         "final": true
+      }
+   ], 
+   "result_index": 0, 
+   "speaker_labels": [
+      {
+         "from": 0.48, 
+         "to": 0.62, 
+         "speaker": 0, 
+         "confidence": 0.48, 
+         "final": false
+      }, 
+      {
+         "from": 0.62, 
+         "to": 1.0, 
+         "speaker": 0, 
+         "confidence": 0.48, 
+         "final": false
+      }, 
+      {
+         "from": 1.0, 
+         "to": 1.57, 
+         "speaker": 0, 
+         "confidence": 0.48, 
+         "final": false
+      }, 
+      {
+         "from": 1.57, 
+         "to": 1.77, 
+         "speaker": 0, 
+         "confidence": 0.48, 
+         "final": false
+      }, 
+      {
+         "from": 1.77, 
+         "to": 1.98, 
+         "speaker": 0, 
+         "confidence": 0.48, 
+         "final": false
+      }, 
+      {
+         "from": 1.98, 
+         "to": 2.59, 
+         "speaker": 0, 
+         "confidence": 0.48, 
+         "final": false
+      }, 
+      {
+         "from": 2.71, 
+         "to": 3.25, 
+         "speaker": 0, 
+         "confidence": 0.478, 
+         "final": false
+      }, 
+      {
+         "from": 3.25, 
+         "to": 3.63, 
+         "speaker": 0, 
+         "confidence": 0.478, 
+         "final": false
+      }, 
+      {
+         "from": 3.63, 
+         "to": 4.07, 
+         "speaker": 0, 
+         "confidence": 0.478, 
+         "final": false
+      }, 
+      {
+         "from": 4.07, 
+         "to": 4.53, 
+         "speaker": 0, 
+         "confidence": 0.478, 
+         "final": false
+      }, 
+      {
+         "from": 4.84, 
+         "to": 5.03, 
+         "speaker": 1, 
+         "confidence": 0.449, 
+         "final": false
+      }, 
+      {
+         "from": 5.03, 
+         "to": 5.16, 
+         "speaker": 1, 
+         "confidence": 0.449, 
+         "final": false
+      }, 
+      {
+         "from": 5.16, 
+         "to": 5.75, 
+         "speaker": 1, 
+         "confidence": 0.449, 
+         "final": false
+      }, 
+      {
+         "from": 6.01, 
+         "to": 6.16, 
+         "speaker": 2, 
+         "confidence": 0.438, 
+         "final": false
+      }, 
+      {
+         "from": 6.16, 
+         "to": 6.44, 
+         "speaker": 2, 
+         "confidence": 0.438, 
+         "final": false
+      }, 
+      {
+         "from": 6.44, 
+         "to": 6.65, 
+         "speaker": 2, 
+         "confidence": 0.438, 
+         "final": false
+      }, 
+      {
+         "from": 6.65, 
+         "to": 7.09, 
+         "speaker": 2, 
+         "confidence": 0.438, 
+         "final": false
+      }, 
+      {
+         "from": 7.09, 
+         "to": 7.29, 
+         "speaker": 2, 
+         "confidence": 0.438, 
+         "final": false
+      }, 
+      {
+         "from": 7.29, 
+         "to": 7.6, 
+         "speaker": 2, 
+         "confidence": 0.438, 
+         "final": false
+      }, 
+      {
+         "from": 7.6, 
+         "to": 7.8, 
+         "speaker": 2, 
+         "confidence": 0.438, 
+         "final": false
+      }, 
+      {
+         "from": 7.8, 
+         "to": 8.29, 
+         "speaker": 2, 
+         "confidence": 0.438, 
+         "final": false
+      }, 
+      {
+         "from": 8.37, 
+         "to": 8.54, 
+         "speaker": 2, 
+         "confidence": 0.5, 
+         "final": false
+      }, 
+      {
+         "from": 8.54, 
+         "to": 8.84, 
+         "speaker": 2, 
+         "confidence": 0.5, 
+         "final": false
+      }, 
+      {
+         "from": 8.84, 
+         "to": 9.08, 
+         "speaker": 2, 
+         "confidence": 0.5, 
+         "final": false
+      }, 
+      {
+         "from": 9.08, 
+         "to": 9.43, 
+         "speaker": 2, 
+         "confidence": 0.5, 
+         "final": false
+      }, 
+      {
+         "from": 9.48, 
+         "to": 9.71, 
+         "speaker": 2, 
+         "confidence": 0.362, 
+         "final": true
+      }
+   ]
+}

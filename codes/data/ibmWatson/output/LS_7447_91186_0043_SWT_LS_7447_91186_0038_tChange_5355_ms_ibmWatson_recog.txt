@@ -1,0 +1,279 @@
+{
+   "results": [
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "two", 
+                     0.86, 
+                     1.07
+                  ], 
+                  [
+                     "equally", 
+                     1.1, 
+                     1.72
+                  ], 
+                  [
+                     "characteristic", 
+                     1.75, 
+                     2.63
+                  ], 
+                  [
+                     "progress", 
+                     2.67, 
+                     3.05
+                  ]
+               ], 
+               "confidence": 0.979, 
+               "transcript": "two equally characteristic progress "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "as", 
+                     3.25, 
+                     3.33
+                  ], 
+                  [
+                     "in", 
+                     3.33, 
+                     3.44
+                  ], 
+                  [
+                     "cadences", 
+                     3.44, 
+                     4.25
+                  ], 
+                  [
+                     "is", 
+                     4.52, 
+                     4.67
+                  ], 
+                  [
+                     "a", 
+                     4.67, 
+                     4.75
+                  ], 
+                  [
+                     "strike", 
+                     4.75, 
+                     5.16
+                  ], 
+                  [
+                     "too", 
+                     5.29, 
+                     5.46
+                  ], 
+                  [
+                     "often", 
+                     5.46, 
+                     5.84
+                  ]
+               ], 
+               "confidence": 0.841, 
+               "transcript": "as in cadences is a strike too often "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "did", 
+                     6.03, 
+                     6.19
+                  ], 
+                  [
+                     "as", 
+                     6.19, 
+                     6.51
+                  ], 
+                  [
+                     "dry", 
+                     6.51, 
+                     6.9
+                  ]
+               ], 
+               "confidence": 0.567, 
+               "transcript": "did as dry "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "as", 
+                     7.02, 
+                     7.12
+                  ], 
+                  [
+                     "dust", 
+                     7.12, 
+                     7.48
+                  ], 
+                  [
+                     "studies", 
+                     7.51, 
+                     8.15
+                  ], 
+                  [
+                     "are", 
+                     8.33, 
+                     8.49
+                  ]
+               ], 
+               "confidence": 0.836, 
+               "transcript": "as dust studies are "
+            }
+         ], 
+         "final": true
+      }
+   ], 
+   "result_index": 0, 
+   "speaker_labels": [
+      {
+         "from": 0.86, 
+         "to": 1.07, 
+         "speaker": 0, 
+         "confidence": 0.478, 
+         "final": false
+      }, 
+      {
+         "from": 1.1, 
+         "to": 1.72, 
+         "speaker": 0, 
+         "confidence": 0.354, 
+         "final": false
+      }, 
+      {
+         "from": 1.75, 
+         "to": 2.63, 
+         "speaker": 2, 
+         "confidence": 0.435, 
+         "final": false
+      }, 
+      {
+         "from": 2.67, 
+         "to": 3.05, 
+         "speaker": 2, 
+         "confidence": 0.461, 
+         "final": false
+      }, 
+      {
+         "from": 3.25, 
+         "to": 3.33, 
+         "speaker": 0, 
+         "confidence": 0.375, 
+         "final": false
+      }, 
+      {
+         "from": 3.33, 
+         "to": 3.44, 
+         "speaker": 0, 
+         "confidence": 0.375, 
+         "final": false
+      }, 
+      {
+         "from": 3.44, 
+         "to": 4.25, 
+         "speaker": 0, 
+         "confidence": 0.375, 
+         "final": false
+      }, 
+      {
+         "from": 4.52, 
+         "to": 4.67, 
+         "speaker": 2, 
+         "confidence": 0.383, 
+         "final": false
+      }, 
+      {
+         "from": 4.67, 
+         "to": 4.75, 
+         "speaker": 2, 
+         "confidence": 0.383, 
+         "final": false
+      }, 
+      {
+         "from": 4.75, 
+         "to": 5.16, 
+         "speaker": 2, 
+         "confidence": 0.383, 
+         "final": false
+      }, 
+      {
+         "from": 5.29, 
+         "to": 5.46, 
+         "speaker": 1, 
+         "confidence": 0.352, 
+         "final": false
+      }, 
+      {
+         "from": 5.46, 
+         "to": 5.84, 
+         "speaker": 1, 
+         "confidence": 0.352, 
+         "final": false
+      }, 
+      {
+         "from": 6.03, 
+         "to": 6.19, 
+         "speaker": 3, 
+         "confidence": 0.366, 
+         "final": false
+      }, 
+      {
+         "from": 6.19, 
+         "to": 6.51, 
+         "speaker": 3, 
+         "confidence": 0.366, 
+         "final": false
+      }, 
+      {
+         "from": 6.51, 
+         "to": 6.9, 
+         "speaker": 3, 
+         "confidence": 0.366, 
+         "final": false
+      }, 
+      {
+         "from": 7.02, 
+         "to": 7.12, 
+         "speaker": 3, 
+         "confidence": 0.38, 
+         "final": false
+      }, 
+      {
+         "from": 7.12, 
+         "to": 7.48, 
+         "speaker": 3, 
+         "confidence": 0.38, 
+         "final": false
+      }, 
+      {
+         "from": 7.51, 
+         "to": 8.15, 
+         "speaker": 3, 
+         "confidence": 0.362, 
+         "final": false
+      }, 
+      {
+         "from": 8.33, 
+         "to": 8.49, 
+         "speaker": 1, 
+         "confidence": 0.39, 
+         "final": true
+      }
+   ]
+}

@@ -1,0 +1,315 @@
+{
+   "results": [
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "as", 
+                     0.22, 
+                     0.57
+                  ], 
+                  [
+                     "the", 
+                     0.6, 
+                     0.72
+                  ], 
+                  [
+                     "total", 
+                     0.72, 
+                     1.18
+                  ], 
+                  [
+                     "of", 
+                     1.18, 
+                     1.31
+                  ], 
+                  [
+                     "goods", 
+                     1.31, 
+                     1.73
+                  ], 
+                  [
+                     "secured", 
+                     1.77, 
+                     2.53
+                  ]
+               ], 
+               "confidence": 0.774, 
+               "transcript": "as the total of goods secured "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "net", 
+                     3.14, 
+                     3.53
+                  ], 
+                  [
+                     "income", 
+                     3.53, 
+                     4.12
+                  ], 
+                  [
+                     "is", 
+                     4.15, 
+                     4.35
+                  ], 
+                  [
+                     "the", 
+                     4.35, 
+                     4.52
+                  ], 
+                  [
+                     "remainder", 
+                     4.52, 
+                     5.26
+                  ]
+               ], 
+               "confidence": 0.999, 
+               "transcript": "net income is the remainder "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "language", 
+                     5.85, 
+                     6.35
+                  ], 
+                  [
+                     "itself", 
+                     6.35, 
+                     6.82
+                  ], 
+                  [
+                     "is", 
+                     6.82, 
+                     6.93
+                  ], 
+                  [
+                     "proof", 
+                     6.93, 
+                     7.19
+                  ], 
+                  [
+                     "of", 
+                     7.19, 
+                     7.31
+                  ], 
+                  [
+                     "it", 
+                     7.31, 
+                     7.54
+                  ]
+               ], 
+               "confidence": 0.968, 
+               "transcript": "language itself is proof of it "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "many", 
+                     8.16, 
+                     8.46
+                  ], 
+                  [
+                     "all", 
+                     8.46, 
+                     8.6
+                  ], 
+                  [
+                     "gone", 
+                     8.6, 
+                     8.86
+                  ], 
+                  [
+                     "kind", 
+                     8.86, 
+                     9.06
+                  ], 
+                  [
+                     "words", 
+                     9.06, 
+                     9.35
+                  ]
+               ], 
+               "confidence": 0.639, 
+               "transcript": "many all gone kind words "
+            }
+         ], 
+         "final": true
+      }
+   ], 
+   "result_index": 0, 
+   "speaker_labels": [
+      {
+         "from": 0.22, 
+         "to": 0.57, 
+         "speaker": 0, 
+         "confidence": 0.522, 
+         "final": false
+      }, 
+      {
+         "from": 0.6, 
+         "to": 0.72, 
+         "speaker": 1, 
+         "confidence": 0.474, 
+         "final": false
+      }, 
+      {
+         "from": 0.72, 
+         "to": 1.18, 
+         "speaker": 1, 
+         "confidence": 0.474, 
+         "final": false
+      }, 
+      {
+         "from": 1.18, 
+         "to": 1.31, 
+         "speaker": 1, 
+         "confidence": 0.474, 
+         "final": false
+      }, 
+      {
+         "from": 1.31, 
+         "to": 1.73, 
+         "speaker": 1, 
+         "confidence": 0.474, 
+         "final": false
+      }, 
+      {
+         "from": 1.77, 
+         "to": 2.53, 
+         "speaker": 1, 
+         "confidence": 0.454, 
+         "final": false
+      }, 
+      {
+         "from": 3.14, 
+         "to": 3.53, 
+         "speaker": 2, 
+         "confidence": 0.442, 
+         "final": false
+      }, 
+      {
+         "from": 3.53, 
+         "to": 4.12, 
+         "speaker": 2, 
+         "confidence": 0.442, 
+         "final": false
+      }, 
+      {
+         "from": 4.15, 
+         "to": 4.35, 
+         "speaker": 1, 
+         "confidence": 0.4, 
+         "final": false
+      }, 
+      {
+         "from": 4.35, 
+         "to": 4.52, 
+         "speaker": 1, 
+         "confidence": 0.4, 
+         "final": false
+      }, 
+      {
+         "from": 4.52, 
+         "to": 5.26, 
+         "speaker": 1, 
+         "confidence": 0.4, 
+         "final": false
+      }, 
+      {
+         "from": 5.85, 
+         "to": 6.35, 
+         "speaker": 0, 
+         "confidence": 0.466, 
+         "final": false
+      }, 
+      {
+         "from": 6.35, 
+         "to": 6.82, 
+         "speaker": 0, 
+         "confidence": 0.466, 
+         "final": false
+      }, 
+      {
+         "from": 6.82, 
+         "to": 6.93, 
+         "speaker": 0, 
+         "confidence": 0.466, 
+         "final": false
+      }, 
+      {
+         "from": 6.93, 
+         "to": 7.19, 
+         "speaker": 0, 
+         "confidence": 0.466, 
+         "final": false
+      }, 
+      {
+         "from": 7.19, 
+         "to": 7.31, 
+         "speaker": 0, 
+         "confidence": 0.466, 
+         "final": false
+      }, 
+      {
+         "from": 7.31, 
+         "to": 7.54, 
+         "speaker": 0, 
+         "confidence": 0.466, 
+         "final": false
+      }, 
+      {
+         "from": 8.16, 
+         "to": 8.46, 
+         "speaker": 2, 
+         "confidence": 0.441, 
+         "final": false
+      }, 
+      {
+         "from": 8.46, 
+         "to": 8.6, 
+         "speaker": 2, 
+         "confidence": 0.441, 
+         "final": false
+      }, 
+      {
+         "from": 8.6, 
+         "to": 8.86, 
+         "speaker": 2, 
+         "confidence": 0.441, 
+         "final": false
+      }, 
+      {
+         "from": 8.86, 
+         "to": 9.06, 
+         "speaker": 2, 
+         "confidence": 0.441, 
+         "final": false
+      }, 
+      {
+         "from": 9.06, 
+         "to": 9.35, 
+         "speaker": 2, 
+         "confidence": 0.441, 
+         "final": true
+      }
+   ]
+}

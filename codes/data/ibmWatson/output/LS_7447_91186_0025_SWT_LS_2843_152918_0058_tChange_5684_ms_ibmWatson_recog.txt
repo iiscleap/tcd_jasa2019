@@ -1,0 +1,326 @@
+{
+   "results": [
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "you'd", 
+                     0.3, 
+                     0.53
+                  ], 
+                  [
+                     "buy", 
+                     0.53, 
+                     0.69
+                  ]
+               ], 
+               "confidence": 0.86, 
+               "transcript": "you'd buy "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "France", 
+                     1.16, 
+                     1.46
+                  ], 
+                  [
+                     "to", 
+                     1.46, 
+                     1.66
+                  ], 
+                  [
+                     "select", 
+                     1.66, 
+                     2.1
+                  ], 
+                  [
+                     "teachers", 
+                     2.13, 
+                     2.58
+                  ]
+               ], 
+               "confidence": 0.867, 
+               "transcript": "France to select teachers "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "please", 
+                     3.22, 
+                     3.43
+                  ], 
+                  [
+                     "sit", 
+                     3.43, 
+                     3.62
+                  ], 
+                  [
+                     "reliance", 
+                     3.65, 
+                     4.19
+                  ], 
+                  [
+                     "may", 
+                     4.19, 
+                     4.45
+                  ]
+               ], 
+               "confidence": 0.48, 
+               "transcript": "please sit reliance may "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "placed", 
+                     4.67, 
+                     5.2
+                  ]
+               ], 
+               "confidence": 0.238, 
+               "transcript": "placed "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "but", 
+                     5.63, 
+                     5.76
+                  ], 
+                  [
+                     "the", 
+                     5.76, 
+                     5.85
+                  ], 
+                  [
+                     "day", 
+                     5.85, 
+                     6.1
+                  ], 
+                  [
+                     "did", 
+                     6.1, 
+                     6.26
+                  ], 
+                  [
+                     "not", 
+                     6.26, 
+                     6.51
+                  ], 
+                  [
+                     "turn", 
+                     6.51, 
+                     6.74
+                  ], 
+                  [
+                     "out", 
+                     6.74, 
+                     6.96
+                  ], 
+                  [
+                     "so", 
+                     6.96, 
+                     7.11
+                  ], 
+                  [
+                     "badly", 
+                     7.11, 
+                     7.58
+                  ], 
+                  [
+                     "after", 
+                     7.58, 
+                     7.92
+                  ], 
+                  [
+                     "all", 
+                     7.92, 
+                     8.41
+                  ]
+               ], 
+               "confidence": 0.947, 
+               "transcript": "but the day did not turn out so badly after all "
+            }
+         ], 
+         "final": true
+      }
+   ], 
+   "result_index": 0, 
+   "speaker_labels": [
+      {
+         "from": 0.3, 
+         "to": 0.53, 
+         "speaker": 0, 
+         "confidence": 0.5, 
+         "final": false
+      }, 
+      {
+         "from": 0.53, 
+         "to": 0.69, 
+         "speaker": 0, 
+         "confidence": 0.5, 
+         "final": false
+      }, 
+      {
+         "from": 1.16, 
+         "to": 1.46, 
+         "speaker": 1, 
+         "confidence": 0.499, 
+         "final": false
+      }, 
+      {
+         "from": 1.46, 
+         "to": 1.66, 
+         "speaker": 1, 
+         "confidence": 0.499, 
+         "final": false
+      }, 
+      {
+         "from": 1.66, 
+         "to": 2.1, 
+         "speaker": 1, 
+         "confidence": 0.499, 
+         "final": false
+      }, 
+      {
+         "from": 2.13, 
+         "to": 2.58, 
+         "speaker": 1, 
+         "confidence": 0.38, 
+         "final": false
+      }, 
+      {
+         "from": 3.22, 
+         "to": 3.43, 
+         "speaker": 0, 
+         "confidence": 0.422, 
+         "final": false
+      }, 
+      {
+         "from": 3.43, 
+         "to": 3.62, 
+         "speaker": 0, 
+         "confidence": 0.422, 
+         "final": false
+      }, 
+      {
+         "from": 3.65, 
+         "to": 4.19, 
+         "speaker": 0, 
+         "confidence": 0.385, 
+         "final": false
+      }, 
+      {
+         "from": 4.19, 
+         "to": 4.45, 
+         "speaker": 0, 
+         "confidence": 0.385, 
+         "final": false
+      }, 
+      {
+         "from": 4.67, 
+         "to": 5.2, 
+         "speaker": 1, 
+         "confidence": 0.408, 
+         "final": false
+      }, 
+      {
+         "from": 5.63, 
+         "to": 5.76, 
+         "speaker": 2, 
+         "confidence": 0.485, 
+         "final": false
+      }, 
+      {
+         "from": 5.76, 
+         "to": 5.85, 
+         "speaker": 2, 
+         "confidence": 0.485, 
+         "final": false
+      }, 
+      {
+         "from": 5.85, 
+         "to": 6.1, 
+         "speaker": 2, 
+         "confidence": 0.485, 
+         "final": false
+      }, 
+      {
+         "from": 6.1, 
+         "to": 6.26, 
+         "speaker": 2, 
+         "confidence": 0.485, 
+         "final": false
+      }, 
+      {
+         "from": 6.26, 
+         "to": 6.51, 
+         "speaker": 2, 
+         "confidence": 0.485, 
+         "final": false
+      }, 
+      {
+         "from": 6.51, 
+         "to": 6.74, 
+         "speaker": 2, 
+         "confidence": 0.485, 
+         "final": false
+      }, 
+      {
+         "from": 6.74, 
+         "to": 6.96, 
+         "speaker": 2, 
+         "confidence": 0.485, 
+         "final": false
+      }, 
+      {
+         "from": 6.96, 
+         "to": 7.11, 
+         "speaker": 2, 
+         "confidence": 0.485, 
+         "final": false
+      }, 
+      {
+         "from": 7.11, 
+         "to": 7.58, 
+         "speaker": 2, 
+         "confidence": 0.485, 
+         "final": false
+      }, 
+      {
+         "from": 7.58, 
+         "to": 7.92, 
+         "speaker": 2, 
+         "confidence": 0.485, 
+         "final": false
+      }, 
+      {
+         "from": 7.92, 
+         "to": 8.41, 
+         "speaker": 2, 
+         "confidence": 0.485, 
+         "final": true
+      }
+   ]
+}

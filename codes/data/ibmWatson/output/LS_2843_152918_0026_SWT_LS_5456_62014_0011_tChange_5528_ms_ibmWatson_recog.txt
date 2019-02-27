@@ -1,0 +1,425 @@
+{
+   "results": [
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "we", 
+                     0.5, 
+                     0.62
+                  ], 
+                  [
+                     "traveled", 
+                     0.62, 
+                     1.05
+                  ], 
+                  [
+                     "down", 
+                     1.05, 
+                     1.26
+                  ], 
+                  [
+                     "a", 
+                     1.26, 
+                     1.32
+                  ], 
+                  [
+                     "place", 
+                     1.32, 
+                     1.66
+                  ], 
+                  [
+                     "for", 
+                     1.66, 
+                     1.81
+                  ], 
+                  [
+                     "the", 
+                     1.81, 
+                     1.92
+                  ], 
+                  [
+                     "tension", 
+                     1.92, 
+                     2.44
+                  ], 
+                  [
+                     "the", 
+                     2.44, 
+                     2.54
+                  ], 
+                  [
+                     "loose", 
+                     2.54, 
+                     2.9
+                  ], 
+                  [
+                     "now", 
+                     2.9, 
+                     3.35
+                  ], 
+                  [
+                     "and", 
+                     3.73, 
+                     3.93
+                  ], 
+                  [
+                     "soon", 
+                     3.93, 
+                     4.24
+                  ], 
+                  [
+                     "got", 
+                     4.24, 
+                     4.48
+                  ], 
+                  [
+                     "it", 
+                     4.48, 
+                     4.6
+                  ], 
+                  [
+                     "up", 
+                     4.6, 
+                     4.92
+                  ]
+               ], 
+               "confidence": 0.73, 
+               "transcript": "we traveled down a place for the tension the loose now and soon got it up "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "I", 
+                     5.46, 
+                     5.56
+                  ], 
+                  [
+                     "reckon", 
+                     5.56, 
+                     5.82
+                  ], 
+                  [
+                     "you", 
+                     5.82, 
+                     5.89
+                  ], 
+                  [
+                     "get", 
+                     5.89, 
+                     6.05
+                  ], 
+                  [
+                     "so", 
+                     6.05, 
+                     6.17
+                  ], 
+                  [
+                     "tired", 
+                     6.17, 
+                     6.61
+                  ], 
+                  [
+                     "no", 
+                     6.78, 
+                     7.08
+                  ], 
+                  [
+                     "date", 
+                     7.08, 
+                     7.52
+                  ], 
+                  [
+                     "no", 
+                     7.57, 
+                     7.74
+                  ], 
+                  [
+                     "one", 
+                     7.74, 
+                     8.02
+                  ], 
+                  [
+                     "he", 
+                     8.02, 
+                     8.21
+                  ], 
+                  [
+                     "had", 
+                     8.21, 
+                     8.41
+                  ], 
+                  [
+                     "to", 
+                     8.41, 
+                     8.49
+                  ], 
+                  [
+                     "blink", 
+                     8.49, 
+                     8.76
+                  ], 
+                  [
+                     "his", 
+                     8.76, 
+                     8.93
+                  ], 
+                  [
+                     "eyes", 
+                     8.93, 
+                     9.21
+                  ], 
+                  [
+                     "to", 
+                     9.21, 
+                     9.32
+                  ]
+               ], 
+               "confidence": 0.674, 
+               "transcript": "I reckon you get so tired no date no one he had to blink his eyes to "
+            }
+         ], 
+         "final": true
+      }
+   ], 
+   "result_index": 0, 
+   "speaker_labels": [
+      {
+         "from": 0.5, 
+         "to": 0.62, 
+         "speaker": 0, 
+         "confidence": 0.667, 
+         "final": false
+      }, 
+      {
+         "from": 0.62, 
+         "to": 1.05, 
+         "speaker": 0, 
+         "confidence": 0.667, 
+         "final": false
+      }, 
+      {
+         "from": 1.05, 
+         "to": 1.26, 
+         "speaker": 0, 
+         "confidence": 0.667, 
+         "final": false
+      }, 
+      {
+         "from": 1.26, 
+         "to": 1.32, 
+         "speaker": 0, 
+         "confidence": 0.667, 
+         "final": false
+      }, 
+      {
+         "from": 1.32, 
+         "to": 1.66, 
+         "speaker": 0, 
+         "confidence": 0.667, 
+         "final": false
+      }, 
+      {
+         "from": 1.66, 
+         "to": 1.81, 
+         "speaker": 0, 
+         "confidence": 0.667, 
+         "final": false
+      }, 
+      {
+         "from": 1.81, 
+         "to": 1.92, 
+         "speaker": 0, 
+         "confidence": 0.667, 
+         "final": false
+      }, 
+      {
+         "from": 1.92, 
+         "to": 2.44, 
+         "speaker": 0, 
+         "confidence": 0.667, 
+         "final": false
+      }, 
+      {
+         "from": 2.44, 
+         "to": 2.54, 
+         "speaker": 0, 
+         "confidence": 0.667, 
+         "final": false
+      }, 
+      {
+         "from": 2.54, 
+         "to": 2.9, 
+         "speaker": 0, 
+         "confidence": 0.667, 
+         "final": false
+      }, 
+      {
+         "from": 2.9, 
+         "to": 3.35, 
+         "speaker": 0, 
+         "confidence": 0.667, 
+         "final": false
+      }, 
+      {
+         "from": 3.73, 
+         "to": 3.93, 
+         "speaker": 0, 
+         "confidence": 0.635, 
+         "final": false
+      }, 
+      {
+         "from": 3.93, 
+         "to": 4.24, 
+         "speaker": 0, 
+         "confidence": 0.635, 
+         "final": false
+      }, 
+      {
+         "from": 4.24, 
+         "to": 4.48, 
+         "speaker": 0, 
+         "confidence": 0.635, 
+         "final": false
+      }, 
+      {
+         "from": 4.48, 
+         "to": 4.6, 
+         "speaker": 0, 
+         "confidence": 0.635, 
+         "final": false
+      }, 
+      {
+         "from": 4.6, 
+         "to": 4.92, 
+         "speaker": 0, 
+         "confidence": 0.635, 
+         "final": false
+      }, 
+      {
+         "from": 5.46, 
+         "to": 5.56, 
+         "speaker": 1, 
+         "confidence": 0.541, 
+         "final": false
+      }, 
+      {
+         "from": 5.56, 
+         "to": 5.82, 
+         "speaker": 1, 
+         "confidence": 0.541, 
+         "final": false
+      }, 
+      {
+         "from": 5.82, 
+         "to": 5.89, 
+         "speaker": 1, 
+         "confidence": 0.541, 
+         "final": false
+      }, 
+      {
+         "from": 5.89, 
+         "to": 6.05, 
+         "speaker": 1, 
+         "confidence": 0.541, 
+         "final": false
+      }, 
+      {
+         "from": 6.05, 
+         "to": 6.17, 
+         "speaker": 1, 
+         "confidence": 0.541, 
+         "final": false
+      }, 
+      {
+         "from": 6.17, 
+         "to": 6.61, 
+         "speaker": 1, 
+         "confidence": 0.541, 
+         "final": false
+      }, 
+      {
+         "from": 6.78, 
+         "to": 7.08, 
+         "speaker": 1, 
+         "confidence": 0.578, 
+         "final": false
+      }, 
+      {
+         "from": 7.08, 
+         "to": 7.52, 
+         "speaker": 1, 
+         "confidence": 0.578, 
+         "final": false
+      }, 
+      {
+         "from": 7.57, 
+         "to": 7.74, 
+         "speaker": 1, 
+         "confidence": 0.535, 
+         "final": false
+      }, 
+      {
+         "from": 7.74, 
+         "to": 8.02, 
+         "speaker": 1, 
+         "confidence": 0.535, 
+         "final": false
+      }, 
+      {
+         "from": 8.02, 
+         "to": 8.21, 
+         "speaker": 1, 
+         "confidence": 0.535, 
+         "final": false
+      }, 
+      {
+         "from": 8.21, 
+         "to": 8.41, 
+         "speaker": 1, 
+         "confidence": 0.535, 
+         "final": false
+      }, 
+      {
+         "from": 8.41, 
+         "to": 8.49, 
+         "speaker": 1, 
+         "confidence": 0.535, 
+         "final": false
+      }, 
+      {
+         "from": 8.49, 
+         "to": 8.76, 
+         "speaker": 1, 
+         "confidence": 0.535, 
+         "final": false
+      }, 
+      {
+         "from": 8.76, 
+         "to": 8.93, 
+         "speaker": 1, 
+         "confidence": 0.535, 
+         "final": false
+      }, 
+      {
+         "from": 8.93, 
+         "to": 9.21, 
+         "speaker": 1, 
+         "confidence": 0.535, 
+         "final": false
+      }, 
+      {
+         "from": 9.21, 
+         "to": 9.32, 
+         "speaker": 1, 
+         "confidence": 0.535, 
+         "final": true
+      }
+   ]
+}

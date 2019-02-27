@@ -1,0 +1,266 @@
+{
+   "results": [
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "the", 
+                     1.8, 
+                     1.96
+                  ], 
+                  [
+                     "tone", 
+                     1.99, 
+                     2.22
+                  ]
+               ], 
+               "confidence": 0.332, 
+               "transcript": "the tone "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "in", 
+                     2.83, 
+                     2.9
+                  ], 
+                  [
+                     "that", 
+                     2.9, 
+                     3.09
+                  ], 
+                  [
+                     "spiritual", 
+                     3.09, 
+                     3.79
+                  ]
+               ], 
+               "confidence": 0.866, 
+               "transcript": "in that spiritual "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "for", 
+                     4.28, 
+                     4.77
+                  ]
+               ], 
+               "confidence": 0.886, 
+               "transcript": "for "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "as", 
+                     5.4, 
+                     5.56
+                  ], 
+                  [
+                     "we", 
+                     5.56, 
+                     5.69
+                  ], 
+                  [
+                     "had", 
+                     5.69, 
+                     5.88
+                  ], 
+                  [
+                     "nothing", 
+                     5.88, 
+                     6.21
+                  ], 
+                  [
+                     "to", 
+                     6.21, 
+                     6.34
+                  ], 
+                  [
+                     "lean", 
+                     6.34, 
+                     6.54
+                  ], 
+                  [
+                     "against", 
+                     6.54, 
+                     7.2
+                  ]
+               ], 
+               "confidence": 1.0, 
+               "transcript": "as we had nothing to lean against "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "went", 
+                     7.84, 
+                     8.1
+                  ], 
+                  [
+                     "on", 
+                     8.1, 
+                     8.32
+                  ], 
+                  [
+                     "like", 
+                     8.32, 
+                     8.62
+                  ], 
+                  [
+                     "this", 
+                     8.62, 
+                     9.15
+                  ]
+               ], 
+               "confidence": 0.953, 
+               "transcript": "went on like this "
+            }
+         ], 
+         "final": true
+      }
+   ], 
+   "result_index": 0, 
+   "speaker_labels": [
+      {
+         "from": 1.8, 
+         "to": 1.96, 
+         "speaker": 1, 
+         "confidence": 0.449, 
+         "final": false
+      }, 
+      {
+         "from": 1.99, 
+         "to": 2.22, 
+         "speaker": 1, 
+         "confidence": 0.667, 
+         "final": false
+      }, 
+      {
+         "from": 2.83, 
+         "to": 2.9, 
+         "speaker": 1, 
+         "confidence": 0.417, 
+         "final": false
+      }, 
+      {
+         "from": 2.9, 
+         "to": 3.09, 
+         "speaker": 1, 
+         "confidence": 0.417, 
+         "final": false
+      }, 
+      {
+         "from": 3.09, 
+         "to": 3.79, 
+         "speaker": 1, 
+         "confidence": 0.417, 
+         "final": false
+      }, 
+      {
+         "from": 4.28, 
+         "to": 4.77, 
+         "speaker": 1, 
+         "confidence": 0.455, 
+         "final": false
+      }, 
+      {
+         "from": 5.4, 
+         "to": 5.56, 
+         "speaker": 2, 
+         "confidence": 0.497, 
+         "final": false
+      }, 
+      {
+         "from": 5.56, 
+         "to": 5.69, 
+         "speaker": 2, 
+         "confidence": 0.497, 
+         "final": false
+      }, 
+      {
+         "from": 5.69, 
+         "to": 5.88, 
+         "speaker": 2, 
+         "confidence": 0.497, 
+         "final": false
+      }, 
+      {
+         "from": 5.88, 
+         "to": 6.21, 
+         "speaker": 2, 
+         "confidence": 0.497, 
+         "final": false
+      }, 
+      {
+         "from": 6.21, 
+         "to": 6.34, 
+         "speaker": 2, 
+         "confidence": 0.497, 
+         "final": false
+      }, 
+      {
+         "from": 6.34, 
+         "to": 6.54, 
+         "speaker": 2, 
+         "confidence": 0.497, 
+         "final": false
+      }, 
+      {
+         "from": 6.54, 
+         "to": 7.2, 
+         "speaker": 2, 
+         "confidence": 0.497, 
+         "final": false
+      }, 
+      {
+         "from": 7.84, 
+         "to": 8.1, 
+         "speaker": 2, 
+         "confidence": 0.65, 
+         "final": false
+      }, 
+      {
+         "from": 8.1, 
+         "to": 8.32, 
+         "speaker": 2, 
+         "confidence": 0.65, 
+         "final": false
+      }, 
+      {
+         "from": 8.32, 
+         "to": 8.62, 
+         "speaker": 2, 
+         "confidence": 0.65, 
+         "final": false
+      }, 
+      {
+         "from": 8.62, 
+         "to": 9.15, 
+         "speaker": 2, 
+         "confidence": 0.65, 
+         "final": true
+      }
+   ]
+}

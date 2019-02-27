@@ -1,0 +1,378 @@
+{
+   "results": [
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "social", 
+                     0.5, 
+                     1.04
+                  ], 
+                  [
+                     "changes", 
+                     1.04, 
+                     1.65
+                  ], 
+                  [
+                     "are", 
+                     1.68, 
+                     1.85
+                  ], 
+                  [
+                     "constantly", 
+                     1.85, 
+                     2.69
+                  ], 
+                  [
+                     "causing", 
+                     2.69, 
+                     3.23
+                  ], 
+                  [
+                     "agents", 
+                     3.26, 
+                     3.82
+                  ], 
+                  [
+                     "to", 
+                     3.82, 
+                     3.98
+                  ], 
+                  [
+                     "shift", 
+                     3.98, 
+                     4.58
+                  ], 
+                  [
+                     "from", 
+                     4.87, 
+                     5.14
+                  ], 
+                  [
+                     "lower", 
+                     5.14, 
+                     5.55
+                  ], 
+                  [
+                     "to", 
+                     5.55, 
+                     5.72
+                  ], 
+                  [
+                     "hire", 
+                     5.72, 
+                     6.19
+                  ], 
+                  [
+                     "uses", 
+                     6.19, 
+                     6.88
+                  ], 
+                  [
+                     "I", 
+                     7.2, 
+                     7.29
+                  ], 
+                  [
+                     "reckon", 
+                     7.29, 
+                     7.55
+                  ], 
+                  [
+                     "you", 
+                     7.55, 
+                     7.63
+                  ], 
+                  [
+                     "get", 
+                     7.63, 
+                     7.78
+                  ], 
+                  [
+                     "so", 
+                     7.78, 
+                     7.91
+                  ], 
+                  [
+                     "tired", 
+                     7.91, 
+                     8.34
+                  ], 
+                  [
+                     "now", 
+                     8.51, 
+                     8.8
+                  ], 
+                  [
+                     "they", 
+                     8.8, 
+                     9.24
+                  ], 
+                  [
+                     "know", 
+                     9.3, 
+                     9.48
+                  ], 
+                  [
+                     "what", 
+                     9.48, 
+                     9.8
+                  ], 
+                  [
+                     "he", 
+                     9.8, 
+                     9.94
+                  ], 
+                  [
+                     "had", 
+                     9.94, 
+                     10.14
+                  ], 
+                  [
+                     "to", 
+                     10.14, 
+                     10.22
+                  ], 
+                  [
+                     "blink", 
+                     10.22, 
+                     10.49
+                  ], 
+                  [
+                     "his", 
+                     10.49, 
+                     10.66
+                  ], 
+                  [
+                     "eyes", 
+                     10.66, 
+                     10.95
+                  ], 
+                  [
+                     "to", 
+                     10.95, 
+                     11.05
+                  ]
+               ], 
+               "confidence": 0.81, 
+               "transcript": "social changes are constantly causing agents to shift from lower to hire uses I reckon you get so tired now they know what he had to blink his eyes to "
+            }
+         ], 
+         "final": true
+      }
+   ], 
+   "result_index": 0, 
+   "speaker_labels": [
+      {
+         "from": 0.5, 
+         "to": 1.04, 
+         "speaker": 0, 
+         "confidence": 0.561, 
+         "final": false
+      }, 
+      {
+         "from": 1.04, 
+         "to": 1.65, 
+         "speaker": 0, 
+         "confidence": 0.561, 
+         "final": false
+      }, 
+      {
+         "from": 1.68, 
+         "to": 1.85, 
+         "speaker": 0, 
+         "confidence": 0.498, 
+         "final": false
+      }, 
+      {
+         "from": 1.85, 
+         "to": 2.69, 
+         "speaker": 0, 
+         "confidence": 0.498, 
+         "final": false
+      }, 
+      {
+         "from": 2.69, 
+         "to": 3.23, 
+         "speaker": 0, 
+         "confidence": 0.498, 
+         "final": false
+      }, 
+      {
+         "from": 3.26, 
+         "to": 3.82, 
+         "speaker": 0, 
+         "confidence": 0.533, 
+         "final": false
+      }, 
+      {
+         "from": 3.82, 
+         "to": 3.98, 
+         "speaker": 0, 
+         "confidence": 0.533, 
+         "final": false
+      }, 
+      {
+         "from": 3.98, 
+         "to": 4.58, 
+         "speaker": 0, 
+         "confidence": 0.533, 
+         "final": false
+      }, 
+      {
+         "from": 4.87, 
+         "to": 5.14, 
+         "speaker": 0, 
+         "confidence": 0.553, 
+         "final": false
+      }, 
+      {
+         "from": 5.14, 
+         "to": 5.55, 
+         "speaker": 0, 
+         "confidence": 0.553, 
+         "final": false
+      }, 
+      {
+         "from": 5.55, 
+         "to": 5.72, 
+         "speaker": 0, 
+         "confidence": 0.553, 
+         "final": false
+      }, 
+      {
+         "from": 5.72, 
+         "to": 6.19, 
+         "speaker": 0, 
+         "confidence": 0.553, 
+         "final": false
+      }, 
+      {
+         "from": 6.19, 
+         "to": 6.88, 
+         "speaker": 0, 
+         "confidence": 0.553, 
+         "final": false
+      }, 
+      {
+         "from": 7.2, 
+         "to": 7.29, 
+         "speaker": 1, 
+         "confidence": 0.568, 
+         "final": false
+      }, 
+      {
+         "from": 7.29, 
+         "to": 7.55, 
+         "speaker": 1, 
+         "confidence": 0.568, 
+         "final": false
+      }, 
+      {
+         "from": 7.55, 
+         "to": 7.63, 
+         "speaker": 1, 
+         "confidence": 0.568, 
+         "final": false
+      }, 
+      {
+         "from": 7.63, 
+         "to": 7.78, 
+         "speaker": 1, 
+         "confidence": 0.568, 
+         "final": false
+      }, 
+      {
+         "from": 7.78, 
+         "to": 7.91, 
+         "speaker": 1, 
+         "confidence": 0.568, 
+         "final": false
+      }, 
+      {
+         "from": 7.91, 
+         "to": 8.34, 
+         "speaker": 1, 
+         "confidence": 0.568, 
+         "final": false
+      }, 
+      {
+         "from": 8.51, 
+         "to": 8.8, 
+         "speaker": 1, 
+         "confidence": 0.597, 
+         "final": false
+      }, 
+      {
+         "from": 8.8, 
+         "to": 9.24, 
+         "speaker": 1, 
+         "confidence": 0.597, 
+         "final": false
+      }, 
+      {
+         "from": 9.3, 
+         "to": 9.48, 
+         "speaker": 1, 
+         "confidence": 0.592, 
+         "final": false
+      }, 
+      {
+         "from": 9.48, 
+         "to": 9.8, 
+         "speaker": 1, 
+         "confidence": 0.592, 
+         "final": false
+      }, 
+      {
+         "from": 9.8, 
+         "to": 9.94, 
+         "speaker": 1, 
+         "confidence": 0.592, 
+         "final": false
+      }, 
+      {
+         "from": 9.94, 
+         "to": 10.14, 
+         "speaker": 1, 
+         "confidence": 0.592, 
+         "final": false
+      }, 
+      {
+         "from": 10.14, 
+         "to": 10.22, 
+         "speaker": 1, 
+         "confidence": 0.592, 
+         "final": false
+      }, 
+      {
+         "from": 10.22, 
+         "to": 10.49, 
+         "speaker": 1, 
+         "confidence": 0.592, 
+         "final": false
+      }, 
+      {
+         "from": 10.49, 
+         "to": 10.66, 
+         "speaker": 1, 
+         "confidence": 0.592, 
+         "final": false
+      }, 
+      {
+         "from": 10.66, 
+         "to": 10.95, 
+         "speaker": 1, 
+         "confidence": 0.592, 
+         "final": false
+      }, 
+      {
+         "from": 10.95, 
+         "to": 11.05, 
+         "speaker": 1, 
+         "confidence": 0.592, 
+         "final": true
+      }
+   ]
+}

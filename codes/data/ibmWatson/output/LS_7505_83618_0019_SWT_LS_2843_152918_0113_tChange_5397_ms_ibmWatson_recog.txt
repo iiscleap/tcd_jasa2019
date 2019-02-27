@@ -1,0 +1,340 @@
+{
+   "results": [
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "nor", 
+                     0.43, 
+                     0.71
+                  ], 
+                  [
+                     "does", 
+                     0.71, 
+                     0.91
+                  ], 
+                  [
+                     "it", 
+                     0.91, 
+                     1.01
+                  ], 
+                  [
+                     "cease", 
+                     1.01, 
+                     1.29
+                  ], 
+                  [
+                     "here", 
+                     1.29, 
+                     1.69
+                  ], 
+                  [
+                     "macabre", 
+                     2.23, 
+                     2.74
+                  ], 
+                  [
+                     "alive", 
+                     2.74, 
+                     3.12
+                  ], 
+                  [
+                     "shown", 
+                     3.12, 
+                     3.55
+                  ], 
+                  [
+                     "is", 
+                     3.55, 
+                     3.77
+                  ], 
+                  [
+                     "the", 
+                     3.77, 
+                     3.87
+                  ], 
+                  [
+                     "white", 
+                     3.87, 
+                     4.23
+                  ], 
+                  [
+                     "spirit", 
+                     4.23, 
+                     4.69
+                  ], 
+                  [
+                     "of", 
+                     4.69, 
+                     4.8
+                  ], 
+                  [
+                     "the", 
+                     4.8, 
+                     4.98
+                  ], 
+                  [
+                     "peaks", 
+                     5.31, 
+                     5.73
+                  ], 
+                  [
+                     "of", 
+                     5.73, 
+                     5.84
+                  ], 
+                  [
+                     "the", 
+                     5.84, 
+                     5.93
+                  ], 
+                  [
+                     "most", 
+                     5.93, 
+                     6.24
+                  ], 
+                  [
+                     "very", 
+                     6.24, 
+                     6.57
+                  ], 
+                  [
+                     "form", 
+                     6.57, 
+                     7.01
+                  ]
+               ], 
+               "confidence": 0.821, 
+               "transcript": "nor does it cease here macabre alive shown is the white spirit of the peaks of the most very form "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "rose", 
+                     7.13, 
+                     7.43
+                  ], 
+                  [
+                     "high", 
+                     7.43, 
+                     7.82
+                  ]
+               ], 
+               "confidence": 0.568, 
+               "transcript": "rose high "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "into", 
+                     8.06, 
+                     8.23
+                  ], 
+                  [
+                     "the", 
+                     8.23, 
+                     8.37
+                  ], 
+                  [
+                     "air", 
+                     8.37, 
+                     8.82
+                  ]
+               ], 
+               "confidence": 0.913, 
+               "transcript": "into the air "
+            }
+         ], 
+         "final": true
+      }
+   ], 
+   "result_index": 0, 
+   "speaker_labels": [
+      {
+         "from": 0.43, 
+         "to": 0.71, 
+         "speaker": 0, 
+         "confidence": 0.487, 
+         "final": false
+      }, 
+      {
+         "from": 0.71, 
+         "to": 0.91, 
+         "speaker": 0, 
+         "confidence": 0.487, 
+         "final": false
+      }, 
+      {
+         "from": 0.91, 
+         "to": 1.01, 
+         "speaker": 0, 
+         "confidence": 0.487, 
+         "final": false
+      }, 
+      {
+         "from": 1.01, 
+         "to": 1.29, 
+         "speaker": 0, 
+         "confidence": 0.487, 
+         "final": false
+      }, 
+      {
+         "from": 1.29, 
+         "to": 1.69, 
+         "speaker": 0, 
+         "confidence": 0.487, 
+         "final": false
+      }, 
+      {
+         "from": 2.23, 
+         "to": 2.74, 
+         "speaker": 0, 
+         "confidence": 0.583, 
+         "final": false
+      }, 
+      {
+         "from": 2.74, 
+         "to": 3.12, 
+         "speaker": 0, 
+         "confidence": 0.583, 
+         "final": false
+      }, 
+      {
+         "from": 3.12, 
+         "to": 3.55, 
+         "speaker": 0, 
+         "confidence": 0.583, 
+         "final": false
+      }, 
+      {
+         "from": 3.55, 
+         "to": 3.77, 
+         "speaker": 0, 
+         "confidence": 0.583, 
+         "final": false
+      }, 
+      {
+         "from": 3.77, 
+         "to": 3.87, 
+         "speaker": 0, 
+         "confidence": 0.583, 
+         "final": false
+      }, 
+      {
+         "from": 3.87, 
+         "to": 4.23, 
+         "speaker": 0, 
+         "confidence": 0.583, 
+         "final": false
+      }, 
+      {
+         "from": 4.23, 
+         "to": 4.69, 
+         "speaker": 0, 
+         "confidence": 0.583, 
+         "final": false
+      }, 
+      {
+         "from": 4.69, 
+         "to": 4.8, 
+         "speaker": 0, 
+         "confidence": 0.583, 
+         "final": false
+      }, 
+      {
+         "from": 4.8, 
+         "to": 4.98, 
+         "speaker": 0, 
+         "confidence": 0.583, 
+         "final": false
+      }, 
+      {
+         "from": 5.31, 
+         "to": 5.73, 
+         "speaker": 2, 
+         "confidence": 0.52, 
+         "final": false
+      }, 
+      {
+         "from": 5.73, 
+         "to": 5.84, 
+         "speaker": 2, 
+         "confidence": 0.52, 
+         "final": false
+      }, 
+      {
+         "from": 5.84, 
+         "to": 5.93, 
+         "speaker": 2, 
+         "confidence": 0.52, 
+         "final": false
+      }, 
+      {
+         "from": 5.93, 
+         "to": 6.24, 
+         "speaker": 2, 
+         "confidence": 0.52, 
+         "final": false
+      }, 
+      {
+         "from": 6.24, 
+         "to": 6.57, 
+         "speaker": 2, 
+         "confidence": 0.52, 
+         "final": false
+      }, 
+      {
+         "from": 6.57, 
+         "to": 7.01, 
+         "speaker": 2, 
+         "confidence": 0.52, 
+         "final": false
+      }, 
+      {
+         "from": 7.13, 
+         "to": 7.43, 
+         "speaker": 2, 
+         "confidence": 0.598, 
+         "final": false
+      }, 
+      {
+         "from": 7.43, 
+         "to": 7.82, 
+         "speaker": 2, 
+         "confidence": 0.598, 
+         "final": false
+      }, 
+      {
+         "from": 8.06, 
+         "to": 8.23, 
+         "speaker": 2, 
+         "confidence": 0.514, 
+         "final": false
+      }, 
+      {
+         "from": 8.23, 
+         "to": 8.37, 
+         "speaker": 2, 
+         "confidence": 0.514, 
+         "final": false
+      }, 
+      {
+         "from": 8.37, 
+         "to": 8.82, 
+         "speaker": 2, 
+         "confidence": 0.514, 
+         "final": true
+      }
+   ]
+}

@@ -1,0 +1,317 @@
+{
+   "results": [
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "so", 
+                     0.23, 
+                     0.42
+                  ], 
+                  [
+                     "just", 
+                     0.42, 
+                     0.68
+                  ], 
+                  [
+                     "lands", 
+                     0.68, 
+                     1.31
+                  ], 
+                  [
+                     "railroad", 
+                     1.31, 
+                     1.98
+                  ], 
+                  [
+                     "stocks", 
+                     1.98, 
+                     2.57
+                  ], 
+                  [
+                     "government", 
+                     2.75, 
+                     3.23
+                  ], 
+                  [
+                     "bonds", 
+                     3.23, 
+                     3.72
+                  ], 
+                  [
+                     "at", 
+                     3.72, 
+                     3.85
+                  ], 
+                  [
+                     "cetera", 
+                     3.85, 
+                     4.41
+                  ]
+               ], 
+               "confidence": 0.756, 
+               "transcript": "so just lands railroad stocks government bonds at cetera "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "the", 
+                     5.13, 
+                     5.3
+                  ], 
+                  [
+                     "income", 
+                     5.3, 
+                     5.76
+                  ], 
+                  [
+                     "is", 
+                     5.79, 
+                     6.23
+                  ], 
+                  [
+                     "and", 
+                     6.58, 
+                     6.71
+                  ], 
+                  [
+                     "for", 
+                     6.71, 
+                     6.96
+                  ], 
+                  [
+                     "our", 
+                     6.96, 
+                     7.21
+                  ], 
+                  [
+                     "final", 
+                     7.21, 
+                     7.57
+                  ], 
+                  [
+                     "success", 
+                     7.57, 
+                     8.26
+                  ], 
+                  [
+                     "we", 
+                     8.26, 
+                     8.47
+                  ], 
+                  [
+                     "owe", 
+                     8.47, 
+                     8.61
+                  ], 
+                  [
+                     "a", 
+                     8.61, 
+                     8.71
+                  ], 
+                  [
+                     "deep", 
+                     8.71, 
+                     9.08
+                  ], 
+                  [
+                     "debt", 
+                     9.11, 
+                     9.39
+                  ], 
+                  [
+                     "of", 
+                     9.39, 
+                     9.53
+                  ], 
+                  [
+                     "gratitude", 
+                     9.53, 
+                     10.31
+                  ]
+               ], 
+               "confidence": 0.914, 
+               "transcript": "the income is and for our final success we owe a deep debt of gratitude "
+            }
+         ], 
+         "final": true
+      }
+   ], 
+   "result_index": 0, 
+   "speaker_labels": [
+      {
+         "from": 0.23, 
+         "to": 0.42, 
+         "speaker": 0, 
+         "confidence": 0.667, 
+         "final": false
+      }, 
+      {
+         "from": 0.42, 
+         "to": 0.68, 
+         "speaker": 0, 
+         "confidence": 0.667, 
+         "final": false
+      }, 
+      {
+         "from": 0.68, 
+         "to": 1.31, 
+         "speaker": 0, 
+         "confidence": 0.667, 
+         "final": false
+      }, 
+      {
+         "from": 1.31, 
+         "to": 1.98, 
+         "speaker": 0, 
+         "confidence": 0.667, 
+         "final": false
+      }, 
+      {
+         "from": 1.98, 
+         "to": 2.57, 
+         "speaker": 0, 
+         "confidence": 0.667, 
+         "final": false
+      }, 
+      {
+         "from": 2.75, 
+         "to": 3.23, 
+         "speaker": 0, 
+         "confidence": 0.457, 
+         "final": false
+      }, 
+      {
+         "from": 3.23, 
+         "to": 3.72, 
+         "speaker": 0, 
+         "confidence": 0.457, 
+         "final": false
+      }, 
+      {
+         "from": 3.72, 
+         "to": 3.85, 
+         "speaker": 0, 
+         "confidence": 0.457, 
+         "final": false
+      }, 
+      {
+         "from": 3.85, 
+         "to": 4.41, 
+         "speaker": 0, 
+         "confidence": 0.457, 
+         "final": false
+      }, 
+      {
+         "from": 5.13, 
+         "to": 5.3, 
+         "speaker": 1, 
+         "confidence": 0.419, 
+         "final": false
+      }, 
+      {
+         "from": 5.3, 
+         "to": 5.76, 
+         "speaker": 1, 
+         "confidence": 0.419, 
+         "final": false
+      }, 
+      {
+         "from": 5.79, 
+         "to": 6.23, 
+         "speaker": 1, 
+         "confidence": 0.416, 
+         "final": false
+      }, 
+      {
+         "from": 6.58, 
+         "to": 6.71, 
+         "speaker": 2, 
+         "confidence": 0.524, 
+         "final": false
+      }, 
+      {
+         "from": 6.71, 
+         "to": 6.96, 
+         "speaker": 2, 
+         "confidence": 0.524, 
+         "final": false
+      }, 
+      {
+         "from": 6.96, 
+         "to": 7.21, 
+         "speaker": 2, 
+         "confidence": 0.524, 
+         "final": false
+      }, 
+      {
+         "from": 7.21, 
+         "to": 7.57, 
+         "speaker": 2, 
+         "confidence": 0.524, 
+         "final": false
+      }, 
+      {
+         "from": 7.57, 
+         "to": 8.26, 
+         "speaker": 2, 
+         "confidence": 0.524, 
+         "final": false
+      }, 
+      {
+         "from": 8.26, 
+         "to": 8.47, 
+         "speaker": 2, 
+         "confidence": 0.524, 
+         "final": false
+      }, 
+      {
+         "from": 8.47, 
+         "to": 8.61, 
+         "speaker": 2, 
+         "confidence": 0.524, 
+         "final": false
+      }, 
+      {
+         "from": 8.61, 
+         "to": 8.71, 
+         "speaker": 2, 
+         "confidence": 0.524, 
+         "final": false
+      }, 
+      {
+         "from": 8.71, 
+         "to": 9.08, 
+         "speaker": 2, 
+         "confidence": 0.524, 
+         "final": false
+      }, 
+      {
+         "from": 9.11, 
+         "to": 9.39, 
+         "speaker": 2, 
+         "confidence": 0.523, 
+         "final": false
+      }, 
+      {
+         "from": 9.39, 
+         "to": 9.53, 
+         "speaker": 2, 
+         "confidence": 0.523, 
+         "final": false
+      }, 
+      {
+         "from": 9.53, 
+         "to": 10.31, 
+         "speaker": 2, 
+         "confidence": 0.523, 
+         "final": true
+      }
+   ]
+}

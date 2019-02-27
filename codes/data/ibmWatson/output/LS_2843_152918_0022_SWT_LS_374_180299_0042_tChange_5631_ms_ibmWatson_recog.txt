@@ -1,0 +1,317 @@
+{
+   "results": [
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "madness", 
+                     0.63, 
+                     1.27
+                  ]
+               ], 
+               "confidence": 0.997, 
+               "transcript": "madness "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "with", 
+                     1.74, 
+                     1.91
+                  ], 
+                  [
+                     "my", 
+                     1.91, 
+                     2.2
+                  ], 
+                  [
+                     "risk", 
+                     2.23, 
+                     2.51
+                  ], 
+                  [
+                     "falling", 
+                     2.51, 
+                     2.88
+                  ], 
+                  [
+                     "into", 
+                     2.88, 
+                     3.05
+                  ], 
+                  [
+                     "some", 
+                     3.05, 
+                     3.27
+                  ], 
+                  [
+                     "chasm", 
+                     3.27, 
+                     3.83
+                  ], 
+                  [
+                     "before", 
+                     3.83, 
+                     4.21
+                  ], 
+                  [
+                     "we", 
+                     4.21, 
+                     4.36
+                  ], 
+                  [
+                     "had", 
+                     4.36, 
+                     4.57
+                  ], 
+                  [
+                     "time", 
+                     4.57, 
+                     4.84
+                  ], 
+                  [
+                     "to", 
+                     4.84, 
+                     4.99
+                  ], 
+                  [
+                     "the", 
+                     5.57, 
+                     5.73
+                  ], 
+                  [
+                     "Duke", 
+                     5.73, 
+                     6.01
+                  ], 
+                  [
+                     "wrote", 
+                     6.01, 
+                     6.28
+                  ], 
+                  [
+                     "to", 
+                     6.28, 
+                     6.45
+                  ], 
+                  [
+                     "her", 
+                     6.45, 
+                     6.7
+                  ], 
+                  [
+                     "two", 
+                     6.7, 
+                     6.97
+                  ], 
+                  [
+                     "or", 
+                     6.97, 
+                     7.1
+                  ], 
+                  [
+                     "three", 
+                     7.1, 
+                     7.39
+                  ], 
+                  [
+                     "times", 
+                     7.39, 
+                     8.14
+                  ], 
+                  [
+                     "she", 
+                     8.47, 
+                     8.69
+                  ], 
+                  [
+                     "wrecked", 
+                     8.69, 
+                     8.96
+                  ]
+               ], 
+               "confidence": 0.912, 
+               "transcript": "with my risk falling into some chasm before we had time to the Duke wrote to her two or three times she wrecked "
+            }
+         ], 
+         "final": true
+      }
+   ], 
+   "result_index": 0, 
+   "speaker_labels": [
+      {
+         "from": 0.63, 
+         "to": 1.27, 
+         "speaker": 0, 
+         "confidence": 0.5, 
+         "final": false
+      }, 
+      {
+         "from": 1.74, 
+         "to": 1.91, 
+         "speaker": 0, 
+         "confidence": 0.496, 
+         "final": false
+      }, 
+      {
+         "from": 1.91, 
+         "to": 2.2, 
+         "speaker": 0, 
+         "confidence": 0.496, 
+         "final": false
+      }, 
+      {
+         "from": 2.23, 
+         "to": 2.51, 
+         "speaker": 0, 
+         "confidence": 0.566, 
+         "final": false
+      }, 
+      {
+         "from": 2.51, 
+         "to": 2.88, 
+         "speaker": 0, 
+         "confidence": 0.566, 
+         "final": false
+      }, 
+      {
+         "from": 2.88, 
+         "to": 3.05, 
+         "speaker": 0, 
+         "confidence": 0.566, 
+         "final": false
+      }, 
+      {
+         "from": 3.05, 
+         "to": 3.27, 
+         "speaker": 0, 
+         "confidence": 0.566, 
+         "final": false
+      }, 
+      {
+         "from": 3.27, 
+         "to": 3.83, 
+         "speaker": 0, 
+         "confidence": 0.566, 
+         "final": false
+      }, 
+      {
+         "from": 3.83, 
+         "to": 4.21, 
+         "speaker": 0, 
+         "confidence": 0.566, 
+         "final": false
+      }, 
+      {
+         "from": 4.21, 
+         "to": 4.36, 
+         "speaker": 0, 
+         "confidence": 0.566, 
+         "final": false
+      }, 
+      {
+         "from": 4.36, 
+         "to": 4.57, 
+         "speaker": 0, 
+         "confidence": 0.566, 
+         "final": false
+      }, 
+      {
+         "from": 4.57, 
+         "to": 4.84, 
+         "speaker": 0, 
+         "confidence": 0.566, 
+         "final": false
+      }, 
+      {
+         "from": 4.84, 
+         "to": 4.99, 
+         "speaker": 0, 
+         "confidence": 0.566, 
+         "final": false
+      }, 
+      {
+         "from": 5.57, 
+         "to": 5.73, 
+         "speaker": 1, 
+         "confidence": 0.58, 
+         "final": false
+      }, 
+      {
+         "from": 5.73, 
+         "to": 6.01, 
+         "speaker": 1, 
+         "confidence": 0.58, 
+         "final": false
+      }, 
+      {
+         "from": 6.01, 
+         "to": 6.28, 
+         "speaker": 1, 
+         "confidence": 0.58, 
+         "final": false
+      }, 
+      {
+         "from": 6.28, 
+         "to": 6.45, 
+         "speaker": 1, 
+         "confidence": 0.58, 
+         "final": false
+      }, 
+      {
+         "from": 6.45, 
+         "to": 6.7, 
+         "speaker": 1, 
+         "confidence": 0.58, 
+         "final": false
+      }, 
+      {
+         "from": 6.7, 
+         "to": 6.97, 
+         "speaker": 1, 
+         "confidence": 0.58, 
+         "final": false
+      }, 
+      {
+         "from": 6.97, 
+         "to": 7.1, 
+         "speaker": 1, 
+         "confidence": 0.58, 
+         "final": false
+      }, 
+      {
+         "from": 7.1, 
+         "to": 7.39, 
+         "speaker": 1, 
+         "confidence": 0.58, 
+         "final": false
+      }, 
+      {
+         "from": 7.39, 
+         "to": 8.14, 
+         "speaker": 1, 
+         "confidence": 0.58, 
+         "final": false
+      }, 
+      {
+         "from": 8.47, 
+         "to": 8.69, 
+         "speaker": 1, 
+         "confidence": 0.603, 
+         "final": false
+      }, 
+      {
+         "from": 8.69, 
+         "to": 8.96, 
+         "speaker": 1, 
+         "confidence": 0.603, 
+         "final": true
+      }
+   ]
+}

@@ -1,0 +1,290 @@
+{
+   "results": [
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "in", 
+                     0.38, 
+                     0.49
+                  ], 
+                  [
+                     "psychology", 
+                     0.49, 
+                     1.6
+                  ]
+               ], 
+               "confidence": 0.971, 
+               "transcript": "in psychology "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "man", 
+                     2.27, 
+                     2.87
+                  ], 
+                  [
+                     "she", 
+                     3.04, 
+                     3.24
+                  ], 
+                  [
+                     "fully", 
+                     3.24, 
+                     3.43
+                  ], 
+                  [
+                     "cognizant", 
+                     3.43, 
+                     4.08
+                  ], 
+                  [
+                     "of", 
+                     4.08, 
+                     4.17
+                  ], 
+                  [
+                     "his", 
+                     4.17, 
+                     4.4
+                  ], 
+                  [
+                     "soul", 
+                     4.4, 
+                     4.87
+                  ], 
+                  [
+                     "through", 
+                     4.87, 
+                     5.13
+                  ], 
+                  [
+                     "his", 
+                     5.13, 
+                     5.31
+                  ], 
+                  [
+                     "senses", 
+                     5.31, 
+                     5.97
+                  ], 
+                  [
+                     "harmony", 
+                     6.08, 
+                     6.7
+                  ], 
+                  [
+                     "and", 
+                     6.73, 
+                     6.96
+                  ]
+               ], 
+               "confidence": 0.897, 
+               "transcript": "man she fully cognizant of his soul through his senses harmony and "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "%HESITATION", 
+                     7.24, 
+                     7.51
+                  ]
+               ], 
+               "confidence": 0.212, 
+               "transcript": "%HESITATION "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "new", 
+                     8.32, 
+                     8.56
+                  ], 
+                  [
+                     "court", 
+                     8.56, 
+                     8.89
+                  ], 
+                  [
+                     "extension", 
+                     8.89, 
+                     9.4
+                  ]
+               ], 
+               "confidence": 0.789, 
+               "transcript": "new court extension "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "this", 
+                     9.51, 
+                     9.77
+                  ]
+               ], 
+               "confidence": 0.185, 
+               "transcript": "this "
+            }
+         ], 
+         "final": true
+      }
+   ], 
+   "result_index": 0, 
+   "speaker_labels": [
+      {
+         "from": 0.38, 
+         "to": 0.49, 
+         "speaker": 0, 
+         "confidence": 0.5, 
+         "final": false
+      }, 
+      {
+         "from": 0.49, 
+         "to": 1.6, 
+         "speaker": 0, 
+         "confidence": 0.5, 
+         "final": false
+      }, 
+      {
+         "from": 2.27, 
+         "to": 2.87, 
+         "speaker": 0, 
+         "confidence": 0.499, 
+         "final": false
+      }, 
+      {
+         "from": 3.04, 
+         "to": 3.24, 
+         "speaker": 0, 
+         "confidence": 0.452, 
+         "final": false
+      }, 
+      {
+         "from": 3.24, 
+         "to": 3.43, 
+         "speaker": 0, 
+         "confidence": 0.452, 
+         "final": false
+      }, 
+      {
+         "from": 3.43, 
+         "to": 4.08, 
+         "speaker": 0, 
+         "confidence": 0.452, 
+         "final": false
+      }, 
+      {
+         "from": 4.08, 
+         "to": 4.17, 
+         "speaker": 0, 
+         "confidence": 0.452, 
+         "final": false
+      }, 
+      {
+         "from": 4.17, 
+         "to": 4.4, 
+         "speaker": 0, 
+         "confidence": 0.452, 
+         "final": false
+      }, 
+      {
+         "from": 4.4, 
+         "to": 4.87, 
+         "speaker": 0, 
+         "confidence": 0.452, 
+         "final": false
+      }, 
+      {
+         "from": 4.87, 
+         "to": 5.13, 
+         "speaker": 0, 
+         "confidence": 0.452, 
+         "final": false
+      }, 
+      {
+         "from": 5.13, 
+         "to": 5.31, 
+         "speaker": 0, 
+         "confidence": 0.452, 
+         "final": false
+      }, 
+      {
+         "from": 5.31, 
+         "to": 5.97, 
+         "speaker": 0, 
+         "confidence": 0.452, 
+         "final": false
+      }, 
+      {
+         "from": 6.08, 
+         "to": 6.7, 
+         "speaker": 2, 
+         "confidence": 0.477, 
+         "final": false
+      }, 
+      {
+         "from": 6.73, 
+         "to": 6.96, 
+         "speaker": 2, 
+         "confidence": 0.438, 
+         "final": false
+      }, 
+      {
+         "from": 7.24, 
+         "to": 7.51, 
+         "speaker": 2, 
+         "confidence": 0.457, 
+         "final": false
+      }, 
+      {
+         "from": 8.32, 
+         "to": 8.56, 
+         "speaker": 2, 
+         "confidence": 0.551, 
+         "final": false
+      }, 
+      {
+         "from": 8.56, 
+         "to": 8.89, 
+         "speaker": 2, 
+         "confidence": 0.551, 
+         "final": false
+      }, 
+      {
+         "from": 8.89, 
+         "to": 9.4, 
+         "speaker": 2, 
+         "confidence": 0.551, 
+         "final": false
+      }, 
+      {
+         "from": 9.51, 
+         "to": 9.77, 
+         "speaker": 1, 
+         "confidence": 0.449, 
+         "final": true
+      }
+   ]
+}

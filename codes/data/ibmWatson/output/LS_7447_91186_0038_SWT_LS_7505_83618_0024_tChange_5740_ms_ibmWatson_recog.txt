@@ -1,0 +1,349 @@
+{
+   "results": [
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "too", 
+                     0.11, 
+                     0.28
+                  ], 
+                  [
+                     "often", 
+                     0.28, 
+                     0.66
+                  ]
+               ], 
+               "confidence": 0.974, 
+               "transcript": "too often "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "did", 
+                     0.84, 
+                     1.01
+                  ], 
+                  [
+                     "as", 
+                     1.01, 
+                     1.33
+                  ], 
+                  [
+                     "dry", 
+                     1.33, 
+                     1.7
+                  ]
+               ], 
+               "confidence": 0.557, 
+               "transcript": "did as dry "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "as", 
+                     1.84, 
+                     1.94
+                  ], 
+                  [
+                     "dust", 
+                     1.94, 
+                     2.3
+                  ], 
+                  [
+                     "studies", 
+                     2.33, 
+                     2.97
+                  ], 
+                  [
+                     "are", 
+                     3.15, 
+                     3.31
+                  ]
+               ], 
+               "confidence": 0.836, 
+               "transcript": "as dust studies are "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "with", 
+                     3.8, 
+                     4.05
+                  ], 
+                  [
+                     "beautiful", 
+                     4.05, 
+                     4.53
+                  ], 
+                  [
+                     "figure", 
+                     4.53, 
+                     4.87
+                  ]
+               ], 
+               "confidence": 0.936, 
+               "transcript": "with beautiful figure "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "vice", 
+                     5.16, 
+                     5.51
+                  ], 
+                  [
+                     "he", 
+                     5.6, 
+                     5.81
+                  ], 
+                  [
+                     "was", 
+                     5.81, 
+                     5.99
+                  ], 
+                  [
+                     "figuratively", 
+                     5.99, 
+                     7.02
+                  ], 
+                  [
+                     "said", 
+                     7.02, 
+                     7.41
+                  ], 
+                  [
+                     "to", 
+                     7.41, 
+                     7.57
+                  ], 
+                  [
+                     "sweep", 
+                     7.57, 
+                     7.88
+                  ]
+               ], 
+               "confidence": 0.798, 
+               "transcript": "vice he was figuratively said to sweep "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "the", 
+                     7.96, 
+                     8.05
+                  ], 
+                  [
+                     "road", 
+                     8.05, 
+                     8.33
+                  ], 
+                  [
+                     "for", 
+                     8.33, 
+                     8.6
+                  ], 
+                  [
+                     "him", 
+                     8.6, 
+                     8.77
+                  ]
+               ], 
+               "confidence": 0.999, 
+               "transcript": "the road for him "
+            }
+         ], 
+         "final": true
+      }
+   ], 
+   "result_index": 0, 
+   "speaker_labels": [
+      {
+         "from": 0.11, 
+         "to": 0.28, 
+         "speaker": 0, 
+         "confidence": 0.5, 
+         "final": false
+      }, 
+      {
+         "from": 0.28, 
+         "to": 0.66, 
+         "speaker": 0, 
+         "confidence": 0.5, 
+         "final": false
+      }, 
+      {
+         "from": 0.84, 
+         "to": 1.01, 
+         "speaker": 1, 
+         "confidence": 0.667, 
+         "final": false
+      }, 
+      {
+         "from": 1.01, 
+         "to": 1.33, 
+         "speaker": 1, 
+         "confidence": 0.667, 
+         "final": false
+      }, 
+      {
+         "from": 1.33, 
+         "to": 1.7, 
+         "speaker": 1, 
+         "confidence": 0.667, 
+         "final": false
+      }, 
+      {
+         "from": 1.84, 
+         "to": 1.94, 
+         "speaker": 1, 
+         "confidence": 0.571, 
+         "final": false
+      }, 
+      {
+         "from": 1.94, 
+         "to": 2.3, 
+         "speaker": 1, 
+         "confidence": 0.571, 
+         "final": false
+      }, 
+      {
+         "from": 2.33, 
+         "to": 2.97, 
+         "speaker": 1, 
+         "confidence": 0.544, 
+         "final": false
+      }, 
+      {
+         "from": 3.15, 
+         "to": 3.31, 
+         "speaker": 0, 
+         "confidence": 0.625, 
+         "final": false
+      }, 
+      {
+         "from": 3.8, 
+         "to": 4.05, 
+         "speaker": 0, 
+         "confidence": 0.343, 
+         "final": false
+      }, 
+      {
+         "from": 4.05, 
+         "to": 4.53, 
+         "speaker": 0, 
+         "confidence": 0.343, 
+         "final": false
+      }, 
+      {
+         "from": 4.53, 
+         "to": 4.87, 
+         "speaker": 0, 
+         "confidence": 0.343, 
+         "final": false
+      }, 
+      {
+         "from": 5.16, 
+         "to": 5.51, 
+         "speaker": 1, 
+         "confidence": 0.452, 
+         "final": false
+      }, 
+      {
+         "from": 5.6, 
+         "to": 5.81, 
+         "speaker": 2, 
+         "confidence": 0.463, 
+         "final": false
+      }, 
+      {
+         "from": 5.81, 
+         "to": 5.99, 
+         "speaker": 2, 
+         "confidence": 0.463, 
+         "final": false
+      }, 
+      {
+         "from": 5.99, 
+         "to": 7.02, 
+         "speaker": 2, 
+         "confidence": 0.463, 
+         "final": false
+      }, 
+      {
+         "from": 7.02, 
+         "to": 7.41, 
+         "speaker": 2, 
+         "confidence": 0.463, 
+         "final": false
+      }, 
+      {
+         "from": 7.41, 
+         "to": 7.57, 
+         "speaker": 2, 
+         "confidence": 0.463, 
+         "final": false
+      }, 
+      {
+         "from": 7.57, 
+         "to": 7.88, 
+         "speaker": 2, 
+         "confidence": 0.463, 
+         "final": false
+      }, 
+      {
+         "from": 7.96, 
+         "to": 8.05, 
+         "speaker": 2, 
+         "confidence": 0.444, 
+         "final": false
+      }, 
+      {
+         "from": 8.05, 
+         "to": 8.33, 
+         "speaker": 2, 
+         "confidence": 0.444, 
+         "final": false
+      }, 
+      {
+         "from": 8.33, 
+         "to": 8.6, 
+         "speaker": 2, 
+         "confidence": 0.444, 
+         "final": false
+      }, 
+      {
+         "from": 8.6, 
+         "to": 8.77, 
+         "speaker": 2, 
+         "confidence": 0.444, 
+         "final": true
+      }
+   ]
+}

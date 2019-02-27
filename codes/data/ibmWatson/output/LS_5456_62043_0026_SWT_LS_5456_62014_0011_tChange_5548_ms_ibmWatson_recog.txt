@@ -1,0 +1,473 @@
+{
+   "results": [
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "the", 
+                     0.22, 
+                     0.33
+                  ], 
+                  [
+                     "stranger", 
+                     0.33, 
+                     0.78
+                  ], 
+                  [
+                     "suffering", 
+                     0.78, 
+                     1.15
+                  ], 
+                  [
+                     "some", 
+                     1.15, 
+                     1.32
+                  ], 
+                  [
+                     "at", 
+                     1.32, 
+                     1.41
+                  ], 
+                  [
+                     "the", 
+                     1.41, 
+                     1.5
+                  ], 
+                  [
+                     "same", 
+                     1.5, 
+                     1.82
+                  ], 
+                  [
+                     "time", 
+                     1.82, 
+                     2.31
+                  ]
+               ], 
+               "confidence": 0.833, 
+               "transcript": "the stranger suffering some at the same time "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "three", 
+                     2.73, 
+                     2.92
+                  ], 
+                  [
+                     "and", 
+                     2.92, 
+                     3.01
+                  ], 
+                  [
+                     "a", 
+                     3.01, 
+                     3.05
+                  ], 
+                  [
+                     "quarter", 
+                     3.05, 
+                     3.37
+                  ], 
+                  [
+                     "again", 
+                     3.37, 
+                     3.92
+                  ], 
+                  [
+                     "are", 
+                     4.24, 
+                     4.39
+                  ], 
+                  [
+                     "we", 
+                     4.39, 
+                     4.5
+                  ], 
+                  [
+                     "never", 
+                     4.5, 
+                     4.72
+                  ], 
+                  [
+                     "get", 
+                     4.72, 
+                     4.95
+                  ], 
+                  [
+                     "to", 
+                     4.95, 
+                     5.05
+                  ], 
+                  [
+                     "a", 
+                     5.05, 
+                     5.14
+                  ], 
+                  [
+                     "jeep", 
+                     5.14, 
+                     5.37
+                  ], 
+                  [
+                     "I", 
+                     5.48, 
+                     5.58
+                  ], 
+                  [
+                     "let", 
+                     5.58, 
+                     5.78
+                  ], 
+                  [
+                     "me", 
+                     5.78, 
+                     5.91
+                  ], 
+                  [
+                     "get", 
+                     5.91, 
+                     6.07
+                  ], 
+                  [
+                     "so", 
+                     6.07, 
+                     6.19
+                  ], 
+                  [
+                     "tired", 
+                     6.19, 
+                     6.63
+                  ], 
+                  [
+                     "now", 
+                     6.8, 
+                     7.09
+                  ], 
+                  [
+                     "they", 
+                     7.09, 
+                     7.52
+                  ], 
+                  [
+                     "know", 
+                     7.59, 
+                     7.76
+                  ], 
+                  [
+                     "what", 
+                     7.76, 
+                     8.09
+                  ], 
+                  [
+                     "he", 
+                     8.09, 
+                     8.23
+                  ], 
+                  [
+                     "had", 
+                     8.23, 
+                     8.43
+                  ], 
+                  [
+                     "to", 
+                     8.43, 
+                     8.51
+                  ], 
+                  [
+                     "blink", 
+                     8.51, 
+                     8.78
+                  ], 
+                  [
+                     "his", 
+                     8.78, 
+                     8.95
+                  ], 
+                  [
+                     "eyes", 
+                     8.95, 
+                     9.23
+                  ], 
+                  [
+                     "to", 
+                     9.23, 
+                     9.34
+                  ]
+               ], 
+               "confidence": 0.669, 
+               "transcript": "three and a quarter again are we never get to a jeep I let me get so tired now they know what he had to blink his eyes to "
+            }
+         ], 
+         "final": true
+      }
+   ], 
+   "result_index": 0, 
+   "speaker_labels": [
+      {
+         "from": 0.22, 
+         "to": 0.33, 
+         "speaker": 0, 
+         "confidence": 0.5, 
+         "final": false
+      }, 
+      {
+         "from": 0.33, 
+         "to": 0.78, 
+         "speaker": 0, 
+         "confidence": 0.5, 
+         "final": false
+      }, 
+      {
+         "from": 0.78, 
+         "to": 1.15, 
+         "speaker": 0, 
+         "confidence": 0.5, 
+         "final": false
+      }, 
+      {
+         "from": 1.15, 
+         "to": 1.32, 
+         "speaker": 0, 
+         "confidence": 0.5, 
+         "final": false
+      }, 
+      {
+         "from": 1.32, 
+         "to": 1.41, 
+         "speaker": 0, 
+         "confidence": 0.5, 
+         "final": false
+      }, 
+      {
+         "from": 1.41, 
+         "to": 1.5, 
+         "speaker": 0, 
+         "confidence": 0.5, 
+         "final": false
+      }, 
+      {
+         "from": 1.5, 
+         "to": 1.82, 
+         "speaker": 0, 
+         "confidence": 0.5, 
+         "final": false
+      }, 
+      {
+         "from": 1.82, 
+         "to": 2.31, 
+         "speaker": 0, 
+         "confidence": 0.5, 
+         "final": false
+      }, 
+      {
+         "from": 2.73, 
+         "to": 2.92, 
+         "speaker": 0, 
+         "confidence": 0.544, 
+         "final": false
+      }, 
+      {
+         "from": 2.92, 
+         "to": 3.01, 
+         "speaker": 0, 
+         "confidence": 0.544, 
+         "final": false
+      }, 
+      {
+         "from": 3.01, 
+         "to": 3.05, 
+         "speaker": 0, 
+         "confidence": 0.544, 
+         "final": false
+      }, 
+      {
+         "from": 3.05, 
+         "to": 3.37, 
+         "speaker": 0, 
+         "confidence": 0.544, 
+         "final": false
+      }, 
+      {
+         "from": 3.37, 
+         "to": 3.92, 
+         "speaker": 0, 
+         "confidence": 0.544, 
+         "final": false
+      }, 
+      {
+         "from": 4.24, 
+         "to": 4.39, 
+         "speaker": 0, 
+         "confidence": 0.526, 
+         "final": false
+      }, 
+      {
+         "from": 4.39, 
+         "to": 4.5, 
+         "speaker": 0, 
+         "confidence": 0.526, 
+         "final": false
+      }, 
+      {
+         "from": 4.5, 
+         "to": 4.72, 
+         "speaker": 0, 
+         "confidence": 0.526, 
+         "final": false
+      }, 
+      {
+         "from": 4.72, 
+         "to": 4.95, 
+         "speaker": 0, 
+         "confidence": 0.526, 
+         "final": false
+      }, 
+      {
+         "from": 4.95, 
+         "to": 5.05, 
+         "speaker": 0, 
+         "confidence": 0.526, 
+         "final": false
+      }, 
+      {
+         "from": 5.05, 
+         "to": 5.14, 
+         "speaker": 0, 
+         "confidence": 0.526, 
+         "final": false
+      }, 
+      {
+         "from": 5.14, 
+         "to": 5.37, 
+         "speaker": 0, 
+         "confidence": 0.526, 
+         "final": false
+      }, 
+      {
+         "from": 5.48, 
+         "to": 5.58, 
+         "speaker": 1, 
+         "confidence": 0.555, 
+         "final": false
+      }, 
+      {
+         "from": 5.58, 
+         "to": 5.78, 
+         "speaker": 1, 
+         "confidence": 0.555, 
+         "final": false
+      }, 
+      {
+         "from": 5.78, 
+         "to": 5.91, 
+         "speaker": 1, 
+         "confidence": 0.555, 
+         "final": false
+      }, 
+      {
+         "from": 5.91, 
+         "to": 6.07, 
+         "speaker": 1, 
+         "confidence": 0.555, 
+         "final": false
+      }, 
+      {
+         "from": 6.07, 
+         "to": 6.19, 
+         "speaker": 1, 
+         "confidence": 0.555, 
+         "final": false
+      }, 
+      {
+         "from": 6.19, 
+         "to": 6.63, 
+         "speaker": 1, 
+         "confidence": 0.555, 
+         "final": false
+      }, 
+      {
+         "from": 6.8, 
+         "to": 7.09, 
+         "speaker": 1, 
+         "confidence": 0.595, 
+         "final": false
+      }, 
+      {
+         "from": 7.09, 
+         "to": 7.52, 
+         "speaker": 1, 
+         "confidence": 0.595, 
+         "final": false
+      }, 
+      {
+         "from": 7.59, 
+         "to": 7.76, 
+         "speaker": 1, 
+         "confidence": 0.51, 
+         "final": false
+      }, 
+      {
+         "from": 7.76, 
+         "to": 8.09, 
+         "speaker": 1, 
+         "confidence": 0.51, 
+         "final": false
+      }, 
+      {
+         "from": 8.09, 
+         "to": 8.23, 
+         "speaker": 1, 
+         "confidence": 0.51, 
+         "final": false
+      }, 
+      {
+         "from": 8.23, 
+         "to": 8.43, 
+         "speaker": 1, 
+         "confidence": 0.51, 
+         "final": false
+      }, 
+      {
+         "from": 8.43, 
+         "to": 8.51, 
+         "speaker": 1, 
+         "confidence": 0.51, 
+         "final": false
+      }, 
+      {
+         "from": 8.51, 
+         "to": 8.78, 
+         "speaker": 1, 
+         "confidence": 0.51, 
+         "final": false
+      }, 
+      {
+         "from": 8.78, 
+         "to": 8.95, 
+         "speaker": 1, 
+         "confidence": 0.51, 
+         "final": false
+      }, 
+      {
+         "from": 8.95, 
+         "to": 9.23, 
+         "speaker": 1, 
+         "confidence": 0.51, 
+         "final": false
+      }, 
+      {
+         "from": 9.23, 
+         "to": 9.34, 
+         "speaker": 1, 
+         "confidence": 0.51, 
+         "final": true
+      }
+   ]
+}

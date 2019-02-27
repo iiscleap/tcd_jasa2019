@@ -1,0 +1,315 @@
+{
+   "results": [
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "and", 
+                     0.2, 
+                     0.42
+                  ], 
+                  [
+                     "still", 
+                     0.42, 
+                     0.81
+                  ], 
+                  [
+                     "employed", 
+                     0.81, 
+                     1.3
+                  ], 
+                  [
+                     "by", 
+                     1.3, 
+                     1.47
+                  ], 
+                  [
+                     "your", 
+                     1.47, 
+                     1.8
+                  ], 
+                  [
+                     "piano", 
+                     1.8, 
+                     2.14
+                  ], 
+                  [
+                     "to", 
+                     2.14, 
+                     2.26
+                  ]
+               ], 
+               "confidence": 0.97, 
+               "transcript": "and still employed by your piano to "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "nine", 
+                     2.97, 
+                     3.41
+                  ]
+               ], 
+               "confidence": 0.213, 
+               "transcript": "nine "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "for", 
+                     4.25, 
+                     4.61
+                  ], 
+                  [
+                     "co", 
+                     4.61, 
+                     4.94
+                  ]
+               ], 
+               "confidence": 0.691, 
+               "transcript": "for co "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "and", 
+                     5.48, 
+                     5.6
+                  ], 
+                  [
+                     "for", 
+                     5.6, 
+                     5.86
+                  ], 
+                  [
+                     "our", 
+                     5.86, 
+                     6.1
+                  ], 
+                  [
+                     "final", 
+                     6.1, 
+                     6.46
+                  ], 
+                  [
+                     "success", 
+                     6.46, 
+                     7.16
+                  ], 
+                  [
+                     "we", 
+                     7.16, 
+                     7.36
+                  ], 
+                  [
+                     "owe", 
+                     7.36, 
+                     7.51
+                  ], 
+                  [
+                     "a", 
+                     7.51, 
+                     7.6
+                  ], 
+                  [
+                     "deep", 
+                     7.6, 
+                     7.96
+                  ], 
+                  [
+                     "debt", 
+                     7.99, 
+                     8.28
+                  ], 
+                  [
+                     "of", 
+                     8.28, 
+                     8.43
+                  ], 
+                  [
+                     "gratitude", 
+                     8.43, 
+                     9.15
+                  ]
+               ], 
+               "confidence": 0.894, 
+               "transcript": "and for our final success we owe a deep debt of gratitude "
+            }
+         ], 
+         "final": true
+      }
+   ], 
+   "result_index": 0, 
+   "speaker_labels": [
+      {
+         "from": 0.2, 
+         "to": 0.42, 
+         "speaker": 0, 
+         "confidence": 0.5, 
+         "final": false
+      }, 
+      {
+         "from": 0.42, 
+         "to": 0.81, 
+         "speaker": 0, 
+         "confidence": 0.5, 
+         "final": false
+      }, 
+      {
+         "from": 0.81, 
+         "to": 1.3, 
+         "speaker": 0, 
+         "confidence": 0.5, 
+         "final": false
+      }, 
+      {
+         "from": 1.3, 
+         "to": 1.47, 
+         "speaker": 0, 
+         "confidence": 0.5, 
+         "final": false
+      }, 
+      {
+         "from": 1.47, 
+         "to": 1.8, 
+         "speaker": 0, 
+         "confidence": 0.5, 
+         "final": false
+      }, 
+      {
+         "from": 1.8, 
+         "to": 2.14, 
+         "speaker": 0, 
+         "confidence": 0.5, 
+         "final": false
+      }, 
+      {
+         "from": 2.14, 
+         "to": 2.26, 
+         "speaker": 0, 
+         "confidence": 0.5, 
+         "final": false
+      }, 
+      {
+         "from": 2.97, 
+         "to": 3.41, 
+         "speaker": 1, 
+         "confidence": 0.667, 
+         "final": false
+      }, 
+      {
+         "from": 4.25, 
+         "to": 4.61, 
+         "speaker": 0, 
+         "confidence": 0.473, 
+         "final": false
+      }, 
+      {
+         "from": 4.61, 
+         "to": 4.94, 
+         "speaker": 0, 
+         "confidence": 0.473, 
+         "final": false
+      }, 
+      {
+         "from": 5.48, 
+         "to": 5.6, 
+         "speaker": 2, 
+         "confidence": 0.493, 
+         "final": false
+      }, 
+      {
+         "from": 5.6, 
+         "to": 5.86, 
+         "speaker": 2, 
+         "confidence": 0.493, 
+         "final": false
+      }, 
+      {
+         "from": 5.86, 
+         "to": 6.1, 
+         "speaker": 2, 
+         "confidence": 0.493, 
+         "final": false
+      }, 
+      {
+         "from": 6.1, 
+         "to": 6.46, 
+         "speaker": 2, 
+         "confidence": 0.493, 
+         "final": false
+      }, 
+      {
+         "from": 6.46, 
+         "to": 7.16, 
+         "speaker": 2, 
+         "confidence": 0.493, 
+         "final": false
+      }, 
+      {
+         "from": 7.16, 
+         "to": 7.36, 
+         "speaker": 2, 
+         "confidence": 0.493, 
+         "final": false
+      }, 
+      {
+         "from": 7.36, 
+         "to": 7.51, 
+         "speaker": 2, 
+         "confidence": 0.493, 
+         "final": false
+      }, 
+      {
+         "from": 7.51, 
+         "to": 7.6, 
+         "speaker": 2, 
+         "confidence": 0.493, 
+         "final": false
+      }, 
+      {
+         "from": 7.6, 
+         "to": 7.96, 
+         "speaker": 2, 
+         "confidence": 0.493, 
+         "final": false
+      }, 
+      {
+         "from": 7.99, 
+         "to": 8.28, 
+         "speaker": 2, 
+         "confidence": 0.493, 
+         "final": false
+      }, 
+      {
+         "from": 8.28, 
+         "to": 8.43, 
+         "speaker": 2, 
+         "confidence": 0.493, 
+         "final": false
+      }, 
+      {
+         "from": 8.43, 
+         "to": 9.15, 
+         "speaker": 2, 
+         "confidence": 0.493, 
+         "final": true
+      }
+   ]
+}

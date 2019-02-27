@@ -1,0 +1,450 @@
+{
+   "results": [
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "or", 
+                     0.47, 
+                     0.64
+                  ], 
+                  [
+                     "if", 
+                     0.64, 
+                     0.74
+                  ], 
+                  [
+                     "they", 
+                     0.74, 
+                     0.86
+                  ], 
+                  [
+                     "did", 
+                     0.86, 
+                     1.12
+                  ], 
+                  [
+                     "venture", 
+                     1.12, 
+                     1.4
+                  ], 
+                  [
+                     "to", 
+                     1.4, 
+                     1.5
+                  ], 
+                  [
+                     "call", 
+                     1.5, 
+                     1.8
+                  ], 
+                  [
+                     "out", 
+                     1.8, 
+                     2.06
+                  ], 
+                  [
+                     "on", 
+                     2.12, 
+                     2.47
+                  ], 
+                  [
+                     "two", 
+                     2.5, 
+                     2.68
+                  ], 
+                  [
+                     "bullets", 
+                     2.68, 
+                     3.01
+                  ], 
+                  [
+                     "into", 
+                     3.01, 
+                     3.21
+                  ], 
+                  [
+                     "brag", 
+                     3.21, 
+                     3.56
+                  ], 
+                  [
+                     "or", 
+                     3.56, 
+                     3.8
+                  ], 
+                  [
+                     "they", 
+                     4.16, 
+                     4.3
+                  ], 
+                  [
+                     "had", 
+                     4.3, 
+                     4.48
+                  ], 
+                  [
+                     "the", 
+                     4.48, 
+                     4.56
+                  ], 
+                  [
+                     "mortification", 
+                     4.56, 
+                     5.41
+                  ], 
+                  [
+                     "to", 
+                     5.41, 
+                     5.51
+                  ], 
+                  [
+                     "find", 
+                     5.51, 
+                     5.9
+                  ], 
+                  [
+                     "one", 
+                     5.9, 
+                     6.02
+                  ], 
+                  [
+                     "of", 
+                     6.02, 
+                     6.12
+                  ], 
+                  [
+                     "the", 
+                     6.12, 
+                     6.25
+                  ], 
+                  [
+                     "officers", 
+                     6.25, 
+                     6.8
+                  ], 
+                  [
+                     "had", 
+                     6.8, 
+                     7.1
+                  ], 
+                  [
+                     "a", 
+                     7.2, 
+                     7.31
+                  ], 
+                  [
+                     "group", 
+                     7.31, 
+                     7.66
+                  ], 
+                  [
+                     "by", 
+                     7.69, 
+                     7.9
+                  ], 
+                  [
+                     "themselves", 
+                     7.9, 
+                     8.75
+                  ], 
+                  [
+                     "and", 
+                     9.12, 
+                     9.28
+                  ], 
+                  [
+                     "lay", 
+                     9.28, 
+                     9.42
+                  ], 
+                  [
+                     "separated", 
+                     9.42, 
+                     10.1
+                  ], 
+                  [
+                     "from", 
+                     10.1, 
+                     10.29
+                  ], 
+                  [
+                     "the", 
+                     10.29, 
+                     10.38
+                  ], 
+                  [
+                     "main", 
+                     10.38, 
+                     10.68
+                  ], 
+                  [
+                     "ridge", 
+                     10.68, 
+                     11.09
+                  ]
+               ], 
+               "confidence": 0.89, 
+               "transcript": "or if they did venture to call out on two bullets into brag or they had the mortification to find one of the officers had a group by themselves and lay separated from the main ridge "
+            }
+         ], 
+         "final": true
+      }
+   ], 
+   "result_index": 0, 
+   "speaker_labels": [
+      {
+         "from": 0.47, 
+         "to": 0.64, 
+         "speaker": 0, 
+         "confidence": 0.41, 
+         "final": false
+      }, 
+      {
+         "from": 0.64, 
+         "to": 0.74, 
+         "speaker": 0, 
+         "confidence": 0.41, 
+         "final": false
+      }, 
+      {
+         "from": 0.74, 
+         "to": 0.86, 
+         "speaker": 0, 
+         "confidence": 0.41, 
+         "final": false
+      }, 
+      {
+         "from": 0.86, 
+         "to": 1.12, 
+         "speaker": 0, 
+         "confidence": 0.41, 
+         "final": false
+      }, 
+      {
+         "from": 1.12, 
+         "to": 1.4, 
+         "speaker": 0, 
+         "confidence": 0.41, 
+         "final": false
+      }, 
+      {
+         "from": 1.4, 
+         "to": 1.5, 
+         "speaker": 0, 
+         "confidence": 0.41, 
+         "final": false
+      }, 
+      {
+         "from": 1.5, 
+         "to": 1.8, 
+         "speaker": 0, 
+         "confidence": 0.41, 
+         "final": false
+      }, 
+      {
+         "from": 1.8, 
+         "to": 2.06, 
+         "speaker": 0, 
+         "confidence": 0.41, 
+         "final": false
+      }, 
+      {
+         "from": 2.12, 
+         "to": 2.47, 
+         "speaker": 0, 
+         "confidence": 0.418, 
+         "final": false
+      }, 
+      {
+         "from": 2.5, 
+         "to": 2.68, 
+         "speaker": 1, 
+         "confidence": 0.422, 
+         "final": false
+      }, 
+      {
+         "from": 2.68, 
+         "to": 3.01, 
+         "speaker": 1, 
+         "confidence": 0.422, 
+         "final": false
+      }, 
+      {
+         "from": 3.01, 
+         "to": 3.21, 
+         "speaker": 1, 
+         "confidence": 0.422, 
+         "final": false
+      }, 
+      {
+         "from": 3.21, 
+         "to": 3.56, 
+         "speaker": 1, 
+         "confidence": 0.422, 
+         "final": false
+      }, 
+      {
+         "from": 3.56, 
+         "to": 3.8, 
+         "speaker": 1, 
+         "confidence": 0.422, 
+         "final": false
+      }, 
+      {
+         "from": 4.16, 
+         "to": 4.3, 
+         "speaker": 0, 
+         "confidence": 0.47, 
+         "final": false
+      }, 
+      {
+         "from": 4.3, 
+         "to": 4.48, 
+         "speaker": 0, 
+         "confidence": 0.47, 
+         "final": false
+      }, 
+      {
+         "from": 4.48, 
+         "to": 4.56, 
+         "speaker": 0, 
+         "confidence": 0.47, 
+         "final": false
+      }, 
+      {
+         "from": 4.56, 
+         "to": 5.41, 
+         "speaker": 0, 
+         "confidence": 0.47, 
+         "final": false
+      }, 
+      {
+         "from": 5.41, 
+         "to": 5.51, 
+         "speaker": 0, 
+         "confidence": 0.47, 
+         "final": false
+      }, 
+      {
+         "from": 5.51, 
+         "to": 5.9, 
+         "speaker": 0, 
+         "confidence": 0.47, 
+         "final": false
+      }, 
+      {
+         "from": 5.9, 
+         "to": 6.02, 
+         "speaker": 0, 
+         "confidence": 0.47, 
+         "final": false
+      }, 
+      {
+         "from": 6.02, 
+         "to": 6.12, 
+         "speaker": 0, 
+         "confidence": 0.47, 
+         "final": false
+      }, 
+      {
+         "from": 6.12, 
+         "to": 6.25, 
+         "speaker": 0, 
+         "confidence": 0.47, 
+         "final": false
+      }, 
+      {
+         "from": 6.25, 
+         "to": 6.8, 
+         "speaker": 0, 
+         "confidence": 0.47, 
+         "final": false
+      }, 
+      {
+         "from": 6.8, 
+         "to": 7.1, 
+         "speaker": 0, 
+         "confidence": 0.47, 
+         "final": false
+      }, 
+      {
+         "from": 7.2, 
+         "to": 7.31, 
+         "speaker": 1, 
+         "confidence": 0.426, 
+         "final": false
+      }, 
+      {
+         "from": 7.31, 
+         "to": 7.66, 
+         "speaker": 1, 
+         "confidence": 0.426, 
+         "final": false
+      }, 
+      {
+         "from": 7.69, 
+         "to": 7.9, 
+         "speaker": 2, 
+         "confidence": 0.471, 
+         "final": false
+      }, 
+      {
+         "from": 7.9, 
+         "to": 8.75, 
+         "speaker": 2, 
+         "confidence": 0.471, 
+         "final": false
+      }, 
+      {
+         "from": 9.12, 
+         "to": 9.28, 
+         "speaker": 2, 
+         "confidence": 0.456, 
+         "final": false
+      }, 
+      {
+         "from": 9.28, 
+         "to": 9.42, 
+         "speaker": 2, 
+         "confidence": 0.456, 
+         "final": false
+      }, 
+      {
+         "from": 9.42, 
+         "to": 10.1, 
+         "speaker": 2, 
+         "confidence": 0.456, 
+         "final": false
+      }, 
+      {
+         "from": 10.1, 
+         "to": 10.29, 
+         "speaker": 2, 
+         "confidence": 0.456, 
+         "final": false
+      }, 
+      {
+         "from": 10.29, 
+         "to": 10.38, 
+         "speaker": 2, 
+         "confidence": 0.456, 
+         "final": false
+      }, 
+      {
+         "from": 10.38, 
+         "to": 10.68, 
+         "speaker": 2, 
+         "confidence": 0.456, 
+         "final": false
+      }, 
+      {
+         "from": 10.68, 
+         "to": 11.09, 
+         "speaker": 2, 
+         "confidence": 0.456, 
+         "final": true
+      }
+   ]
+}

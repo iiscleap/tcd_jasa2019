@@ -1,0 +1,339 @@
+{
+   "results": [
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "and", 
+                     0.27, 
+                     0.47
+                  ], 
+                  [
+                     "that", 
+                     0.47, 
+                     0.57
+                  ], 
+                  [
+                     "he", 
+                     0.57, 
+                     0.77
+                  ], 
+                  [
+                     "will", 
+                     0.77, 
+                     0.9
+                  ], 
+                  [
+                     "never", 
+                     0.9, 
+                     1.25
+                  ], 
+                  [
+                     "forgive", 
+                     1.25, 
+                     1.8
+                  ], 
+                  [
+                     "that", 
+                     1.8, 
+                     2.26
+                  ]
+               ], 
+               "confidence": 0.978, 
+               "transcript": "and that he will never forgive that "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "let", 
+                     3.23, 
+                     3.54
+                  ], 
+                  [
+                     "Margaret", 
+                     3.54, 
+                     4.13
+                  ], 
+                  [
+                     "leave", 
+                     4.16, 
+                     4.5
+                  ], 
+                  [
+                     "the", 
+                     4.5, 
+                     4.62
+                  ], 
+                  [
+                     "young", 
+                     4.62, 
+                     4.87
+                  ], 
+                  [
+                     "man", 
+                     4.87, 
+                     5.45
+                  ]
+               ], 
+               "confidence": 0.634, 
+               "transcript": "let Margaret leave the young man "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "he", 
+                     5.77, 
+                     5.96
+                  ], 
+                  [
+                     "was", 
+                     5.96, 
+                     6.14
+                  ], 
+                  [
+                     "figuratively", 
+                     6.14, 
+                     7.16
+                  ], 
+                  [
+                     "said", 
+                     7.16, 
+                     7.56
+                  ], 
+                  [
+                     "to", 
+                     7.56, 
+                     7.72
+                  ], 
+                  [
+                     "sweep", 
+                     7.72, 
+                     8.08
+                  ], 
+                  [
+                     "the", 
+                     8.08, 
+                     8.19
+                  ], 
+                  [
+                     "road", 
+                     8.19, 
+                     8.48
+                  ], 
+                  [
+                     "for", 
+                     8.48, 
+                     8.74
+                  ], 
+                  [
+                     "him", 
+                     8.74, 
+                     8.91
+                  ]
+               ], 
+               "confidence": 0.93, 
+               "transcript": "he was figuratively said to sweep the road for him "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "since", 
+                     9.33, 
+                     9.64
+                  ]
+               ], 
+               "confidence": 0.403, 
+               "transcript": "since "
+            }
+         ], 
+         "final": true
+      }
+   ], 
+   "result_index": 0, 
+   "speaker_labels": [
+      {
+         "from": 0.27, 
+         "to": 0.47, 
+         "speaker": 0, 
+         "confidence": 0.5, 
+         "final": false
+      }, 
+      {
+         "from": 0.47, 
+         "to": 0.57, 
+         "speaker": 0, 
+         "confidence": 0.5, 
+         "final": false
+      }, 
+      {
+         "from": 0.57, 
+         "to": 0.77, 
+         "speaker": 0, 
+         "confidence": 0.5, 
+         "final": false
+      }, 
+      {
+         "from": 0.77, 
+         "to": 0.9, 
+         "speaker": 0, 
+         "confidence": 0.5, 
+         "final": false
+      }, 
+      {
+         "from": 0.9, 
+         "to": 1.25, 
+         "speaker": 0, 
+         "confidence": 0.5, 
+         "final": false
+      }, 
+      {
+         "from": 1.25, 
+         "to": 1.8, 
+         "speaker": 0, 
+         "confidence": 0.5, 
+         "final": false
+      }, 
+      {
+         "from": 1.8, 
+         "to": 2.26, 
+         "speaker": 0, 
+         "confidence": 0.5, 
+         "final": false
+      }, 
+      {
+         "from": 3.23, 
+         "to": 3.54, 
+         "speaker": 0, 
+         "confidence": 0.549, 
+         "final": false
+      }, 
+      {
+         "from": 3.54, 
+         "to": 4.13, 
+         "speaker": 0, 
+         "confidence": 0.549, 
+         "final": false
+      }, 
+      {
+         "from": 4.16, 
+         "to": 4.5, 
+         "speaker": 0, 
+         "confidence": 0.505, 
+         "final": false
+      }, 
+      {
+         "from": 4.5, 
+         "to": 4.62, 
+         "speaker": 0, 
+         "confidence": 0.505, 
+         "final": false
+      }, 
+      {
+         "from": 4.62, 
+         "to": 4.87, 
+         "speaker": 0, 
+         "confidence": 0.505, 
+         "final": false
+      }, 
+      {
+         "from": 4.87, 
+         "to": 5.45, 
+         "speaker": 0, 
+         "confidence": 0.505, 
+         "final": false
+      }, 
+      {
+         "from": 5.77, 
+         "to": 5.96, 
+         "speaker": 3, 
+         "confidence": 0.433, 
+         "final": false
+      }, 
+      {
+         "from": 5.96, 
+         "to": 6.14, 
+         "speaker": 3, 
+         "confidence": 0.433, 
+         "final": false
+      }, 
+      {
+         "from": 6.14, 
+         "to": 7.16, 
+         "speaker": 3, 
+         "confidence": 0.433, 
+         "final": false
+      }, 
+      {
+         "from": 7.16, 
+         "to": 7.56, 
+         "speaker": 3, 
+         "confidence": 0.433, 
+         "final": false
+      }, 
+      {
+         "from": 7.56, 
+         "to": 7.72, 
+         "speaker": 3, 
+         "confidence": 0.433, 
+         "final": false
+      }, 
+      {
+         "from": 7.72, 
+         "to": 8.08, 
+         "speaker": 3, 
+         "confidence": 0.433, 
+         "final": false
+      }, 
+      {
+         "from": 8.08, 
+         "to": 8.19, 
+         "speaker": 3, 
+         "confidence": 0.433, 
+         "final": false
+      }, 
+      {
+         "from": 8.19, 
+         "to": 8.48, 
+         "speaker": 3, 
+         "confidence": 0.433, 
+         "final": false
+      }, 
+      {
+         "from": 8.48, 
+         "to": 8.74, 
+         "speaker": 3, 
+         "confidence": 0.433, 
+         "final": false
+      }, 
+      {
+         "from": 8.74, 
+         "to": 8.91, 
+         "speaker": 3, 
+         "confidence": 0.433, 
+         "final": false
+      }, 
+      {
+         "from": 9.33, 
+         "to": 9.64, 
+         "speaker": 3, 
+         "confidence": 0.614, 
+         "final": true
+      }
+   ]
+}

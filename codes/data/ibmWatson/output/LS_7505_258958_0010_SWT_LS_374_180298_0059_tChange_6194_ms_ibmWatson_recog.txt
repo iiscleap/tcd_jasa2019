@@ -1,0 +1,364 @@
+{
+   "results": [
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "men", 
+                     0.15, 
+                     0.45
+                  ], 
+                  [
+                     "make", 
+                     0.45, 
+                     0.71
+                  ], 
+                  [
+                     "use", 
+                     0.71, 
+                     1.01
+                  ], 
+                  [
+                     "of", 
+                     1.01, 
+                     1.19
+                  ], 
+                  [
+                     "other", 
+                     1.26, 
+                     1.5
+                  ], 
+                  [
+                     "goods", 
+                     1.5, 
+                     2.13
+                  ]
+               ], 
+               "confidence": 0.789, 
+               "transcript": "men make use of other goods "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "well", 
+                     3.06, 
+                     3.26
+                  ], 
+                  [
+                     "they're", 
+                     3.26, 
+                     3.49
+                  ], 
+                  [
+                     "storing", 
+                     3.49, 
+                     3.96
+                  ], 
+                  [
+                     "up", 
+                     3.96, 
+                     4.1
+                  ], 
+                  [
+                     "the", 
+                     4.1, 
+                     4.19
+                  ], 
+                  [
+                     "supply", 
+                     4.19, 
+                     4.9
+                  ], 
+                  [
+                     "of", 
+                     4.93, 
+                     5.11
+                  ], 
+                  [
+                     "would", 
+                     5.16, 
+                     5.6
+                  ]
+               ], 
+               "confidence": 0.859, 
+               "transcript": "well they're storing up the supply of would "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "well", 
+                     6.12, 
+                     6.6
+                  ], 
+                  [
+                     "tell", 
+                     6.63, 
+                     6.91
+                  ], 
+                  [
+                     "the", 
+                     6.91, 
+                     7.03
+                  ], 
+                  [
+                     "Duke", 
+                     7.03, 
+                     7.32
+                  ], 
+                  [
+                     "to", 
+                     7.32, 
+                     7.43
+                  ], 
+                  [
+                     "take", 
+                     7.43, 
+                     7.7
+                  ], 
+                  [
+                     "it", 
+                     7.7, 
+                     7.84
+                  ], 
+                  [
+                     "for", 
+                     7.84, 
+                     8.08
+                  ], 
+                  [
+                     "you", 
+                     8.08, 
+                     8.42
+                  ], 
+                  [
+                     "he", 
+                     8.79, 
+                     8.97
+                  ], 
+                  [
+                     "would", 
+                     8.97, 
+                     9.12
+                  ], 
+                  [
+                     "do", 
+                     9.12, 
+                     9.32
+                  ], 
+                  [
+                     "so", 
+                     9.32, 
+                     9.63
+                  ]
+               ], 
+               "confidence": 0.918, 
+               "transcript": "well tell the Duke to take it for you he would do so "
+            }
+         ], 
+         "final": true
+      }
+   ], 
+   "result_index": 0, 
+   "speaker_labels": [
+      {
+         "from": 0.15, 
+         "to": 0.45, 
+         "speaker": 0, 
+         "confidence": 0.667, 
+         "final": false
+      }, 
+      {
+         "from": 0.45, 
+         "to": 0.71, 
+         "speaker": 0, 
+         "confidence": 0.667, 
+         "final": false
+      }, 
+      {
+         "from": 0.71, 
+         "to": 1.01, 
+         "speaker": 0, 
+         "confidence": 0.667, 
+         "final": false
+      }, 
+      {
+         "from": 1.01, 
+         "to": 1.19, 
+         "speaker": 0, 
+         "confidence": 0.667, 
+         "final": false
+      }, 
+      {
+         "from": 1.26, 
+         "to": 1.5, 
+         "speaker": 1, 
+         "confidence": 0.667, 
+         "final": false
+      }, 
+      {
+         "from": 1.5, 
+         "to": 2.13, 
+         "speaker": 1, 
+         "confidence": 0.667, 
+         "final": false
+      }, 
+      {
+         "from": 3.06, 
+         "to": 3.26, 
+         "speaker": 1, 
+         "confidence": 0.363, 
+         "final": false
+      }, 
+      {
+         "from": 3.26, 
+         "to": 3.49, 
+         "speaker": 1, 
+         "confidence": 0.363, 
+         "final": false
+      }, 
+      {
+         "from": 3.49, 
+         "to": 3.96, 
+         "speaker": 1, 
+         "confidence": 0.363, 
+         "final": false
+      }, 
+      {
+         "from": 3.96, 
+         "to": 4.1, 
+         "speaker": 1, 
+         "confidence": 0.363, 
+         "final": false
+      }, 
+      {
+         "from": 4.1, 
+         "to": 4.19, 
+         "speaker": 1, 
+         "confidence": 0.363, 
+         "final": false
+      }, 
+      {
+         "from": 4.19, 
+         "to": 4.9, 
+         "speaker": 1, 
+         "confidence": 0.363, 
+         "final": false
+      }, 
+      {
+         "from": 4.93, 
+         "to": 5.11, 
+         "speaker": 1, 
+         "confidence": 0.432, 
+         "final": false
+      }, 
+      {
+         "from": 5.16, 
+         "to": 5.6, 
+         "speaker": 3, 
+         "confidence": 0.399, 
+         "final": false
+      }, 
+      {
+         "from": 6.12, 
+         "to": 6.6, 
+         "speaker": 3, 
+         "confidence": 0.417, 
+         "final": false
+      }, 
+      {
+         "from": 6.63, 
+         "to": 6.91, 
+         "speaker": 3, 
+         "confidence": 0.418, 
+         "final": false
+      }, 
+      {
+         "from": 6.91, 
+         "to": 7.03, 
+         "speaker": 3, 
+         "confidence": 0.418, 
+         "final": false
+      }, 
+      {
+         "from": 7.03, 
+         "to": 7.32, 
+         "speaker": 3, 
+         "confidence": 0.418, 
+         "final": false
+      }, 
+      {
+         "from": 7.32, 
+         "to": 7.43, 
+         "speaker": 3, 
+         "confidence": 0.418, 
+         "final": false
+      }, 
+      {
+         "from": 7.43, 
+         "to": 7.7, 
+         "speaker": 3, 
+         "confidence": 0.418, 
+         "final": false
+      }, 
+      {
+         "from": 7.7, 
+         "to": 7.84, 
+         "speaker": 3, 
+         "confidence": 0.418, 
+         "final": false
+      }, 
+      {
+         "from": 7.84, 
+         "to": 8.08, 
+         "speaker": 3, 
+         "confidence": 0.418, 
+         "final": false
+      }, 
+      {
+         "from": 8.08, 
+         "to": 8.42, 
+         "speaker": 3, 
+         "confidence": 0.418, 
+         "final": false
+      }, 
+      {
+         "from": 8.79, 
+         "to": 8.97, 
+         "speaker": 0, 
+         "confidence": 0.458, 
+         "final": false
+      }, 
+      {
+         "from": 8.97, 
+         "to": 9.12, 
+         "speaker": 0, 
+         "confidence": 0.458, 
+         "final": false
+      }, 
+      {
+         "from": 9.12, 
+         "to": 9.32, 
+         "speaker": 0, 
+         "confidence": 0.458, 
+         "final": false
+      }, 
+      {
+         "from": 9.32, 
+         "to": 9.63, 
+         "speaker": 0, 
+         "confidence": 0.458, 
+         "final": true
+      }
+   ]
+}

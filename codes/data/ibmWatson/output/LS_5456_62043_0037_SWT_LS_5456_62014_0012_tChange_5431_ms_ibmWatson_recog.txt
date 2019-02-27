@@ -1,0 +1,401 @@
+ {
+   "results": [
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "a", 
+                     0.16, 
+                     0.27
+                  ], 
+                  [
+                     "company", 
+                     0.27, 
+                     0.64
+                  ], 
+                  [
+                     "by", 
+                     0.64, 
+                     0.8
+                  ], 
+                  [
+                     "the", 
+                     0.8, 
+                     0.95
+                  ], 
+                  [
+                     "same", 
+                     0.95, 
+                     1.28
+                  ], 
+                  [
+                     "layer", 
+                     1.28, 
+                     1.57
+                  ], 
+                  [
+                     "of", 
+                     1.57, 
+                     1.67
+                  ], 
+                  [
+                     "the", 
+                     1.67, 
+                     1.77
+                  ], 
+                  [
+                     "same", 
+                     1.77, 
+                     2.05
+                  ], 
+                  [
+                     "yellow", 
+                     2.05, 
+                     2.25
+                  ], 
+                  [
+                     "countenance", 
+                     2.25, 
+                     3.03
+                  ]
+               ], 
+               "confidence": 0.723, 
+               "transcript": "a company by the same layer of the same yellow countenance "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "why", 
+                     3.49, 
+                     3.66
+                  ], 
+                  [
+                     "darn", 
+                     3.66, 
+                     3.98
+                  ], 
+                  [
+                     "it", 
+                     3.98, 
+                     4.1
+                  ], 
+                  [
+                     "all", 
+                     4.1, 
+                     4.32
+                  ], 
+                  [
+                     "capping", 
+                     4.32, 
+                     5.01
+                  ], 
+                  [
+                     "here", 
+                     5.36, 
+                     5.56
+                  ], 
+                  [
+                     "the", 
+                     5.56, 
+                     5.66
+                  ], 
+                  [
+                     "old", 
+                     5.66, 
+                     5.87
+                  ], 
+                  [
+                     "woman", 
+                     5.87, 
+                     6.08
+                  ], 
+                  [
+                     "Rosen", 
+                     6.08, 
+                     6.6
+                  ], 
+                  [
+                     "through", 
+                     6.6, 
+                     6.8
+                  ], 
+                  [
+                     "on", 
+                     6.8, 
+                     6.97
+                  ], 
+                  [
+                     "a", 
+                     6.97, 
+                     7.01
+                  ], 
+                  [
+                     "handful", 
+                     7.01, 
+                     7.45
+                  ], 
+                  [
+                     "of", 
+                     7.45, 
+                     7.55
+                  ], 
+                  [
+                     "light", 
+                     7.55, 
+                     7.85
+                  ], 
+                  [
+                     "would", 
+                     7.85, 
+                     8.11
+                  ], 
+                  [
+                     "which", 
+                     8.36, 
+                     8.54
+                  ], 
+                  [
+                     "blazed", 
+                     8.54, 
+                     8.93
+                  ], 
+                  [
+                     "a", 
+                     8.93, 
+                     9.03
+                  ]
+               ], 
+               "confidence": 0.716, 
+               "transcript": "why darn it all capping here the old woman Rosen through on a handful of light would which blazed a "
+            }
+         ], 
+         "final": true
+      }
+   ], 
+   "result_index": 0, 
+   "speaker_labels": [
+      {
+         "from": 0.16, 
+         "to": 0.27, 
+         "speaker": 0, 
+         "confidence": 0.5, 
+         "final": false
+      }, 
+      {
+         "from": 0.27, 
+         "to": 0.64, 
+         "speaker": 0, 
+         "confidence": 0.5, 
+         "final": false
+      }, 
+      {
+         "from": 0.64, 
+         "to": 0.8, 
+         "speaker": 0, 
+         "confidence": 0.5, 
+         "final": false
+      }, 
+      {
+         "from": 0.8, 
+         "to": 0.95, 
+         "speaker": 0, 
+         "confidence": 0.5, 
+         "final": false
+      }, 
+      {
+         "from": 0.95, 
+         "to": 1.28, 
+         "speaker": 0, 
+         "confidence": 0.5, 
+         "final": false
+      }, 
+      {
+         "from": 1.28, 
+         "to": 1.57, 
+         "speaker": 0, 
+         "confidence": 0.5, 
+         "final": false
+      }, 
+      {
+         "from": 1.57, 
+         "to": 1.67, 
+         "speaker": 0, 
+         "confidence": 0.5, 
+         "final": false
+      }, 
+      {
+         "from": 1.67, 
+         "to": 1.77, 
+         "speaker": 0, 
+         "confidence": 0.5, 
+         "final": false
+      }, 
+      {
+         "from": 1.77, 
+         "to": 2.05, 
+         "speaker": 0, 
+         "confidence": 0.5, 
+         "final": false
+      }, 
+      {
+         "from": 2.05, 
+         "to": 2.25, 
+         "speaker": 0, 
+         "confidence": 0.5, 
+         "final": false
+      }, 
+      {
+         "from": 2.25, 
+         "to": 3.03, 
+         "speaker": 0, 
+         "confidence": 0.5, 
+         "final": false
+      }, 
+      {
+         "from": 3.49, 
+         "to": 3.66, 
+         "speaker": 1, 
+         "confidence": 0.5, 
+         "final": false
+      }, 
+      {
+         "from": 3.66, 
+         "to": 3.98, 
+         "speaker": 1, 
+         "confidence": 0.5, 
+         "final": false
+      }, 
+      {
+         "from": 3.98, 
+         "to": 4.1, 
+         "speaker": 1, 
+         "confidence": 0.5, 
+         "final": false
+      }, 
+      {
+         "from": 4.1, 
+         "to": 4.32, 
+         "speaker": 1, 
+         "confidence": 0.5, 
+         "final": false
+      }, 
+      {
+         "from": 4.32, 
+         "to": 5.01, 
+         "speaker": 1, 
+         "confidence": 0.5, 
+         "final": false
+      }, 
+      {
+         "from": 5.36, 
+         "to": 5.56, 
+         "speaker": 0, 
+         "confidence": 0.39, 
+         "final": false
+      }, 
+      {
+         "from": 5.56, 
+         "to": 5.66, 
+         "speaker": 0, 
+         "confidence": 0.39, 
+         "final": false
+      }, 
+      {
+         "from": 5.66, 
+         "to": 5.87, 
+         "speaker": 0, 
+         "confidence": 0.39, 
+         "final": false
+      }, 
+      {
+         "from": 5.87, 
+         "to": 6.08, 
+         "speaker": 0, 
+         "confidence": 0.39, 
+         "final": false
+      }, 
+      {
+         "from": 6.08, 
+         "to": 6.6, 
+         "speaker": 0, 
+         "confidence": 0.39, 
+         "final": false
+      }, 
+      {
+         "from": 6.6, 
+         "to": 6.8, 
+         "speaker": 0, 
+         "confidence": 0.39, 
+         "final": false
+      }, 
+      {
+         "from": 6.8, 
+         "to": 6.97, 
+         "speaker": 0, 
+         "confidence": 0.39, 
+         "final": false
+      }, 
+      {
+         "from": 6.97, 
+         "to": 7.01, 
+         "speaker": 0, 
+         "confidence": 0.39, 
+         "final": false
+      }, 
+      {
+         "from": 7.01, 
+         "to": 7.45, 
+         "speaker": 0, 
+         "confidence": 0.39, 
+         "final": false
+      }, 
+      {
+         "from": 7.45, 
+         "to": 7.55, 
+         "speaker": 0, 
+         "confidence": 0.39, 
+         "final": false
+      }, 
+      {
+         "from": 7.55, 
+         "to": 7.85, 
+         "speaker": 0, 
+         "confidence": 0.39, 
+         "final": false
+      }, 
+      {
+         "from": 7.85, 
+         "to": 8.11, 
+         "speaker": 0, 
+         "confidence": 0.39, 
+         "final": false
+      }, 
+      {
+         "from": 8.36, 
+         "to": 8.54, 
+         "speaker": 2, 
+         "confidence": 0.475, 
+         "final": false
+      }, 
+      {
+         "from": 8.54, 
+         "to": 8.93, 
+         "speaker": 2, 
+         "confidence": 0.475, 
+         "final": false
+      }, 
+      {
+         "from": 8.93, 
+         "to": 9.03, 
+         "speaker": 2, 
+         "confidence": 0.475, 
+         "final": true
+      }
+   ]
+}

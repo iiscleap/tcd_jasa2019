@@ -1,0 +1,364 @@
+{
+   "results": [
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "then", 
+                     0.29, 
+                     0.51
+                  ], 
+                  [
+                     "she", 
+                     0.51, 
+                     0.7
+                  ], 
+                  [
+                     "sometimes", 
+                     0.7, 
+                     1.33
+                  ], 
+                  [
+                     "came", 
+                     1.33, 
+                     1.58
+                  ], 
+                  [
+                     "to", 
+                     1.58, 
+                     1.69
+                  ], 
+                  [
+                     "dine", 
+                     1.69, 
+                     2.0
+                  ], 
+                  [
+                     "with", 
+                     2.0, 
+                     2.21
+                  ], 
+                  [
+                     "me", 
+                     2.21, 
+                     2.5
+                  ]
+               ], 
+               "confidence": 0.999, 
+               "transcript": "then she sometimes came to dine with me "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "one", 
+                     3.11, 
+                     3.34
+                  ], 
+                  [
+                     "morning", 
+                     3.34, 
+                     3.74
+                  ], 
+                  [
+                     "I", 
+                     3.74, 
+                     3.83
+                  ], 
+                  [
+                     "did", 
+                     3.83, 
+                     4.03
+                  ], 
+                  [
+                     "not", 
+                     4.03, 
+                     4.28
+                  ], 
+                  [
+                     "go", 
+                     4.28, 
+                     4.43
+                  ], 
+                  [
+                     "till", 
+                     4.43, 
+                     4.71
+                  ], 
+                  [
+                     "eight", 
+                     4.71, 
+                     5.11
+                  ]
+               ], 
+               "confidence": 0.945, 
+               "transcript": "one morning I did not go till eight "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "but", 
+                     5.57, 
+                     5.7
+                  ], 
+                  [
+                     "the", 
+                     5.7, 
+                     5.79
+                  ], 
+                  [
+                     "day", 
+                     5.79, 
+                     6.04
+                  ], 
+                  [
+                     "did", 
+                     6.04, 
+                     6.2
+                  ], 
+                  [
+                     "not", 
+                     6.2, 
+                     6.46
+                  ], 
+                  [
+                     "turn", 
+                     6.46, 
+                     6.69
+                  ], 
+                  [
+                     "out", 
+                     6.69, 
+                     6.9
+                  ], 
+                  [
+                     "so", 
+                     6.9, 
+                     7.06
+                  ], 
+                  [
+                     "badly", 
+                     7.06, 
+                     7.52
+                  ], 
+                  [
+                     "after", 
+                     7.52, 
+                     7.87
+                  ], 
+                  [
+                     "all", 
+                     7.87, 
+                     8.34
+                  ]
+               ], 
+               "confidence": 0.899, 
+               "transcript": "but the day did not turn out so badly after all "
+            }
+         ], 
+         "final": true
+      }
+   ], 
+   "result_index": 0, 
+   "speaker_labels": [
+      {
+         "from": 0.29, 
+         "to": 0.51, 
+         "speaker": 0, 
+         "confidence": 0.5, 
+         "final": false
+      }, 
+      {
+         "from": 0.51, 
+         "to": 0.7, 
+         "speaker": 0, 
+         "confidence": 0.5, 
+         "final": false
+      }, 
+      {
+         "from": 0.7, 
+         "to": 1.33, 
+         "speaker": 0, 
+         "confidence": 0.5, 
+         "final": false
+      }, 
+      {
+         "from": 1.33, 
+         "to": 1.58, 
+         "speaker": 0, 
+         "confidence": 0.5, 
+         "final": false
+      }, 
+      {
+         "from": 1.58, 
+         "to": 1.69, 
+         "speaker": 0, 
+         "confidence": 0.5, 
+         "final": false
+      }, 
+      {
+         "from": 1.69, 
+         "to": 2.0, 
+         "speaker": 0, 
+         "confidence": 0.5, 
+         "final": false
+      }, 
+      {
+         "from": 2.0, 
+         "to": 2.21, 
+         "speaker": 0, 
+         "confidence": 0.5, 
+         "final": false
+      }, 
+      {
+         "from": 2.21, 
+         "to": 2.5, 
+         "speaker": 0, 
+         "confidence": 0.5, 
+         "final": false
+      }, 
+      {
+         "from": 3.11, 
+         "to": 3.34, 
+         "speaker": 0, 
+         "confidence": 0.585, 
+         "final": false
+      }, 
+      {
+         "from": 3.34, 
+         "to": 3.74, 
+         "speaker": 0, 
+         "confidence": 0.585, 
+         "final": false
+      }, 
+      {
+         "from": 3.74, 
+         "to": 3.83, 
+         "speaker": 0, 
+         "confidence": 0.585, 
+         "final": false
+      }, 
+      {
+         "from": 3.83, 
+         "to": 4.03, 
+         "speaker": 0, 
+         "confidence": 0.585, 
+         "final": false
+      }, 
+      {
+         "from": 4.03, 
+         "to": 4.28, 
+         "speaker": 0, 
+         "confidence": 0.585, 
+         "final": false
+      }, 
+      {
+         "from": 4.28, 
+         "to": 4.43, 
+         "speaker": 0, 
+         "confidence": 0.585, 
+         "final": false
+      }, 
+      {
+         "from": 4.43, 
+         "to": 4.71, 
+         "speaker": 0, 
+         "confidence": 0.585, 
+         "final": false
+      }, 
+      {
+         "from": 4.71, 
+         "to": 5.11, 
+         "speaker": 0, 
+         "confidence": 0.585, 
+         "final": false
+      }, 
+      {
+         "from": 5.57, 
+         "to": 5.7, 
+         "speaker": 1, 
+         "confidence": 0.667, 
+         "final": false
+      }, 
+      {
+         "from": 5.7, 
+         "to": 5.79, 
+         "speaker": 1, 
+         "confidence": 0.667, 
+         "final": false
+      }, 
+      {
+         "from": 5.79, 
+         "to": 6.04, 
+         "speaker": 1, 
+         "confidence": 0.667, 
+         "final": false
+      }, 
+      {
+         "from": 6.04, 
+         "to": 6.2, 
+         "speaker": 1, 
+         "confidence": 0.667, 
+         "final": false
+      }, 
+      {
+         "from": 6.2, 
+         "to": 6.46, 
+         "speaker": 1, 
+         "confidence": 0.667, 
+         "final": false
+      }, 
+      {
+         "from": 6.46, 
+         "to": 6.69, 
+         "speaker": 1, 
+         "confidence": 0.667, 
+         "final": false
+      }, 
+      {
+         "from": 6.69, 
+         "to": 6.9, 
+         "speaker": 1, 
+         "confidence": 0.667, 
+         "final": false
+      }, 
+      {
+         "from": 6.9, 
+         "to": 7.06, 
+         "speaker": 1, 
+         "confidence": 0.667, 
+         "final": false
+      }, 
+      {
+         "from": 7.06, 
+         "to": 7.52, 
+         "speaker": 1, 
+         "confidence": 0.667, 
+         "final": false
+      }, 
+      {
+         "from": 7.52, 
+         "to": 7.87, 
+         "speaker": 1, 
+         "confidence": 0.667, 
+         "final": false
+      }, 
+      {
+         "from": 7.87, 
+         "to": 8.34, 
+         "speaker": 1, 
+         "confidence": 0.667, 
+         "final": true
+      }
+   ]
+}

@@ -1,0 +1,436 @@
+{
+   "results": [
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "there", 
+                     0.27, 
+                     0.41
+                  ], 
+                  [
+                     "was", 
+                     0.41, 
+                     0.54
+                  ], 
+                  [
+                     "just", 
+                     0.54, 
+                     0.81
+                  ], 
+                  [
+                     "far", 
+                     0.81, 
+                     1.03
+                  ], 
+                  [
+                     "enough", 
+                     1.06, 
+                     1.37
+                  ], 
+                  [
+                     "to", 
+                     1.37, 
+                     1.47
+                  ], 
+                  [
+                     "prevent", 
+                     1.47, 
+                     1.79
+                  ], 
+                  [
+                     "the", 
+                     1.79, 
+                     1.87
+                  ], 
+                  [
+                     "vision", 
+                     1.87, 
+                     2.19
+                  ], 
+                  [
+                     "taking", 
+                     2.19, 
+                     2.53
+                  ], 
+                  [
+                     "in", 
+                     2.53, 
+                     2.64
+                  ], 
+                  [
+                     "more", 
+                     2.64, 
+                     2.85
+                  ], 
+                  [
+                     "than", 
+                     2.85, 
+                     2.97
+                  ], 
+                  [
+                     "sixty", 
+                     2.97, 
+                     3.34
+                  ], 
+                  [
+                     "yards", 
+                     3.34, 
+                     3.96
+                  ], 
+                  [
+                     "so", 
+                     4.25, 
+                     4.48
+                  ], 
+                  [
+                     "I", 
+                     4.48, 
+                     4.56
+                  ], 
+                  [
+                     "was", 
+                     4.56, 
+                     4.67
+                  ], 
+                  [
+                     "disappointed", 
+                     4.67, 
+                     5.39
+                  ], 
+                  [
+                     "in", 
+                     5.39, 
+                     5.48
+                  ], 
+                  [
+                     "my", 
+                     5.48, 
+                     5.62
+                  ], 
+                  [
+                     "ex", 
+                     5.62, 
+                     5.82
+                  ]
+               ], 
+               "confidence": 0.881, 
+               "transcript": "there was just far enough to prevent the vision taking in more than sixty yards so I was disappointed in my ex "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "language", 
+                     6.33, 
+                     6.84
+                  ], 
+                  [
+                     "itself", 
+                     6.84, 
+                     7.3
+                  ], 
+                  [
+                     "is", 
+                     7.3, 
+                     7.41
+                  ], 
+                  [
+                     "proof", 
+                     7.41, 
+                     7.68
+                  ], 
+                  [
+                     "of", 
+                     7.68, 
+                     7.79
+                  ], 
+                  [
+                     "it", 
+                     7.79, 
+                     8.03
+                  ]
+               ], 
+               "confidence": 0.968, 
+               "transcript": "language itself is proof of it "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "many", 
+                     8.64, 
+                     8.94
+                  ], 
+                  [
+                     "all", 
+                     8.94, 
+                     9.07
+                  ], 
+                  [
+                     "gone", 
+                     9.07, 
+                     9.36
+                  ], 
+                  [
+                     "in", 
+                     9.4, 
+                     9.5
+                  ], 
+                  [
+                     "words", 
+                     9.5, 
+                     9.83
+                  ]
+               ], 
+               "confidence": 0.679, 
+               "transcript": "many all gone in words "
+            }
+         ], 
+         "final": true
+      }
+   ], 
+   "result_index": 0, 
+   "speaker_labels": [
+      {
+         "from": 0.27, 
+         "to": 0.41, 
+         "speaker": 1, 
+         "confidence": 0.458, 
+         "final": false
+      }, 
+      {
+         "from": 0.41, 
+         "to": 0.54, 
+         "speaker": 1, 
+         "confidence": 0.458, 
+         "final": false
+      }, 
+      {
+         "from": 0.54, 
+         "to": 0.81, 
+         "speaker": 1, 
+         "confidence": 0.458, 
+         "final": false
+      }, 
+      {
+         "from": 0.81, 
+         "to": 1.03, 
+         "speaker": 1, 
+         "confidence": 0.458, 
+         "final": false
+      }, 
+      {
+         "from": 1.06, 
+         "to": 1.37, 
+         "speaker": 1, 
+         "confidence": 0.498, 
+         "final": false
+      }, 
+      {
+         "from": 1.37, 
+         "to": 1.47, 
+         "speaker": 1, 
+         "confidence": 0.498, 
+         "final": false
+      }, 
+      {
+         "from": 1.47, 
+         "to": 1.79, 
+         "speaker": 1, 
+         "confidence": 0.498, 
+         "final": false
+      }, 
+      {
+         "from": 1.79, 
+         "to": 1.87, 
+         "speaker": 1, 
+         "confidence": 0.498, 
+         "final": false
+      }, 
+      {
+         "from": 1.87, 
+         "to": 2.19, 
+         "speaker": 1, 
+         "confidence": 0.498, 
+         "final": false
+      }, 
+      {
+         "from": 2.19, 
+         "to": 2.53, 
+         "speaker": 1, 
+         "confidence": 0.498, 
+         "final": false
+      }, 
+      {
+         "from": 2.53, 
+         "to": 2.64, 
+         "speaker": 1, 
+         "confidence": 0.498, 
+         "final": false
+      }, 
+      {
+         "from": 2.64, 
+         "to": 2.85, 
+         "speaker": 1, 
+         "confidence": 0.498, 
+         "final": false
+      }, 
+      {
+         "from": 2.85, 
+         "to": 2.97, 
+         "speaker": 1, 
+         "confidence": 0.498, 
+         "final": false
+      }, 
+      {
+         "from": 2.97, 
+         "to": 3.34, 
+         "speaker": 1, 
+         "confidence": 0.498, 
+         "final": false
+      }, 
+      {
+         "from": 3.34, 
+         "to": 3.96, 
+         "speaker": 1, 
+         "confidence": 0.498, 
+         "final": false
+      }, 
+      {
+         "from": 4.25, 
+         "to": 4.48, 
+         "speaker": 1, 
+         "confidence": 0.441, 
+         "final": false
+      }, 
+      {
+         "from": 4.48, 
+         "to": 4.56, 
+         "speaker": 1, 
+         "confidence": 0.441, 
+         "final": false
+      }, 
+      {
+         "from": 4.56, 
+         "to": 4.67, 
+         "speaker": 1, 
+         "confidence": 0.441, 
+         "final": false
+      }, 
+      {
+         "from": 4.67, 
+         "to": 5.39, 
+         "speaker": 1, 
+         "confidence": 0.441, 
+         "final": false
+      }, 
+      {
+         "from": 5.39, 
+         "to": 5.48, 
+         "speaker": 1, 
+         "confidence": 0.441, 
+         "final": false
+      }, 
+      {
+         "from": 5.48, 
+         "to": 5.62, 
+         "speaker": 1, 
+         "confidence": 0.441, 
+         "final": false
+      }, 
+      {
+         "from": 5.62, 
+         "to": 5.82, 
+         "speaker": 1, 
+         "confidence": 0.441, 
+         "final": false
+      }, 
+      {
+         "from": 6.33, 
+         "to": 6.84, 
+         "speaker": 2, 
+         "confidence": 0.516, 
+         "final": false
+      }, 
+      {
+         "from": 6.84, 
+         "to": 7.3, 
+         "speaker": 2, 
+         "confidence": 0.516, 
+         "final": false
+      }, 
+      {
+         "from": 7.3, 
+         "to": 7.41, 
+         "speaker": 2, 
+         "confidence": 0.516, 
+         "final": false
+      }, 
+      {
+         "from": 7.41, 
+         "to": 7.68, 
+         "speaker": 2, 
+         "confidence": 0.516, 
+         "final": false
+      }, 
+      {
+         "from": 7.68, 
+         "to": 7.79, 
+         "speaker": 2, 
+         "confidence": 0.516, 
+         "final": false
+      }, 
+      {
+         "from": 7.79, 
+         "to": 8.03, 
+         "speaker": 2, 
+         "confidence": 0.516, 
+         "final": false
+      }, 
+      {
+         "from": 8.64, 
+         "to": 8.94, 
+         "speaker": 2, 
+         "confidence": 0.429, 
+         "final": false
+      }, 
+      {
+         "from": 8.94, 
+         "to": 9.07, 
+         "speaker": 2, 
+         "confidence": 0.429, 
+         "final": false
+      }, 
+      {
+         "from": 9.07, 
+         "to": 9.36, 
+         "speaker": 2, 
+         "confidence": 0.429, 
+         "final": false
+      }, 
+      {
+         "from": 9.4, 
+         "to": 9.5, 
+         "speaker": 0, 
+         "confidence": 0.46, 
+         "final": false
+      }, 
+      {
+         "from": 9.5, 
+         "to": 9.83, 
+         "speaker": 0, 
+         "confidence": 0.46, 
+         "final": true
+      }
+   ]
+}

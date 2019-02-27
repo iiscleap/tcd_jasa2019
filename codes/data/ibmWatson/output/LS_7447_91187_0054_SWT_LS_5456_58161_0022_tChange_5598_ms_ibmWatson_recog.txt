@@ -1,0 +1,337 @@
+{
+   "results": [
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "Siri", 
+                     0.24, 
+                     0.65
+                  ]
+               ], 
+               "confidence": 0.603, 
+               "transcript": "Siri "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "only", 
+                     0.72, 
+                     0.92
+                  ], 
+                  [
+                     "fanzine", 
+                     0.92, 
+                     1.56
+                  ]
+               ], 
+               "confidence": 0.686, 
+               "transcript": "only fanzine "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "masters", 
+                     2.36, 
+                     2.96
+                  ]
+               ], 
+               "confidence": 0.958, 
+               "transcript": "masters "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "nine", 
+                     3.35, 
+                     3.61
+                  ], 
+                  [
+                     "reckless", 
+                     4.25, 
+                     4.92
+                  ], 
+                  [
+                     "out", 
+                     5.06, 
+                     5.28
+                  ], 
+                  [
+                     "of", 
+                     5.28, 
+                     5.4
+                  ], 
+                  [
+                     "a", 
+                     5.55, 
+                     5.65
+                  ], 
+                  [
+                     "not", 
+                     5.65, 
+                     5.96
+                  ], 
+                  [
+                     "the", 
+                     5.96, 
+                     6.08
+                  ], 
+                  [
+                     "gold", 
+                     6.08, 
+                     6.44
+                  ], 
+                  [
+                     "and", 
+                     6.44, 
+                     6.57
+                  ], 
+                  [
+                     "silver", 
+                     6.57, 
+                     6.88
+                  ], 
+                  [
+                     "can", 
+                     6.88, 
+                     7.03
+                  ]
+               ], 
+               "confidence": 0.794, 
+               "transcript": "nine reckless out of a not the gold and silver can "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "five", 
+                     7.15, 
+                     7.57
+                  ], 
+                  [
+                     "golden", 
+                     7.69, 
+                     8.2
+                  ], 
+                  [
+                     "silver", 
+                     8.2, 
+                     8.61
+                  ]
+               ], 
+               "confidence": 0.742, 
+               "transcript": "five golden silver "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "a", 
+                     8.71, 
+                     8.74
+                  ], 
+                  [
+                     "yet", 
+                     8.74, 
+                     9.03
+                  ], 
+                  [
+                     "on", 
+                     9.03, 
+                     9.17
+                  ], 
+                  [
+                     "top", 
+                     9.17, 
+                     9.4
+                  ]
+               ], 
+               "confidence": 0.744, 
+               "transcript": "a yet on top "
+            }
+         ], 
+         "final": true
+      }
+   ], 
+   "result_index": 0, 
+   "speaker_labels": [
+      {
+         "from": 0.24, 
+         "to": 0.65, 
+         "speaker": 0, 
+         "confidence": 0.5, 
+         "final": false
+      }, 
+      {
+         "from": 0.72, 
+         "to": 0.92, 
+         "speaker": 0, 
+         "confidence": 0.44, 
+         "final": false
+      }, 
+      {
+         "from": 0.92, 
+         "to": 1.56, 
+         "speaker": 0, 
+         "confidence": 0.44, 
+         "final": false
+      }, 
+      {
+         "from": 2.36, 
+         "to": 2.96, 
+         "speaker": 0, 
+         "confidence": 0.381, 
+         "final": false
+      }, 
+      {
+         "from": 3.35, 
+         "to": 3.61, 
+         "speaker": 0, 
+         "confidence": 0.414, 
+         "final": false
+      }, 
+      {
+         "from": 4.25, 
+         "to": 4.92, 
+         "speaker": 0, 
+         "confidence": 0.445, 
+         "final": false
+      }, 
+      {
+         "from": 5.06, 
+         "to": 5.28, 
+         "speaker": 0, 
+         "confidence": 0.462, 
+         "final": false
+      }, 
+      {
+         "from": 5.28, 
+         "to": 5.4, 
+         "speaker": 0, 
+         "confidence": 0.462, 
+         "final": false
+      }, 
+      {
+         "from": 5.55, 
+         "to": 5.65, 
+         "speaker": 3, 
+         "confidence": 0.392, 
+         "final": false
+      }, 
+      {
+         "from": 5.65, 
+         "to": 5.96, 
+         "speaker": 3, 
+         "confidence": 0.392, 
+         "final": false
+      }, 
+      {
+         "from": 5.96, 
+         "to": 6.08, 
+         "speaker": 3, 
+         "confidence": 0.392, 
+         "final": false
+      }, 
+      {
+         "from": 6.08, 
+         "to": 6.44, 
+         "speaker": 3, 
+         "confidence": 0.392, 
+         "final": false
+      }, 
+      {
+         "from": 6.44, 
+         "to": 6.57, 
+         "speaker": 3, 
+         "confidence": 0.392, 
+         "final": false
+      }, 
+      {
+         "from": 6.57, 
+         "to": 6.88, 
+         "speaker": 3, 
+         "confidence": 0.392, 
+         "final": false
+      }, 
+      {
+         "from": 6.88, 
+         "to": 7.03, 
+         "speaker": 3, 
+         "confidence": 0.392, 
+         "final": false
+      }, 
+      {
+         "from": 7.15, 
+         "to": 7.57, 
+         "speaker": 3, 
+         "confidence": 0.417, 
+         "final": false
+      }, 
+      {
+         "from": 7.69, 
+         "to": 8.2, 
+         "speaker": 3, 
+         "confidence": 0.49, 
+         "final": false
+      }, 
+      {
+         "from": 8.2, 
+         "to": 8.61, 
+         "speaker": 3, 
+         "confidence": 0.49, 
+         "final": false
+      }, 
+      {
+         "from": 8.71, 
+         "to": 8.74, 
+         "speaker": 3, 
+         "confidence": 0.556, 
+         "final": false
+      }, 
+      {
+         "from": 8.74, 
+         "to": 9.03, 
+         "speaker": 3, 
+         "confidence": 0.556, 
+         "final": false
+      }, 
+      {
+         "from": 9.03, 
+         "to": 9.17, 
+         "speaker": 3, 
+         "confidence": 0.556, 
+         "final": false
+      }, 
+      {
+         "from": 9.17, 
+         "to": 9.4, 
+         "speaker": 3, 
+         "confidence": 0.556, 
+         "final": true
+      }
+   ]
+}

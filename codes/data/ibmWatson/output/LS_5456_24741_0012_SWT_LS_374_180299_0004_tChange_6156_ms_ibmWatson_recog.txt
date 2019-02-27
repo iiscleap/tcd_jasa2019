@@ -1,0 +1,351 @@
+{
+   "results": [
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "the", 
+                     0.12, 
+                     0.21
+                  ], 
+                  [
+                     "modifications", 
+                     0.21, 
+                     0.97
+                  ], 
+                  [
+                     "of", 
+                     0.97, 
+                     1.06
+                  ], 
+                  [
+                     "the", 
+                     1.06, 
+                     1.15
+                  ], 
+                  [
+                     "humor", 
+                     1.15, 
+                     1.36
+                  ]
+               ], 
+               "confidence": 0.904, 
+               "transcript": "the modifications of the humor "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "body", 
+                     1.45, 
+                     2.02
+                  ], 
+                  [
+                     "of", 
+                     2.05, 
+                     2.2
+                  ], 
+                  [
+                     "which", 
+                     2.2, 
+                     2.45
+                  ], 
+                  [
+                     "the", 
+                     2.45, 
+                     2.6
+                  ], 
+                  [
+                     "ideas", 
+                     2.6, 
+                     3.08
+                  ], 
+                  [
+                     "represent", 
+                     3.08, 
+                     3.62
+                  ], 
+                  [
+                     "external", 
+                     3.62, 
+                     4.11
+                  ], 
+                  [
+                     "bodies", 
+                     4.11, 
+                     4.5
+                  ], 
+                  [
+                     "is", 
+                     4.5, 
+                     4.63
+                  ], 
+                  [
+                     "present", 
+                     4.63, 
+                     5.03
+                  ], 
+                  [
+                     "to", 
+                     5.03, 
+                     5.25
+                  ], 
+                  [
+                     "us", 
+                     5.25, 
+                     5.59
+                  ]
+               ], 
+               "confidence": 0.961, 
+               "transcript": "body of which the ideas represent external bodies is present to us "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "but", 
+                     6.09, 
+                     6.23
+                  ], 
+                  [
+                     "that", 
+                     6.23, 
+                     6.42
+                  ], 
+                  [
+                     "is", 
+                     6.42, 
+                     6.57
+                  ], 
+                  [
+                     "not", 
+                     6.57, 
+                     6.81
+                  ], 
+                  [
+                     "all", 
+                     6.81, 
+                     7.27
+                  ], 
+                  [
+                     "continued", 
+                     7.33, 
+                     7.94
+                  ], 
+                  [
+                     "Marguerite", 
+                     7.94, 
+                     8.66
+                  ]
+               ], 
+               "confidence": 0.802, 
+               "transcript": "but that is not all continued Marguerite "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "what", 
+                     9.35, 
+                     9.6
+                  ]
+               ], 
+               "confidence": 0.834, 
+               "transcript": "what "
+            }
+         ], 
+         "final": true
+      }
+   ], 
+   "result_index": 0, 
+   "speaker_labels": [
+      {
+         "from": 0.12, 
+         "to": 0.21, 
+         "speaker": 0, 
+         "confidence": 0.5, 
+         "final": false
+      }, 
+      {
+         "from": 0.21, 
+         "to": 0.97, 
+         "speaker": 0, 
+         "confidence": 0.5, 
+         "final": false
+      }, 
+      {
+         "from": 0.97, 
+         "to": 1.06, 
+         "speaker": 0, 
+         "confidence": 0.5, 
+         "final": false
+      }, 
+      {
+         "from": 1.06, 
+         "to": 1.15, 
+         "speaker": 0, 
+         "confidence": 0.5, 
+         "final": false
+      }, 
+      {
+         "from": 1.15, 
+         "to": 1.36, 
+         "speaker": 0, 
+         "confidence": 0.5, 
+         "final": false
+      }, 
+      {
+         "from": 1.45, 
+         "to": 2.02, 
+         "speaker": 0, 
+         "confidence": 0.564, 
+         "final": false
+      }, 
+      {
+         "from": 2.05, 
+         "to": 2.2, 
+         "speaker": 0, 
+         "confidence": 0.579, 
+         "final": false
+      }, 
+      {
+         "from": 2.2, 
+         "to": 2.45, 
+         "speaker": 0, 
+         "confidence": 0.579, 
+         "final": false
+      }, 
+      {
+         "from": 2.45, 
+         "to": 2.6, 
+         "speaker": 0, 
+         "confidence": 0.579, 
+         "final": false
+      }, 
+      {
+         "from": 2.6, 
+         "to": 3.08, 
+         "speaker": 0, 
+         "confidence": 0.579, 
+         "final": false
+      }, 
+      {
+         "from": 3.08, 
+         "to": 3.62, 
+         "speaker": 0, 
+         "confidence": 0.579, 
+         "final": false
+      }, 
+      {
+         "from": 3.62, 
+         "to": 4.11, 
+         "speaker": 0, 
+         "confidence": 0.579, 
+         "final": false
+      }, 
+      {
+         "from": 4.11, 
+         "to": 4.5, 
+         "speaker": 0, 
+         "confidence": 0.579, 
+         "final": false
+      }, 
+      {
+         "from": 4.5, 
+         "to": 4.63, 
+         "speaker": 0, 
+         "confidence": 0.579, 
+         "final": false
+      }, 
+      {
+         "from": 4.63, 
+         "to": 5.03, 
+         "speaker": 0, 
+         "confidence": 0.579, 
+         "final": false
+      }, 
+      {
+         "from": 5.03, 
+         "to": 5.25, 
+         "speaker": 0, 
+         "confidence": 0.579, 
+         "final": false
+      }, 
+      {
+         "from": 5.25, 
+         "to": 5.59, 
+         "speaker": 0, 
+         "confidence": 0.579, 
+         "final": false
+      }, 
+      {
+         "from": 6.09, 
+         "to": 6.23, 
+         "speaker": 1, 
+         "confidence": 0.569, 
+         "final": false
+      }, 
+      {
+         "from": 6.23, 
+         "to": 6.42, 
+         "speaker": 1, 
+         "confidence": 0.569, 
+         "final": false
+      }, 
+      {
+         "from": 6.42, 
+         "to": 6.57, 
+         "speaker": 1, 
+         "confidence": 0.569, 
+         "final": false
+      }, 
+      {
+         "from": 6.57, 
+         "to": 6.81, 
+         "speaker": 1, 
+         "confidence": 0.569, 
+         "final": false
+      }, 
+      {
+         "from": 6.81, 
+         "to": 7.27, 
+         "speaker": 1, 
+         "confidence": 0.569, 
+         "final": false
+      }, 
+      {
+         "from": 7.33, 
+         "to": 7.94, 
+         "speaker": 1, 
+         "confidence": 0.598, 
+         "final": false
+      }, 
+      {
+         "from": 7.94, 
+         "to": 8.66, 
+         "speaker": 1, 
+         "confidence": 0.598, 
+         "final": false
+      }, 
+      {
+         "from": 9.35, 
+         "to": 9.6, 
+         "speaker": 2, 
+         "confidence": 0.455, 
+         "final": true
+      }
+   ]
+}

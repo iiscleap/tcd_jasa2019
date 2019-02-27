@@ -1,0 +1,351 @@
+{
+   "results": [
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "as", 
+                     0.23, 
+                     0.39
+                  ], 
+                  [
+                     "we", 
+                     0.39, 
+                     0.52
+                  ], 
+                  [
+                     "had", 
+                     0.52, 
+                     0.71
+                  ], 
+                  [
+                     "nothing", 
+                     0.71, 
+                     1.04
+                  ], 
+                  [
+                     "to", 
+                     1.04, 
+                     1.17
+                  ], 
+                  [
+                     "lean", 
+                     1.17, 
+                     1.36
+                  ], 
+                  [
+                     "against", 
+                     1.36, 
+                     2.01
+                  ]
+               ], 
+               "confidence": 1.0, 
+               "transcript": "as we had nothing to lean against "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "went", 
+                     2.67, 
+                     2.93
+                  ], 
+                  [
+                     "on", 
+                     2.93, 
+                     3.15
+                  ], 
+                  [
+                     "like", 
+                     3.15, 
+                     3.45
+                  ], 
+                  [
+                     "this", 
+                     3.45, 
+                     4.0
+                  ], 
+                  [
+                     "slowly", 
+                     4.07, 
+                     4.62
+                  ], 
+                  [
+                     "enough", 
+                     4.62, 
+                     5.18
+                  ]
+               ], 
+               "confidence": 0.988, 
+               "transcript": "went on like this slowly enough "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "the", 
+                     5.75, 
+                     5.93
+                  ], 
+                  [
+                     "game", 
+                     5.93, 
+                     6.2
+                  ], 
+                  [
+                     "went", 
+                     6.2, 
+                     6.38
+                  ], 
+                  [
+                     "on", 
+                     6.38, 
+                     6.64
+                  ]
+               ], 
+               "confidence": 0.823, 
+               "transcript": "the game went on "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "and", 
+                     6.85, 
+                     6.99
+                  ], 
+                  [
+                     "the", 
+                     6.99, 
+                     7.06
+                  ], 
+                  [
+                     "paddles", 
+                     7.06, 
+                     7.47
+                  ], 
+                  [
+                     "kept", 
+                     7.47, 
+                     7.71
+                  ], 
+                  [
+                     "moving", 
+                     7.71, 
+                     8.18
+                  ], 
+                  [
+                     "at", 
+                     8.55, 
+                     8.68
+                  ], 
+                  [
+                     "eleven", 
+                     8.68, 
+                     8.97
+                  ], 
+                  [
+                     "o'clock", 
+                     8.97, 
+                     9.32
+                  ]
+               ], 
+               "confidence": 0.894, 
+               "transcript": "and the paddles kept moving at eleven o'clock "
+            }
+         ], 
+         "final": true
+      }
+   ], 
+   "result_index": 0, 
+   "speaker_labels": [
+      {
+         "from": 0.23, 
+         "to": 0.39, 
+         "speaker": 0, 
+         "confidence": 0.5, 
+         "final": false
+      }, 
+      {
+         "from": 0.39, 
+         "to": 0.52, 
+         "speaker": 0, 
+         "confidence": 0.5, 
+         "final": false
+      }, 
+      {
+         "from": 0.52, 
+         "to": 0.71, 
+         "speaker": 0, 
+         "confidence": 0.5, 
+         "final": false
+      }, 
+      {
+         "from": 0.71, 
+         "to": 1.04, 
+         "speaker": 0, 
+         "confidence": 0.5, 
+         "final": false
+      }, 
+      {
+         "from": 1.04, 
+         "to": 1.17, 
+         "speaker": 0, 
+         "confidence": 0.5, 
+         "final": false
+      }, 
+      {
+         "from": 1.17, 
+         "to": 1.36, 
+         "speaker": 0, 
+         "confidence": 0.5, 
+         "final": false
+      }, 
+      {
+         "from": 1.36, 
+         "to": 2.01, 
+         "speaker": 0, 
+         "confidence": 0.5, 
+         "final": false
+      }, 
+      {
+         "from": 2.67, 
+         "to": 2.93, 
+         "speaker": 0, 
+         "confidence": 0.502, 
+         "final": false
+      }, 
+      {
+         "from": 2.93, 
+         "to": 3.15, 
+         "speaker": 0, 
+         "confidence": 0.502, 
+         "final": false
+      }, 
+      {
+         "from": 3.15, 
+         "to": 3.45, 
+         "speaker": 0, 
+         "confidence": 0.502, 
+         "final": false
+      }, 
+      {
+         "from": 3.45, 
+         "to": 4.0, 
+         "speaker": 0, 
+         "confidence": 0.502, 
+         "final": false
+      }, 
+      {
+         "from": 4.07, 
+         "to": 4.62, 
+         "speaker": 0, 
+         "confidence": 0.535, 
+         "final": false
+      }, 
+      {
+         "from": 4.62, 
+         "to": 5.18, 
+         "speaker": 0, 
+         "confidence": 0.535, 
+         "final": false
+      }, 
+      {
+         "from": 5.75, 
+         "to": 5.93, 
+         "speaker": 1, 
+         "confidence": 0.667, 
+         "final": false
+      }, 
+      {
+         "from": 5.93, 
+         "to": 6.2, 
+         "speaker": 1, 
+         "confidence": 0.667, 
+         "final": false
+      }, 
+      {
+         "from": 6.2, 
+         "to": 6.38, 
+         "speaker": 1, 
+         "confidence": 0.667, 
+         "final": false
+      }, 
+      {
+         "from": 6.38, 
+         "to": 6.64, 
+         "speaker": 1, 
+         "confidence": 0.667, 
+         "final": false
+      }, 
+      {
+         "from": 6.85, 
+         "to": 6.99, 
+         "speaker": 1, 
+         "confidence": 0.564, 
+         "final": false
+      }, 
+      {
+         "from": 6.99, 
+         "to": 7.06, 
+         "speaker": 1, 
+         "confidence": 0.564, 
+         "final": false
+      }, 
+      {
+         "from": 7.06, 
+         "to": 7.47, 
+         "speaker": 1, 
+         "confidence": 0.564, 
+         "final": false
+      }, 
+      {
+         "from": 7.47, 
+         "to": 7.71, 
+         "speaker": 1, 
+         "confidence": 0.564, 
+         "final": false
+      }, 
+      {
+         "from": 7.71, 
+         "to": 8.18, 
+         "speaker": 1, 
+         "confidence": 0.564, 
+         "final": false
+      }, 
+      {
+         "from": 8.55, 
+         "to": 8.68, 
+         "speaker": 1, 
+         "confidence": 0.525, 
+         "final": false
+      }, 
+      {
+         "from": 8.68, 
+         "to": 8.97, 
+         "speaker": 1, 
+         "confidence": 0.525, 
+         "final": false
+      }, 
+      {
+         "from": 8.97, 
+         "to": 9.32, 
+         "speaker": 1, 
+         "confidence": 0.525, 
+         "final": true
+      }
+   ]
+}

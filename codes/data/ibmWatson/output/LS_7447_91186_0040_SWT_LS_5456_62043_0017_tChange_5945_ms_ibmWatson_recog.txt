@@ -1,0 +1,328 @@
+{
+   "results": [
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "it's", 
+                     0.19, 
+                     0.42
+                  ], 
+                  [
+                     "pretty", 
+                     0.42, 
+                     0.65
+                  ]
+               ], 
+               "confidence": 0.931, 
+               "transcript": "it's pretty "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "since", 
+                     0.89, 
+                     1.2
+                  ], 
+                  [
+                     "you", 
+                     1.2, 
+                     1.47
+                  ], 
+                  [
+                     "illustrate", 
+                     1.62, 
+                     2.3
+                  ], 
+                  [
+                     "every", 
+                     2.34, 
+                     2.7
+                  ], 
+                  [
+                     "shade", 
+                     2.7, 
+                     3.3
+                  ], 
+                  [
+                     "of", 
+                     3.33, 
+                     3.48
+                  ], 
+                  [
+                     "human", 
+                     3.48, 
+                     3.87
+                  ], 
+                  [
+                     "feeling", 
+                     3.87, 
+                     4.44
+                  ], 
+                  [
+                     "and", 
+                     4.82, 
+                     5.06
+                  ], 
+                  [
+                     "worst", 
+                     5.06, 
+                     5.44
+                  ]
+               ], 
+               "confidence": 0.837, 
+               "transcript": "since you illustrate every shade of human feeling and worst "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "the", 
+                     5.87, 
+                     6.04
+                  ], 
+                  [
+                     "game", 
+                     6.04, 
+                     6.31
+                  ], 
+                  [
+                     "went", 
+                     6.31, 
+                     6.49
+                  ], 
+                  [
+                     "on", 
+                     6.49, 
+                     6.86
+                  ], 
+                  [
+                     "and", 
+                     6.96, 
+                     7.1
+                  ], 
+                  [
+                     "the", 
+                     7.1, 
+                     7.17
+                  ], 
+                  [
+                     "paddles", 
+                     7.17, 
+                     7.58
+                  ], 
+                  [
+                     "kept", 
+                     7.58, 
+                     7.82
+                  ], 
+                  [
+                     "moving", 
+                     7.82, 
+                     8.28
+                  ], 
+                  [
+                     "at", 
+                     8.66, 
+                     8.79
+                  ], 
+                  [
+                     "eleven", 
+                     8.79, 
+                     9.08
+                  ], 
+                  [
+                     "o'clock", 
+                     9.08, 
+                     9.43
+                  ]
+               ], 
+               "confidence": 0.917, 
+               "transcript": "the game went on and the paddles kept moving at eleven o'clock "
+            }
+         ], 
+         "final": true
+      }
+   ], 
+   "result_index": 0, 
+   "speaker_labels": [
+      {
+         "from": 0.19, 
+         "to": 0.42, 
+         "speaker": 0, 
+         "confidence": 0.5, 
+         "final": false
+      }, 
+      {
+         "from": 0.42, 
+         "to": 0.65, 
+         "speaker": 0, 
+         "confidence": 0.5, 
+         "final": false
+      }, 
+      {
+         "from": 0.89, 
+         "to": 1.2, 
+         "speaker": 0, 
+         "confidence": 0.517, 
+         "final": false
+      }, 
+      {
+         "from": 1.2, 
+         "to": 1.47, 
+         "speaker": 0, 
+         "confidence": 0.517, 
+         "final": false
+      }, 
+      {
+         "from": 1.62, 
+         "to": 2.3, 
+         "speaker": 0, 
+         "confidence": 0.422, 
+         "final": false
+      }, 
+      {
+         "from": 2.34, 
+         "to": 2.7, 
+         "speaker": 0, 
+         "confidence": 0.397, 
+         "final": false
+      }, 
+      {
+         "from": 2.7, 
+         "to": 3.3, 
+         "speaker": 0, 
+         "confidence": 0.397, 
+         "final": false
+      }, 
+      {
+         "from": 3.33, 
+         "to": 3.48, 
+         "speaker": 0, 
+         "confidence": 0.595, 
+         "final": false
+      }, 
+      {
+         "from": 3.48, 
+         "to": 3.87, 
+         "speaker": 0, 
+         "confidence": 0.595, 
+         "final": false
+      }, 
+      {
+         "from": 3.87, 
+         "to": 4.44, 
+         "speaker": 0, 
+         "confidence": 0.595, 
+         "final": false
+      }, 
+      {
+         "from": 4.82, 
+         "to": 5.06, 
+         "speaker": 0, 
+         "confidence": 0.5, 
+         "final": false
+      }, 
+      {
+         "from": 5.06, 
+         "to": 5.44, 
+         "speaker": 0, 
+         "confidence": 0.5, 
+         "final": false
+      }, 
+      {
+         "from": 5.87, 
+         "to": 6.04, 
+         "speaker": 1, 
+         "confidence": 0.584, 
+         "final": false
+      }, 
+      {
+         "from": 6.04, 
+         "to": 6.31, 
+         "speaker": 1, 
+         "confidence": 0.584, 
+         "final": false
+      }, 
+      {
+         "from": 6.31, 
+         "to": 6.49, 
+         "speaker": 1, 
+         "confidence": 0.584, 
+         "final": false
+      }, 
+      {
+         "from": 6.49, 
+         "to": 6.86, 
+         "speaker": 1, 
+         "confidence": 0.584, 
+         "final": false
+      }, 
+      {
+         "from": 6.96, 
+         "to": 7.1, 
+         "speaker": 1, 
+         "confidence": 0.588, 
+         "final": false
+      }, 
+      {
+         "from": 7.1, 
+         "to": 7.17, 
+         "speaker": 1, 
+         "confidence": 0.588, 
+         "final": false
+      }, 
+      {
+         "from": 7.17, 
+         "to": 7.58, 
+         "speaker": 1, 
+         "confidence": 0.588, 
+         "final": false
+      }, 
+      {
+         "from": 7.58, 
+         "to": 7.82, 
+         "speaker": 1, 
+         "confidence": 0.588, 
+         "final": false
+      }, 
+      {
+         "from": 7.82, 
+         "to": 8.28, 
+         "speaker": 1, 
+         "confidence": 0.588, 
+         "final": false
+      }, 
+      {
+         "from": 8.66, 
+         "to": 8.79, 
+         "speaker": 1, 
+         "confidence": 0.568, 
+         "final": false
+      }, 
+      {
+         "from": 8.79, 
+         "to": 9.08, 
+         "speaker": 1, 
+         "confidence": 0.568, 
+         "final": false
+      }, 
+      {
+         "from": 9.08, 
+         "to": 9.43, 
+         "speaker": 1, 
+         "confidence": 0.568, 
+         "final": true
+      }
+   ]
+}

@@ -1,0 +1,316 @@
+{
+   "results": [
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "and", 
+                     0.28, 
+                     0.4
+                  ], 
+                  [
+                     "this", 
+                     0.4, 
+                     0.6
+                  ], 
+                  [
+                     "idea", 
+                     0.6, 
+                     1.1
+                  ], 
+                  [
+                     "did", 
+                     1.1, 
+                     1.28
+                  ], 
+                  [
+                     "not", 
+                     1.28, 
+                     1.47
+                  ], 
+                  [
+                     "arouse", 
+                     1.47, 
+                     1.89
+                  ], 
+                  [
+                     "any", 
+                     1.89, 
+                     2.13
+                  ], 
+                  [
+                     "particular", 
+                     2.13, 
+                     2.81
+                  ], 
+                  [
+                     "enthusiasm", 
+                     2.81, 
+                     3.81
+                  ]
+               ], 
+               "confidence": 0.981, 
+               "transcript": "and this idea did not arouse any particular enthusiasm "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "I", 
+                     4.61, 
+                     4.65
+                  ], 
+                  [
+                     "diary", 
+                     4.65, 
+                     5.38
+                  ]
+               ], 
+               "confidence": 0.994, 
+               "transcript": "I diary "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "scholars", 
+                     5.73, 
+                     6.32
+                  ], 
+                  [
+                     "like", 
+                     6.32, 
+                     6.54
+                  ], 
+                  [
+                     "why", 
+                     6.54, 
+                     6.73
+                  ], 
+                  [
+                     "seven", 
+                     6.73, 
+                     7.05
+                  ], 
+                  [
+                     "torpor", 
+                     7.05, 
+                     7.37
+                  ], 
+                  [
+                     "to", 
+                     7.37, 
+                     7.47
+                  ], 
+                  [
+                     "the", 
+                     7.47, 
+                     7.62
+                  ], 
+                  [
+                     "mother", 
+                     7.62, 
+                     8.01
+                  ], 
+                  [
+                     "to", 
+                     8.01, 
+                     8.17
+                  ], 
+                  [
+                     "mean", 
+                     8.17, 
+                     8.65
+                  ], 
+                  [
+                     "the", 
+                     8.7, 
+                     8.92
+                  ], 
+                  [
+                     "dawn", 
+                     8.92, 
+                     9.39
+                  ]
+               ], 
+               "confidence": 0.791, 
+               "transcript": "scholars like why seven torpor to the mother to mean the dawn "
+            }
+         ], 
+         "final": true
+      }
+   ], 
+   "result_index": 0, 
+   "speaker_labels": [
+      {
+         "from": 0.28, 
+         "to": 0.4, 
+         "speaker": 0, 
+         "confidence": 0.5, 
+         "final": false
+      }, 
+      {
+         "from": 0.4, 
+         "to": 0.6, 
+         "speaker": 0, 
+         "confidence": 0.5, 
+         "final": false
+      }, 
+      {
+         "from": 0.6, 
+         "to": 1.1, 
+         "speaker": 0, 
+         "confidence": 0.5, 
+         "final": false
+      }, 
+      {
+         "from": 1.1, 
+         "to": 1.28, 
+         "speaker": 0, 
+         "confidence": 0.5, 
+         "final": false
+      }, 
+      {
+         "from": 1.28, 
+         "to": 1.47, 
+         "speaker": 0, 
+         "confidence": 0.5, 
+         "final": false
+      }, 
+      {
+         "from": 1.47, 
+         "to": 1.89, 
+         "speaker": 0, 
+         "confidence": 0.5, 
+         "final": false
+      }, 
+      {
+         "from": 1.89, 
+         "to": 2.13, 
+         "speaker": 0, 
+         "confidence": 0.5, 
+         "final": false
+      }, 
+      {
+         "from": 2.13, 
+         "to": 2.81, 
+         "speaker": 0, 
+         "confidence": 0.5, 
+         "final": false
+      }, 
+      {
+         "from": 2.81, 
+         "to": 3.81, 
+         "speaker": 0, 
+         "confidence": 0.5, 
+         "final": false
+      }, 
+      {
+         "from": 4.61, 
+         "to": 4.65, 
+         "speaker": 0, 
+         "confidence": 0.612, 
+         "final": false
+      }, 
+      {
+         "from": 4.65, 
+         "to": 5.38, 
+         "speaker": 0, 
+         "confidence": 0.612, 
+         "final": false
+      }, 
+      {
+         "from": 5.73, 
+         "to": 6.32, 
+         "speaker": 1, 
+         "confidence": 0.581, 
+         "final": false
+      }, 
+      {
+         "from": 6.32, 
+         "to": 6.54, 
+         "speaker": 1, 
+         "confidence": 0.581, 
+         "final": false
+      }, 
+      {
+         "from": 6.54, 
+         "to": 6.73, 
+         "speaker": 1, 
+         "confidence": 0.581, 
+         "final": false
+      }, 
+      {
+         "from": 6.73, 
+         "to": 7.05, 
+         "speaker": 1, 
+         "confidence": 0.581, 
+         "final": false
+      }, 
+      {
+         "from": 7.05, 
+         "to": 7.37, 
+         "speaker": 1, 
+         "confidence": 0.581, 
+         "final": false
+      }, 
+      {
+         "from": 7.37, 
+         "to": 7.47, 
+         "speaker": 1, 
+         "confidence": 0.581, 
+         "final": false
+      }, 
+      {
+         "from": 7.47, 
+         "to": 7.62, 
+         "speaker": 1, 
+         "confidence": 0.581, 
+         "final": false
+      }, 
+      {
+         "from": 7.62, 
+         "to": 8.01, 
+         "speaker": 1, 
+         "confidence": 0.581, 
+         "final": false
+      }, 
+      {
+         "from": 8.01, 
+         "to": 8.17, 
+         "speaker": 1, 
+         "confidence": 0.581, 
+         "final": false
+      }, 
+      {
+         "from": 8.17, 
+         "to": 8.65, 
+         "speaker": 1, 
+         "confidence": 0.581, 
+         "final": false
+      }, 
+      {
+         "from": 8.7, 
+         "to": 8.92, 
+         "speaker": 1, 
+         "confidence": 0.595, 
+         "final": false
+      }, 
+      {
+         "from": 8.92, 
+         "to": 9.39, 
+         "speaker": 1, 
+         "confidence": 0.595, 
+         "final": true
+      }
+   ]
+}

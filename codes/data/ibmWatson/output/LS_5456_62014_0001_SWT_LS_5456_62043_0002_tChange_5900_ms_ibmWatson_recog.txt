@@ -1,0 +1,424 @@
+{
+   "results": [
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "said", 
+                     0.14, 
+                     0.48
+                  ], 
+                  [
+                     "Ned", 
+                     0.48, 
+                     0.89
+                  ]
+               ], 
+               "confidence": 0.512, 
+               "transcript": "said Ned "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "I", 
+                     1.34, 
+                     1.44
+                  ], 
+                  [
+                     "never", 
+                     1.44, 
+                     1.66
+                  ], 
+                  [
+                     "know", 
+                     1.66, 
+                     1.77
+                  ], 
+                  [
+                     "what", 
+                     1.77, 
+                     1.98
+                  ], 
+                  [
+                     "to", 
+                     1.98, 
+                     2.07
+                  ], 
+                  [
+                     "do", 
+                     2.07, 
+                     2.23
+                  ], 
+                  [
+                     "in", 
+                     2.23, 
+                     2.33
+                  ], 
+                  [
+                     "the", 
+                     2.33, 
+                     2.4
+                  ], 
+                  [
+                     "evening", 
+                     2.4, 
+                     2.73
+                  ], 
+                  [
+                     "when", 
+                     2.73, 
+                     2.82
+                  ], 
+                  [
+                     "she", 
+                     2.82, 
+                     3.04
+                  ], 
+                  [
+                     "is", 
+                     3.04, 
+                     3.16
+                  ], 
+                  [
+                     "at", 
+                     3.16, 
+                     3.25
+                  ], 
+                  [
+                     "home", 
+                     3.25, 
+                     3.65
+                  ]
+               ], 
+               "confidence": 0.792, 
+               "transcript": "I never know what to do in the evening when she is at home "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "I'll", 
+                     4.31, 
+                     4.54
+                  ], 
+                  [
+                     "I'll", 
+                     4.54, 
+                     4.69
+                  ], 
+                  [
+                     "back", 
+                     4.69, 
+                     4.9
+                  ], 
+                  [
+                     "to", 
+                     4.9, 
+                     5.0
+                  ], 
+                  [
+                     "base", 
+                     5.0, 
+                     5.25
+                  ], 
+                  [
+                     "your", 
+                     5.25, 
+                     5.54
+                  ], 
+                  [
+                     "voice", 
+                     5.91, 
+                     6.29
+                  ], 
+                  [
+                     "from", 
+                     6.29, 
+                     6.43
+                  ], 
+                  [
+                     "New", 
+                     6.43, 
+                     6.57
+                  ], 
+                  [
+                     "Orleans", 
+                     6.57, 
+                     6.94
+                  ], 
+                  [
+                     "to", 
+                     6.94, 
+                     7.04
+                  ], 
+                  [
+                     "Vicksburg", 
+                     7.04, 
+                     7.6
+                  ], 
+                  [
+                     "in", 
+                     7.6, 
+                     7.69
+                  ], 
+                  [
+                     "back", 
+                     7.69, 
+                     8.14
+                  ], 
+                  [
+                     "including", 
+                     8.44, 
+                     8.96
+                  ], 
+                  [
+                     "stoppages", 
+                     8.96, 
+                     9.56
+                  ]
+               ], 
+               "confidence": 0.808, 
+               "transcript": "I'll I'll back to base your voice from New Orleans to Vicksburg in back including stoppages "
+            }
+         ], 
+         "final": true
+      }
+   ], 
+   "result_index": 0, 
+   "speaker_labels": [
+      {
+         "from": 0.14, 
+         "to": 0.48, 
+         "speaker": 0, 
+         "confidence": 0.5, 
+         "final": false
+      }, 
+      {
+         "from": 0.48, 
+         "to": 0.89, 
+         "speaker": 0, 
+         "confidence": 0.5, 
+         "final": false
+      }, 
+      {
+         "from": 1.34, 
+         "to": 1.44, 
+         "speaker": 1, 
+         "confidence": 0.667, 
+         "final": false
+      }, 
+      {
+         "from": 1.44, 
+         "to": 1.66, 
+         "speaker": 1, 
+         "confidence": 0.667, 
+         "final": false
+      }, 
+      {
+         "from": 1.66, 
+         "to": 1.77, 
+         "speaker": 1, 
+         "confidence": 0.667, 
+         "final": false
+      }, 
+      {
+         "from": 1.77, 
+         "to": 1.98, 
+         "speaker": 1, 
+         "confidence": 0.667, 
+         "final": false
+      }, 
+      {
+         "from": 1.98, 
+         "to": 2.07, 
+         "speaker": 1, 
+         "confidence": 0.667, 
+         "final": false
+      }, 
+      {
+         "from": 2.07, 
+         "to": 2.23, 
+         "speaker": 1, 
+         "confidence": 0.667, 
+         "final": false
+      }, 
+      {
+         "from": 2.23, 
+         "to": 2.33, 
+         "speaker": 1, 
+         "confidence": 0.667, 
+         "final": false
+      }, 
+      {
+         "from": 2.33, 
+         "to": 2.4, 
+         "speaker": 1, 
+         "confidence": 0.667, 
+         "final": false
+      }, 
+      {
+         "from": 2.4, 
+         "to": 2.73, 
+         "speaker": 1, 
+         "confidence": 0.667, 
+         "final": false
+      }, 
+      {
+         "from": 2.73, 
+         "to": 2.82, 
+         "speaker": 1, 
+         "confidence": 0.667, 
+         "final": false
+      }, 
+      {
+         "from": 2.82, 
+         "to": 3.04, 
+         "speaker": 1, 
+         "confidence": 0.667, 
+         "final": false
+      }, 
+      {
+         "from": 3.04, 
+         "to": 3.16, 
+         "speaker": 1, 
+         "confidence": 0.667, 
+         "final": false
+      }, 
+      {
+         "from": 3.16, 
+         "to": 3.25, 
+         "speaker": 1, 
+         "confidence": 0.667, 
+         "final": false
+      }, 
+      {
+         "from": 3.25, 
+         "to": 3.65, 
+         "speaker": 1, 
+         "confidence": 0.667, 
+         "final": false
+      }, 
+      {
+         "from": 4.31, 
+         "to": 4.54, 
+         "speaker": 0, 
+         "confidence": 0.429, 
+         "final": false
+      }, 
+      {
+         "from": 4.54, 
+         "to": 4.69, 
+         "speaker": 0, 
+         "confidence": 0.429, 
+         "final": false
+      }, 
+      {
+         "from": 4.69, 
+         "to": 4.9, 
+         "speaker": 0, 
+         "confidence": 0.429, 
+         "final": false
+      }, 
+      {
+         "from": 4.9, 
+         "to": 5.0, 
+         "speaker": 0, 
+         "confidence": 0.429, 
+         "final": false
+      }, 
+      {
+         "from": 5.0, 
+         "to": 5.25, 
+         "speaker": 0, 
+         "confidence": 0.429, 
+         "final": false
+      }, 
+      {
+         "from": 5.25, 
+         "to": 5.54, 
+         "speaker": 0, 
+         "confidence": 0.429, 
+         "final": false
+      }, 
+      {
+         "from": 5.91, 
+         "to": 6.29, 
+         "speaker": 2, 
+         "confidence": 0.457, 
+         "final": false
+      }, 
+      {
+         "from": 6.29, 
+         "to": 6.43, 
+         "speaker": 2, 
+         "confidence": 0.457, 
+         "final": false
+      }, 
+      {
+         "from": 6.43, 
+         "to": 6.57, 
+         "speaker": 2, 
+         "confidence": 0.457, 
+         "final": false
+      }, 
+      {
+         "from": 6.57, 
+         "to": 6.94, 
+         "speaker": 2, 
+         "confidence": 0.457, 
+         "final": false
+      }, 
+      {
+         "from": 6.94, 
+         "to": 7.04, 
+         "speaker": 2, 
+         "confidence": 0.457, 
+         "final": false
+      }, 
+      {
+         "from": 7.04, 
+         "to": 7.6, 
+         "speaker": 2, 
+         "confidence": 0.457, 
+         "final": false
+      }, 
+      {
+         "from": 7.6, 
+         "to": 7.69, 
+         "speaker": 2, 
+         "confidence": 0.457, 
+         "final": false
+      }, 
+      {
+         "from": 7.69, 
+         "to": 8.14, 
+         "speaker": 2, 
+         "confidence": 0.457, 
+         "final": false
+      }, 
+      {
+         "from": 8.44, 
+         "to": 8.96, 
+         "speaker": 2, 
+         "confidence": 0.433, 
+         "final": false
+      }, 
+      {
+         "from": 8.96, 
+         "to": 9.56, 
+         "speaker": 2, 
+         "confidence": 0.433, 
+         "final": true
+      }
+   ]
+}

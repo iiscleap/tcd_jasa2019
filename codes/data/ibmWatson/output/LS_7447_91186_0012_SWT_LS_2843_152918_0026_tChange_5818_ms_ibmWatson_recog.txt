@@ -1,0 +1,352 @@
+{
+   "results": [
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "if", 
+                     0.38, 
+                     0.6
+                  ], 
+                  [
+                     "she", 
+                     0.6, 
+                     0.87
+                  ], 
+                  [
+                     "actually", 
+                     0.87, 
+                     1.62
+                  ]
+               ], 
+               "confidence": 0.992, 
+               "transcript": "if she actually "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "justice", 
+                     1.72, 
+                     2.58
+                  ], 
+                  [
+                     "to", 
+                     2.61, 
+                     2.75
+                  ], 
+                  [
+                     "some", 
+                     2.75, 
+                     3.02
+                  ], 
+                  [
+                     "of", 
+                     3.02, 
+                     3.13
+                  ], 
+                  [
+                     "the", 
+                     3.13, 
+                     3.27
+                  ], 
+                  [
+                     "errors", 
+                     3.27, 
+                     3.71
+                  ], 
+                  [
+                     "with", 
+                     3.71, 
+                     3.89
+                  ], 
+                  [
+                     "the", 
+                     3.89, 
+                     3.96
+                  ], 
+                  [
+                     "very", 
+                     3.96, 
+                     4.24
+                  ], 
+                  [
+                     "Asians", 
+                     4.24, 
+                     4.88
+                  ], 
+                  [
+                     "in", 
+                     4.91, 
+                     5.2
+                  ]
+               ], 
+               "confidence": 0.83, 
+               "transcript": "justice to some of the errors with the very Asians in "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "we", 
+                     5.76, 
+                     5.88
+                  ], 
+                  [
+                     "traveled", 
+                     5.88, 
+                     6.31
+                  ], 
+                  [
+                     "down", 
+                     6.31, 
+                     6.52
+                  ], 
+                  [
+                     "a", 
+                     6.52, 
+                     6.58
+                  ], 
+                  [
+                     "place", 
+                     6.58, 
+                     6.92
+                  ], 
+                  [
+                     "for", 
+                     6.92, 
+                     7.08
+                  ], 
+                  [
+                     "the", 
+                     7.08, 
+                     7.18
+                  ], 
+                  [
+                     "tension", 
+                     7.18, 
+                     7.7
+                  ], 
+                  [
+                     "the", 
+                     7.7, 
+                     7.8
+                  ], 
+                  [
+                     "loose", 
+                     7.8, 
+                     8.16
+                  ], 
+                  [
+                     "null", 
+                     8.16, 
+                     8.62
+                  ], 
+                  [
+                     "and", 
+                     8.99, 
+                     9.24
+                  ]
+               ], 
+               "confidence": 0.655, 
+               "transcript": "we traveled down a place for the tension the loose null and "
+            }
+         ], 
+         "final": true
+      }
+   ], 
+   "result_index": 0, 
+   "speaker_labels": [
+      {
+         "from": 0.38, 
+         "to": 0.6, 
+         "speaker": 0, 
+         "confidence": 0.5, 
+         "final": false
+      }, 
+      {
+         "from": 0.6, 
+         "to": 0.87, 
+         "speaker": 0, 
+         "confidence": 0.5, 
+         "final": false
+      }, 
+      {
+         "from": 0.87, 
+         "to": 1.62, 
+         "speaker": 0, 
+         "confidence": 0.5, 
+         "final": false
+      }, 
+      {
+         "from": 1.72, 
+         "to": 2.58, 
+         "speaker": 0, 
+         "confidence": 0.498, 
+         "final": false
+      }, 
+      {
+         "from": 2.61, 
+         "to": 2.75, 
+         "speaker": 0, 
+         "confidence": 0.409, 
+         "final": false
+      }, 
+      {
+         "from": 2.75, 
+         "to": 3.02, 
+         "speaker": 0, 
+         "confidence": 0.409, 
+         "final": false
+      }, 
+      {
+         "from": 3.02, 
+         "to": 3.13, 
+         "speaker": 0, 
+         "confidence": 0.409, 
+         "final": false
+      }, 
+      {
+         "from": 3.13, 
+         "to": 3.27, 
+         "speaker": 0, 
+         "confidence": 0.409, 
+         "final": false
+      }, 
+      {
+         "from": 3.27, 
+         "to": 3.71, 
+         "speaker": 0, 
+         "confidence": 0.409, 
+         "final": false
+      }, 
+      {
+         "from": 3.71, 
+         "to": 3.89, 
+         "speaker": 0, 
+         "confidence": 0.409, 
+         "final": false
+      }, 
+      {
+         "from": 3.89, 
+         "to": 3.96, 
+         "speaker": 0, 
+         "confidence": 0.409, 
+         "final": false
+      }, 
+      {
+         "from": 3.96, 
+         "to": 4.24, 
+         "speaker": 0, 
+         "confidence": 0.409, 
+         "final": false
+      }, 
+      {
+         "from": 4.24, 
+         "to": 4.88, 
+         "speaker": 0, 
+         "confidence": 0.409, 
+         "final": false
+      }, 
+      {
+         "from": 4.91, 
+         "to": 5.2, 
+         "speaker": 0, 
+         "confidence": 0.482, 
+         "final": false
+      }, 
+      {
+         "from": 5.76, 
+         "to": 5.88, 
+         "speaker": 1, 
+         "confidence": 0.598, 
+         "final": false
+      }, 
+      {
+         "from": 5.88, 
+         "to": 6.31, 
+         "speaker": 1, 
+         "confidence": 0.598, 
+         "final": false
+      }, 
+      {
+         "from": 6.31, 
+         "to": 6.52, 
+         "speaker": 1, 
+         "confidence": 0.598, 
+         "final": false
+      }, 
+      {
+         "from": 6.52, 
+         "to": 6.58, 
+         "speaker": 1, 
+         "confidence": 0.598, 
+         "final": false
+      }, 
+      {
+         "from": 6.58, 
+         "to": 6.92, 
+         "speaker": 1, 
+         "confidence": 0.598, 
+         "final": false
+      }, 
+      {
+         "from": 6.92, 
+         "to": 7.08, 
+         "speaker": 1, 
+         "confidence": 0.598, 
+         "final": false
+      }, 
+      {
+         "from": 7.08, 
+         "to": 7.18, 
+         "speaker": 1, 
+         "confidence": 0.598, 
+         "final": false
+      }, 
+      {
+         "from": 7.18, 
+         "to": 7.7, 
+         "speaker": 1, 
+         "confidence": 0.598, 
+         "final": false
+      }, 
+      {
+         "from": 7.7, 
+         "to": 7.8, 
+         "speaker": 1, 
+         "confidence": 0.598, 
+         "final": false
+      }, 
+      {
+         "from": 7.8, 
+         "to": 8.16, 
+         "speaker": 1, 
+         "confidence": 0.598, 
+         "final": false
+      }, 
+      {
+         "from": 8.16, 
+         "to": 8.62, 
+         "speaker": 1, 
+         "confidence": 0.598, 
+         "final": false
+      }, 
+      {
+         "from": 8.99, 
+         "to": 9.24, 
+         "speaker": 1, 
+         "confidence": 0.621, 
+         "final": true
+      }
+   ]
+}

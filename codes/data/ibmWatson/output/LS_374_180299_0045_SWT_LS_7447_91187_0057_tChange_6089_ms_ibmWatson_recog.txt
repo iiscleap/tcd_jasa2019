@@ -1,0 +1,376 @@
+{
+   "results": [
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "no", 
+                     0.28, 
+                     0.5
+                  ], 
+                  [
+                     "I", 
+                     0.5, 
+                     0.6
+                  ], 
+                  [
+                     "was", 
+                     0.6, 
+                     0.78
+                  ], 
+                  [
+                     "half", 
+                     0.78, 
+                     1.04
+                  ], 
+                  [
+                     "inclined", 
+                     1.04, 
+                     1.57
+                  ], 
+                  [
+                     "to", 
+                     1.57, 
+                     1.95
+                  ], 
+                  [
+                     "so", 
+                     2.18, 
+                     2.46
+                  ], 
+                  [
+                     "much", 
+                     2.46, 
+                     2.78
+                  ], 
+                  [
+                     "that", 
+                     2.78, 
+                     2.97
+                  ], 
+                  [
+                     "I", 
+                     2.97, 
+                     3.05
+                  ], 
+                  [
+                     "pity", 
+                     3.05, 
+                     3.43
+                  ], 
+                  [
+                     "him", 
+                     3.43, 
+                     3.8
+                  ], 
+                  [
+                     "but", 
+                     4.34, 
+                     4.49
+                  ], 
+                  [
+                     "I", 
+                     4.49, 
+                     4.57
+                  ], 
+                  [
+                     "was", 
+                     4.57, 
+                     4.74
+                  ], 
+                  [
+                     "afraid", 
+                     4.74, 
+                     5.28
+                  ], 
+                  [
+                     "lest", 
+                     5.28, 
+                     5.78
+                  ], 
+                  [
+                     "it", 
+                     6.02, 
+                     6.24
+                  ], 
+                  [
+                     "leaves", 
+                     6.27, 
+                     6.69
+                  ], 
+                  [
+                     "trim", 
+                     6.69, 
+                     7.08
+                  ]
+               ], 
+               "confidence": 0.79, 
+               "transcript": "no I was half inclined to so much that I pity him but I was afraid lest it leaves trim "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "with", 
+                     7.17, 
+                     7.39
+                  ], 
+                  [
+                     "every", 
+                     7.39, 
+                     7.75
+                  ]
+               ], 
+               "confidence": 0.988, 
+               "transcript": "with every "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "and", 
+                     8.47, 
+                     8.78
+                  ], 
+                  [
+                     "but", 
+                     8.96, 
+                     9.14
+                  ], 
+                  [
+                     "the", 
+                     9.14, 
+                     9.23
+                  ], 
+                  [
+                     "tree", 
+                     9.23, 
+                     9.48
+                  ], 
+                  [
+                     "for", 
+                     9.48, 
+                     9.59
+                  ], 
+                  [
+                     "me", 
+                     9.59, 
+                     9.71
+                  ]
+               ], 
+               "confidence": 0.763, 
+               "transcript": "and but the tree for me "
+            }
+         ], 
+         "final": true
+      }
+   ], 
+   "result_index": 0, 
+   "speaker_labels": [
+      {
+         "from": 0.28, 
+         "to": 0.5, 
+         "speaker": 0, 
+         "confidence": 0.567, 
+         "final": false
+      }, 
+      {
+         "from": 0.5, 
+         "to": 0.6, 
+         "speaker": 0, 
+         "confidence": 0.567, 
+         "final": false
+      }, 
+      {
+         "from": 0.6, 
+         "to": 0.78, 
+         "speaker": 0, 
+         "confidence": 0.567, 
+         "final": false
+      }, 
+      {
+         "from": 0.78, 
+         "to": 1.04, 
+         "speaker": 0, 
+         "confidence": 0.567, 
+         "final": false
+      }, 
+      {
+         "from": 1.04, 
+         "to": 1.57, 
+         "speaker": 0, 
+         "confidence": 0.567, 
+         "final": false
+      }, 
+      {
+         "from": 1.57, 
+         "to": 1.95, 
+         "speaker": 0, 
+         "confidence": 0.567, 
+         "final": false
+      }, 
+      {
+         "from": 2.18, 
+         "to": 2.46, 
+         "speaker": 0, 
+         "confidence": 0.584, 
+         "final": false
+      }, 
+      {
+         "from": 2.46, 
+         "to": 2.78, 
+         "speaker": 0, 
+         "confidence": 0.584, 
+         "final": false
+      }, 
+      {
+         "from": 2.78, 
+         "to": 2.97, 
+         "speaker": 0, 
+         "confidence": 0.584, 
+         "final": false
+      }, 
+      {
+         "from": 2.97, 
+         "to": 3.05, 
+         "speaker": 0, 
+         "confidence": 0.584, 
+         "final": false
+      }, 
+      {
+         "from": 3.05, 
+         "to": 3.43, 
+         "speaker": 0, 
+         "confidence": 0.584, 
+         "final": false
+      }, 
+      {
+         "from": 3.43, 
+         "to": 3.8, 
+         "speaker": 0, 
+         "confidence": 0.584, 
+         "final": false
+      }, 
+      {
+         "from": 4.34, 
+         "to": 4.49, 
+         "speaker": 0, 
+         "confidence": 0.552, 
+         "final": false
+      }, 
+      {
+         "from": 4.49, 
+         "to": 4.57, 
+         "speaker": 0, 
+         "confidence": 0.552, 
+         "final": false
+      }, 
+      {
+         "from": 4.57, 
+         "to": 4.74, 
+         "speaker": 0, 
+         "confidence": 0.552, 
+         "final": false
+      }, 
+      {
+         "from": 4.74, 
+         "to": 5.28, 
+         "speaker": 0, 
+         "confidence": 0.552, 
+         "final": false
+      }, 
+      {
+         "from": 5.28, 
+         "to": 5.78, 
+         "speaker": 0, 
+         "confidence": 0.552, 
+         "final": false
+      }, 
+      {
+         "from": 6.02, 
+         "to": 6.24, 
+         "speaker": 1, 
+         "confidence": 0.612, 
+         "final": false
+      }, 
+      {
+         "from": 6.27, 
+         "to": 6.69, 
+         "speaker": 1, 
+         "confidence": 0.609, 
+         "final": false
+      }, 
+      {
+         "from": 6.69, 
+         "to": 7.08, 
+         "speaker": 1, 
+         "confidence": 0.609, 
+         "final": false
+      }, 
+      {
+         "from": 7.17, 
+         "to": 7.39, 
+         "speaker": 1, 
+         "confidence": 0.602, 
+         "final": false
+      }, 
+      {
+         "from": 7.39, 
+         "to": 7.75, 
+         "speaker": 1, 
+         "confidence": 0.602, 
+         "final": false
+      }, 
+      {
+         "from": 8.47, 
+         "to": 8.78, 
+         "speaker": 1, 
+         "confidence": 0.532, 
+         "final": false
+      }, 
+      {
+         "from": 8.96, 
+         "to": 9.14, 
+         "speaker": 1, 
+         "confidence": 0.572, 
+         "final": false
+      }, 
+      {
+         "from": 9.14, 
+         "to": 9.23, 
+         "speaker": 1, 
+         "confidence": 0.572, 
+         "final": false
+      }, 
+      {
+         "from": 9.23, 
+         "to": 9.48, 
+         "speaker": 1, 
+         "confidence": 0.572, 
+         "final": false
+      }, 
+      {
+         "from": 9.48, 
+         "to": 9.59, 
+         "speaker": 1, 
+         "confidence": 0.572, 
+         "final": false
+      }, 
+      {
+         "from": 9.59, 
+         "to": 9.71, 
+         "speaker": 1, 
+         "confidence": 0.572, 
+         "final": true
+      }
+   ]
+}

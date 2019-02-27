@@ -1,0 +1,438 @@
+{
+   "results": [
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "always", 
+                     0.16, 
+                     0.61
+                  ], 
+                  [
+                     "repeating", 
+                     0.61, 
+                     1.17
+                  ], 
+                  [
+                     "that", 
+                     1.17, 
+                     1.32
+                  ], 
+                  [
+                     "I", 
+                     1.32, 
+                     1.42
+                  ], 
+                  [
+                     "was", 
+                     1.42, 
+                     1.61
+                  ], 
+                  [
+                     "quite", 
+                     1.61, 
+                     1.99
+                  ], 
+                  [
+                     "well", 
+                     1.99, 
+                     2.44
+                  ], 
+                  [
+                     "and", 
+                     2.6, 
+                     2.83
+                  ], 
+                  [
+                     "that", 
+                     2.83, 
+                     2.96
+                  ], 
+                  [
+                     "I", 
+                     2.96, 
+                     3.04
+                  ], 
+                  [
+                     "was", 
+                     3.04, 
+                     3.23
+                  ], 
+                  [
+                     "not", 
+                     3.23, 
+                     3.47
+                  ], 
+                  [
+                     "in", 
+                     3.47, 
+                     3.59
+                  ], 
+                  [
+                     "need", 
+                     3.59, 
+                     3.87
+                  ], 
+                  [
+                     "of", 
+                     3.87, 
+                     4.0
+                  ], 
+                  [
+                     "money", 
+                     4.0, 
+                     4.49
+                  ], 
+                  [
+                     "to", 
+                     4.67, 
+                     4.95
+                  ], 
+                  [
+                     "things", 
+                     4.95, 
+                     5.37
+                  ], 
+                  [
+                     "she", 
+                     5.53, 
+                     5.73
+                  ], 
+                  [
+                     "would", 
+                     5.73, 
+                     5.88
+                  ], 
+                  [
+                     "write", 
+                     5.88, 
+                     6.14
+                  ], 
+                  [
+                     "to", 
+                     6.14, 
+                     6.26
+                  ], 
+                  [
+                     "me", 
+                     6.26, 
+                     6.4
+                  ], 
+                  [
+                     "in", 
+                     6.4, 
+                     6.51
+                  ], 
+                  [
+                     "the", 
+                     6.51, 
+                     6.6
+                  ], 
+                  [
+                     "morning", 
+                     6.6, 
+                     7.02
+                  ], 
+                  [
+                     "that", 
+                     7.02, 
+                     7.18
+                  ], 
+                  [
+                     "she", 
+                     7.18, 
+                     7.33
+                  ], 
+                  [
+                     "would", 
+                     7.33, 
+                     7.49
+                  ], 
+                  [
+                     "dine", 
+                     7.49, 
+                     7.79
+                  ], 
+                  [
+                     "with", 
+                     7.79, 
+                     8.01
+                  ], 
+                  [
+                     "me", 
+                     8.01, 
+                     8.33
+                  ], 
+                  [
+                     "not", 
+                     8.6, 
+                     8.86
+                  ], 
+                  [
+                     "at", 
+                     8.86, 
+                     8.95
+                  ], 
+                  [
+                     "home", 
+                     8.98, 
+                     9.34
+                  ]
+               ], 
+               "confidence": 0.962, 
+               "transcript": "always repeating that I was quite well and that I was not in need of money to things she would write to me in the morning that she would dine with me not at home "
+            }
+         ], 
+         "final": true
+      }
+   ], 
+   "result_index": 0, 
+   "speaker_labels": [
+      {
+         "from": 0.16, 
+         "to": 0.61, 
+         "speaker": 0, 
+         "confidence": 0.428, 
+         "final": false
+      }, 
+      {
+         "from": 0.61, 
+         "to": 1.17, 
+         "speaker": 0, 
+         "confidence": 0.428, 
+         "final": false
+      }, 
+      {
+         "from": 1.17, 
+         "to": 1.32, 
+         "speaker": 0, 
+         "confidence": 0.428, 
+         "final": false
+      }, 
+      {
+         "from": 1.32, 
+         "to": 1.42, 
+         "speaker": 0, 
+         "confidence": 0.428, 
+         "final": false
+      }, 
+      {
+         "from": 1.42, 
+         "to": 1.61, 
+         "speaker": 0, 
+         "confidence": 0.428, 
+         "final": false
+      }, 
+      {
+         "from": 1.61, 
+         "to": 1.99, 
+         "speaker": 0, 
+         "confidence": 0.428, 
+         "final": false
+      }, 
+      {
+         "from": 1.99, 
+         "to": 2.44, 
+         "speaker": 0, 
+         "confidence": 0.428, 
+         "final": false
+      }, 
+      {
+         "from": 2.6, 
+         "to": 2.83, 
+         "speaker": 0, 
+         "confidence": 0.348, 
+         "final": false
+      }, 
+      {
+         "from": 2.83, 
+         "to": 2.96, 
+         "speaker": 0, 
+         "confidence": 0.348, 
+         "final": false
+      }, 
+      {
+         "from": 2.96, 
+         "to": 3.04, 
+         "speaker": 0, 
+         "confidence": 0.348, 
+         "final": false
+      }, 
+      {
+         "from": 3.04, 
+         "to": 3.23, 
+         "speaker": 0, 
+         "confidence": 0.348, 
+         "final": false
+      }, 
+      {
+         "from": 3.23, 
+         "to": 3.47, 
+         "speaker": 0, 
+         "confidence": 0.348, 
+         "final": false
+      }, 
+      {
+         "from": 3.47, 
+         "to": 3.59, 
+         "speaker": 0, 
+         "confidence": 0.348, 
+         "final": false
+      }, 
+      {
+         "from": 3.59, 
+         "to": 3.87, 
+         "speaker": 0, 
+         "confidence": 0.348, 
+         "final": false
+      }, 
+      {
+         "from": 3.87, 
+         "to": 4.0, 
+         "speaker": 0, 
+         "confidence": 0.348, 
+         "final": false
+      }, 
+      {
+         "from": 4.0, 
+         "to": 4.49, 
+         "speaker": 0, 
+         "confidence": 0.348, 
+         "final": false
+      }, 
+      {
+         "from": 4.67, 
+         "to": 4.95, 
+         "speaker": 0, 
+         "confidence": 0.433, 
+         "final": false
+      }, 
+      {
+         "from": 4.95, 
+         "to": 5.37, 
+         "speaker": 0, 
+         "confidence": 0.433, 
+         "final": false
+      }, 
+      {
+         "from": 5.53, 
+         "to": 5.73, 
+         "speaker": 1, 
+         "confidence": 0.416, 
+         "final": false
+      }, 
+      {
+         "from": 5.73, 
+         "to": 5.88, 
+         "speaker": 1, 
+         "confidence": 0.416, 
+         "final": false
+      }, 
+      {
+         "from": 5.88, 
+         "to": 6.14, 
+         "speaker": 1, 
+         "confidence": 0.416, 
+         "final": false
+      }, 
+      {
+         "from": 6.14, 
+         "to": 6.26, 
+         "speaker": 1, 
+         "confidence": 0.416, 
+         "final": false
+      }, 
+      {
+         "from": 6.26, 
+         "to": 6.4, 
+         "speaker": 1, 
+         "confidence": 0.416, 
+         "final": false
+      }, 
+      {
+         "from": 6.4, 
+         "to": 6.51, 
+         "speaker": 1, 
+         "confidence": 0.416, 
+         "final": false
+      }, 
+      {
+         "from": 6.51, 
+         "to": 6.6, 
+         "speaker": 1, 
+         "confidence": 0.416, 
+         "final": false
+      }, 
+      {
+         "from": 6.6, 
+         "to": 7.02, 
+         "speaker": 1, 
+         "confidence": 0.416, 
+         "final": false
+      }, 
+      {
+         "from": 7.02, 
+         "to": 7.18, 
+         "speaker": 1, 
+         "confidence": 0.416, 
+         "final": false
+      }, 
+      {
+         "from": 7.18, 
+         "to": 7.33, 
+         "speaker": 1, 
+         "confidence": 0.416, 
+         "final": false
+      }, 
+      {
+         "from": 7.33, 
+         "to": 7.49, 
+         "speaker": 1, 
+         "confidence": 0.416, 
+         "final": false
+      }, 
+      {
+         "from": 7.49, 
+         "to": 7.79, 
+         "speaker": 1, 
+         "confidence": 0.416, 
+         "final": false
+      }, 
+      {
+         "from": 7.79, 
+         "to": 8.01, 
+         "speaker": 1, 
+         "confidence": 0.416, 
+         "final": false
+      }, 
+      {
+         "from": 8.01, 
+         "to": 8.33, 
+         "speaker": 1, 
+         "confidence": 0.416, 
+         "final": false
+      }, 
+      {
+         "from": 8.6, 
+         "to": 8.86, 
+         "speaker": 2, 
+         "confidence": 0.457, 
+         "final": false
+      }, 
+      {
+         "from": 8.86, 
+         "to": 8.95, 
+         "speaker": 2, 
+         "confidence": 0.457, 
+         "final": false
+      }, 
+      {
+         "from": 8.98, 
+         "to": 9.34, 
+         "speaker": 1, 
+         "confidence": 0.454, 
+         "final": true
+      }
+   ]
+}

@@ -1,0 +1,304 @@
+{
+   "results": [
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "Marguerite's", 
+                     0.33, 
+                     0.99
+                  ], 
+                  [
+                     "nature", 
+                     0.99, 
+                     1.39
+                  ], 
+                  [
+                     "was", 
+                     1.39, 
+                     1.58
+                  ], 
+                  [
+                     "very", 
+                     1.58, 
+                     1.95
+                  ], 
+                  [
+                     "capricious", 
+                     1.95, 
+                     2.81
+                  ], 
+                  [
+                     "and", 
+                     3.07, 
+                     3.57
+                  ], 
+                  [
+                     "like", 
+                     3.6, 
+                     3.85
+                  ], 
+                  [
+                     "so", 
+                     3.85, 
+                     4.09
+                  ], 
+                  [
+                     "many", 
+                     4.09, 
+                     4.45
+                  ], 
+                  [
+                     "women", 
+                     4.45, 
+                     4.93
+                  ], 
+                  [
+                     "she", 
+                     5.2, 
+                     5.41
+                  ], 
+                  [
+                     "never", 
+                     5.41, 
+                     5.74
+                  ], 
+                  [
+                     "regarded", 
+                     5.74, 
+                     6.27
+                  ], 
+                  [
+                     "as", 
+                     6.27, 
+                     6.43
+                  ], 
+                  [
+                     "a", 
+                     6.43, 
+                     6.5
+                  ], 
+                  [
+                     "serious", 
+                     6.5, 
+                     7.1
+                  ], 
+                  [
+                     "agree", 
+                     7.27, 
+                     7.62
+                  ]
+               ], 
+               "confidence": 0.95, 
+               "transcript": "Marguerite's nature was very capricious and like so many women she never regarded as a serious agree "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "to", 
+                     8.47, 
+                     8.63
+                  ], 
+                  [
+                     "gratify", 
+                     8.63, 
+                     9.32
+                  ], 
+                  [
+                     "the", 
+                     9.32, 
+                     9.53
+                  ]
+               ], 
+               "confidence": 0.837, 
+               "transcript": "to gratify the "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "this", 
+                     10.58, 
+                     10.74
+                  ], 
+                  [
+                     "is", 
+                     10.77, 
+                     11.01
+                  ]
+               ], 
+               "confidence": 0.505, 
+               "transcript": "this is "
+            }
+         ], 
+         "final": true
+      }
+   ], 
+   "result_index": 0, 
+   "speaker_labels": [
+      {
+         "from": 0.33, 
+         "to": 0.99, 
+         "speaker": 0, 
+         "confidence": 0.491, 
+         "final": false
+      }, 
+      {
+         "from": 0.99, 
+         "to": 1.39, 
+         "speaker": 0, 
+         "confidence": 0.491, 
+         "final": false
+      }, 
+      {
+         "from": 1.39, 
+         "to": 1.58, 
+         "speaker": 0, 
+         "confidence": 0.491, 
+         "final": false
+      }, 
+      {
+         "from": 1.58, 
+         "to": 1.95, 
+         "speaker": 0, 
+         "confidence": 0.491, 
+         "final": false
+      }, 
+      {
+         "from": 1.95, 
+         "to": 2.81, 
+         "speaker": 0, 
+         "confidence": 0.491, 
+         "final": false
+      }, 
+      {
+         "from": 3.07, 
+         "to": 3.57, 
+         "speaker": 0, 
+         "confidence": 0.509, 
+         "final": false
+      }, 
+      {
+         "from": 3.6, 
+         "to": 3.85, 
+         "speaker": 0, 
+         "confidence": 0.553, 
+         "final": false
+      }, 
+      {
+         "from": 3.85, 
+         "to": 4.09, 
+         "speaker": 0, 
+         "confidence": 0.553, 
+         "final": false
+      }, 
+      {
+         "from": 4.09, 
+         "to": 4.45, 
+         "speaker": 0, 
+         "confidence": 0.553, 
+         "final": false
+      }, 
+      {
+         "from": 4.45, 
+         "to": 4.93, 
+         "speaker": 0, 
+         "confidence": 0.553, 
+         "final": false
+      }, 
+      {
+         "from": 5.2, 
+         "to": 5.41, 
+         "speaker": 0, 
+         "confidence": 0.495, 
+         "final": false
+      }, 
+      {
+         "from": 5.41, 
+         "to": 5.74, 
+         "speaker": 0, 
+         "confidence": 0.495, 
+         "final": false
+      }, 
+      {
+         "from": 5.74, 
+         "to": 6.27, 
+         "speaker": 0, 
+         "confidence": 0.495, 
+         "final": false
+      }, 
+      {
+         "from": 6.27, 
+         "to": 6.43, 
+         "speaker": 0, 
+         "confidence": 0.495, 
+         "final": false
+      }, 
+      {
+         "from": 6.43, 
+         "to": 6.5, 
+         "speaker": 0, 
+         "confidence": 0.495, 
+         "final": false
+      }, 
+      {
+         "from": 6.5, 
+         "to": 7.1, 
+         "speaker": 0, 
+         "confidence": 0.495, 
+         "final": false
+      }, 
+      {
+         "from": 7.27, 
+         "to": 7.62, 
+         "speaker": 2, 
+         "confidence": 0.474, 
+         "final": false
+      }, 
+      {
+         "from": 8.47, 
+         "to": 8.63, 
+         "speaker": 2, 
+         "confidence": 0.502, 
+         "final": false
+      }, 
+      {
+         "from": 8.63, 
+         "to": 9.32, 
+         "speaker": 2, 
+         "confidence": 0.502, 
+         "final": false
+      }, 
+      {
+         "from": 9.32, 
+         "to": 9.53, 
+         "speaker": 2, 
+         "confidence": 0.502, 
+         "final": false
+      }, 
+      {
+         "from": 10.58, 
+         "to": 10.74, 
+         "speaker": 2, 
+         "confidence": 0.59, 
+         "final": false
+      }, 
+      {
+         "from": 10.77, 
+         "to": 11.01, 
+         "speaker": 2, 
+         "confidence": 0.588, 
+         "final": true
+      }
+   ]
+}

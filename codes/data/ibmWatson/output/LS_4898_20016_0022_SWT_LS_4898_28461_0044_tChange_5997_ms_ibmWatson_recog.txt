@@ -1,0 +1,364 @@
+{
+   "results": [
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "that", 
+                     0.13, 
+                     0.32
+                  ], 
+                  [
+                     "led", 
+                     0.41, 
+                     0.78
+                  ], 
+                  [
+                     "neat", 
+                     0.78, 
+                     1.09
+                  ], 
+                  [
+                     "then", 
+                     1.09, 
+                     1.25
+                  ], 
+                  [
+                     "started", 
+                     1.25, 
+                     1.92
+                  ], 
+                  [
+                     "to", 
+                     2.15, 
+                     2.28
+                  ], 
+                  [
+                     "keep", 
+                     2.28, 
+                     2.54
+                  ], 
+                  [
+                     "secret", 
+                     2.54, 
+                     3.08
+                  ], 
+                  [
+                     "what", 
+                     3.11, 
+                     3.37
+                  ], 
+                  [
+                     "he", 
+                     3.37, 
+                     3.52
+                  ], 
+                  [
+                     "had", 
+                     3.52, 
+                     3.66
+                  ], 
+                  [
+                     "witnessed", 
+                     3.66, 
+                     4.39
+                  ]
+               ], 
+               "confidence": 0.889, 
+               "transcript": "that led neat then started to keep secret what he had witnessed "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "but", 
+                     4.88, 
+                     5.03
+                  ], 
+                  [
+                     "it", 
+                     5.03, 
+                     5.2
+                  ], 
+                  [
+                     "was", 
+                     5.2, 
+                     5.41
+                  ], 
+                  [
+                     "like", 
+                     5.41, 
+                     5.77
+                  ], 
+                  [
+                     "because", 
+                     5.92, 
+                     6.46
+                  ], 
+                  [
+                     "of", 
+                     6.49, 
+                     6.68
+                  ], 
+                  [
+                     "the", 
+                     6.68, 
+                     6.83
+                  ]
+               ], 
+               "confidence": 0.999, 
+               "transcript": "but it was like because of the "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "and", 
+                     7.05, 
+                     7.19
+                  ], 
+                  [
+                     "he", 
+                     7.19, 
+                     7.35
+                  ], 
+                  [
+                     "just", 
+                     7.35, 
+                     7.61
+                  ], 
+                  [
+                     "position", 
+                     7.61, 
+                     8.27
+                  ], 
+                  [
+                     "it", 
+                     8.3, 
+                     8.45
+                  ], 
+                  [
+                     "occupied", 
+                     8.45, 
+                     9.12
+                  ], 
+                  [
+                     "for", 
+                     9.12, 
+                     9.27
+                  ], 
+                  [
+                     "general", 
+                     9.27, 
+                     9.59
+                  ]
+               ], 
+               "confidence": 0.9, 
+               "transcript": "and he just position it occupied for general "
+            }
+         ], 
+         "final": true
+      }
+   ], 
+   "result_index": 0, 
+   "speaker_labels": [
+      {
+         "from": 0.13, 
+         "to": 0.32, 
+         "speaker": 0, 
+         "confidence": 0.585, 
+         "final": false
+      }, 
+      {
+         "from": 0.41, 
+         "to": 0.78, 
+         "speaker": 0, 
+         "confidence": 0.531, 
+         "final": false
+      }, 
+      {
+         "from": 0.78, 
+         "to": 1.09, 
+         "speaker": 0, 
+         "confidence": 0.531, 
+         "final": false
+      }, 
+      {
+         "from": 1.09, 
+         "to": 1.25, 
+         "speaker": 0, 
+         "confidence": 0.531, 
+         "final": false
+      }, 
+      {
+         "from": 1.25, 
+         "to": 1.92, 
+         "speaker": 0, 
+         "confidence": 0.531, 
+         "final": false
+      }, 
+      {
+         "from": 2.15, 
+         "to": 2.28, 
+         "speaker": 0, 
+         "confidence": 0.429, 
+         "final": false
+      }, 
+      {
+         "from": 2.28, 
+         "to": 2.54, 
+         "speaker": 0, 
+         "confidence": 0.429, 
+         "final": false
+      }, 
+      {
+         "from": 2.54, 
+         "to": 3.08, 
+         "speaker": 0, 
+         "confidence": 0.429, 
+         "final": false
+      }, 
+      {
+         "from": 3.11, 
+         "to": 3.37, 
+         "speaker": 0, 
+         "confidence": 0.471, 
+         "final": false
+      }, 
+      {
+         "from": 3.37, 
+         "to": 3.52, 
+         "speaker": 0, 
+         "confidence": 0.471, 
+         "final": false
+      }, 
+      {
+         "from": 3.52, 
+         "to": 3.66, 
+         "speaker": 0, 
+         "confidence": 0.471, 
+         "final": false
+      }, 
+      {
+         "from": 3.66, 
+         "to": 4.39, 
+         "speaker": 0, 
+         "confidence": 0.471, 
+         "final": false
+      }, 
+      {
+         "from": 4.88, 
+         "to": 5.03, 
+         "speaker": 2, 
+         "confidence": 0.432, 
+         "final": false
+      }, 
+      {
+         "from": 5.03, 
+         "to": 5.2, 
+         "speaker": 2, 
+         "confidence": 0.432, 
+         "final": false
+      }, 
+      {
+         "from": 5.2, 
+         "to": 5.41, 
+         "speaker": 2, 
+         "confidence": 0.432, 
+         "final": false
+      }, 
+      {
+         "from": 5.41, 
+         "to": 5.77, 
+         "speaker": 2, 
+         "confidence": 0.432, 
+         "final": false
+      }, 
+      {
+         "from": 5.92, 
+         "to": 6.46, 
+         "speaker": 2, 
+         "confidence": 0.49, 
+         "final": false
+      }, 
+      {
+         "from": 6.49, 
+         "to": 6.68, 
+         "speaker": 2, 
+         "confidence": 0.431, 
+         "final": false
+      }, 
+      {
+         "from": 6.68, 
+         "to": 6.83, 
+         "speaker": 2, 
+         "confidence": 0.431, 
+         "final": false
+      }, 
+      {
+         "from": 7.05, 
+         "to": 7.19, 
+         "speaker": 1, 
+         "confidence": 0.453, 
+         "final": false
+      }, 
+      {
+         "from": 7.19, 
+         "to": 7.35, 
+         "speaker": 1, 
+         "confidence": 0.453, 
+         "final": false
+      }, 
+      {
+         "from": 7.35, 
+         "to": 7.61, 
+         "speaker": 1, 
+         "confidence": 0.453, 
+         "final": false
+      }, 
+      {
+         "from": 7.61, 
+         "to": 8.27, 
+         "speaker": 1, 
+         "confidence": 0.453, 
+         "final": false
+      }, 
+      {
+         "from": 8.3, 
+         "to": 8.45, 
+         "speaker": 1, 
+         "confidence": 0.435, 
+         "final": false
+      }, 
+      {
+         "from": 8.45, 
+         "to": 9.12, 
+         "speaker": 1, 
+         "confidence": 0.435, 
+         "final": false
+      }, 
+      {
+         "from": 9.12, 
+         "to": 9.27, 
+         "speaker": 1, 
+         "confidence": 0.435, 
+         "final": false
+      }, 
+      {
+         "from": 9.27, 
+         "to": 9.59, 
+         "speaker": 1, 
+         "confidence": 0.435, 
+         "final": true
+      }
+   ]
+}

@@ -1,0 +1,375 @@
+{
+   "results": [
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "but", 
+                     0.4, 
+                     0.53
+                  ], 
+                  [
+                     "how", 
+                     0.53, 
+                     0.74
+                  ], 
+                  [
+                     "long", 
+                     0.74, 
+                     1.09
+                  ], 
+                  [
+                     "should", 
+                     1.09, 
+                     1.3
+                  ], 
+                  [
+                     "we", 
+                     1.3, 
+                     1.42
+                  ], 
+                  [
+                     "have", 
+                     1.42, 
+                     1.61
+                  ], 
+                  [
+                     "to", 
+                     1.61, 
+                     1.73
+                  ], 
+                  [
+                     "wait", 
+                     1.73, 
+                     2.01
+                  ], 
+                  [
+                     "for", 
+                     2.01, 
+                     2.15
+                  ], 
+                  [
+                     "clear", 
+                     2.15, 
+                     2.4
+                  ], 
+                  [
+                     "whether", 
+                     2.4, 
+                     2.9
+                  ]
+               ], 
+               "confidence": 0.967, 
+               "transcript": "but how long should we have to wait for clear whether "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "that", 
+                     3.57, 
+                     3.82
+                  ], 
+                  [
+                     "question", 
+                     3.82, 
+                     4.38
+                  ], 
+                  [
+                     "was", 
+                     4.38, 
+                     4.57
+                  ], 
+                  [
+                     "on", 
+                     4.57, 
+                     4.74
+                  ], 
+                  [
+                     "answerable", 
+                     4.74, 
+                     5.6
+                  ], 
+                  [
+                     "its", 
+                     5.89, 
+                     6.2
+                  ], 
+                  [
+                     "leaves", 
+                     6.2, 
+                     6.6
+                  ], 
+                  [
+                     "tree", 
+                     6.6, 
+                     6.89
+                  ]
+               ], 
+               "confidence": 0.86, 
+               "transcript": "that question was on answerable its leaves tree "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "with", 
+                     7.08, 
+                     7.3
+                  ], 
+                  [
+                     "every", 
+                     7.3, 
+                     7.66
+                  ]
+               ], 
+               "confidence": 0.97, 
+               "transcript": "with every "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "and", 
+                     8.39, 
+                     8.69
+                  ], 
+                  [
+                     "but", 
+                     8.87, 
+                     9.05
+                  ], 
+                  [
+                     "the", 
+                     9.05, 
+                     9.14
+                  ], 
+                  [
+                     "tree", 
+                     9.14, 
+                     9.4
+                  ], 
+                  [
+                     "for", 
+                     9.4, 
+                     9.5
+                  ], 
+                  [
+                     "me", 
+                     9.5, 
+                     9.63
+                  ]
+               ], 
+               "confidence": 0.788, 
+               "transcript": "and but the tree for me "
+            }
+         ], 
+         "final": true
+      }
+   ], 
+   "result_index": 0, 
+   "speaker_labels": [
+      {
+         "from": 0.4, 
+         "to": 0.53, 
+         "speaker": 0, 
+         "confidence": 0.5, 
+         "final": false
+      }, 
+      {
+         "from": 0.53, 
+         "to": 0.74, 
+         "speaker": 0, 
+         "confidence": 0.5, 
+         "final": false
+      }, 
+      {
+         "from": 0.74, 
+         "to": 1.09, 
+         "speaker": 0, 
+         "confidence": 0.5, 
+         "final": false
+      }, 
+      {
+         "from": 1.09, 
+         "to": 1.3, 
+         "speaker": 0, 
+         "confidence": 0.5, 
+         "final": false
+      }, 
+      {
+         "from": 1.3, 
+         "to": 1.42, 
+         "speaker": 0, 
+         "confidence": 0.5, 
+         "final": false
+      }, 
+      {
+         "from": 1.42, 
+         "to": 1.61, 
+         "speaker": 0, 
+         "confidence": 0.5, 
+         "final": false
+      }, 
+      {
+         "from": 1.61, 
+         "to": 1.73, 
+         "speaker": 0, 
+         "confidence": 0.5, 
+         "final": false
+      }, 
+      {
+         "from": 1.73, 
+         "to": 2.01, 
+         "speaker": 0, 
+         "confidence": 0.5, 
+         "final": false
+      }, 
+      {
+         "from": 2.01, 
+         "to": 2.15, 
+         "speaker": 0, 
+         "confidence": 0.5, 
+         "final": false
+      }, 
+      {
+         "from": 2.15, 
+         "to": 2.4, 
+         "speaker": 0, 
+         "confidence": 0.5, 
+         "final": false
+      }, 
+      {
+         "from": 2.4, 
+         "to": 2.9, 
+         "speaker": 0, 
+         "confidence": 0.5, 
+         "final": false
+      }, 
+      {
+         "from": 3.57, 
+         "to": 3.82, 
+         "speaker": 0, 
+         "confidence": 0.58, 
+         "final": false
+      }, 
+      {
+         "from": 3.82, 
+         "to": 4.38, 
+         "speaker": 0, 
+         "confidence": 0.58, 
+         "final": false
+      }, 
+      {
+         "from": 4.38, 
+         "to": 4.57, 
+         "speaker": 0, 
+         "confidence": 0.58, 
+         "final": false
+      }, 
+      {
+         "from": 4.57, 
+         "to": 4.74, 
+         "speaker": 0, 
+         "confidence": 0.58, 
+         "final": false
+      }, 
+      {
+         "from": 4.74, 
+         "to": 5.6, 
+         "speaker": 0, 
+         "confidence": 0.58, 
+         "final": false
+      }, 
+      {
+         "from": 5.89, 
+         "to": 6.2, 
+         "speaker": 1, 
+         "confidence": 0.667, 
+         "final": false
+      }, 
+      {
+         "from": 6.2, 
+         "to": 6.6, 
+         "speaker": 1, 
+         "confidence": 0.667, 
+         "final": false
+      }, 
+      {
+         "from": 6.6, 
+         "to": 6.89, 
+         "speaker": 1, 
+         "confidence": 0.667, 
+         "final": false
+      }, 
+      {
+         "from": 7.08, 
+         "to": 7.3, 
+         "speaker": 1, 
+         "confidence": 0.602, 
+         "final": false
+      }, 
+      {
+         "from": 7.3, 
+         "to": 7.66, 
+         "speaker": 1, 
+         "confidence": 0.602, 
+         "final": false
+      }, 
+      {
+         "from": 8.39, 
+         "to": 8.69, 
+         "speaker": 1, 
+         "confidence": 0.52, 
+         "final": false
+      }, 
+      {
+         "from": 8.87, 
+         "to": 9.05, 
+         "speaker": 1, 
+         "confidence": 0.543, 
+         "final": false
+      }, 
+      {
+         "from": 9.05, 
+         "to": 9.14, 
+         "speaker": 1, 
+         "confidence": 0.543, 
+         "final": false
+      }, 
+      {
+         "from": 9.14, 
+         "to": 9.4, 
+         "speaker": 1, 
+         "confidence": 0.543, 
+         "final": false
+      }, 
+      {
+         "from": 9.4, 
+         "to": 9.5, 
+         "speaker": 1, 
+         "confidence": 0.543, 
+         "final": false
+      }, 
+      {
+         "from": 9.5, 
+         "to": 9.63, 
+         "speaker": 1, 
+         "confidence": 0.543, 
+         "final": true
+      }
+   ]
+}

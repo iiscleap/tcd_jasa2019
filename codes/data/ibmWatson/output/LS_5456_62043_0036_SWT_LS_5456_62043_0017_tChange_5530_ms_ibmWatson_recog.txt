@@ -1,0 +1,340 @@
+{
+   "results": [
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "out", 
+                     0.19, 
+                     0.42
+                  ], 
+                  [
+                     "crap", 
+                     0.42, 
+                     0.66
+                  ], 
+                  [
+                     "from", 
+                     0.66, 
+                     0.81
+                  ], 
+                  [
+                     "the", 
+                     0.81, 
+                     0.92
+                  ], 
+                  [
+                     "cottage", 
+                     0.92, 
+                     1.35
+                  ], 
+                  [
+                     "the", 
+                     1.35, 
+                     1.45
+                  ], 
+                  [
+                     "veritable", 
+                     1.45, 
+                     1.98
+                  ], 
+                  [
+                     "faded", 
+                     1.98, 
+                     2.39
+                  ], 
+                  [
+                     "had", 
+                     2.39, 
+                     2.75
+                  ], 
+                  [
+                     "copper", 
+                     3.1, 
+                     3.47
+                  ], 
+                  [
+                     "colored", 
+                     3.56, 
+                     3.9
+                  ], 
+                  [
+                     "pants", 
+                     3.9, 
+                     4.44
+                  ], 
+                  [
+                     "yellow", 
+                     4.72, 
+                     5.04
+                  ]
+               ], 
+               "confidence": 0.783, 
+               "transcript": "out crap from the cottage the veritable faded had copper colored pants yellow "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "the", 
+                     5.45, 
+                     5.62
+                  ], 
+                  [
+                     "game", 
+                     5.62, 
+                     5.9
+                  ], 
+                  [
+                     "went", 
+                     5.9, 
+                     6.07
+                  ], 
+                  [
+                     "on", 
+                     6.07, 
+                     6.33
+                  ]
+               ], 
+               "confidence": 0.746, 
+               "transcript": "the game went on "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "and", 
+                     6.55, 
+                     6.68
+                  ], 
+                  [
+                     "the", 
+                     6.68, 
+                     6.76
+                  ], 
+                  [
+                     "paddles", 
+                     6.76, 
+                     7.17
+                  ], 
+                  [
+                     "kept", 
+                     7.17, 
+                     7.4
+                  ], 
+                  [
+                     "moving", 
+                     7.4, 
+                     7.87
+                  ], 
+                  [
+                     "at", 
+                     8.24, 
+                     8.37
+                  ], 
+                  [
+                     "eleven", 
+                     8.37, 
+                     8.66
+                  ], 
+                  [
+                     "o'clock", 
+                     8.66, 
+                     9.01
+                  ]
+               ], 
+               "confidence": 0.887, 
+               "transcript": "and the paddles kept moving at eleven o'clock "
+            }
+         ], 
+         "final": true
+      }
+   ], 
+   "result_index": 0, 
+   "speaker_labels": [
+      {
+         "from": 0.19, 
+         "to": 0.42, 
+         "speaker": 1, 
+         "confidence": 0.325, 
+         "final": false
+      }, 
+      {
+         "from": 0.42, 
+         "to": 0.66, 
+         "speaker": 1, 
+         "confidence": 0.325, 
+         "final": false
+      }, 
+      {
+         "from": 0.66, 
+         "to": 0.81, 
+         "speaker": 1, 
+         "confidence": 0.325, 
+         "final": false
+      }, 
+      {
+         "from": 0.81, 
+         "to": 0.92, 
+         "speaker": 1, 
+         "confidence": 0.325, 
+         "final": false
+      }, 
+      {
+         "from": 0.92, 
+         "to": 1.35, 
+         "speaker": 1, 
+         "confidence": 0.325, 
+         "final": false
+      }, 
+      {
+         "from": 1.35, 
+         "to": 1.45, 
+         "speaker": 1, 
+         "confidence": 0.325, 
+         "final": false
+      }, 
+      {
+         "from": 1.45, 
+         "to": 1.98, 
+         "speaker": 1, 
+         "confidence": 0.325, 
+         "final": false
+      }, 
+      {
+         "from": 1.98, 
+         "to": 2.39, 
+         "speaker": 1, 
+         "confidence": 0.325, 
+         "final": false
+      }, 
+      {
+         "from": 2.39, 
+         "to": 2.75, 
+         "speaker": 1, 
+         "confidence": 0.325, 
+         "final": false
+      }, 
+      {
+         "from": 3.1, 
+         "to": 3.47, 
+         "speaker": 1, 
+         "confidence": 0.409, 
+         "final": false
+      }, 
+      {
+         "from": 3.56, 
+         "to": 3.9, 
+         "speaker": 0, 
+         "confidence": 0.434, 
+         "final": false
+      }, 
+      {
+         "from": 3.9, 
+         "to": 4.44, 
+         "speaker": 0, 
+         "confidence": 0.434, 
+         "final": false
+      }, 
+      {
+         "from": 4.72, 
+         "to": 5.04, 
+         "speaker": 1, 
+         "confidence": 0.441, 
+         "final": false
+      }, 
+      {
+         "from": 5.45, 
+         "to": 5.62, 
+         "speaker": 0, 
+         "confidence": 0.442, 
+         "final": false
+      }, 
+      {
+         "from": 5.62, 
+         "to": 5.9, 
+         "speaker": 0, 
+         "confidence": 0.442, 
+         "final": false
+      }, 
+      {
+         "from": 5.9, 
+         "to": 6.07, 
+         "speaker": 0, 
+         "confidence": 0.442, 
+         "final": false
+      }, 
+      {
+         "from": 6.07, 
+         "to": 6.33, 
+         "speaker": 0, 
+         "confidence": 0.442, 
+         "final": false
+      }, 
+      {
+         "from": 6.55, 
+         "to": 6.68, 
+         "speaker": 0, 
+         "confidence": 0.404, 
+         "final": false
+      }, 
+      {
+         "from": 6.68, 
+         "to": 6.76, 
+         "speaker": 0, 
+         "confidence": 0.404, 
+         "final": false
+      }, 
+      {
+         "from": 6.76, 
+         "to": 7.17, 
+         "speaker": 0, 
+         "confidence": 0.404, 
+         "final": false
+      }, 
+      {
+         "from": 7.17, 
+         "to": 7.4, 
+         "speaker": 0, 
+         "confidence": 0.404, 
+         "final": false
+      }, 
+      {
+         "from": 7.4, 
+         "to": 7.87, 
+         "speaker": 0, 
+         "confidence": 0.404, 
+         "final": false
+      }, 
+      {
+         "from": 8.24, 
+         "to": 8.37, 
+         "speaker": 3, 
+         "confidence": 0.449, 
+         "final": false
+      }, 
+      {
+         "from": 8.37, 
+         "to": 8.66, 
+         "speaker": 3, 
+         "confidence": 0.449, 
+         "final": false
+      }, 
+      {
+         "from": 8.66, 
+         "to": 9.01, 
+         "speaker": 3, 
+         "confidence": 0.449, 
+         "final": true
+      }
+   ]
+}

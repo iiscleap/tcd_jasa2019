@@ -1,0 +1,375 @@
+{
+   "results": [
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "prudence", 
+                     0.3, 
+                     0.99
+                  ], 
+                  [
+                     "on", 
+                     1.02, 
+                     1.24
+                  ], 
+                  [
+                     "her", 
+                     1.24, 
+                     1.44
+                  ], 
+                  [
+                     "side", 
+                     1.44, 
+                     1.98
+                  ], 
+                  [
+                     "brought", 
+                     2.27, 
+                     2.55
+                  ], 
+                  [
+                     "down", 
+                     2.55, 
+                     2.83
+                  ], 
+                  [
+                     "all", 
+                     2.83, 
+                     3.09
+                  ], 
+                  [
+                     "the", 
+                     3.09, 
+                     3.21
+                  ], 
+                  [
+                     "people", 
+                     3.21, 
+                     3.54
+                  ], 
+                  [
+                     "she", 
+                     3.54, 
+                     3.75
+                  ], 
+                  [
+                     "knew", 
+                     3.75, 
+                     4.19
+                  ], 
+                  [
+                     "and", 
+                     4.43, 
+                     4.63
+                  ], 
+                  [
+                     "did", 
+                     4.63, 
+                     4.8
+                  ], 
+                  [
+                     "the", 
+                     4.8, 
+                     4.91
+                  ], 
+                  [
+                     "honors", 
+                     4.91, 
+                     5.35
+                  ], 
+                  [
+                     "of", 
+                     5.35, 
+                     5.46
+                  ], 
+                  [
+                     "the", 
+                     5.46, 
+                     5.55
+                  ], 
+                  [
+                     "houses", 
+                     5.55, 
+                     6.08
+                  ], 
+                  [
+                     "it", 
+                     6.08, 
+                     6.25
+                  ]
+               ], 
+               "confidence": 0.951, 
+               "transcript": "prudence on her side brought down all the people she knew and did the honors of the houses it "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "to", 
+                     7.46, 
+                     7.62
+                  ], 
+                  [
+                     "show", 
+                     7.62, 
+                     8.05
+                  ]
+               ], 
+               "confidence": 0.587, 
+               "transcript": "to show "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "but", 
+                     8.19, 
+                     8.37
+                  ], 
+                  [
+                     "the", 
+                     8.37, 
+                     8.46
+                  ], 
+                  [
+                     "P.", 
+                     8.46, 
+                     8.62
+                  ]
+               ], 
+               "confidence": 0.374, 
+               "transcript": "but the P. "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "you", 
+                     9.06, 
+                     9.32
+                  ], 
+                  [
+                     "could", 
+                     9.6, 
+                     9.78
+                  ], 
+                  [
+                     "produce", 
+                     9.78, 
+                     10.2
+                  ]
+               ], 
+               "confidence": 0.749, 
+               "transcript": "you could produce "
+            }
+         ], 
+         "final": true
+      }
+   ], 
+   "result_index": 0, 
+   "speaker_labels": [
+      {
+         "from": 0.3, 
+         "to": 0.99, 
+         "speaker": 1, 
+         "confidence": 0.486, 
+         "final": false
+      }, 
+      {
+         "from": 1.02, 
+         "to": 1.24, 
+         "speaker": 1, 
+         "confidence": 0.438, 
+         "final": false
+      }, 
+      {
+         "from": 1.24, 
+         "to": 1.44, 
+         "speaker": 1, 
+         "confidence": 0.438, 
+         "final": false
+      }, 
+      {
+         "from": 1.44, 
+         "to": 1.98, 
+         "speaker": 1, 
+         "confidence": 0.438, 
+         "final": false
+      }, 
+      {
+         "from": 2.27, 
+         "to": 2.55, 
+         "speaker": 1, 
+         "confidence": 0.414, 
+         "final": false
+      }, 
+      {
+         "from": 2.55, 
+         "to": 2.83, 
+         "speaker": 1, 
+         "confidence": 0.414, 
+         "final": false
+      }, 
+      {
+         "from": 2.83, 
+         "to": 3.09, 
+         "speaker": 1, 
+         "confidence": 0.414, 
+         "final": false
+      }, 
+      {
+         "from": 3.09, 
+         "to": 3.21, 
+         "speaker": 1, 
+         "confidence": 0.414, 
+         "final": false
+      }, 
+      {
+         "from": 3.21, 
+         "to": 3.54, 
+         "speaker": 1, 
+         "confidence": 0.414, 
+         "final": false
+      }, 
+      {
+         "from": 3.54, 
+         "to": 3.75, 
+         "speaker": 1, 
+         "confidence": 0.414, 
+         "final": false
+      }, 
+      {
+         "from": 3.75, 
+         "to": 4.19, 
+         "speaker": 1, 
+         "confidence": 0.414, 
+         "final": false
+      }, 
+      {
+         "from": 4.43, 
+         "to": 4.63, 
+         "speaker": 1, 
+         "confidence": 0.415, 
+         "final": false
+      }, 
+      {
+         "from": 4.63, 
+         "to": 4.8, 
+         "speaker": 1, 
+         "confidence": 0.415, 
+         "final": false
+      }, 
+      {
+         "from": 4.8, 
+         "to": 4.91, 
+         "speaker": 1, 
+         "confidence": 0.415, 
+         "final": false
+      }, 
+      {
+         "from": 4.91, 
+         "to": 5.35, 
+         "speaker": 1, 
+         "confidence": 0.415, 
+         "final": false
+      }, 
+      {
+         "from": 5.35, 
+         "to": 5.46, 
+         "speaker": 1, 
+         "confidence": 0.415, 
+         "final": false
+      }, 
+      {
+         "from": 5.46, 
+         "to": 5.55, 
+         "speaker": 1, 
+         "confidence": 0.415, 
+         "final": false
+      }, 
+      {
+         "from": 5.55, 
+         "to": 6.08, 
+         "speaker": 1, 
+         "confidence": 0.415, 
+         "final": false
+      }, 
+      {
+         "from": 6.08, 
+         "to": 6.25, 
+         "speaker": 1, 
+         "confidence": 0.415, 
+         "final": false
+      }, 
+      {
+         "from": 7.46, 
+         "to": 7.62, 
+         "speaker": 3, 
+         "confidence": 0.411, 
+         "final": false
+      }, 
+      {
+         "from": 7.62, 
+         "to": 8.05, 
+         "speaker": 3, 
+         "confidence": 0.411, 
+         "final": false
+      }, 
+      {
+         "from": 8.19, 
+         "to": 8.37, 
+         "speaker": 3, 
+         "confidence": 0.492, 
+         "final": false
+      }, 
+      {
+         "from": 8.37, 
+         "to": 8.46, 
+         "speaker": 3, 
+         "confidence": 0.492, 
+         "final": false
+      }, 
+      {
+         "from": 8.46, 
+         "to": 8.62, 
+         "speaker": 3, 
+         "confidence": 0.492, 
+         "final": false
+      }, 
+      {
+         "from": 9.06, 
+         "to": 9.32, 
+         "speaker": 3, 
+         "confidence": 0.598, 
+         "final": false
+      }, 
+      {
+         "from": 9.6, 
+         "to": 9.78, 
+         "speaker": 3, 
+         "confidence": 0.602, 
+         "final": false
+      }, 
+      {
+         "from": 9.78, 
+         "to": 10.2, 
+         "speaker": 3, 
+         "confidence": 0.602, 
+         "final": true
+      }
+   ]
+}

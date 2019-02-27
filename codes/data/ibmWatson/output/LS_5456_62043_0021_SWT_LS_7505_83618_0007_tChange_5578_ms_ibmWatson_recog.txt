@@ -1,0 +1,340 @@
+{
+   "results": [
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "and", 
+                     0.11, 
+                     0.25
+                  ], 
+                  [
+                     "they", 
+                     0.25, 
+                     0.37
+                  ], 
+                  [
+                     "did", 
+                     0.37, 
+                     0.62
+                  ], 
+                  [
+                     "learn", 
+                     0.62, 
+                     0.88
+                  ], 
+                  [
+                     "it", 
+                     0.88, 
+                     1.03
+                  ]
+               ], 
+               "confidence": 0.903, 
+               "transcript": "and they did learn it "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "once", 
+                     1.74, 
+                     2.0
+                  ], 
+                  [
+                     "in", 
+                     2.0, 
+                     2.1
+                  ], 
+                  [
+                     "a", 
+                     2.1, 
+                     2.16
+                  ], 
+                  [
+                     "while", 
+                     2.16, 
+                     2.47
+                  ], 
+                  [
+                     "in", 
+                     2.47, 
+                     2.58
+                  ], 
+                  [
+                     "D.", 
+                     2.58, 
+                     3.05
+                  ], 
+                  [
+                     "scene", 
+                     3.34, 
+                     3.66
+                  ], 
+                  [
+                     "they", 
+                     3.66, 
+                     3.76
+                  ], 
+                  [
+                     "had", 
+                     3.76, 
+                     3.96
+                  ], 
+                  [
+                     "two", 
+                     3.96, 
+                     4.13
+                  ], 
+                  [
+                     "aces", 
+                     4.13, 
+                     4.48
+                  ], 
+                  [
+                     "in", 
+                     4.48, 
+                     4.59
+                  ], 
+                  [
+                     "a", 
+                     4.59, 
+                     4.65
+                  ], 
+                  [
+                     "braggart", 
+                     4.65, 
+                     5.23
+                  ], 
+                  [
+                     "but", 
+                     5.5, 
+                     5.68
+                  ], 
+                  [
+                     "in", 
+                     5.68, 
+                     5.81
+                  ], 
+                  [
+                     "psychology", 
+                     5.81, 
+                     6.92
+                  ]
+               ], 
+               "confidence": 0.845, 
+               "transcript": "once in a while in D. scene they had two aces in a braggart but in psychology "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "man", 
+                     7.6, 
+                     8.19
+                  ], 
+                  [
+                     "chiefly", 
+                     8.36, 
+                     8.75
+                  ], 
+                  [
+                     "cognizant", 
+                     8.75, 
+                     9.3
+                  ]
+               ], 
+               "confidence": 0.869, 
+               "transcript": "man chiefly cognizant "
+            }
+         ], 
+         "final": true
+      }
+   ], 
+   "result_index": 0, 
+   "speaker_labels": [
+      {
+         "from": 0.11, 
+         "to": 0.25, 
+         "speaker": 0, 
+         "confidence": 0.5, 
+         "final": false
+      }, 
+      {
+         "from": 0.25, 
+         "to": 0.37, 
+         "speaker": 0, 
+         "confidence": 0.5, 
+         "final": false
+      }, 
+      {
+         "from": 0.37, 
+         "to": 0.62, 
+         "speaker": 0, 
+         "confidence": 0.5, 
+         "final": false
+      }, 
+      {
+         "from": 0.62, 
+         "to": 0.88, 
+         "speaker": 0, 
+         "confidence": 0.5, 
+         "final": false
+      }, 
+      {
+         "from": 0.88, 
+         "to": 1.03, 
+         "speaker": 0, 
+         "confidence": 0.5, 
+         "final": false
+      }, 
+      {
+         "from": 1.74, 
+         "to": 2.0, 
+         "speaker": 0, 
+         "confidence": 0.564, 
+         "final": false
+      }, 
+      {
+         "from": 2.0, 
+         "to": 2.1, 
+         "speaker": 0, 
+         "confidence": 0.564, 
+         "final": false
+      }, 
+      {
+         "from": 2.1, 
+         "to": 2.16, 
+         "speaker": 0, 
+         "confidence": 0.564, 
+         "final": false
+      }, 
+      {
+         "from": 2.16, 
+         "to": 2.47, 
+         "speaker": 0, 
+         "confidence": 0.564, 
+         "final": false
+      }, 
+      {
+         "from": 2.47, 
+         "to": 2.58, 
+         "speaker": 0, 
+         "confidence": 0.564, 
+         "final": false
+      }, 
+      {
+         "from": 2.58, 
+         "to": 3.05, 
+         "speaker": 0, 
+         "confidence": 0.564, 
+         "final": false
+      }, 
+      {
+         "from": 3.34, 
+         "to": 3.66, 
+         "speaker": 0, 
+         "confidence": 0.559, 
+         "final": false
+      }, 
+      {
+         "from": 3.66, 
+         "to": 3.76, 
+         "speaker": 0, 
+         "confidence": 0.559, 
+         "final": false
+      }, 
+      {
+         "from": 3.76, 
+         "to": 3.96, 
+         "speaker": 0, 
+         "confidence": 0.559, 
+         "final": false
+      }, 
+      {
+         "from": 3.96, 
+         "to": 4.13, 
+         "speaker": 0, 
+         "confidence": 0.559, 
+         "final": false
+      }, 
+      {
+         "from": 4.13, 
+         "to": 4.48, 
+         "speaker": 0, 
+         "confidence": 0.559, 
+         "final": false
+      }, 
+      {
+         "from": 4.48, 
+         "to": 4.59, 
+         "speaker": 0, 
+         "confidence": 0.559, 
+         "final": false
+      }, 
+      {
+         "from": 4.59, 
+         "to": 4.65, 
+         "speaker": 0, 
+         "confidence": 0.559, 
+         "final": false
+      }, 
+      {
+         "from": 4.65, 
+         "to": 5.23, 
+         "speaker": 0, 
+         "confidence": 0.559, 
+         "final": false
+      }, 
+      {
+         "from": 5.5, 
+         "to": 5.68, 
+         "speaker": 3, 
+         "confidence": 0.426, 
+         "final": false
+      }, 
+      {
+         "from": 5.68, 
+         "to": 5.81, 
+         "speaker": 3, 
+         "confidence": 0.426, 
+         "final": false
+      }, 
+      {
+         "from": 5.81, 
+         "to": 6.92, 
+         "speaker": 3, 
+         "confidence": 0.426, 
+         "final": false
+      }, 
+      {
+         "from": 7.6, 
+         "to": 8.19, 
+         "speaker": 3, 
+         "confidence": 0.512, 
+         "final": false
+      }, 
+      {
+         "from": 8.36, 
+         "to": 8.75, 
+         "speaker": 3, 
+         "confidence": 0.578, 
+         "final": false
+      }, 
+      {
+         "from": 8.75, 
+         "to": 9.3, 
+         "speaker": 3, 
+         "confidence": 0.578, 
+         "final": true
+      }
+   ]
+}

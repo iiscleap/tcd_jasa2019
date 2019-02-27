@@ -1,0 +1,327 @@
+{
+   "results": [
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "far", 
+                     0.19, 
+                     0.61
+                  ], 
+                  [
+                     "that", 
+                     0.61, 
+                     0.79
+                  ], 
+                  [
+                     "my", 
+                     0.79, 
+                     0.93
+                  ], 
+                  [
+                     "mistress", 
+                     0.93, 
+                     1.52
+                  ], 
+                  [
+                     "now", 
+                     1.52, 
+                     1.73
+                  ], 
+                  [
+                     "belong", 
+                     1.73, 
+                     2.18
+                  ], 
+                  [
+                     "to", 
+                     2.18, 
+                     2.38
+                  ], 
+                  [
+                     "me", 
+                     2.38, 
+                     2.58
+                  ], 
+                  [
+                     "more", 
+                     2.58, 
+                     2.84
+                  ], 
+                  [
+                     "completely", 
+                     2.84, 
+                     3.7
+                  ], 
+                  [
+                     "and", 
+                     3.99, 
+                     4.16
+                  ], 
+                  [
+                     "my", 
+                     4.16, 
+                     4.29
+                  ], 
+                  [
+                     "dream", 
+                     4.29, 
+                     4.69
+                  ], 
+                  [
+                     "was", 
+                     4.69, 
+                     4.87
+                  ], 
+                  [
+                     "at", 
+                     4.87, 
+                     4.99
+                  ], 
+                  [
+                     "length", 
+                     4.99, 
+                     5.25
+                  ], 
+                  [
+                     "harmony", 
+                     5.44, 
+                     6.06
+                  ], 
+                  [
+                     "and", 
+                     6.09, 
+                     6.3
+                  ]
+               ], 
+               "confidence": 0.917, 
+               "transcript": "far that my mistress now belong to me more completely and my dream was at length harmony and "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "%HESITATION", 
+                     6.6, 
+                     6.88
+                  ]
+               ], 
+               "confidence": 0.202, 
+               "transcript": "%HESITATION "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "new", 
+                     7.68, 
+                     7.92
+                  ], 
+                  [
+                     "court", 
+                     7.92, 
+                     8.25
+                  ], 
+                  [
+                     "extension", 
+                     8.25, 
+                     8.76
+                  ]
+               ], 
+               "confidence": 0.821, 
+               "transcript": "new court extension "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "this", 
+                     8.9, 
+                     9.14
+                  ]
+               ], 
+               "confidence": 0.271, 
+               "transcript": "this "
+            }
+         ], 
+         "final": true
+      }
+   ], 
+   "result_index": 0, 
+   "speaker_labels": [
+      {
+         "from": 0.19, 
+         "to": 0.61, 
+         "speaker": 0, 
+         "confidence": 0.597, 
+         "final": false
+      }, 
+      {
+         "from": 0.61, 
+         "to": 0.79, 
+         "speaker": 0, 
+         "confidence": 0.597, 
+         "final": false
+      }, 
+      {
+         "from": 0.79, 
+         "to": 0.93, 
+         "speaker": 0, 
+         "confidence": 0.597, 
+         "final": false
+      }, 
+      {
+         "from": 0.93, 
+         "to": 1.52, 
+         "speaker": 0, 
+         "confidence": 0.597, 
+         "final": false
+      }, 
+      {
+         "from": 1.52, 
+         "to": 1.73, 
+         "speaker": 0, 
+         "confidence": 0.597, 
+         "final": false
+      }, 
+      {
+         "from": 1.73, 
+         "to": 2.18, 
+         "speaker": 0, 
+         "confidence": 0.597, 
+         "final": false
+      }, 
+      {
+         "from": 2.18, 
+         "to": 2.38, 
+         "speaker": 0, 
+         "confidence": 0.597, 
+         "final": false
+      }, 
+      {
+         "from": 2.38, 
+         "to": 2.58, 
+         "speaker": 0, 
+         "confidence": 0.597, 
+         "final": false
+      }, 
+      {
+         "from": 2.58, 
+         "to": 2.84, 
+         "speaker": 0, 
+         "confidence": 0.597, 
+         "final": false
+      }, 
+      {
+         "from": 2.84, 
+         "to": 3.7, 
+         "speaker": 0, 
+         "confidence": 0.597, 
+         "final": false
+      }, 
+      {
+         "from": 3.99, 
+         "to": 4.16, 
+         "speaker": 0, 
+         "confidence": 0.592, 
+         "final": false
+      }, 
+      {
+         "from": 4.16, 
+         "to": 4.29, 
+         "speaker": 0, 
+         "confidence": 0.592, 
+         "final": false
+      }, 
+      {
+         "from": 4.29, 
+         "to": 4.69, 
+         "speaker": 0, 
+         "confidence": 0.592, 
+         "final": false
+      }, 
+      {
+         "from": 4.69, 
+         "to": 4.87, 
+         "speaker": 0, 
+         "confidence": 0.592, 
+         "final": false
+      }, 
+      {
+         "from": 4.87, 
+         "to": 4.99, 
+         "speaker": 0, 
+         "confidence": 0.592, 
+         "final": false
+      }, 
+      {
+         "from": 4.99, 
+         "to": 5.25, 
+         "speaker": 0, 
+         "confidence": 0.592, 
+         "final": false
+      }, 
+      {
+         "from": 5.44, 
+         "to": 6.06, 
+         "speaker": 1, 
+         "confidence": 0.583, 
+         "final": false
+      }, 
+      {
+         "from": 6.09, 
+         "to": 6.3, 
+         "speaker": 1, 
+         "confidence": 0.393, 
+         "final": false
+      }, 
+      {
+         "from": 6.6, 
+         "to": 6.88, 
+         "speaker": 1, 
+         "confidence": 0.386, 
+         "final": false
+      }, 
+      {
+         "from": 7.68, 
+         "to": 7.92, 
+         "speaker": 1, 
+         "confidence": 0.421, 
+         "final": false
+      }, 
+      {
+         "from": 7.92, 
+         "to": 8.25, 
+         "speaker": 1, 
+         "confidence": 0.421, 
+         "final": false
+      }, 
+      {
+         "from": 8.25, 
+         "to": 8.76, 
+         "speaker": 1, 
+         "confidence": 0.421, 
+         "final": false
+      }, 
+      {
+         "from": 8.9, 
+         "to": 9.14, 
+         "speaker": 2, 
+         "confidence": 0.458, 
+         "final": true
+      }
+   ]
+}

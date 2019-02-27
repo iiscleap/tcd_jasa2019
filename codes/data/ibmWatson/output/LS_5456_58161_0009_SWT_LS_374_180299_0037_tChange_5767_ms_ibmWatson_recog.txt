@@ -1,0 +1,402 @@
+{
+   "results": [
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "his", 
+                     0.26, 
+                     0.5
+                  ], 
+                  [
+                     "was", 
+                     0.5, 
+                     0.66
+                  ], 
+                  [
+                     "the", 
+                     0.66, 
+                     0.78
+                  ], 
+                  [
+                     "rental", 
+                     0.78, 
+                     1.13
+                  ], 
+                  [
+                     "of", 
+                     1.13, 
+                     1.23
+                  ], 
+                  [
+                     "half", 
+                     1.23, 
+                     1.54
+                  ], 
+                  [
+                     "a", 
+                     1.54, 
+                     1.6
+                  ], 
+                  [
+                     "vanity", 
+                     1.6, 
+                     2.11
+                  ], 
+                  [
+                     "and", 
+                     2.17, 
+                     2.35
+                  ], 
+                  [
+                     "all", 
+                     2.35, 
+                     2.52
+                  ], 
+                  [
+                     "maintains", 
+                     2.52, 
+                     3.08
+                  ], 
+                  [
+                     "this", 
+                     3.08, 
+                     3.25
+                  ], 
+                  [
+                     "in", 
+                     3.25, 
+                     3.4
+                  ], 
+                  [
+                     "Santa", 
+                     3.4, 
+                     3.76
+                  ], 
+                  [
+                     "Ana", 
+                     3.76, 
+                     4.23
+                  ], 
+                  [
+                     "rich", 
+                     4.26, 
+                     4.47
+                  ], 
+                  [
+                     "as", 
+                     4.47, 
+                     4.56
+                  ], 
+                  [
+                     "he", 
+                     4.56, 
+                     4.66
+                  ], 
+                  [
+                     "was", 
+                     4.66, 
+                     5.12
+                  ], 
+                  [
+                     "for", 
+                     5.6, 
+                     5.84
+                  ], 
+                  [
+                     "two", 
+                     5.84, 
+                     6.06
+                  ], 
+                  [
+                     "months", 
+                     6.06, 
+                     6.49
+                  ], 
+                  [
+                     "we", 
+                     6.49, 
+                     6.68
+                  ], 
+                  [
+                     "had", 
+                     6.68, 
+                     6.8
+                  ], 
+                  [
+                     "not", 
+                     6.8, 
+                     7.02
+                  ], 
+                  [
+                     "even", 
+                     7.02, 
+                     7.28
+                  ], 
+                  [
+                     "been", 
+                     7.28, 
+                     7.5
+                  ], 
+                  [
+                     "to", 
+                     7.5, 
+                     7.6
+                  ], 
+                  [
+                     "Paris", 
+                     7.6, 
+                     8.23
+                  ], 
+                  [
+                     "no", 
+                     8.56, 
+                     8.77
+                  ], 
+                  [
+                     "one", 
+                     8.77, 
+                     8.93
+                  ], 
+                  [
+                     "can", 
+                     8.93, 
+                     9.11
+                  ]
+               ], 
+               "confidence": 0.77, 
+               "transcript": "his was the rental of half a vanity and all maintains this in Santa Ana rich as he was for two months we had not even been to Paris no one can "
+            }
+         ], 
+         "final": true
+      }
+   ], 
+   "result_index": 0, 
+   "speaker_labels": [
+      {
+         "from": 0.26, 
+         "to": 0.5, 
+         "speaker": 0, 
+         "confidence": 0.576, 
+         "final": false
+      }, 
+      {
+         "from": 0.5, 
+         "to": 0.66, 
+         "speaker": 0, 
+         "confidence": 0.576, 
+         "final": false
+      }, 
+      {
+         "from": 0.66, 
+         "to": 0.78, 
+         "speaker": 0, 
+         "confidence": 0.576, 
+         "final": false
+      }, 
+      {
+         "from": 0.78, 
+         "to": 1.13, 
+         "speaker": 0, 
+         "confidence": 0.576, 
+         "final": false
+      }, 
+      {
+         "from": 1.13, 
+         "to": 1.23, 
+         "speaker": 0, 
+         "confidence": 0.576, 
+         "final": false
+      }, 
+      {
+         "from": 1.23, 
+         "to": 1.54, 
+         "speaker": 0, 
+         "confidence": 0.576, 
+         "final": false
+      }, 
+      {
+         "from": 1.54, 
+         "to": 1.6, 
+         "speaker": 0, 
+         "confidence": 0.576, 
+         "final": false
+      }, 
+      {
+         "from": 1.6, 
+         "to": 2.11, 
+         "speaker": 0, 
+         "confidence": 0.576, 
+         "final": false
+      }, 
+      {
+         "from": 2.17, 
+         "to": 2.35, 
+         "speaker": 0, 
+         "confidence": 0.607, 
+         "final": false
+      }, 
+      {
+         "from": 2.35, 
+         "to": 2.52, 
+         "speaker": 0, 
+         "confidence": 0.607, 
+         "final": false
+      }, 
+      {
+         "from": 2.52, 
+         "to": 3.08, 
+         "speaker": 0, 
+         "confidence": 0.607, 
+         "final": false
+      }, 
+      {
+         "from": 3.08, 
+         "to": 3.25, 
+         "speaker": 0, 
+         "confidence": 0.607, 
+         "final": false
+      }, 
+      {
+         "from": 3.25, 
+         "to": 3.4, 
+         "speaker": 0, 
+         "confidence": 0.607, 
+         "final": false
+      }, 
+      {
+         "from": 3.4, 
+         "to": 3.76, 
+         "speaker": 0, 
+         "confidence": 0.607, 
+         "final": false
+      }, 
+      {
+         "from": 3.76, 
+         "to": 4.23, 
+         "speaker": 0, 
+         "confidence": 0.607, 
+         "final": false
+      }, 
+      {
+         "from": 4.26, 
+         "to": 4.47, 
+         "speaker": 0, 
+         "confidence": 0.551, 
+         "final": false
+      }, 
+      {
+         "from": 4.47, 
+         "to": 4.56, 
+         "speaker": 0, 
+         "confidence": 0.551, 
+         "final": false
+      }, 
+      {
+         "from": 4.56, 
+         "to": 4.66, 
+         "speaker": 0, 
+         "confidence": 0.551, 
+         "final": false
+      }, 
+      {
+         "from": 4.66, 
+         "to": 5.12, 
+         "speaker": 0, 
+         "confidence": 0.551, 
+         "final": false
+      }, 
+      {
+         "from": 5.6, 
+         "to": 5.84, 
+         "speaker": 1, 
+         "confidence": 0.62, 
+         "final": false
+      }, 
+      {
+         "from": 5.84, 
+         "to": 6.06, 
+         "speaker": 1, 
+         "confidence": 0.62, 
+         "final": false
+      }, 
+      {
+         "from": 6.06, 
+         "to": 6.49, 
+         "speaker": 1, 
+         "confidence": 0.62, 
+         "final": false
+      }, 
+      {
+         "from": 6.49, 
+         "to": 6.68, 
+         "speaker": 1, 
+         "confidence": 0.62, 
+         "final": false
+      }, 
+      {
+         "from": 6.68, 
+         "to": 6.8, 
+         "speaker": 1, 
+         "confidence": 0.62, 
+         "final": false
+      }, 
+      {
+         "from": 6.8, 
+         "to": 7.02, 
+         "speaker": 1, 
+         "confidence": 0.62, 
+         "final": false
+      }, 
+      {
+         "from": 7.02, 
+         "to": 7.28, 
+         "speaker": 1, 
+         "confidence": 0.62, 
+         "final": false
+      }, 
+      {
+         "from": 7.28, 
+         "to": 7.5, 
+         "speaker": 1, 
+         "confidence": 0.62, 
+         "final": false
+      }, 
+      {
+         "from": 7.5, 
+         "to": 7.6, 
+         "speaker": 1, 
+         "confidence": 0.62, 
+         "final": false
+      }, 
+      {
+         "from": 7.6, 
+         "to": 8.23, 
+         "speaker": 1, 
+         "confidence": 0.62, 
+         "final": false
+      }, 
+      {
+         "from": 8.56, 
+         "to": 8.77, 
+         "speaker": 1, 
+         "confidence": 0.615, 
+         "final": false
+      }, 
+      {
+         "from": 8.77, 
+         "to": 8.93, 
+         "speaker": 1, 
+         "confidence": 0.615, 
+         "final": false
+      }, 
+      {
+         "from": 8.93, 
+         "to": 9.11, 
+         "speaker": 1, 
+         "confidence": 0.615, 
+         "final": true
+      }
+   ]
+}

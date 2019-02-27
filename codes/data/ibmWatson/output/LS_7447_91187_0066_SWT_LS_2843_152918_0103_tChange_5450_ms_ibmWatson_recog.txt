@@ -1,0 +1,324 @@
+{
+   "results": [
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "very", 
+                     0.28, 
+                     0.62
+                  ]
+               ], 
+               "confidence": 0.442, 
+               "transcript": "very "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "as", 
+                     1.03, 
+                     1.37
+                  ], 
+                  [
+                     "the", 
+                     1.52, 
+                     1.63
+                  ], 
+                  [
+                     "ball", 
+                     1.63, 
+                     1.87
+                  ]
+               ], 
+               "confidence": 0.307, 
+               "transcript": "as the ball "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "is", 
+                     2.22, 
+                     2.57
+                  ]
+               ], 
+               "confidence": 0.676, 
+               "transcript": "is "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "wrote", 
+                     3.1, 
+                     3.38
+                  ], 
+                  [
+                     "Kim", 
+                     3.38, 
+                     3.7
+                  ]
+               ], 
+               "confidence": 0.192, 
+               "transcript": "wrote Kim "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "all", 
+                     4.31, 
+                     4.58
+                  ]
+               ], 
+               "confidence": 0.207, 
+               "transcript": "all "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "the", 
+                     4.99, 
+                     5.28
+                  ], 
+                  [
+                     "a", 
+                     5.39, 
+                     5.51
+                  ], 
+                  [
+                     "group", 
+                     5.51, 
+                     5.88
+                  ], 
+                  [
+                     "by", 
+                     5.91, 
+                     6.09
+                  ], 
+                  [
+                     "themselves", 
+                     6.09, 
+                     6.94
+                  ]
+               ], 
+               "confidence": 0.913, 
+               "transcript": "the a group by themselves "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "and", 
+                     7.31, 
+                     7.48
+                  ], 
+                  [
+                     "lay", 
+                     7.48, 
+                     7.61
+                  ], 
+                  [
+                     "separated", 
+                     7.61, 
+                     8.29
+                  ], 
+                  [
+                     "from", 
+                     8.29, 
+                     8.48
+                  ], 
+                  [
+                     "the", 
+                     8.48, 
+                     8.57
+                  ], 
+                  [
+                     "main", 
+                     8.57, 
+                     8.85
+                  ], 
+                  [
+                     "ridge", 
+                     8.85, 
+                     9.28
+                  ]
+               ], 
+               "confidence": 0.829, 
+               "transcript": "and lay separated from the main ridge "
+            }
+         ], 
+         "final": true
+      }
+   ], 
+   "result_index": 0, 
+   "speaker_labels": [
+      {
+         "from": 0.28, 
+         "to": 0.62, 
+         "speaker": 1, 
+         "confidence": 0.434, 
+         "final": false
+      }, 
+      {
+         "from": 1.03, 
+         "to": 1.37, 
+         "speaker": 0, 
+         "confidence": 0.413, 
+         "final": false
+      }, 
+      {
+         "from": 1.52, 
+         "to": 1.63, 
+         "speaker": 1, 
+         "confidence": 0.405, 
+         "final": false
+      }, 
+      {
+         "from": 1.63, 
+         "to": 1.87, 
+         "speaker": 1, 
+         "confidence": 0.405, 
+         "final": false
+      }, 
+      {
+         "from": 2.22, 
+         "to": 2.57, 
+         "speaker": 1, 
+         "confidence": 0.429, 
+         "final": false
+      }, 
+      {
+         "from": 3.1, 
+         "to": 3.38, 
+         "speaker": 1, 
+         "confidence": 0.382, 
+         "final": false
+      }, 
+      {
+         "from": 3.38, 
+         "to": 3.7, 
+         "speaker": 1, 
+         "confidence": 0.382, 
+         "final": false
+      }, 
+      {
+         "from": 4.31, 
+         "to": 4.58, 
+         "speaker": 0, 
+         "confidence": 0.473, 
+         "final": false
+      }, 
+      {
+         "from": 4.99, 
+         "to": 5.28, 
+         "speaker": 1, 
+         "confidence": 0.411, 
+         "final": false
+      }, 
+      {
+         "from": 5.39, 
+         "to": 5.51, 
+         "speaker": 2, 
+         "confidence": 0.427, 
+         "final": false
+      }, 
+      {
+         "from": 5.51, 
+         "to": 5.88, 
+         "speaker": 2, 
+         "confidence": 0.427, 
+         "final": false
+      }, 
+      {
+         "from": 5.91, 
+         "to": 6.09, 
+         "speaker": 2, 
+         "confidence": 0.467, 
+         "final": false
+      }, 
+      {
+         "from": 6.09, 
+         "to": 6.94, 
+         "speaker": 2, 
+         "confidence": 0.467, 
+         "final": false
+      }, 
+      {
+         "from": 7.31, 
+         "to": 7.48, 
+         "speaker": 2, 
+         "confidence": 0.51, 
+         "final": false
+      }, 
+      {
+         "from": 7.48, 
+         "to": 7.61, 
+         "speaker": 2, 
+         "confidence": 0.51, 
+         "final": false
+      }, 
+      {
+         "from": 7.61, 
+         "to": 8.29, 
+         "speaker": 2, 
+         "confidence": 0.51, 
+         "final": false
+      }, 
+      {
+         "from": 8.29, 
+         "to": 8.48, 
+         "speaker": 2, 
+         "confidence": 0.51, 
+         "final": false
+      }, 
+      {
+         "from": 8.48, 
+         "to": 8.57, 
+         "speaker": 2, 
+         "confidence": 0.51, 
+         "final": false
+      }, 
+      {
+         "from": 8.57, 
+         "to": 8.85, 
+         "speaker": 2, 
+         "confidence": 0.51, 
+         "final": false
+      }, 
+      {
+         "from": 8.85, 
+         "to": 9.28, 
+         "speaker": 2, 
+         "confidence": 0.51, 
+         "final": true
+      }
+   ]
+}

@@ -1,0 +1,313 @@
+{
+   "results": [
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "to", 
+                     1.15, 
+                     1.39
+                  ], 
+                  [
+                     "show", 
+                     1.39, 
+                     1.82
+                  ]
+               ], 
+               "confidence": 0.893, 
+               "transcript": "to show "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "that", 
+                     1.96, 
+                     2.15
+                  ], 
+                  [
+                     "the", 
+                     2.15, 
+                     2.24
+                  ], 
+                  [
+                     "P.", 
+                     2.24, 
+                     2.39
+                  ]
+               ], 
+               "confidence": 0.434, 
+               "transcript": "that the P. "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "you", 
+                     2.83, 
+                     3.1
+                  ], 
+                  [
+                     "could", 
+                     3.37, 
+                     3.6
+                  ]
+               ], 
+               "confidence": 0.549, 
+               "transcript": "you could "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "he's", 
+                     3.73, 
+                     4.08
+                  ], 
+                  [
+                     "really", 
+                     4.15, 
+                     4.43
+                  ]
+               ], 
+               "confidence": 0.477, 
+               "transcript": "he's really "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "six", 
+                     4.8, 
+                     5.39
+                  ]
+               ], 
+               "confidence": 0.477, 
+               "transcript": "six "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "but", 
+                     5.77, 
+                     5.94
+                  ], 
+                  [
+                     "in", 
+                     5.94, 
+                     6.08
+                  ], 
+                  [
+                     "doing", 
+                     6.08, 
+                     6.41
+                  ], 
+                  [
+                     "that", 
+                     6.41, 
+                     6.71
+                  ], 
+                  [
+                     "he", 
+                     6.71, 
+                     6.94
+                  ], 
+                  [
+                     "affects", 
+                     6.94, 
+                     7.35
+                  ], 
+                  [
+                     "the", 
+                     7.35, 
+                     7.55
+                  ], 
+                  [
+                     "agents", 
+                     7.58, 
+                     8.2
+                  ], 
+                  [
+                     "owned", 
+                     8.23, 
+                     8.79
+                  ], 
+                  [
+                     "and", 
+                     8.99, 
+                     9.27
+                  ]
+               ], 
+               "confidence": 0.912, 
+               "transcript": "but in doing that he affects the agents owned and "
+            }
+         ], 
+         "final": true
+      }
+   ], 
+   "result_index": 0, 
+   "speaker_labels": [
+      {
+         "from": 1.15, 
+         "to": 1.39, 
+         "speaker": 0, 
+         "confidence": 0.5, 
+         "final": false
+      }, 
+      {
+         "from": 1.39, 
+         "to": 1.82, 
+         "speaker": 0, 
+         "confidence": 0.5, 
+         "final": false
+      }, 
+      {
+         "from": 1.96, 
+         "to": 2.15, 
+         "speaker": 0, 
+         "confidence": 0.551, 
+         "final": false
+      }, 
+      {
+         "from": 2.15, 
+         "to": 2.24, 
+         "speaker": 0, 
+         "confidence": 0.551, 
+         "final": false
+      }, 
+      {
+         "from": 2.24, 
+         "to": 2.39, 
+         "speaker": 0, 
+         "confidence": 0.551, 
+         "final": false
+      }, 
+      {
+         "from": 2.83, 
+         "to": 3.1, 
+         "speaker": 0, 
+         "confidence": 0.393, 
+         "final": false
+      }, 
+      {
+         "from": 3.37, 
+         "to": 3.6, 
+         "speaker": 0, 
+         "confidence": 0.514, 
+         "final": false
+      }, 
+      {
+         "from": 3.73, 
+         "to": 4.08, 
+         "speaker": 0, 
+         "confidence": 0.43, 
+         "final": false
+      }, 
+      {
+         "from": 4.15, 
+         "to": 4.43, 
+         "speaker": 0, 
+         "confidence": 0.521, 
+         "final": false
+      }, 
+      {
+         "from": 4.8, 
+         "to": 5.39, 
+         "speaker": 0, 
+         "confidence": 0.476, 
+         "final": false
+      }, 
+      {
+         "from": 5.77, 
+         "to": 5.94, 
+         "speaker": 1, 
+         "confidence": 0.627, 
+         "final": false
+      }, 
+      {
+         "from": 5.94, 
+         "to": 6.08, 
+         "speaker": 1, 
+         "confidence": 0.627, 
+         "final": false
+      }, 
+      {
+         "from": 6.08, 
+         "to": 6.41, 
+         "speaker": 1, 
+         "confidence": 0.627, 
+         "final": false
+      }, 
+      {
+         "from": 6.41, 
+         "to": 6.71, 
+         "speaker": 1, 
+         "confidence": 0.627, 
+         "final": false
+      }, 
+      {
+         "from": 6.71, 
+         "to": 6.94, 
+         "speaker": 1, 
+         "confidence": 0.627, 
+         "final": false
+      }, 
+      {
+         "from": 6.94, 
+         "to": 7.35, 
+         "speaker": 1, 
+         "confidence": 0.627, 
+         "final": false
+      }, 
+      {
+         "from": 7.35, 
+         "to": 7.55, 
+         "speaker": 1, 
+         "confidence": 0.627, 
+         "final": false
+      }, 
+      {
+         "from": 7.58, 
+         "to": 8.2, 
+         "speaker": 1, 
+         "confidence": 0.634, 
+         "final": false
+      }, 
+      {
+         "from": 8.23, 
+         "to": 8.79, 
+         "speaker": 1, 
+         "confidence": 0.586, 
+         "final": false
+      }, 
+      {
+         "from": 8.99, 
+         "to": 9.27, 
+         "speaker": 1, 
+         "confidence": 0.488, 
+         "final": true
+      }
+   ]
+}

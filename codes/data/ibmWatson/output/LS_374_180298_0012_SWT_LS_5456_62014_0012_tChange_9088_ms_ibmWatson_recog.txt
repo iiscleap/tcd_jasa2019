@@ -1,0 +1,473 @@
+{
+   "results": [
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "and", 
+                     0.13, 
+                     0.34
+                  ], 
+                  [
+                     "all", 
+                     0.34, 
+                     0.53
+                  ], 
+                  [
+                     "the", 
+                     0.53, 
+                     0.65
+                  ], 
+                  [
+                     "simplicity", 
+                     0.65, 
+                     1.42
+                  ], 
+                  [
+                     "of", 
+                     1.42, 
+                     1.54
+                  ], 
+                  [
+                     "it's", 
+                     1.54, 
+                     1.75
+                  ], 
+                  [
+                     "developments", 
+                     1.75, 
+                     2.7
+                  ]
+               ], 
+               "confidence": 0.953, 
+               "transcript": "and all the simplicity of it's developments "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "I", 
+                     3.98, 
+                     4.14
+                  ], 
+                  [
+                     "realized", 
+                     4.14, 
+                     4.88
+                  ], 
+                  [
+                     "then", 
+                     4.91, 
+                     5.42
+                  ], 
+                  [
+                     "that", 
+                     5.45, 
+                     5.65
+                  ], 
+                  [
+                     "is", 
+                     5.65, 
+                     5.8
+                  ], 
+                  [
+                     "nothing", 
+                     5.8, 
+                     6.23
+                  ], 
+                  [
+                     "in", 
+                     6.23, 
+                     6.36
+                  ], 
+                  [
+                     "the", 
+                     6.36, 
+                     6.45
+                  ], 
+                  [
+                     "world", 
+                     6.45, 
+                     6.94
+                  ], 
+                  [
+                     "would", 
+                     6.94, 
+                     7.12
+                  ], 
+                  [
+                     "make", 
+                     7.12, 
+                     7.37
+                  ], 
+                  [
+                     "me", 
+                     7.37, 
+                     7.49
+                  ], 
+                  [
+                     "forget", 
+                     7.49, 
+                     7.86
+                  ], 
+                  [
+                     "my", 
+                     7.86, 
+                     8.02
+                  ], 
+                  [
+                     "mistress", 
+                     8.02, 
+                     8.69
+                  ], 
+                  [
+                     "here", 
+                     9.02, 
+                     9.21
+                  ], 
+                  [
+                     "the", 
+                     9.21, 
+                     9.32
+                  ], 
+                  [
+                     "old", 
+                     9.32, 
+                     9.52
+                  ], 
+                  [
+                     "woman", 
+                     9.52, 
+                     9.74
+                  ], 
+                  [
+                     "Rosen", 
+                     9.74, 
+                     10.25
+                  ], 
+                  [
+                     "through", 
+                     10.25, 
+                     10.46
+                  ], 
+                  [
+                     "on", 
+                     10.46, 
+                     10.63
+                  ], 
+                  [
+                     "a", 
+                     10.63, 
+                     10.67
+                  ], 
+                  [
+                     "handful", 
+                     10.67, 
+                     11.11
+                  ], 
+                  [
+                     "of", 
+                     11.11, 
+                     11.21
+                  ], 
+                  [
+                     "light", 
+                     11.21, 
+                     11.51
+                  ], 
+                  [
+                     "would", 
+                     11.51, 
+                     11.77
+                  ], 
+                  [
+                     "which", 
+                     12.01, 
+                     12.2
+                  ], 
+                  [
+                     "blazed", 
+                     12.2, 
+                     12.59
+                  ], 
+                  [
+                     "a", 
+                     12.59, 
+                     12.69
+                  ]
+               ], 
+               "confidence": 0.85, 
+               "transcript": "I realized then that is nothing in the world would make me forget my mistress here the old woman Rosen through on a handful of light would which blazed a "
+            }
+         ], 
+         "final": true
+      }
+   ], 
+   "result_index": 0, 
+   "speaker_labels": [
+      {
+         "from": 0.13, 
+         "to": 0.34, 
+         "speaker": 0, 
+         "confidence": 0.5, 
+         "final": false
+      }, 
+      {
+         "from": 0.34, 
+         "to": 0.53, 
+         "speaker": 0, 
+         "confidence": 0.5, 
+         "final": false
+      }, 
+      {
+         "from": 0.53, 
+         "to": 0.65, 
+         "speaker": 0, 
+         "confidence": 0.5, 
+         "final": false
+      }, 
+      {
+         "from": 0.65, 
+         "to": 1.42, 
+         "speaker": 0, 
+         "confidence": 0.5, 
+         "final": false
+      }, 
+      {
+         "from": 1.42, 
+         "to": 1.54, 
+         "speaker": 0, 
+         "confidence": 0.5, 
+         "final": false
+      }, 
+      {
+         "from": 1.54, 
+         "to": 1.75, 
+         "speaker": 0, 
+         "confidence": 0.5, 
+         "final": false
+      }, 
+      {
+         "from": 1.75, 
+         "to": 2.7, 
+         "speaker": 0, 
+         "confidence": 0.5, 
+         "final": false
+      }, 
+      {
+         "from": 3.98, 
+         "to": 4.14, 
+         "speaker": 1, 
+         "confidence": 0.444, 
+         "final": false
+      }, 
+      {
+         "from": 4.14, 
+         "to": 4.88, 
+         "speaker": 1, 
+         "confidence": 0.444, 
+         "final": false
+      }, 
+      {
+         "from": 4.91, 
+         "to": 5.42, 
+         "speaker": 0, 
+         "confidence": 0.464, 
+         "final": false
+      }, 
+      {
+         "from": 5.45, 
+         "to": 5.65, 
+         "speaker": 0, 
+         "confidence": 0.378, 
+         "final": false
+      }, 
+      {
+         "from": 5.65, 
+         "to": 5.8, 
+         "speaker": 0, 
+         "confidence": 0.378, 
+         "final": false
+      }, 
+      {
+         "from": 5.8, 
+         "to": 6.23, 
+         "speaker": 0, 
+         "confidence": 0.378, 
+         "final": false
+      }, 
+      {
+         "from": 6.23, 
+         "to": 6.36, 
+         "speaker": 0, 
+         "confidence": 0.378, 
+         "final": false
+      }, 
+      {
+         "from": 6.36, 
+         "to": 6.45, 
+         "speaker": 0, 
+         "confidence": 0.378, 
+         "final": false
+      }, 
+      {
+         "from": 6.45, 
+         "to": 6.94, 
+         "speaker": 0, 
+         "confidence": 0.378, 
+         "final": false
+      }, 
+      {
+         "from": 6.94, 
+         "to": 7.12, 
+         "speaker": 0, 
+         "confidence": 0.378, 
+         "final": false
+      }, 
+      {
+         "from": 7.12, 
+         "to": 7.37, 
+         "speaker": 0, 
+         "confidence": 0.378, 
+         "final": false
+      }, 
+      {
+         "from": 7.37, 
+         "to": 7.49, 
+         "speaker": 0, 
+         "confidence": 0.378, 
+         "final": false
+      }, 
+      {
+         "from": 7.49, 
+         "to": 7.86, 
+         "speaker": 0, 
+         "confidence": 0.378, 
+         "final": false
+      }, 
+      {
+         "from": 7.86, 
+         "to": 8.02, 
+         "speaker": 0, 
+         "confidence": 0.378, 
+         "final": false
+      }, 
+      {
+         "from": 8.02, 
+         "to": 8.69, 
+         "speaker": 0, 
+         "confidence": 0.378, 
+         "final": false
+      }, 
+      {
+         "from": 9.02, 
+         "to": 9.21, 
+         "speaker": 2, 
+         "confidence": 0.499, 
+         "final": false
+      }, 
+      {
+         "from": 9.21, 
+         "to": 9.32, 
+         "speaker": 2, 
+         "confidence": 0.499, 
+         "final": false
+      }, 
+      {
+         "from": 9.32, 
+         "to": 9.52, 
+         "speaker": 2, 
+         "confidence": 0.499, 
+         "final": false
+      }, 
+      {
+         "from": 9.52, 
+         "to": 9.74, 
+         "speaker": 2, 
+         "confidence": 0.499, 
+         "final": false
+      }, 
+      {
+         "from": 9.74, 
+         "to": 10.25, 
+         "speaker": 2, 
+         "confidence": 0.499, 
+         "final": false
+      }, 
+      {
+         "from": 10.25, 
+         "to": 10.46, 
+         "speaker": 2, 
+         "confidence": 0.499, 
+         "final": false
+      }, 
+      {
+         "from": 10.46, 
+         "to": 10.63, 
+         "speaker": 2, 
+         "confidence": 0.499, 
+         "final": false
+      }, 
+      {
+         "from": 10.63, 
+         "to": 10.67, 
+         "speaker": 2, 
+         "confidence": 0.499, 
+         "final": false
+      }, 
+      {
+         "from": 10.67, 
+         "to": 11.11, 
+         "speaker": 2, 
+         "confidence": 0.499, 
+         "final": false
+      }, 
+      {
+         "from": 11.11, 
+         "to": 11.21, 
+         "speaker": 2, 
+         "confidence": 0.499, 
+         "final": false
+      }, 
+      {
+         "from": 11.21, 
+         "to": 11.51, 
+         "speaker": 2, 
+         "confidence": 0.499, 
+         "final": false
+      }, 
+      {
+         "from": 11.51, 
+         "to": 11.77, 
+         "speaker": 2, 
+         "confidence": 0.499, 
+         "final": false
+      }, 
+      {
+         "from": 12.01, 
+         "to": 12.2, 
+         "speaker": 2, 
+         "confidence": 0.505, 
+         "final": false
+      }, 
+      {
+         "from": 12.2, 
+         "to": 12.59, 
+         "speaker": 2, 
+         "confidence": 0.505, 
+         "final": false
+      }, 
+      {
+         "from": 12.59, 
+         "to": 12.69, 
+         "speaker": 2, 
+         "confidence": 0.505, 
+         "final": true
+      }
+   ]
+}

@@ -1,0 +1,376 @@
+{
+   "results": [
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "I", 
+                     0.18, 
+                     0.35
+                  ], 
+                  [
+                     "have", 
+                     0.35, 
+                     0.56
+                  ], 
+                  [
+                     "a", 
+                     0.56, 
+                     0.64
+                  ], 
+                  [
+                     "hundred", 
+                     0.64, 
+                     1.08
+                  ], 
+                  [
+                     "horses", 
+                     1.08, 
+                     1.81
+                  ], 
+                  [
+                     "were", 
+                     1.84, 
+                     2.03
+                  ], 
+                  [
+                     "three", 
+                     2.03, 
+                     2.43
+                  ], 
+                  [
+                     "or", 
+                     2.43, 
+                     2.64
+                  ], 
+                  [
+                     "four", 
+                     2.64, 
+                     2.96
+                  ], 
+                  [
+                     "hundred", 
+                     2.96, 
+                     3.31
+                  ], 
+                  [
+                     "rubles", 
+                     3.31, 
+                     3.71
+                  ], 
+                  [
+                     "each", 
+                     3.71, 
+                     4.19
+                  ]
+               ], 
+               "confidence": 0.898, 
+               "transcript": "I have a hundred horses were three or four hundred rubles each "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "but", 
+                     4.67, 
+                     4.82
+                  ], 
+                  [
+                     "they", 
+                     4.82, 
+                     4.93
+                  ], 
+                  [
+                     "are", 
+                     4.93, 
+                     5.05
+                  ], 
+                  [
+                     "not", 
+                     5.05, 
+                     5.32
+                  ], 
+                  [
+                     "because", 
+                     5.44, 
+                     5.78
+                  ], 
+                  [
+                     "they", 
+                     5.78, 
+                     5.91
+                  ], 
+                  [
+                     "had", 
+                     5.91, 
+                     6.1
+                  ], 
+                  [
+                     "something", 
+                     6.1, 
+                     6.51
+                  ], 
+                  [
+                     "else", 
+                     6.51, 
+                     6.86
+                  ], 
+                  [
+                     "to", 
+                     6.86, 
+                     7.03
+                  ], 
+                  [
+                     "divert", 
+                     7.03, 
+                     7.5
+                  ], 
+                  [
+                     "them", 
+                     7.5, 
+                     7.68
+                  ], 
+                  [
+                     "that", 
+                     7.68, 
+                     7.89
+                  ], 
+                  [
+                     "evening", 
+                     7.89, 
+                     8.37
+                  ]
+               ], 
+               "confidence": 0.956, 
+               "transcript": "but they are not because they had something else to divert them that evening "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "some", 
+                     8.75, 
+                     9.04
+                  ], 
+                  [
+                     "hot", 
+                     9.04, 
+                     9.31
+                  ]
+               ], 
+               "confidence": 0.666, 
+               "transcript": "some hot "
+            }
+         ], 
+         "final": true
+      }
+   ], 
+   "result_index": 0, 
+   "speaker_labels": [
+      {
+         "from": 0.18, 
+         "to": 0.35, 
+         "speaker": 0, 
+         "confidence": 0.667, 
+         "final": false
+      }, 
+      {
+         "from": 0.35, 
+         "to": 0.56, 
+         "speaker": 0, 
+         "confidence": 0.667, 
+         "final": false
+      }, 
+      {
+         "from": 0.56, 
+         "to": 0.64, 
+         "speaker": 0, 
+         "confidence": 0.667, 
+         "final": false
+      }, 
+      {
+         "from": 0.64, 
+         "to": 1.08, 
+         "speaker": 0, 
+         "confidence": 0.667, 
+         "final": false
+      }, 
+      {
+         "from": 1.08, 
+         "to": 1.81, 
+         "speaker": 0, 
+         "confidence": 0.667, 
+         "final": false
+      }, 
+      {
+         "from": 1.84, 
+         "to": 2.03, 
+         "speaker": 0, 
+         "confidence": 0.463, 
+         "final": false
+      }, 
+      {
+         "from": 2.03, 
+         "to": 2.43, 
+         "speaker": 0, 
+         "confidence": 0.463, 
+         "final": false
+      }, 
+      {
+         "from": 2.43, 
+         "to": 2.64, 
+         "speaker": 0, 
+         "confidence": 0.463, 
+         "final": false
+      }, 
+      {
+         "from": 2.64, 
+         "to": 2.96, 
+         "speaker": 0, 
+         "confidence": 0.463, 
+         "final": false
+      }, 
+      {
+         "from": 2.96, 
+         "to": 3.31, 
+         "speaker": 0, 
+         "confidence": 0.463, 
+         "final": false
+      }, 
+      {
+         "from": 3.31, 
+         "to": 3.71, 
+         "speaker": 0, 
+         "confidence": 0.463, 
+         "final": false
+      }, 
+      {
+         "from": 3.71, 
+         "to": 4.19, 
+         "speaker": 0, 
+         "confidence": 0.463, 
+         "final": false
+      }, 
+      {
+         "from": 4.67, 
+         "to": 4.82, 
+         "speaker": 1, 
+         "confidence": 0.485, 
+         "final": false
+      }, 
+      {
+         "from": 4.82, 
+         "to": 4.93, 
+         "speaker": 1, 
+         "confidence": 0.485, 
+         "final": false
+      }, 
+      {
+         "from": 4.93, 
+         "to": 5.05, 
+         "speaker": 1, 
+         "confidence": 0.485, 
+         "final": false
+      }, 
+      {
+         "from": 5.05, 
+         "to": 5.32, 
+         "speaker": 1, 
+         "confidence": 0.485, 
+         "final": false
+      }, 
+      {
+         "from": 5.44, 
+         "to": 5.78, 
+         "speaker": 2, 
+         "confidence": 0.487, 
+         "final": false
+      }, 
+      {
+         "from": 5.78, 
+         "to": 5.91, 
+         "speaker": 2, 
+         "confidence": 0.487, 
+         "final": false
+      }, 
+      {
+         "from": 5.91, 
+         "to": 6.1, 
+         "speaker": 2, 
+         "confidence": 0.487, 
+         "final": false
+      }, 
+      {
+         "from": 6.1, 
+         "to": 6.51, 
+         "speaker": 2, 
+         "confidence": 0.487, 
+         "final": false
+      }, 
+      {
+         "from": 6.51, 
+         "to": 6.86, 
+         "speaker": 2, 
+         "confidence": 0.487, 
+         "final": false
+      }, 
+      {
+         "from": 6.86, 
+         "to": 7.03, 
+         "speaker": 2, 
+         "confidence": 0.487, 
+         "final": false
+      }, 
+      {
+         "from": 7.03, 
+         "to": 7.5, 
+         "speaker": 2, 
+         "confidence": 0.487, 
+         "final": false
+      }, 
+      {
+         "from": 7.5, 
+         "to": 7.68, 
+         "speaker": 2, 
+         "confidence": 0.487, 
+         "final": false
+      }, 
+      {
+         "from": 7.68, 
+         "to": 7.89, 
+         "speaker": 2, 
+         "confidence": 0.487, 
+         "final": false
+      }, 
+      {
+         "from": 7.89, 
+         "to": 8.37, 
+         "speaker": 2, 
+         "confidence": 0.487, 
+         "final": false
+      }, 
+      {
+         "from": 8.75, 
+         "to": 9.04, 
+         "speaker": 2, 
+         "confidence": 0.46, 
+         "final": false
+      }, 
+      {
+         "from": 9.04, 
+         "to": 9.31, 
+         "speaker": 2, 
+         "confidence": 0.46, 
+         "final": true
+      }
+   ]
+}

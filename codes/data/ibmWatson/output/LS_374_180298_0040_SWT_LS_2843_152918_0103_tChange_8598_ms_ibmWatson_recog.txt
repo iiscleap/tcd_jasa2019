@@ -1,0 +1,484 @@
+{
+   "results": [
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "prudence", 
+                     0.13, 
+                     0.59
+                  ], 
+                  [
+                     "was", 
+                     0.59, 
+                     0.78
+                  ], 
+                  [
+                     "one", 
+                     0.78, 
+                     0.95
+                  ], 
+                  [
+                     "of", 
+                     0.95, 
+                     1.05
+                  ], 
+                  [
+                     "those", 
+                     1.05, 
+                     1.32
+                  ], 
+                  [
+                     "women", 
+                     1.32, 
+                     1.67
+                  ], 
+                  [
+                     "who", 
+                     1.67, 
+                     1.85
+                  ], 
+                  [
+                     "seem", 
+                     1.85, 
+                     2.17
+                  ], 
+                  [
+                     "made", 
+                     2.17, 
+                     2.5
+                  ], 
+                  [
+                     "on", 
+                     2.5, 
+                     2.66
+                  ], 
+                  [
+                     "purpose", 
+                     2.66, 
+                     3.13
+                  ], 
+                  [
+                     "for", 
+                     3.13, 
+                     3.31
+                  ], 
+                  [
+                     "days", 
+                     3.31, 
+                     3.63
+                  ], 
+                  [
+                     "in", 
+                     3.63, 
+                     3.73
+                  ], 
+                  [
+                     "the", 
+                     3.73, 
+                     3.83
+                  ], 
+                  [
+                     "country", 
+                     3.83, 
+                     4.42
+                  ]
+               ], 
+               "confidence": 0.956, 
+               "transcript": "prudence was one of those women who seem made on purpose for days in the country "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "with", 
+                     5.0, 
+                     5.19
+                  ], 
+                  [
+                     "her", 
+                     5.19, 
+                     5.33
+                  ], 
+                  [
+                     "on", 
+                     5.33, 
+                     5.57
+                  ], 
+                  [
+                     "changing", 
+                     5.57, 
+                     6.12
+                  ], 
+                  [
+                     "good", 
+                     6.12, 
+                     6.32
+                  ], 
+                  [
+                     "humor", 
+                     6.32, 
+                     6.81
+                  ], 
+                  [
+                     "and", 
+                     6.81, 
+                     7.08
+                  ], 
+                  [
+                     "her", 
+                     7.08, 
+                     7.25
+                  ], 
+                  [
+                     "eternal", 
+                     7.25, 
+                     7.69
+                  ], 
+                  [
+                     "appetite", 
+                     7.69, 
+                     8.43
+                  ], 
+                  [
+                     "a", 
+                     8.54, 
+                     8.65
+                  ], 
+                  [
+                     "group", 
+                     8.65, 
+                     8.99
+                  ], 
+                  [
+                     "by", 
+                     9.03, 
+                     9.24
+                  ], 
+                  [
+                     "themselves", 
+                     9.24, 
+                     10.09
+                  ]
+               ], 
+               "confidence": 0.885, 
+               "transcript": "with her on changing good humor and her eternal appetite a group by themselves "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "and", 
+                     10.46, 
+                     10.62
+                  ], 
+                  [
+                     "lay", 
+                     10.62, 
+                     10.76
+                  ], 
+                  [
+                     "separated", 
+                     10.76, 
+                     11.44
+                  ], 
+                  [
+                     "from", 
+                     11.44, 
+                     11.63
+                  ], 
+                  [
+                     "the", 
+                     11.63, 
+                     11.71
+                  ], 
+                  [
+                     "main", 
+                     11.71, 
+                     12.02
+                  ], 
+                  [
+                     "ridge", 
+                     12.02, 
+                     12.43
+                  ]
+               ], 
+               "confidence": 0.836, 
+               "transcript": "and lay separated from the main ridge "
+            }
+         ], 
+         "final": true
+      }
+   ], 
+   "result_index": 0, 
+   "speaker_labels": [
+      {
+         "from": 0.13, 
+         "to": 0.59, 
+         "speaker": 0, 
+         "confidence": 0.5, 
+         "final": false
+      }, 
+      {
+         "from": 0.59, 
+         "to": 0.78, 
+         "speaker": 0, 
+         "confidence": 0.5, 
+         "final": false
+      }, 
+      {
+         "from": 0.78, 
+         "to": 0.95, 
+         "speaker": 0, 
+         "confidence": 0.5, 
+         "final": false
+      }, 
+      {
+         "from": 0.95, 
+         "to": 1.05, 
+         "speaker": 0, 
+         "confidence": 0.5, 
+         "final": false
+      }, 
+      {
+         "from": 1.05, 
+         "to": 1.32, 
+         "speaker": 0, 
+         "confidence": 0.5, 
+         "final": false
+      }, 
+      {
+         "from": 1.32, 
+         "to": 1.67, 
+         "speaker": 0, 
+         "confidence": 0.5, 
+         "final": false
+      }, 
+      {
+         "from": 1.67, 
+         "to": 1.85, 
+         "speaker": 0, 
+         "confidence": 0.5, 
+         "final": false
+      }, 
+      {
+         "from": 1.85, 
+         "to": 2.17, 
+         "speaker": 0, 
+         "confidence": 0.5, 
+         "final": false
+      }, 
+      {
+         "from": 2.17, 
+         "to": 2.5, 
+         "speaker": 0, 
+         "confidence": 0.5, 
+         "final": false
+      }, 
+      {
+         "from": 2.5, 
+         "to": 2.66, 
+         "speaker": 0, 
+         "confidence": 0.5, 
+         "final": false
+      }, 
+      {
+         "from": 2.66, 
+         "to": 3.13, 
+         "speaker": 0, 
+         "confidence": 0.5, 
+         "final": false
+      }, 
+      {
+         "from": 3.13, 
+         "to": 3.31, 
+         "speaker": 0, 
+         "confidence": 0.5, 
+         "final": false
+      }, 
+      {
+         "from": 3.31, 
+         "to": 3.63, 
+         "speaker": 0, 
+         "confidence": 0.5, 
+         "final": false
+      }, 
+      {
+         "from": 3.63, 
+         "to": 3.73, 
+         "speaker": 0, 
+         "confidence": 0.5, 
+         "final": false
+      }, 
+      {
+         "from": 3.73, 
+         "to": 3.83, 
+         "speaker": 0, 
+         "confidence": 0.5, 
+         "final": false
+      }, 
+      {
+         "from": 3.83, 
+         "to": 4.42, 
+         "speaker": 0, 
+         "confidence": 0.5, 
+         "final": false
+      }, 
+      {
+         "from": 5.0, 
+         "to": 5.19, 
+         "speaker": 0, 
+         "confidence": 0.493, 
+         "final": false
+      }, 
+      {
+         "from": 5.19, 
+         "to": 5.33, 
+         "speaker": 0, 
+         "confidence": 0.493, 
+         "final": false
+      }, 
+      {
+         "from": 5.33, 
+         "to": 5.57, 
+         "speaker": 0, 
+         "confidence": 0.493, 
+         "final": false
+      }, 
+      {
+         "from": 5.57, 
+         "to": 6.12, 
+         "speaker": 0, 
+         "confidence": 0.493, 
+         "final": false
+      }, 
+      {
+         "from": 6.12, 
+         "to": 6.32, 
+         "speaker": 0, 
+         "confidence": 0.493, 
+         "final": false
+      }, 
+      {
+         "from": 6.32, 
+         "to": 6.81, 
+         "speaker": 0, 
+         "confidence": 0.493, 
+         "final": false
+      }, 
+      {
+         "from": 6.81, 
+         "to": 7.08, 
+         "speaker": 0, 
+         "confidence": 0.493, 
+         "final": false
+      }, 
+      {
+         "from": 7.08, 
+         "to": 7.25, 
+         "speaker": 0, 
+         "confidence": 0.493, 
+         "final": false
+      }, 
+      {
+         "from": 7.25, 
+         "to": 7.69, 
+         "speaker": 0, 
+         "confidence": 0.493, 
+         "final": false
+      }, 
+      {
+         "from": 7.69, 
+         "to": 8.43, 
+         "speaker": 0, 
+         "confidence": 0.493, 
+         "final": false
+      }, 
+      {
+         "from": 8.54, 
+         "to": 8.65, 
+         "speaker": 1, 
+         "confidence": 0.475, 
+         "final": false
+      }, 
+      {
+         "from": 8.65, 
+         "to": 8.99, 
+         "speaker": 1, 
+         "confidence": 0.475, 
+         "final": false
+      }, 
+      {
+         "from": 9.03, 
+         "to": 9.24, 
+         "speaker": 2, 
+         "confidence": 0.472, 
+         "final": false
+      }, 
+      {
+         "from": 9.24, 
+         "to": 10.09, 
+         "speaker": 2, 
+         "confidence": 0.472, 
+         "final": false
+      }, 
+      {
+         "from": 10.46, 
+         "to": 10.62, 
+         "speaker": 2, 
+         "confidence": 0.438, 
+         "final": false
+      }, 
+      {
+         "from": 10.62, 
+         "to": 10.76, 
+         "speaker": 2, 
+         "confidence": 0.438, 
+         "final": false
+      }, 
+      {
+         "from": 10.76, 
+         "to": 11.44, 
+         "speaker": 2, 
+         "confidence": 0.438, 
+         "final": false
+      }, 
+      {
+         "from": 11.44, 
+         "to": 11.63, 
+         "speaker": 2, 
+         "confidence": 0.438, 
+         "final": false
+      }, 
+      {
+         "from": 11.63, 
+         "to": 11.71, 
+         "speaker": 2, 
+         "confidence": 0.438, 
+         "final": false
+      }, 
+      {
+         "from": 11.71, 
+         "to": 12.02, 
+         "speaker": 2, 
+         "confidence": 0.438, 
+         "final": false
+      }, 
+      {
+         "from": 12.02, 
+         "to": 12.43, 
+         "speaker": 2, 
+         "confidence": 0.438, 
+         "final": true
+      }
+   ]
+}

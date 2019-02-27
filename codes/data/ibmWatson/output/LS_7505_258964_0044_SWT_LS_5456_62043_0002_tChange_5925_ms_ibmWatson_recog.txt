@@ -1,0 +1,258 @@
+{
+   "results": [
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "public", 
+                     0.49, 
+                     0.82
+                  ], 
+                  [
+                     "franchises", 
+                     0.82, 
+                     1.67
+                  ], 
+                  [
+                     "in", 
+                     1.93, 
+                     2.12
+                  ], 
+                  [
+                     "title", 
+                     2.12, 
+                     2.6
+                  ], 
+                  [
+                     "the", 
+                     2.6, 
+                     2.77
+                  ], 
+                  [
+                     "owners", 
+                     2.77, 
+                     3.16
+                  ], 
+                  [
+                     "to", 
+                     3.16, 
+                     3.32
+                  ], 
+                  [
+                     "special", 
+                     3.32, 
+                     4.03
+                  ], 
+                  [
+                     "sometimes", 
+                     4.16, 
+                     4.72
+                  ], 
+                  [
+                     "exclusive", 
+                     4.72, 
+                     5.58
+                  ], 
+                  [
+                     "avoid", 
+                     5.89, 
+                     6.3
+                  ], 
+                  [
+                     "from", 
+                     6.3, 
+                     6.46
+                  ], 
+                  [
+                     "New", 
+                     6.46, 
+                     6.59
+                  ], 
+                  [
+                     "Orleans", 
+                     6.59, 
+                     6.97
+                  ], 
+                  [
+                     "to", 
+                     6.97, 
+                     7.07
+                  ], 
+                  [
+                     "Vicksburg", 
+                     7.07, 
+                     7.63
+                  ], 
+                  [
+                     "in", 
+                     7.63, 
+                     7.71
+                  ], 
+                  [
+                     "back", 
+                     7.71, 
+                     8.16
+                  ], 
+                  [
+                     "including", 
+                     8.46, 
+                     8.99
+                  ], 
+                  [
+                     "stoppages", 
+                     8.99, 
+                     9.58
+                  ]
+               ], 
+               "confidence": 0.873, 
+               "transcript": "public franchises in title the owners to special sometimes exclusive avoid from New Orleans to Vicksburg in back including stoppages "
+            }
+         ], 
+         "final": true
+      }
+   ], 
+   "result_index": 0, 
+   "speaker_labels": [
+      {
+         "from": 0.49, 
+         "to": 0.82, 
+         "speaker": 0, 
+         "confidence": 0.518, 
+         "final": false
+      }, 
+      {
+         "from": 0.82, 
+         "to": 1.67, 
+         "speaker": 0, 
+         "confidence": 0.518, 
+         "final": false
+      }, 
+      {
+         "from": 1.93, 
+         "to": 2.12, 
+         "speaker": 0, 
+         "confidence": 0.598, 
+         "final": false
+      }, 
+      {
+         "from": 2.12, 
+         "to": 2.6, 
+         "speaker": 0, 
+         "confidence": 0.598, 
+         "final": false
+      }, 
+      {
+         "from": 2.6, 
+         "to": 2.77, 
+         "speaker": 0, 
+         "confidence": 0.598, 
+         "final": false
+      }, 
+      {
+         "from": 2.77, 
+         "to": 3.16, 
+         "speaker": 0, 
+         "confidence": 0.598, 
+         "final": false
+      }, 
+      {
+         "from": 3.16, 
+         "to": 3.32, 
+         "speaker": 0, 
+         "confidence": 0.598, 
+         "final": false
+      }, 
+      {
+         "from": 3.32, 
+         "to": 4.03, 
+         "speaker": 0, 
+         "confidence": 0.598, 
+         "final": false
+      }, 
+      {
+         "from": 4.16, 
+         "to": 4.72, 
+         "speaker": 0, 
+         "confidence": 0.516, 
+         "final": false
+      }, 
+      {
+         "from": 4.72, 
+         "to": 5.58, 
+         "speaker": 0, 
+         "confidence": 0.516, 
+         "final": false
+      }, 
+      {
+         "from": 5.89, 
+         "to": 6.3, 
+         "speaker": 1, 
+         "confidence": 0.604, 
+         "final": false
+      }, 
+      {
+         "from": 6.3, 
+         "to": 6.46, 
+         "speaker": 1, 
+         "confidence": 0.604, 
+         "final": false
+      }, 
+      {
+         "from": 6.46, 
+         "to": 6.59, 
+         "speaker": 1, 
+         "confidence": 0.604, 
+         "final": false
+      }, 
+      {
+         "from": 6.59, 
+         "to": 6.97, 
+         "speaker": 1, 
+         "confidence": 0.604, 
+         "final": false
+      }, 
+      {
+         "from": 6.97, 
+         "to": 7.07, 
+         "speaker": 1, 
+         "confidence": 0.604, 
+         "final": false
+      }, 
+      {
+         "from": 7.07, 
+         "to": 7.63, 
+         "speaker": 1, 
+         "confidence": 0.604, 
+         "final": false
+      }, 
+      {
+         "from": 7.63, 
+         "to": 7.71, 
+         "speaker": 1, 
+         "confidence": 0.604, 
+         "final": false
+      }, 
+      {
+         "from": 7.71, 
+         "to": 8.16, 
+         "speaker": 1, 
+         "confidence": 0.604, 
+         "final": false
+      }, 
+      {
+         "from": 8.46, 
+         "to": 8.99, 
+         "speaker": 1, 
+         "confidence": 0.581, 
+         "final": false
+      }, 
+      {
+         "from": 8.99, 
+         "to": 9.58, 
+         "speaker": 1, 
+         "confidence": 0.581, 
+         "final": true
+      }
+   ]
+}

@@ -1,0 +1,336 @@
+{
+   "results": [
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "and", 
+                     0.23, 
+                     0.51
+                  ]
+               ], 
+               "confidence": 0.997, 
+               "transcript": "and "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "the", 
+                     0.59, 
+                     0.66
+                  ], 
+                  [
+                     "US", 
+                     0.66, 
+                     1.02
+                  ], 
+                  [
+                     "on", 
+                     1.05, 
+                     1.33
+                  ]
+               ], 
+               "confidence": 0.736, 
+               "transcript": "the US on "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "aired", 
+                     1.61, 
+                     1.98
+                  ], 
+                  [
+                     "what", 
+                     2.01, 
+                     2.31
+                  ], 
+                  [
+                     "was", 
+                     2.31, 
+                     2.55
+                  ]
+               ], 
+               "confidence": 0.797, 
+               "transcript": "aired what was "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "they", 
+                     3.06, 
+                     3.18
+                  ], 
+                  [
+                     "could", 
+                     3.18, 
+                     3.48
+                  ]
+               ], 
+               "confidence": 0.561, 
+               "transcript": "they could "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "himself", 
+                     3.58, 
+                     4.16
+                  ]
+               ], 
+               "confidence": 0.992, 
+               "transcript": "himself "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "without", 
+                     4.69, 
+                     5.11
+                  ]
+               ], 
+               "confidence": 1.0, 
+               "transcript": "without "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "timestamps": [
+                  [
+                     "the", 
+                     5.37, 
+                     5.47
+                  ], 
+                  [
+                     "rapid", 
+                     5.47, 
+                     5.91
+                  ], 
+                  [
+                     "pace", 
+                     5.91, 
+                     6.22
+                  ], 
+                  [
+                     "afterwards", 
+                     6.22, 
+                     7.07
+                  ], 
+                  [
+                     "had", 
+                     7.44, 
+                     7.64
+                  ], 
+                  [
+                     "made", 
+                     7.64, 
+                     7.85
+                  ], 
+                  [
+                     "it", 
+                     7.85, 
+                     7.94
+                  ], 
+                  [
+                     "impossible", 
+                     7.94, 
+                     8.68
+                  ], 
+                  [
+                     "to", 
+                     8.68, 
+                     8.85
+                  ], 
+                  [
+                     "walk", 
+                     8.85, 
+                     9.07
+                  ]
+               ], 
+               "confidence": 0.969, 
+               "transcript": "the rapid pace afterwards had made it impossible to walk "
+            }
+         ], 
+         "final": true
+      }
+   ], 
+   "result_index": 0, 
+   "speaker_labels": [
+      {
+         "from": 0.23, 
+         "to": 0.51, 
+         "speaker": 0, 
+         "confidence": 0.5, 
+         "final": false
+      }, 
+      {
+         "from": 0.59, 
+         "to": 0.66, 
+         "speaker": 0, 
+         "confidence": 0.576, 
+         "final": false
+      }, 
+      {
+         "from": 0.66, 
+         "to": 1.02, 
+         "speaker": 0, 
+         "confidence": 0.576, 
+         "final": false
+      }, 
+      {
+         "from": 1.05, 
+         "to": 1.33, 
+         "speaker": 0, 
+         "confidence": 0.446, 
+         "final": false
+      }, 
+      {
+         "from": 1.61, 
+         "to": 1.98, 
+         "speaker": 2, 
+         "confidence": 0.426, 
+         "final": false
+      }, 
+      {
+         "from": 2.01, 
+         "to": 2.31, 
+         "speaker": 2, 
+         "confidence": 0.479, 
+         "final": false
+      }, 
+      {
+         "from": 2.31, 
+         "to": 2.55, 
+         "speaker": 2, 
+         "confidence": 0.479, 
+         "final": false
+      }, 
+      {
+         "from": 3.06, 
+         "to": 3.18, 
+         "speaker": 2, 
+         "confidence": 0.382, 
+         "final": false
+      }, 
+      {
+         "from": 3.18, 
+         "to": 3.48, 
+         "speaker": 2, 
+         "confidence": 0.382, 
+         "final": false
+      }, 
+      {
+         "from": 3.58, 
+         "to": 4.16, 
+         "speaker": 0, 
+         "confidence": 0.564, 
+         "final": false
+      }, 
+      {
+         "from": 4.69, 
+         "to": 5.11, 
+         "speaker": 2, 
+         "confidence": 0.526, 
+         "final": false
+      }, 
+      {
+         "from": 5.37, 
+         "to": 5.47, 
+         "speaker": 1, 
+         "confidence": 0.477, 
+         "final": false
+      }, 
+      {
+         "from": 5.47, 
+         "to": 5.91, 
+         "speaker": 1, 
+         "confidence": 0.477, 
+         "final": false
+      }, 
+      {
+         "from": 5.91, 
+         "to": 6.22, 
+         "speaker": 1, 
+         "confidence": 0.477, 
+         "final": false
+      }, 
+      {
+         "from": 6.22, 
+         "to": 7.07, 
+         "speaker": 1, 
+         "confidence": 0.477, 
+         "final": false
+      }, 
+      {
+         "from": 7.44, 
+         "to": 7.64, 
+         "speaker": 1, 
+         "confidence": 0.475, 
+         "final": false
+      }, 
+      {
+         "from": 7.64, 
+         "to": 7.85, 
+         "speaker": 1, 
+         "confidence": 0.475, 
+         "final": false
+      }, 
+      {
+         "from": 7.85, 
+         "to": 7.94, 
+         "speaker": 1, 
+         "confidence": 0.475, 
+         "final": false
+      }, 
+      {
+         "from": 7.94, 
+         "to": 8.68, 
+         "speaker": 1, 
+         "confidence": 0.475, 
+         "final": false
+      }, 
+      {
+         "from": 8.68, 
+         "to": 8.85, 
+         "speaker": 1, 
+         "confidence": 0.475, 
+         "final": false
+      }, 
+      {
+         "from": 8.85, 
+         "to": 9.07, 
+         "speaker": 1, 
+         "confidence": 0.475, 
+         "final": true
+      }
+   ]
+}
